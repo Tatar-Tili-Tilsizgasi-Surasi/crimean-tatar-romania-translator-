@@ -10199,3 +10199,685 @@ vietate; vieŃuitoare; creatură; făptură.
 ğan l î s î animal domestic. ●y e d í 
 ğan l î vivace. 
 ğanlî-başl î adj. cu trup şi suflet.
+kristiyanlaşmak v.i. a se creştina. 
+kristiyanlaştîrma s. creştinare. 
+kristiyanlaştîrmak v.t. a creştina. 
+kristiyanlaştîruw s. creştinare. 
+kristiyanlîk s. (relig.) creştinism; 
+creştinătate. 
+kriteriyum s. criteriu. 
+kritiç ism s. criticism. 
+kritik adj. critic. 
+kritika s. critică. 
+kriza s. criză. 
+krizantema s. (bot.) crizantemă; 
+dumitriŃă; tufănică (lat., 
+Ch rysanthem um indicum; 
+Tanacetum indicu m). 
+krokiyus s. crochiu. 
+krokodil s. (zool.) crocodil (lat., 
+Cro codilus niloticus). 
+krom s. (chim.) crom. // ●k r om 
+k ap l am a k a croma. // ●k r om 
+k ap l am a s î (tehn.) cromare. ●k r om 
+s a r î s î cromatic. ●k r om s a r î s î 
+(chim.) galben de crom. 
+kromatik adj. (muz., pict.) cromatic. 
+kromatika s. (muz., pict.) cromatică. 
+kromatikalî adj. (muz., pict.) 
+cromatic. 
+kromlama s. cromare. 
+kromlamak v.t. a croma. 
+kromlangan adj. cromat. 
+kromlanmak v.i. a se croma. 
+kromlaw s. cromare. 
+kromlî adj. cromat; cu crom. //
+●k r om l î ş e l í k (tehn.) oŃel cromat. 
+kromozom s. (biol.) cromozom. 
+kronik adj. cronic. 
+kronoloğiya s. cronologie. 
+kronoloğiyalî adj. cronologic. 
+kronometre s. cronometru. 
+kroşew s. (sport) croşeu. 
+kroton s. (bot.) croton (lat., C roton 
+tiglium). 
+Krúper'níñ-kúrteşíg í s. (orn.) Ńiclean 
+pitic (lat., Sitta krueperi). 
+ksantina s. xantină. 
+ksenofil s., adj. xenofil. 
+ksenofiliya s. xenofilie. 
+ksenofob iya s. xenofobie. 
+ksenofop s., adj. xenofob. 
+ksenolit s. (geol.) xenolit. 
+ksenon s. (chim.) xenon. 
+kserofop adj. (biol.) xerofob. 
+kseroks s. (poligr.) xerox. 
+kserokslama s. xeroxare. 
+kserokslamak v.t. a xeroxa. 
+kserokslangan adj. xeroxat. 
+ksilan s. (chim.) xilan. 
+ksilem s. (bot.) xilem. 
+ksilen s. (chim.) xilen. 
+ksilofon s. (muz.) xilofon. 
+ksilofonğ î s. xilofonist. 
+Kuba s. (topon.) Cuba. 
+Kubadín s. (topon.) Cobadin (jud. 
+ConstanŃa). 
+kubalî s., adj. cubanez. 
+kubbe s. 1. (arhit.) cupolă; boltă. 2. 
+calotă. 
+kubbelí adj. boltit. 
+kub ik adj. cubic. 
+kub ism s. cubism. 
+kuda s. cuscru; cuscră. // ●k ud a 
+b o lm a k a se încuscri. 
+kudagîy s. cuscru; cuscră. 
+kudagîylîk s. cuscrie. 
+kudalaşkan adj. încuscrit. 
+kudalaşmak v.i. a se încuscri. 
+kudalaşuw s. încuscrire. 
+kudalîk s. cuscrie. 
+kuday I. adj. sacru; divin; 
+dumnezeiesc. II. s. (relig.) Dumnezeu. 
+kudayberdíotî s. (bot.) veninariŃă; 
+avrămeasă (lat., Gratiola 
+off icinalis). 
+kudde s. (anat.) glandă. //
+●k u l a k a s t î k ud d e s í (anat.) 
+glandă parotidă. 
+kuddus I. adj. sfânt; sacru. II. s. 
+sfinŃie; sfânt; sacralitate. 
+Kuddus, El- s. (relig., arab.) "Cel 
+sfânt"; “Cel pur şi neîntinat; 
+perfecŃiunea absolută” (unul din cele 99 
+preafrumoase nume atribuite în Coran 
+lui Dumnezeu/Allah). 
+kudok s. fluier; sirenă. 
+kudret s. putere; forŃă; vigoare. //
+●k ud r e t h am am î izvor termal. 
+kudretlí adj. puternic; viguros. 
+kudretsíz adj. fără putere; 
+neputincios; slab. 
+kudretsízlík s. lipsă de putere; 
+neputinŃă; slăbiciune. 
+kuduz I. adj. turbat. II. s. turbare; 
+rabie. 
+kuduzgakarşî adj. antirabic. 
+kuduzlî adj. turbat. 
+kuduzotî s. (bot.) ciucuşoară; disculeŃ; 
+albiŃă (lat., Alyssu m). 
+kuğur s. ciudăŃenie; bizarerie. 
+kuğurday adv. în mod ciudat. 
+kuğurlî adj. ciudat; bizar; straniu; 
+curios. // ●k u ğu r l î b o lm a k a fi nu 
+ştiu cum; a fi ciudat. // ●b e k 
+k u ğu r l î foarte straniu. 
+kuğurluk s. ciudăŃenie; bizarerie. 
+kukal, kara- s. (orn.) cuc asiatic 
+(lat., Eu dynamys scolopacea). 
+kukkuldama s. cântecul cocoşului. 
+kukkuldamak v.i. (d. cocoşi) a cânta 
+(cucurigu). 
+kukkuldaşmak v.i. (d. cocoşi) a cânta 
+laolaltă (cucurigu). 
+kukkuldaw s. cântecul cocoşului. 
+kukkultî s. cântecul cocoşului. 
+kuk-kulu-kuw interj. cucurigu!; 
+kukuk s. (orn.) cuc (lat., Cuc ulus 
+canorus). 
+kukuk, alaşa - s. (orn.) cuc bălŃat 
+(lat., Clamator jacobinus). 
+kukuk, kara-tumşukl î- s. (orn.) cuc 
+cu cioc negru (lat., Coccyz us 
+erythropthalmus). 
+kukuk, kekeşlí - s. (orn.) cuc moŃat 
+(lat., Clamator glan darius). 
+kukuk, sarî-tumşukl î- s. (orn.) cuc 
+cu cioc galben (lat., Coccyz us 
+americanus). 
+kukuklámbasî s. (bot.) cuculeasă 
+(lat., Lych nis f los cu culi). 
+kukuklî adj. cu cuc. // ●k u k u k l î 
+s áá t ceas cu cuc. 
+kukuş s. sâmbure; sămânŃă. 
+kukuw s. (orn.) cuc (lat., Cuc ulus 
+canorus). 
+kukuw, alaşa- s. (orn.) cuc bălŃat 
+(lat., Clamator jacobinus). 
+kukuw, kara -tumşuklî- s. (orn.) cuc 
+cu cioc negru (lat., Coccyz us 
+erythropthalmus). 
+kukuw, kekeşlí- s. (orn.) cuc moŃat 
+(lat., Clamator glan darius). 
+kukuw, sarî -tumşuklî- s. (orn.) cuc 
+cu cioc galben (lat., Coccyz us 
+americanus). 
+kul s. sclav; rob. 
+kula s. turn; foişor; turlă. // ●ğan g î n 
+k u l a s î foişor de foc. ●ğ o k l am a 
+k u l a s î (av.) turn de control. ●k u y 
+k u l a s î schelă petrolieră; sondă. 
+●ş añ k u l a s î clopotniŃă. 
+kulagîawur adj. tare de ureche; surd. 
+kulagîburulgan adj. dojenit; 
+muştruluit; burduşit; ciomăgit; 
+mustrat. 
+kulak s. 1. (anat.) ureche; auriculă. 2. 
+(gastron.) colŃunaş. 3. (iht.) branhie. 4. 
+(muz.) cordar. 5. auz. // ●b í r 
+k u l a g î nd an k í r í p o b í r 
+k u l a g î nd an ş î km a k a-i intra pe-
+o ureche şi a-i ieşi pe alta. ●ğ an 
+k u l a g î m an s e s l em e k a fi numai 
+urechi; a asculta cu atenŃie. ●k u l a g î 
+aw u r e ş í tm e k a fi tare/fudul de 
+urechi. ●k u l a g î n k o p a rm a k a-i 
+rupe urechile. ●k u l a g î n 
+t a r tm a k / b u rm a k a trage pe cineva 
+de urechi. ●k u l a g î n t o t î rm a k a 
+împuia urechile cuiva; a-i toca la 
+ureche; a-i face capul calendar. 
+●k u l a g î n a ğ e tm e k a-i ajunge 
+cuiva la ureche. ●k u l a g î na 
+i nanm am a k a nu-şi crede 
+urechilor. ●k u l a g î na k a r s uw î 
+k a şm a k a intra în încurcătură; a 
+intra în impas. ●k u l a g î na 
+k í rm em e k a-i intra pe-o ureche şi a-
+i ieşi pe alta. ●k u l a g î na 
+ş a l î nm a k a i se şopti la ureche. 
+●k u l a g î n a s î r g a e tm e k a băga 
+la cap. ●k u l a g î n da n g e şm e k a-i 
+trece cuiva pe la ureche. ●k u l a k 
+a sm am a k a nu apleca urechea; a nu 
+acorda importanŃă. ●k u l a k 
+k a b a r tm a k /a sm a k / s a lm a k / b e
+rm e k a ciuli urechile; a asculta cu 
+atenŃie; a trage cu urechea. ●k u l a k 
+m í s áp í r í b o lm a k a auzi 
+întâmplător; a surprinde o discuŃie. 
+●k u l a k l a r î n a ş am a k a-i mânca 
+cuiva urechile. ●k u l a k l a r î na 
+k ada r k î z a rm a k a se înroşi până-
+n vârful urechilor. // ●k u l a g î na 
+k e l g en d i y b o l a ed í i se părea că 
+aude. ●k u l a k m em e s í (anat.) lobul 
+urechii. ●k u l a k 
+p e r d e s í /d aw u l î / z a r î (anat.) 
+timpan. ●k u l a k 
+p í şm e s í / s uw u k l am a s î / i l t i h a b
+î (med.) inflamarea urechii; otită. 
+●k u l a k t u y uw î simŃul auzului. 
+●k u l a k l a r îm uw u l d a y îmi vâjâie 
+urechile. 
+kulakastî adj. (anat.) parotid. //
+●k u l a k a s t î k ud d e s í (anat.) 
+glandă parotidă. 
+kulakbatîrgan adj. asurzitor. //
+●k u l a k b a t î r ga n a l k î ş l a r 
+aplauze asurzitoare. 
+kulakbatmas î s. asurzire; surzire. 
+kulak-bóğeg í s. (ent.) urechelniŃă 
+(lat., Fo rf icula auric ularia). 
+kulakburgan adj. dojenitor; 
+mustrător. 
+kulakburuw s. dojană; muştruluială; 
+burduşeală; ciomăgeală; mustrare; 
+chelfăneală. 
+kulakğoldaşî s. interlocutor. 
+kulakkírí s. cerumen; ceară. 
+kulaklama s. tragere de urechi. 
+kulaklamak v.t. a trage de urechi. 
+kulaklangan adj. tras de urechi. 
+kulaklaw s. tragere de urechi. 
+kulaklî-boztorgay s. (orn.) ciocârlie 
+urecheată (lat., E remop hila 
+alpestris). 
+kulaklî-dalgîş s. (orn.) corcodel de 
+iarnă (lat., Podiceps au ritus). 
+kulaklî-deñízdudukuş î s. (orn.) 
+pufin urechiat (lat., Lunda 
+cirrhata). 
+kulaklî-gagara s. (orn.) corcodel de 
+iarnă (lat., Podiceps au ritus). 
+kulaklîk s. 1. (tehn.) cască. 2. 
+walkman. 
+kulaklî-karabatak s. (orn.) cormoran 
+urecheat (lat., Phalacroco rax 
+auritus).
+kúnaydîn interj. bună ziua!; 
+kúnaylanîr s. (astr.) solstiŃiu. // ●ğa z 
+k úna y l an î r î (astr.) solstiŃiu de 
+vară. ●k î ş k ú na y l a n î r î (astr.) 
+solstiŃiu de iarnă. 
+kúnbatar I. adv. partea dreaptă. II. s. 
+(geogr.) vest; apus; occident. 
+kúnbatardan adv. vestic; din vest; din 
+dreapta. 
+kúnbatarğelí s. (d. vânt) zefir. 
+kúnbatarlî adj. occidental; vestic; de 
+dreapta. 
+kúnbatmasî s. apus de soare; asfinŃit; 
+amurg; înserare. 
+kún-begún adv. din zi în zi; zilnic. 
+kúnberítlí s. (astr.) periheliu. 
+kúnbetí s. (geogr.) sud. 
+Kúnbetí-Afrika s. (topon.) Africa de 
+Sud. 
+kúnbetí-afrikalî s., adj. sud-african. 
+Kúnbetí-Amerika s. (topon.) America 
+de Sud. 
+kúnbetí-amerikalî s., adj. sud-
+american. 
+Kúnbetí-Kore s. (topon.) Coreea de 
+Sud. 
+kúnbetí-korelí s., adj. sud-corean. 
+kúnbetí-kúnbatar s. (geogr.) sud-
+vest. 
+kúnbetí-kúntuwar s. (geogr.) sud-
+est. 
+kúnbetlí adj. sudic; de sud. 
+kúnde adv. zilnic; pe zi; per diem. //
+●e k í k ú nd e b í r o dată la două zile. 
+kúndelík I. adj. zilnic; cotidian; pe zi; 
+per diem. II. s. 1. salariu (de zilier). 2. 
+jurnal; agendă. // ●k ú nd e l í k 
+gá zá t a cotidian. ●k ú nd e l í k 
+í ş l e r activităŃi cotidiene. 
+●k ún d e l í k m a s î r a p l î k diurnă. 
+●k ún d e l í k m en cu ziua. 
+kúndelíkşí s. zilier; salahor. 
+kúndelíkşílík s. muncă de zilier; 
+salahorie. 
+kúndem s. 1. ordine de zi. 2. 
+actualitate. 
+kúndemgekelgen adj. actualizat. 
+kúndemgeketírúw s. actualizare. 
+kúndemgeuyduruw s. actualizare. 
+kúndemgeuygan adj. actualizat. 
+kúndemlí adj. actual. 
+kúnden -kúnge adv. din zi în zi; zilnic. 
+kúndeñkleş ír s. (astr.) echinocŃiu. //
+●b aá r k ún d e ñ k l e ş í r í (astr.) 
+echinocŃiu de primăvară. ●k ú z 
+k únd eñ k l e ş í r í (astr.) echinocŃiu de 
+toamnă. 
+kúndeş s. concubină; una dintre mai 
+multe soŃii. 
+kúndúk I. adj. (anat.) ombilical. II. s. 
+(anat.) ombilic; buric. // ●k únd ú k 
+b a y l am î (anat.) cordon ombilical. 
+kúndúklúk adj. (anat.) ombilical. 
+kúndúz adv. ziua; în cursul zilei. //
+●k e ş en í k ú nd ú z g e k a tm a k a 
+face din noapte zi. // ●k ún dú z 
+b o l d î s-a făcut ziuă. ●k ún dú z 
+n ew b e t í schimb de zi. 
+kúndúzlúk adj. (d. îmbrăcăminte) de 
+zi. 
+kúneş s. 1. soare. 2. sud; miazăzi. //
+●k ún e ş b a tm a k a apune soarele. 
+●k ún e ş ğ a km a k a se arde la soare; 
+a se bronza; a face insolaŃie. ●k ún e ş 
+w u rm a k (d. soare) a dogori; a bate. 
+●k ún e ş t e ğa nm a k a se arde la 
+soare; a se bronza. // ●a k ş am ga 
+t a b an k ún e ş k î z d î rm a y spre 
+seară soarele nu dogoreşte. ●a l 
+k ún e ş soare dogoritor. 
+●ğaw un dan s o ñ r a k ú n e ş ş î k t î 
+după ploaie a ieşit soarele. ●k ún e ş 
+b a t k an dan s o ñ s eb e l i y d e 
+s eb e l i y de când a apus soarele tot 
+toarnă şi toarnă. ●k ún e ş 
+b a tm ad an ew e l înainte de apusul 
+soarelui. ●k ún e ş b u l u t l a r n î ñ 
+a r t î nda n b o y l an d î soarele a 
+apărut din spatele norilor. ●k ún e ş 
+e r k e s í energie solară. ●k ún e ş 
+ğa ga soarele dogoreşte. ●k ún e ş 
+ğa r î k l am a s î radiaŃie solară. 
+●k ún e ş ğ a r î k l a r î raze solare. 
+●k ún e ş ğ î l t î r a y soarele 
+străluceşte. ●k ún e ş k ó z í l d í r í g í 
+ochelari de soare. ●k ún e ş 
+k u t u b î / ğ e h e t í (geogr.) polul sud. 
+●k ún e ş s áá t í cadran solar. 
+●k ún e ş ş em s i y e s í umbrelă de 
+soare. ●k ú n e ş s i s t em í (astr.) 
+sistem solar. ●k ún e ş ş om î nm a s î 
+baie de soare; plajă. ●k ú n e ş t a ğ î 
+coroană solară. ●k ú n e ş t uwm a s î 
+răsărit de soare. ●k ún e ş n í ñ t a y î f î 
+spectru solar. ●k ún e ş n í ñ t uw uw î 
+răsăritul soarelui. 
+kúneşbatmasî s. apus de soare; 
+asfinŃit; amurg; înserare. 
+kúneşbetí s. sud; miazăzi. 
+kúneşbúlbúlí s. (orn.) pasărea-
+soarelui (lat., Leiothrix lutea). 
+kúneş -gúlí s. (bot.) roua-cerului 
+(lat., Dros era rotundif olia). 
+kúneşgúzelí s. (bot.) crin-galben 
+(lat., Heme rocallis f lava). 
+kúneşğakmas î s. insolaŃie; bronzare. 
+kúneşkutubî s. polul sud. 
+kúneşlenme s. plajă. //
+●k ún e ş l enm e t a k îm î costum de 
+baie. ●k ún e ş l enm e y e r í plajă. 
+kúneşlenmek v.i. a face plajă. 
+kúneşlí I. adj. însorit; cu soare. II. s., 
+adj. (d. oameni) sudic; meridional. //
+●k ún e ş l í k ó k cer însorit. 
+●k ún e ş l í K ó s t en ğ e g e k o ş 
+k e l d í ñ í z ! bine aŃi venit în însorita 
+ConstanŃa!; ●k ún e ş l í k ún zi 
+însorită. 
+kúneşlítedaviy s. (med.) helioterapie. 
+kúneşşí adj. (geogr.) sudic; austral. 
+kúneşteğangan adj. ars de soare; 
+bronzat. 
+kúneşteğanma s. ardere la soare; 
+bronzare. 
+kúnğí adj. actual. 
+kúníkalgan adj. dependent. 
+kúníkalma s. dependenŃă. 
+kúnkawuşmasî s. înserare; 
+crepuscul; amurg; asfinŃit. 
+kúnkaytîm î s. (astr.) solstiŃiu. 
+kúnkóstermegen adj. chinuitor. 
+kúnkóstermeme s. chinuire. 
+kún-kúnge adv. de la o zi la alta. //
+●k ún- k ún g e h e p s î ğa k b o l a de 
+la o zi la alta se face tot mai cald. 
+kúnlí adj. datat. 
+kúnlúk s. (bot.) livan (lat., 
+Boswellia sacra). 
+kúnortasî s. amiază. 
+kúnortasîndanewel adj. înainte de 
+amiază; antemeridian. 
+kúnortasîndansoñ adj. de după 
+amiază; postmeridian. 
+kúnozar s. (astr.) afeliu. 
+kúnsayîm s. calendar. //
+●k ún s a y îm y î l î an calendaristic. 
+kúnsayîmlî adj. cu calendar. //
+●k ún s a y îm l î s á á t ceas cu 
+calendar. 
+kúntabak s. (bot.) floarea-soarelui 
+(lat., Helianthus annu us). //
+●k ún t a b a k m a y î ulei de foarea 
+soarelui. 
+kúntayak s. (şi mat.) rază. 
+kúntayaklî adj. radial. 
+kúntayaklî-bitotî s. (bot.) vârtejul-
+pământului; păducher (lat., 
+Pedicularis ve rticillata). 
+kúntayaklîlar s., pl. (zool., bot.) 
+radiate. 
+kúntutulmasî s. eclipsă de soare. 
+kúntuwar I. adv. partea stângă. II. s. 
+(geogr.) răsărit; est; orient. //
+●k ún t uw a r g a k a r a g an orientat 
+spre est. 
+Kúntuwar, Orta - s. (topon.) Orientul 
+Mijlociu. 
+Kúntuwar, Uzak- s. (topon.) Orientul 
+Îndepărtat. 
+Kúntuwar, Yakîn- s. (topon.) 
+Orientul Apropiat. 
+kúntuwar-alaşa-delítaş î s. (orn.) 
+pietrar negru asiatic (lat., 
+Oenanthe picata). 
+kúntuwar-bakşa -ğeleşesí s. (orn.) 
+silvie estică de grădină (lat., Sylvia 
+crassirostris). 
+kúntuwar-balşîb în-sarî s. (orn.) 
+viespar estic (lat., Pernis 
+ptilorhync hus). 
+kúntuwar-balşîb în-toynag î s. (orn.) 
+viespar estic (lat., Pernis 
+ptilorhync hus).
+látife s. glumă; snoavă. 
+Látife s. (antrop. f., arab.) “Cea 
+gingaşă”. 
+látifeğí s., adj. glumeŃ; hazliu; 
+şăgalnic; şugubăŃ. 
+látifelí adj. plin de haz; hazliu. 
+látiflík s. fineŃe; gingăşie; duioşie; 
+delicateŃe; graŃie. 
+látin s., adj. latin. 
+látinğe I. adv. în limba latină; 
+latineşte. II. s. (limba) latină. 
+láva s. lavă. 
+lávabo s. lavabou; lavoar; spălător; 
+chiuvetă. 
+lávanta s. 1. lavandă; apă de lavandă. 
+2. (bot.) levănŃică; lavandă (lat., 
+Lavandula an gustif olia; 
+Lavandula of f icinalis). 
+láwta s. 1. (muz.) lăută; scripcă; 
+vioară. 2. (med.) extractor; forceps. 
+láwtağî s. lăutar; scripcar; violonist. 
+láyemut adj. nemuritor; nepieritor. 
+láyik adj. laic. 
+láyikleşken adj. laicizat. 
+láyikleşme s. laicizare. 
+láyikleştírmek v.t. a laiciza. 
+láyiklík s. laicism. 
+láyîk adj. 1. potrivit; corespunzător; 
+vrednic de. 2. convenabil. // ●l á y î k 
+b o lm a k a se potrivi. ●l á y î k 
+k ó rm e k a găsi de cuviinŃă; a crede că 
+e potrivit; a îngădui; a recomanda. //
+●d î k k a t l á y î k respectabil. 
+●e km eg e l á y î k cultivabil. 
+●m a k t aw ga l á y î k lăudabil. 
+●s a y g î ga l á y î k demn de respect. 
+●t aa l á y î k preferabil; 
+recomandabil. 
+láyîka s. schiŃă; schemă; plan. 
+láyîkağî s. planificator; proictant. 
+láyîkalaşkan adj. schiŃat; 
+schematizat; proiectat; planificat. 
+láyîkalaşrmak v.i. a se schiŃa; a se 
+schematiza; a se proiecta; a se 
+planifica. 
+láyîkalaştîrma s. schiŃare; 
+schematizare; proiectare; planificare. 
+láyîkalaştîrmak v.t. a schiŃa; a 
+schematiza; a proiecta; a planifica. 
+láyîkalaştîruw s. schiŃare; 
+schematizare; proiectare; planificare. 
+láyîkalî adj. schiŃat; schematizat; 
+proiectat; planificat. 
+láyîkbolgan adj. binemeritat; meritat. 
+láyîkbolmagan adj. nevrednic. 
+láyîkboluw s. merit; potrivire. 
+láyîkkórgen adj. îngăduitor; 
+binevoitor. 
+láyîkkórílgen adj. preferabil; 
+recomandabil; îngăduit; tolerat. 
+láyîkkórúw s. preferinŃă; 
+recomandare; îngăduinŃă; bunăvoinŃă. 
+lázîm adj. necesar; trebuincios. //
+●l á z í m b o lm a k / k e lm e k a fi 
+necesar; a trebui. // ●k a l o r i f e r n í 
+a şm a k l á z îm trebuie deschis 
+caloriferul. ●k ím g e ó d em em 
+l á z îm ? cui trebuie să plătesc?; 
+●m a ş i n am n î t am i r e tm e k 
+l á z îm maşina mea trebuie reparată. 
+●m í nd a t r enn í d eñ í ş t í rm em í z 
+l á z îm aici trebuie să schimbăm 
+trenul. ●s í z í ñ d e k ó rm eñ í z 
+l á z îm trebuie să vedeŃi şi 
+dumneavoastră. ●t eg e r ş í k l e r n í 
+a y a r l am a k l á z îm trebuie reglate 
+roŃile. 
+Leach'nîñ-boraganğîsî s. (orn.) 
+rândunica furtunii lui Leach (lat., 
+Oceanodro ma le uco rhoa). 
+leblebí s. năut prăjit. 
+legelegí, Abdim'níñ - s. (orn.) barza 
+lui Abdim (lat., Ciconia abdimii). 
+legelek, ak- s. (orn.) barză albă; 
+cocostârc alb (lat., Cico nia 
+ciconia). 
+legelek, ak-moyînlî- s. (orn.) barză 
+cu gâtul creŃ (lat., Ciconia 
+episcopus). 
+legelek, hağ í- s. (orn.) barză neagră; 
+cocostârc negru (lat., Cico nia 
+nigra). 
+legelek, kara- s. (orn.) barză neagră; 
+cocostârc negru (lat., Cico nia 
+nigra). 
+legelek, kíşkene-kara- s. (orn.) 
+barza lui Abdim (lat., Cico nia 
+abdimii). 
+legelek, sarî-tumşuklî - s. (orn.) 
+barză cu ciocul galben (lat., 
+Mycteria ibis). 
+legelekgágáas î s. (bot.) priboi (lat., 
+Geranium mac ro rrhizu m). 
+legelekgágáas î, alşeşeklí- s. (bot.) 
+laba-gâştei (lat., Gera nium 
+dissectum). 
+legelekgágáas î, morşeşeklí- s. 
+(bot.) pălăria-cucului (lat., 
+Geranium phae um). 
+legelekgágáas î, şayîr- s. (bot.) 
+greghetin; ciocul-berzei (lat., 
+Geranium pratense). 
+legelekgágáas î, sas îk- s. (bot.) 
+năprasnică (lat., Gera nium 
+robertianum). 
+lehenk s. (iht.) rechin (lat., 
+Selachoidei sp.). 
+lehim s. (fiz.) sudură; sudare. 
+lehimğí s. sudor. 
+lehimlemek v.t. (fiz.) a suda. 
+lehimlengen adj. sudat. 
+lehimlenmek v.i. (tehn.) a se suda. 
+lehimlí adj. (fiz.) sudat. 
+lehşe s. dialect; idiom. 
+lehşelí adj. idiomatic. 
+lek s. (geol.) aluviune. 
+leke I. adj. agasant; sâcâitor. II. s. 1. 
+pată. 2. (fig.) ruşine; stigmat. //
+●l e k e b î r a km a k a păta. //
+●m ú r e k k e p l e k e s í pată de 
+cerneală. 
+lekeleme s. 1. stigmatizare; batjocură. 
+2. pătare; murdărire. 
+lekelemek v.t. a păta (şi fig.). 
+lekelengen adj. (d. femei) batjocorită. 
+lekelenme s. mânjire; pătare. 
+lekelenmegen adj. nepătat. 
+lekelenmek v.i. 1. a se păta (şi fig.). 
+2. a sâcâi. 
+lekelenm iykalgan adj. nepătat. 
+lekelí adj. pătat (şi fig.). // ●l e k e l í 
+ğa t a l a k / h umm a (med.) tifos 
+exantematic. 
+lekelík s. sâcâire. 
+lekesíz adj. 1. curat; fără pete; 
+imaculat. 2. (fig.) nepătat; cinstit. 
+lekesízlík s. curăŃenie; cinste; 
+puritate; neprihănire. 
+leksikoloğik adj. lexicologic. 
+leksikoloğiya I. adj. lexicologic. II. s. 
+lexicologie. 
+leksikoloğiyağî s. lexicolog. 
+leksikoloğiyalî adj. lexicologic. 
+leksikolok s. lexicolog. 
+lenger s. platou; tavă. 
+leninğí s., adj. leninist. 
+leninğílík s. leninism. 
+leninism s. leninism. 
+lenta s. panglică; cordeluŃă. 
+lepe s. (anat., bot.) cotiledon. 
+Lesotho s. (topon.) Lesotho. 
+leş s. cadavru; hoit; stârv; leş; 
+mortăciune. 
+leş-kargasî s. (orn.) cioară grivă 
+(lat., Co rvus co rone). 
+leş-şîbînî s. (ent.) muscă-albastră 
+(lat., Callipho ra vomitoria). 
+leş-şoñgîrî s. (orn.) hoitar (lat., 
+Neoph ron pe rcnopterus). 
+leştiy adj. cadaveric. 
+letafet s. fineŃe; gingăşie; duioşie; 
+delicateŃe; graŃie. 
+letafetlí adj. fin; gingaş; duios; delicat; 
+graŃios. 
+letafetsíz adj. dizgraŃios; grosolan; 
+vulgar. 
+letafetsízlík adj. lipsă de graŃie; 
+grosolănie; vulgaritate. 
+letarğ iya s. letargie. 
+letarna s. flaşnetă. 
+letarnağî s. flaşnetar. 
+leton s., adj. leton. 
+letonğa I. adv. în limba letonă. II. s. 
+(limba) letonă. 
+Letoniye s. (topon.) Letonia. 
+letoniyelí s., adj. leton. 
+Levaillant'nîñ-kúrtesí s. (orn.) 
+ghionoaie verde Levaillant (lat., 
+Picus vailantii). 
+Levaillant'nîñ-terekkakkanî s. 
+(orn.) ghionoaie verde Levaillant (lat., 
+Picus vailantii). 
+Levaillant'nîñ-tokîldagî s. (orn.) 
+ghionoaie verde Levaillant (lat., 
+Picus vailantii). 
+levazîm s. obiect de strictă necesitate; 
+ustensilă. // ●l e v a z îm s î n î f î (mil.) 
+intendenŃă. 
+levazîmat s. obiecte de strictă 
+necesitate; ustensile. 
+levazîmğ î s., adj. (mil.) intendent. 
+levha s. 1. tablou; tăbliŃă. 2. dală; 
+placă; lespede. 
+lewrek s. (iht.) lavrac; şalău-de-mare; 
+lup-de-mare (lat., Moro ne lab rax). 
+lewukoçita s. (anat.) leucocită. 
+lewukoplast s. (farm.) leucoplast. 
+ley s. (unitate monetară) leu. 
+Leyla s. (antrop. f., arab.) “Extaz”. 
+Lezez s. (cron.) al 4-lea trimestru al 
+anului conform calendarului musulman. 
+leziz adj. gustos; cu un gust plăcut. 
+liberal s., adj. liberal. 
+liberalism s. liberalism. 
+Liberiye s. (topon.) Liberia. 
+liberiyelí s., adj. liberian. 
+Libiye s. (topon.) Libia. 
+libiyelí s., adj. libian. 
+libret s. (muz.) libret. 
+liçensa s. licenŃă. 
+liçew s. liceu. // ●l i ç ew ú y r e n ğ í s í 
+elev de liceu; licean. 
+liçewlí s. elev de liceu; licean. 
+lift s. lift; ascensor. 
+liftşí s. liftier. 
+liga s. (sport) ligă. 
+ligament s. (anat.) ligament. 
+lignit s. (geol.) lignit. 
+liken s. lichen. 
+Liktenş itin s. (topon.) Liechtenstein. 
+likyor s. lichior. 
+likyorlî adj. cu lichior. // ●l i k y o r l î 
+b om b o n bomboane cu lichior. 
+limaks-ğílbízí s. (zool.) melc-fără-
+casă; limax (lat., Limax sp.). 
+liman s. (nav.) port; liman. // ●g em í 
+l im an ga o g î r a y ğ a k vasul va face 
+escală în port. ●l im an a ş î k l î g î 
+(nav.) radă. ●l im an i da r e s í (nav.) 
+căpitănia portului. ●l im a n í ş ç í s í 
+(nav.) docher. ●l im an 
+m a s î r a p l a r î (nav.) speze portuare. 
+limfa s. (biol.) limfă.
