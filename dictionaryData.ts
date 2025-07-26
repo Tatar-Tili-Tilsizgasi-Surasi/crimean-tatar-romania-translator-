@@ -1,5 +1,5 @@
 
-export const rawDictionaryText = `
+export const RAW_DICTIONARY_ENTRIES = `
 a interj. a!; ah!; ay!;
 aba s. 1. soră mai mare. 2. mătuşă (după mamă). 3. mamă. 4. (text.) aba; dimie; pănură.
 abadan adj. 1. înfloritor; prosper. 2. locuit; populat.
