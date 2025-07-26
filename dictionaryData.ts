@@ -8319,3 +8319,1153 @@ nallaw s. potcovire.
 nallî adj. potcovit. 
 nalsîz adj. nepotcovit. 
 nalşa s. blacheu.
+zorl îkkaalîşkan adj. învăŃat cu greul; 
+încercat; călit. 
+zorl îkşîgargan adj. care crează 
+dificultăŃi; potrivnic; ostil. 
+zor-zar adv. anevoie; cu greu. 
+zor-zor adv. anevoie; cu greu. 
+Zóhre s. (astr.) Luceafărul; Venus. 
+zóhreviy adj. veneric. 
+zóhreviybílímğ ísí s. (med.) 
+venerolog. 
+zóhreviybílím í I. adj. (med.) veneric. 
+II. s. (med.) venerologie. 
+zóhreviybílímlí adj. (med.) veneric. 
+zóhreviyğí s. venerolog. 
+zóhreviyğílík s. venerologie. 
+zubur s. (zool.) zimbru (lat., Bos 
+bonasus). 
+zuhur s. apariŃie; ivire. 
+zuhurlî adj. apărut; ivit. 
+zulmet s. întuneric; umbră; negură; 
+obscuritate. 
+zulmetlí adj. întunecat; înnegurat; 
+obscur. 
+zulúm s. tiranie; despotism (şi fig.). 
+zurga num. (mong.) şase. 
+zurna s. (muz.) goarnă; trompetă; 
+trâmbiŃă. 
+zurnağ î s. gornist; tropetist; 
+trâmbiŃaş. 
+zuw -şuw s. gălăgie; hărmălaie; tărăboi. 
+zúberğet s. (minr.) smarald; smaragd. 
+Zúbeyde s. (antrop. f., arab.) 
+“ExcelenŃă”. 
+zúgúrt adj. falit; falimentar; ruinat. 
+zúgúrtlegen adj. falit; falimentar; 
+ruinat. 
+zúgúrtleme s. faliment; bancrută; 
+crah; ruinare. 
+zúgúrtlemek v.i. a da faliment. 
+zúgúrtletmek v.t. (fin.) a ruina. 
+zúgúrtlúk s. faliment; bancrută; crah; 
+ruinare. 
+Zúhal s. (astr.) Saturn. 
+zúlal s. (chim.) albumină. 
+zúlaliy adj. (chim.) albuminos. 
+Zúleyka/Zíliyka s. (antrop. f., prsn.) 
+“FrumuseŃe strălucitoare”. 
+Zúlfikar s. (antrop. m., arab.) 
+denumirea purtată de sabia Profetului 
+Muhammed Aliyselam. 
+Zúlfiy s. (antrop. m., arab.) “Cel 
+cârlionŃat”. 
+Zúlfiye s. (antrop. f., arab.) “Cea 
+cârlionŃată”. 
+Zúlğelaliy-vel-Ikram s. (relig., arab.) 
+"Stăpânul măreŃiei şi generozităŃii" 
+(unul din cele 99 preafrumoase nume 
+atribuite în Coran lui Dumnezeu/Allah). 
+zúl-kútúk adj. beat criŃă. 
+zúlúf s. buclă; zuluf; cârlionŃ. 
+zúlúflí adj. buclat; ondulat; cu zulufi; 
+cârlionŃat. 
+zúmre s. grupă; clasă. 
+zúmrút s. (minr.) smarald; smaragd. 
+zúmzúme s. susur; şipot. 
+zúmzúmelí adj. susurător. 
+zúppe adj. snob; excentric; 
+extravagant. 
+zúppelík s. snobism; excentricitate; 
+extravaganŃă. 
+zúrafe s. (zool.) girafă (lat., Giraf fa 
+camelopardalis). 
+zúrriyet s. (fiziol.) făt.
+kîlsîzlaşkan adj. depilat. 
+kîlsîzlaşmak v.i. a se depila. 
+kîlsîzlaştîrma s. depilare. 
+kîlsîzlaştîrmak v.t. a depila. 
+kîlsîzlaştîruw s. depilare. 
+kîlşî s. toartă; ureche; mâner. 
+kîlşîk s. 1. os de peşte. 2. (la plante 
+agăŃătoare) cârcel. 3. firicel de păr. 4. 
+(la animale) Ńep; spin; ac. 
+kîlşîklî adj. 1. păros. 2. (d. peşti) cu 
+oase; osos. 3. (d. animale) Ńepos; 
+spinos. 
+kîltúşúrmes í s. depilare. 
+kîmd îrgan adj. care face să se închidă 
+(ochii, gura, pumnul). 
+kîmd îrmak v.t. a determina să 
+închidă (ochii, gura, pumnul). 
+kîmd îruwğ î adj. care face să se 
+închidă (ochii, gura, pumnul). 
+kîm îk adj. (d. ochi, gură, pumn) închis. 
+kîm îlgan adj. (d. ochi, gură, pumn) 
+închis. 
+kîm îlmak v.i. (d. ochi, gură, pumn) a 
+se închide. 
+kîm îrska I. adj. formic. II. s. (ent.) 
+furnică (lat., Formicidae). //
+●k îm î r s k ad a y k a y n am a k a 
+mişuna ca furnicile; a forfoti. //
+●k îm î r s k a k am î z î (chim.) acid 
+formic. 
+kîm îrska, ak- s. (ent.) termită; 
+furnică-albă (lat., Isoptera). 
+kîm îrska -búlbúlí s. (orn.) 
+măcăleandru de furnici (lat., 
+Myrmecocic hla aethiops). 
+kîm îrskadaykaynaw s. colcăială. 
+kîm îrskağî s. (zool.) furnicar (lat., 
+Myrmecop haga jubata). 
+kîm îrskalî adj. plin de furnici; 
+furnicos. 
+kîm îrskalîk s. furnicar. 
+kîm îrskayuwas î s. furnicar; muşuroi. 
+kîm îrskîldagan adj. 1. care 
+forfoteşte; care mişună; care colcăie. 2. 
+amorŃit; înŃepenit; care produce 
+furnicături. 
+kîm îrskîldama s. 1. forfotă; 
+mişunare; colcăială. 2. furnicare; 
+furnicătură; amorŃire; amorŃeală; 
+înŃepenire. 
+kîm îrskîldamak v.i. 1. a forfoti; a 
+mişuna; a colcăi. 2. a furnica; a 
+amorŃi; a înŃepeni. 
+kîm îrskîldawğî adj. 1. care produce 
+furnicături; amorŃitor. 2. forfotitor; 
+care mişună; care colcăie. 
+kîm îrskîltî s. 1. forfotă; mişunare; 
+colcăială. 2. furnicare; furnicătură; 
+amorŃire; amorŃeală; înŃepenire. 
+kîm îz s. (gastron.) cumâs; lapte de 
+iapă fermentat. 
+kîmmak v.t. a închide (ochii, gura, 
+pumnul). 
+kîmtîlgan adj. 1. împachetat; 
+înfăşurat; învelit. 2. înfofolit; 
+încotoşmănat; cocoloşit. 
+kîmtîlma s. 1. înfofolire; 
+încotoşmănare; cocoloşire. 2. 
+împachetare; înfăşurare; învelire. 
+kîmtîlmak v.i. 1. a se împacheta; a se 
+înfăşura; a se înveli. 2. a se înfofoli; a 
+se încotoşmăna; a se cocoloşi. 
+kîmtîluw s. 1. înfofolire; 
+încotoşmănare; cocoloşire. 2. 
+împachetare; înfăşurare; învelire. 
+kîmtîma s. 1. împachetare; 
+înfăşurare; învelire. 2. înfofolire; 
+încotoşmănare; cocoloşire. 
+kîmtîmak v.t. 1. a împacheta; a 
+înfăşura; a înveli. 2. a înfofoli; a 
+încotoşmăna; a cocoloşi. 
+kîmtîw s. 1. împachetare; înfăşurare; 
+învelire. 2. înfofolire; încotoşmănare; 
+cocoloşire. 
+kîn s. 1. teacă; toc. 2. păstaie; teacă. 
+kîna s. vopsea kîna; vopsea hena. //
+●k î na ğa km a k a vopsi cu kâna. 
+kînabî, koşkar- s. (bot.) turiŃă-mare; 
+scai-mărunt; buruiană-de-friguri 
+(lat., Agrimonia e upatoria). 
+kînaganday adj. reprobabil; blamabil; 
+condamnabil. 
+kînakîna, şifalî - s. (bot.) chinchină 
+(lat., Cinchona pubesc ens; 
+Cincho na co rdif olia; Cinchona 
+succiruba). 
+kînalamak v.t. a vopsi cu vopsea 
+kâna. 
+kînalangan adj. vopsit cu vopsea 
+kâna. 
+kînalanmak v.i. a se vopsi cu vopsea 
+kâna. 
+kînalaw s. vopsire cu vopsea kâna. 
+kînalawğî s. vopsitor cu vopsea kâna. 
+kînalgan adj. dezaprobat; reprobat; 
+condamnat; blamat. 
+kînalî adj. vopsit cu vopsea kâna. 
+kînalî-keklík s. (orn.) potârniche 
+ciukar (lat., Alectoris ch ukar). 
+kînalî-kírkík s. (orn.) potârniche 
+ciukar (lat., Alectoris ch ukar). 
+kînalîturna, balaban- s. (orn.) 
+flaming mare (lat., 
+Phoenicopterus rose us). 
+kînalîturna, kíşkene- s. (orn.) 
+flaming mic (lat., Phoe niconaias 
+minor). 
+kînalîturnasî, Amerika-balaban - 
+s. (orn.) flaming mare american (lat., 
+Phoenicopterus ruber). 
+kînalmak v.i. a fi dezaprobat; a fi 
+reprobat; a fi condamnat; a fi blamat. 
+kînalmaz adj. ireproşabil. 
+kînama s. dezaprobare; condamnare; 
+blam. 
+kînamak v.t. a dezaproba; a reproba; a 
+condamna; a blama. 
+kînap s. 1. sfoară. (bot.) chenaf (lat., 
+Hibiscus cannabinus). 2. (bot.) 
+cânepă-indiană (lat., Can nabis 
+indica). // ●k î nap t o k îm a s î 
+(text.) pânză de sac. 
+kînap, ğîr- s. (bot.) cânepioară; 
+cânepa-codrului (lat., Eupatorium 
+cannabinu m). 
+kînapkuş î s. (orn.) cânepar; pietroşel 
+cânepiu (lat., Ca rduelis 
+cannabina; Acanthis 
+cannabina). 
+kînaşeşegí s. (bot.) canale; canaluŃe; 
+balsamine; piersicel; lemn-de-apă 
+(lat., Impatiens balsamina). 
+kînaw s. dezaprobare; condamnare; 
+blam. 
+kînlamak v.t. (sexual) a tânji după…; 
+a râvni la…; a fi obsedat de…; 
+kînlamatakibí s. obsesie sexuală. 
+kînlamatakiplí adj. obsedat sexual. 
+kînlawğî adj. (sexual) obsedant. 
+kîñgîr adj. înclinat; oblic; pieziş; 
+strâmb. 
+kîpçak I. adj. (ist.)("separaŃia albă") 
+elitist; nobil; autohton; indigen; 
+băștinaș; neaoș. II. s., adj. 
+(ist.)("separaŃia albă") cuman; scit; 
+agatârș; elită; nobil; nobilime; 
+autohton; indigen; băștinaș; tătar. 
+kîpkîn s. cenuşă; scrum. 
+kîpşak I. adj. (ist.)("separaŃia albă") 
+elitist; nobil; autohton; indigen; 
+băștinaș; neaoș. II. s., adj. 
+(ist.)("separaŃia albă") cuman; scit; 
+agatârș; elită; nobil; nobilime; 
+autohton; indigen; băștinaș; tătar. 
+kîptîr s. mesadă. // ●k î p t î r t o n 
+mesadă. 
+kîr I. adj. cenuşiu; gri; sur. II. s. 
+câmp; câmpie; şes; stepă. // ●k î r 
+r e s s am î peisagist. ●k î r r om an î 
+(lit.) roman pastoral. ●k î r y em e g í 
+picnic. 
+kîraat s. 1. citire; lectură. 2. carte de 
+citire. 3. manual. 
+kîraatşî s. cititor. 
+kîrak s. 1. periferie. 2. (auto.) jantă. 3. 
+bridă; bordură; plintă; ieşitură; ieşind. 
+kîr-akşateregí s. (bot.) jugastru 
+(lat., Acer campestre). 
+kîraw s. (meteo.) brumă. // ●k î r aw 
+t ú ş t í a căzut brumă. 
+kîrawlamak v.i. a cădea brumă. 
+kîraw-teresí s. (bot.) urda-vacii (lat., 
+Carda ria d raba). 
+kîray s. haiduc; tâlhar; bandit; pirat. 
+kîraylîk s. haiducie; tâlhărie; 
+banditism; piraterie; jefuire. 
+kîraylîkkaog îragan adj. prădat; 
+tâlhărit. 
+kîrbaş s. bici; cravaşă. 
+kîrbaşlama s. biciuire; şfichiuire; 
+cravaşare. 
+kîrbaşlamak v.t. a biciui; a şfichiui; a 
+cravaşa. 
+kîrbaşlangan adj. biciuit; şfichiuit; 
+cravaşat. 
+kîrbaşlanmak v.i. a fi biciuit; a fi 
+şfichiuit; a fi cravaşat. 
+kîrbaşlaw s. lovire cu biciul. 
+kîrbaşlawğî adj. biciuitor; şfichiuitor. 
+kîrdîrmak v.t. a determina să 
+răzuiască. 
+kîrgay s. (orn.) şoim călător (lat., 
+Falco pe regrin us). 
+kîrgayğî s. şoimar. 
+kîrgîn adj. supărat; necăjit. 
+kîrgînlîk s. supărare; necaz. 
+kîrgîz s., adj. kirghiz; kârgâz. 
+kîrgîzğa I. adv. în limba kirghiză; în 
+limba kârgâză. II. s. (limba) kirghiză; 
+kârgâză. 
+Kîrgîzîstan s. (topon.) Kirghizstan; 
+Kârgâzstan. 
+kîr-ğad îragî s. (orn.) fâsă de câmp 
+(lat., Anthus campestris). 
+Kîrğa -Kóy s. (topon.) Branişte 
+(Dobrich, Bulgaria). 
+kîrğîn s. 1. (la animale) epidemie. 2. 
+(med.) ciumă; pestă. 
+kîrğînlî adj. 1. (med.) ciumat. 2. (la 
+animale) epidemic. 
+kîrîk s. răzuit. 
+kîrîkşî s. vraci; tămăduitor. 
+kîrîlgan adj. răzuit. 
+kîrîlma s. răzuire. 
+kîrîlmak v.i. a fi răzuit. 
+kîrîluw s. răzuire. 
+kiyipaş îlmas î s. înveselire; delectare; 
+desfătare. 
+kiyipbergen adj. distractiv; plăcut; 
+agreabil; amuzant. 
+kiyipbîzgan adj. deranjant; supărător; 
+stânjenitor. 
+kiyipbîzuw s. 1. deranjare; supărare; 
+stânjenire. 2. îmbolnăvire. 
+kiyipíaşîlgan adj. înveselit; vesel; 
+amuzat; dispus; delectat; desfătat. 
+kiyipíbîzîlgan adj. 1. deranjat; 
+supărat; stânjenit. 2. îmbolnăvit. 
+kiyipíkelgen adj. 1. înzdrăvenit; 
+întremat; fortificat. 2. înveselit; vesel; 
+amuzat; dispus; delectat; desfătat. 
+kiyipkelmes í s. 1. înzdrăvenire; 
+întremare; fortificare. 2. înveselire; 
+delectare; desfătare. 
+kiyiplí adj. 1. vesel; bine dispus; 
+chefliu. 2. amuzant; distractiv. //
+●k i y i p l í k a r a r hotărâre arbitrară. 
+kiyips íz adj. indispus; mahmur. 
+kiyips ízlend írmek v.t. a indispune. 
+kiyips ízlenmek v.i. 1. a se 
+indispune; a se întrista. 2. a se 
+îmbolnăvi. 
+kiyips ízlík s. indispoziŃie; boală; 
+proastă dispoziŃie (uşoară). 
+kiyrek s. (anat.) hipocondru. 
+kílím s. chilim; preş. 
+kílse s. biserică. // ●b a l a b an k í l s e 
+catedrală. ●k í ş k en e k í l s e capelă. 
+kílsedenayîrîlgan adj. excomunicat. 
+kílsedenayîruw s. excomunicare. 
+kím pron. 1. cine?; 2. cine; care; cel 
+care; cea care; cei care; cele care. 3. 
+oricine. // ●a l o , k ím b a r 
+t e l e f o nd a ? alo, cine e la telefon?; 
+●b í r í n ğ í k ad em en í k ím 
+k a z and î ? cine a câştigat prima 
+etapă?; ●g o l n î k ím a t t î ? cine a 
+marcat golul?; ●k ím b í l í r ? cine 
+ştie?; ●k í m k e l d í ? cine a venit?; 
+●k ím m e n k o n î ş t îm ? cu cine am 
+vorbit?; ●k ím m e n m ú ş e r r e f 
+b o l am an ? cu cine am onoarea?; 
+●k ím o ? cine e?; ●k ím 
+pa y da l a na ? cui îi foloseşte?; 
+●k ím ş a l î ş a k a za na cine 
+munceşte câştigă. ●k ím t ú ş ú nú r 
+ed í ? cine s-ar fi gândit?; 
+●m í naw da y b o l a ğa g î n a k ím 
+t ú ş ún d í ? cine s-a gândit că se va 
+întâmpla aşa?; ●o r k e s t r an î k ím 
+ğ ó n e t e ? cine dirijează orchestra?; 
+●ş o k ím ? cine e acela?; ●ú y n úñ 
+y a r î s î nda k ím o t î r a ? cine 
+locuieşte în jumătate de casă?; 
+kímde pron. 1. la cine?; 2. la oricine. 
+kímden pron. 1. de la/dinspre cine?; 
+2. de la/dinspre oricine. // ●k ím d en 
+s o r a y îm ? pe cine să întreb?; 
+kímd iy pron. 1. ca cine?; 2. ca oricine. 
+kímge pron. 1. cui?; spre cine?; 2. 
+spre oricine; oricui. // ●k ím g e 
+ó d em em l á z îm ? cui trebuie să 
+plătesc?; 
+kím í pron. unii; unele; alŃii; altele. 
+kím ín pron. pe unii; pe unele; pe alŃii; 
+pe altele. 
+kím índe pron. la unii; la unele; la alŃii; 
+la altele. 
+kím índen pron. de la/dinspre unii; de 
+la/dinspre unele; de la/dinspre alŃii; de 
+la/dinspre altele. 
+kím índiy pron. ca unii; ca unele; ca 
+alŃii; ca altele. 
+kím íne pron. spre unii; spre unele; 
+spre alŃii; spre altele. 
+kím íñ adj. al unora; al altora. 
+kímler pron. 1. cine?; 2. cine; care; cei 
+care; cele care. 3. oricine. 
+kímlerde pron. 1. la cine?; 2. la 
+oricine. 
+kímlerden pron. 1. de la/dinspre 
+cine?; 2. de la/dinspre oricine. 
+kímlerdiy pron. 1. ca cine?; 2. ca 
+oricine. 
+kímlerge pron. 1. cui?; spre cine?; 2. 
+spre oricine; oricui. 
+kímlerní pron. 1. pe cine?; 2. pe 
+oricine. 
+kímlerníñ adj. 1. al cui?; al căror?; 2. 
+al oricui. 
+kímlígínkóstergen adj. identificat; 
+legitimat. 
+kímlígítanîlgan adj. identificat; 
+legitimat. 
+kímlík s. identitate. // ●k ím l í g í n 
+k ó s t e rm e k a se legitima. //
+●k ím l í k b e l g e s í buletin de 
+identitate. 
+kímlíktanîtmasî s. identificare; 
+legitimare. 
+kímní pron. 1. pe cine?; 2. pe oricine. 
+// ●k ím n í k ó r s e s o r a r întreabă 
+pe oricine. 
+kímníñ adj. 1. al cui?; 2. al oricui. 
+kímsí pron. unii; unele; alŃii; altele. 
+kímsín pron. pe unii; pe unele; pe alŃii; 
+pe altele. 
+kímsínde pron. la unii; la unele; la 
+alŃii; la altele. 
+kímsínden pron. de la/dinspre unii; de 
+la/dinspre unele; de la/dinspre alŃii; de 
+la/dinspre altele. 
+kímsínd iy pron. ca unii; ca unele; ca 
+alŃii; ca altele. 
+kímsíne pron. spre unii; spre unele; 
+spre alŃii; spre altele. 
+kímsíñ adj. al unora; al altora. 
+kír s. 1. murdărie; jeg. 2. (fig.) 
+dezonoare; ruşine. 3. rufe; rufărie; 
+lenjerie. // ●k í r ğuw m a k a spăla 
+rufe. ●k í r k ó t e rm e k a Ńine la jeg; a 
+duce la murdărie. ●k í r s î km a k a 
+stoarce rufe. // ●k í r l e r n í 
+k a y na t t îm am fiert rufele. 
+kírde I. adj. rotund; circular. II. s. 1. 
+disc; cerc. 2. (gastron.) plăcintă 
+tătărească. 3. (tehn.) şaibă. // ●k í r d e 
+a tm a k (sport) a arunca discul. //
+●ğ e h e t k í r d e s í cerc polar. 
+●k í r d e a tm a o z î ş î (sport) 
+aruncarea discului. ●k ó g e r g en 
+k í r d e cearcăn. 
+●m í n l í / t a k s i r a t l î k í r d e cerc 
+vicios. 
+kírdeleme s. rotunjire; rotire; 
+încercuire; înconjurare; împresurare. 
+kírdelemek v.t. a rotunji; a roti; a 
+încercui; a înconjura; a împresura. 
+kírdelengen adj. rotunjit; rotit; 
+rotitor; încercuit; înconjurat; 
+împresurat. 
+kírdelenmek v.i. a se rotunji; a se 
+roti; a fi încercuit; a fi înconjurat; a fi 
+împresurat. 
+kírdeleşken adj. rotunjit. 
+kírdeleşmek v.i. a se rotunji. 
+kírdeliy adv. de jur împrejur; circular. 
+kírdeşîray(lî) adj. cu chip rotund. 
+kíremit s. olan; Ńiglă. 
+kíremitşí s. producător de olan; 
+producător de Ńiglă. 
+kírer adj. penetrant. 
+kírerawuz s. gură de acces; gură de 
+vizitare; acces; intrare. 
+kíreş s. var; cretă. // ●k í r e ş 
+s ó nd í rm e k a stinge var. // ●k í r e ş 
+k a l em í cretă. ●k í r e ş t a ş î calcar. 
+●s ó n g en k í r e ş var stins. 
+kíreşburum s. (zool.) melc (lat., 
+Helicidae sp.). 
+kíreşleme s. văruire. 
+kíreşlemek v.t. a vărui. 
+kíreşlengen adj. văruit. 
+kíreşlenmek v.i. a se vărui; a fi 
+văruit. 
+kíreşleşken adj. calcifiat; calcificat. 
+kíreşleşme s. calcificare; calcifiere. 
+kíreşleşmek v.i. a se calcifica; a se 
+calcifia. 
+kíreşleştírmek v.t. a calcifia. 
+kíreşlí adj. calcaros. 
+kíreşpurşusî s. bidinea. 
+kírgen adj. intrat; pătruns; vârât. //
+●b í z ím í ş ím í z g e b í r d ú şm an 
+k í r g en printre noi a intrat un 
+duşman. 
+kírgend iy adj. ca intrat; ca şi cum a 
+intrat. // ●ğ e r g e k í r g e nd i y 
+b o lm a k a-i veni cuiva să intre în 
+pământ. 
+kírgín adj. băgăreŃ; băgăcios; înfigăreŃ; 
+îndrăzneŃ. 
+kírgínlík s. tupeu; îndrăzneală. 
+kírğuwgan s. maşină de spălat rufe. 
+kírílealgan adj. accesibil. 
+kírílmegen adj. nepătruns. 
+kírílmek v.i. a se pătrunde; a se intra. 
+// ●b o y e r g e k í r í lm e z nu intraŃi. 
+kírílmiykalgan adj. nepătruns. 
+kírím s. (econ.) venit. 
+kíríntí s. intrând; adâncitură; 
+scobitură. 
+kíríntílí-şîgîntîlî adj. întortocheat. 
+kíríş s. 1. intrare; acces. 2. (la o carte) 
+introducere; cuvânt înainte. 3. (muz.) 
+preludiu. 4. (la arc, mat., muz) coardă. 
+5. (anat.) tendon. 6. (constr.) căprior; 
+grindă; consolă; bârnă. 7. (muz.) 
+strună; coardă. 8. anticameră; 
+vestibul; antreu; foaier. 9. (gastron.) 
+antreu. // ●k í r í ş h a k k î permis de 
+intrare. ●k í r í ş ú ğ r e t í taxa de 
+intrare. ●k í r í ş v i za s î viză de 
+intrare. 
+kíríşík adj. intercalat. 
+kíríşíkyerleştírme s. inserare; 
+inserŃie; intercalare. 
+kíríşím s. 1. încercare; tentativă; 
+inŃiativă. 2. (fiz.) interferenŃă. 
+kíríşínde adj. murdar; jegos. 
+kíríşken adj. întreprinzător. 
+Kíríşlík s. 1. (topon., grotă lângă 
+Râmnicu de Jos) Chirişlic (jud. 
+ConstanŃa). 2. (topon., localitate şi grotă 
+la în Cheile Dobrogei) Cheia (jud. 
+ConstanŃa). 3. grotă. 
+kíríşme s. amestec; intervenŃie; 
+ingerinŃă. 
+kíríşmegen adj. neutru; nepăsător; 
+care nu intervine; care nu se amestecă. 
+kíríşmek v.i. a se amesteca; a 
+interveni. // ●k o r k î l î í ş k e 
+k í r í şm e k a risca. ●l a f k a 
+k í r í şm e k a se băga în vorbă; a 
+interveni în discuŃie. 
+kíríşmeme s. neintervenŃie; nepăsare. 
+kíríşmemek v.i. a nu interveni; a nu 
+se amesteca; a fi nepăsător; a fi 
+neutru. // ●m e n k í r í şm i ym e n nu 
+mă bag. 
+kíríşmez adj. neutru; nepăsător; care 
+nu intervine; care nu se amestecă. 
+kíríşmezlík s. 1. neintervenŃie. 2. 
+neutralitate. 
+kíríşm iykalîr adj. nealiniat; neutru; 
+nepăsător. 
+kíríşm iykalma adj. nealiniere; 
+neutralitate; neintervenŃie; nepăsare.
+geşmíş I. adj. trecut; vechi. II. s. 
+trecut. // ●b o k í ş í n í ñ g e şm í ş í 
+trecutul acestui om. ●g e şm í ş 
+b o l s î n ! însănătoşire grabnică! ; 
+geşmíşlík s. trecut. // ●g eñ í ş 
+g e şm í ş l í k (gram.) preterit. 
+geşmíşte adv. în trecut. 
+geşmíşten adv. din trecut. 
+geşúw s. 1. trecere; tranzit. 2. trecere; 
+traversare; pasaj. 3. depăşire; 
+penetraŃie. // ●ğa y aw g e ş úw í 
+trecere pentru pietoni. ●k a pa n g an 
+en g e l g e ş úw í trecere la nivel cu 
+bariere. 
+geşúwğí adj. 1. trecător; de scurtă 
+durată; efemer. 2. temporar; 
+provizoriu; tranzitoriu; interimar. 3. 
+(med.) molipsitor; contagios; 
+transmisibil. // ●g e ş úw ğ í h á l d e în 
+mod provizoriu. ●g e ş úw ğ í h ew e s 
+capriciu. ●g e ş úw ğ í k a b i l i y e t 
+permis temporar. ●g e ş úw ğ í ş á r e 
+paleativ. 
+geşúwğímabet s. aventură; legătură 
+amoroasă întâmplătoare. 
+geşúwğímabetş í s. aventurier; 
+persoană care caută aventuri 
+amoroase. 
+geşúwğúlúk s. interimat; provizorat. 
+getíştírúw s. transmisie; comunicaŃie. 
+geveze adj. flecar; palavragiu. 
+gevezelík s. flecăreală; pălăvrăgeală. 
+gez s. (bot.) mojdrean; urm; frasin-de-
+munte (lat., F raxinus o rn us). 
+gezdírmek v.t. a plimba. // ●k ó z í n 
+g e zd í rm e k a cerceta cu privirea; a-
+şi învârti ochii. ●s ó z g e zd í rm e k a 
+purta vorbe; a duce vorba; a bârfi. 
+●ú s t ú n e g e zd í rm e k a presăra 
+deasupra… ; 
+gezegen I. adj. plimbăreŃ. II. s. (astr.) 
+planetă. 
+gezegenbílímğís í s. astrolog. 
+gezegenbílím í I. adj. astrologic. II. s. 
+astrologie. 
+gezegenbílíml í adj. astrologic. 
+gezegenlerarasî adj. interplanetar. 
+gezenek s. coridor; culoar; hol; 
+galerie. 
+gezer adj. 1. călător; ambulant. 2. 
+ambulatoriu. // ●g e z e r k a s t a 
+(med.) bolnav ambulatoriu. 
+gezetan adj. plimbăreŃ. 
+gezgen-albatros s. (orn.) albatros 
+călător (lat., Diomedea ex ulans). 
+gezgen-ğayka s. (orn.) albatros 
+călător (lat., Diomedea ex ulans). 
+gezgenlap s. zvon. 
+gezgensóz s. zvon. 
+gezílmek v.i. 1. a se plimba. 2. a fi 
+vizitat. 
+gezíntí s. 1. plimbare; excursie. 2. 
+coridor; culoar; hol; galerie. 
+gezíp-dolaşatan adj. plimbăreŃ. 
+gezíp-dolaşuw s. cutreierare; 
+peregrinare; străbatere. 
+gezíp-tozgan adj. hoinar; rătăcitor; 
+vagabond; vântură-lume; aventurier. 
+gezíp-tozma s. hoinăreală; plimbare; 
+vagabondaj; vânturare. 
+gezíp-tozuw s. hoinăreală; plimbare; 
+vagabondaj; vânturare. 
+gezíş s. plimbare; cutreierare; 
+colindare; vizită. 
+gezíşken adj. plimbăreŃ; pribeag. 
+gezíşme s. peregrinare; plimbare. 
+gezíşmek A. v.i. a umbla; a se plimba. 
+B. v.t. a cutreiera; a colinda; a 
+străbate. 
+gezme s. plimbare. 
+gezmek A. v.i. 1. a umbla; a merge. 2. 
+a se plimba. B. v.t. a vizita; a vedea. //
+●án y a k k a-m í n y a k k a g e zm e k a 
+umbla de colo până colo; a nu avea 
+stare; a se fâŃâi. ●a y a k l a r n î ñ 
+a r a s î n da g e zm e k a sta în 
+picioarele cuiva; a-l încurca. ●b o ş 
+g e zm e k a umbla în dorul lelii; a 
+umbla fără rost; a hoinări. ●g e z í p 
+d o l a şm a k a se plimba; a hoinări; a 
+da o raită. ●g e z í p t o zm a k a se 
+plimba; a hoinări. ●k o l l a r da 
+g e zm e k a fi Ńinut ca în palmă. ●l a f 
+g e zm e k a umbla vorba; a se zvoni. 
+●t eb d i l g e zm e k a umbla deghizat. 
+●t í l l e r d e g e zm e k a umbla din 
+gură în gură; a i se duce vestea. //
+●b a b am n î g e zm e g e ş î g a r d îm l-
+am scos pe tata la plimbare. 
+●g e zm e k t e p a y d a y o k plimbatul 
+n-are folos. ●m a k s a t î ñ 
+g e zm e k t í r scopul tău este 
+plimbarea. ●m en m e n g e zm eg e 
+ş î ga r s î ñ m î ? vrei să ieşi la 
+plimbare cu mine? ; ●pa p î r m an 
+g e zg í m k e l e aş vrea să fac o 
+croazieră. 
+gezúw s. 1. călătorie; voiaj. 2. 
+plimbare. // ●k î d î r uw ğu l u k 
+g e zúw í excursie turistică. 
+gezúwğí I. s. excursionist; turist. II. 
+s., adj. ambulant. // ●g e zúw ğ í 
+t ú ğğ a r negustor ambulant. 
+●g e z úw ğ í y î l d î z planetă. 
+gezúwğí -martî s. (orn.) lup de mare 
+(lat., Stercora rius poma rinu s). 
+gezúwğúlúk s. călătorie; voiaj. 
+Ghana s. (topon.) Ghana. 
+ghanalî s., adj. ghanez. 
+gibí postp. ca şi; la fel cu; aşa cum; 
+precum; după cum. // ●g i b í 
+k e lm e k a părea; a da impresia de… ; 
+// ●b a l a g i b í pueril. ●b o k a b a k 
+b a l g i b í t a t l î dovleacul acesta este 
+dulce ca mierea. ●k e r e k g i b í 
+ş a l î şm a y nu funcŃionează cum 
+trebuie. ●k î d î r uw ğ î g i b í k e l d ím 
+am venit ca turist. ●ó l ím g i b í 
+ú r k ú t k e n macabru. 
+gidon s. ghidon. 
+gilotina s. ghilotină. 
+girdap s. vârtej de apă; vâltoare. 
+gişew s. ghişeu. // ●k a y s î g i ş ew d e 
+za r f s a t î l a ? la ce ghişeu se vând 
+plicuri? ; 
+gitar s. (muz.) chitară. 
+gitarğî s. (muz.) chitarist. 
+gizem s. mister. 
+gizemğí s. mistic. 
+gizemğíleşken adj. mistificat. 
+gizemğíleştírme s. mistificare. 
+gizemğíleştírmek v.t. a mistifica. 
+gizemğíleştírúw s. mistificare. 
+gizemğílík s. misticism. 
+gizemlí adj. misterios; tainic. 
+gísímlendírílgen adj. materializat; 
+personificat; întruchipat. 
+gíz s. taină; enigmă; secret. 
+gízleme s. ascundere; disimulare; 
+tăinuire. 
+gízlemek v.t. 1. a ascunde; a dosi. 2. 
+a Ńine în secret; a tăinui (ştiri, 
+informaŃii).
+gízlengen adj. ascuns; disimulat; 
+tăinuit. 
+gízlenmek v.i. 1. a se ascunde. 2. a 
+se furişa; a se strecura. 
+gízlew s. ascundere; disimulare; 
+tăinuire. 
+gízlí adj. 1. ascuns; dosit. 2. tăinuit. 
+3. tainic; misterios. 4. latent. //
+●g í z l í t u tm a k a ascunde; a tăinui. 
+gízlíğe adv. pe ascuns; în taină; în 
+secret; clandestin. 
+gízlíğ ílík s. ocultism. 
+gízlítutuw s. ascundere; tăinuire. 
+gîda s. hrană; aliment. 
+gîdalandîrmak v.t. a hrăni; a 
+alimenta. 
+gîdalandîruwğî adj. hrănitor; nutritiv.
+ganiy-ganiy adj. abundent; din 
+abundenŃă. 
+ganiygóñíl(lí) adj. darnic; generos; 
+milostiv; mărinimos. 
+ganiygóñíllík s. dărnicie; 
+generozitate; milostivire; mărinimie. 
+ganiylík s. bogăŃie; abundenŃă; 
+îmbelşugare; opulenŃă. 
+gank s. gang. 
+gara s. gară. // ●aw t o b u z ga r a s î 
+autogară. ●b o ga r an î ñ a t î n e ? 
+cum se numeşte gara aceasta? ; 
+garabet s. ciudăŃenie; extravaganŃă; 
+excentricitate. 
+garabetlí adj. ciudat; extravagant; 
+excentric. 
+garaj s. garaj. // ●k am i y o n l a r 
+ga r a j î autobază. 
+garajgatartuw s. garare. 
+garansiya s. garanŃie. 
+garansiyalî adj. garantat. 
+garaz s. 1. Ńel; obiectiv; Ńintă. 2. (fig.) 
+ranchiună; pică; ură ascunsă. 
+garazkáar adj. ranchiunos; 
+răzbunător. 
+garbiy adj. vestic; apusean; occidental. 
+garderoba s. garderobă; vestiar. 
+gardiyan s. gardian; paznic; strajă. 
+garez s. (fig.) ranchiună; pică; ură 
+ascunsă. 
+gargara s. gargară. // ●ga r ga r a 
+y apm a k a face gargară. 
+garibe s. ciudăŃenie; curiozitate. 
+Garip s. (antrop. m., arab.) "Cel 
+nevoiaş" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam).
+gark s. 1. scufundare; afundare. 2. 
+(fig.) copleşire; covârşire; năpădire. 
+garketílgen adj. scufundat; afundat. 
+garketmek v.t. 1. a scufunda; a 
+afunda. 2. (fig.) a copleşi; a covârşi; a 
+năpădi. 
+garn itura s. 1. garnitură; ornament; 
+podoabă. 2. (gastron.) garnitură. 
+garn izona s. garnizoană. 
+garp s. (geogr.) vest; apus; occident. 
+garplî s., adj. vestic; apusean; 
+occidenta. 
+garptan adj. vestic; occidental. 
+garsoniyera s. garsonieră. 
+garun num. (mong.) cinci. 
+gasil s. (relig., la musulmani) spălarea 
+mortului. 
+gasletmek v.t. (relig., la musulmani) a 
+spăla mortul. 
+gasp s. uzurpare. 
+gaspetken s. uzurpator. 
+gaspetmek v.t. a uzurpa. 
+gasplî adj. uzurpat. 
+gastrita s. (med.) gastrită. 
+gayda s. (muz.) cimpoi. 
+gaye s. Ńel; scop. // ●g a y e s í n e 
+b a rm a k a-şi atinge scopul. 
+gayile s. neplăcere; necaz; belea. 
+gayilelí adj. 1. neplăcut; anevoios; 
+greu. 2. necăjit; supărat; amărât. 
+gayîlmak v.i. a se desfăşura. 
+gayîluw s. desfăşurare. 
+gayzer s. gheizer. 
+gaz s. 1. gaz; gaze. 2. petrol lampant. 
+// ●ga z m a s k a s î mască de gaze. 
+●ga z s áá t í / s a y a ş î (tehn.) contor 
+de gaze. ●k ó z y a ş a r t uw ğ î ga z 
+gaz lacrimogen. 
+Gazanfer s. (antrop. m., prsn.) "Leul". 
+gazap s. mânie; furie. // ●ga za pk a 
+k e lm e k a se înfuria; a se mânia. 
+gazapkakelgen adj. înfuriat; mâniat; 
+mânios. 
+gazapkakelúw s. înfuriere; mânie. 
+gazaplî adj. mâniat; mânios. 
+gazel s. (lit.) gazel. 
+gazela s. (zool.) antilopă; gazelă (lat., 
+Antilopinae sp.). 
+gazgakarşî I. adj. antigaz. II. s. 
+mască de gaze. 
+gaziy I. adj. victorios; biruitor; 
+triumfător. II. s., adj. (la musulmani) 
+apărător al religiei. 
+gazlî adj. gazos. 
+gazmayî s. petrol lampant. 
+gazometre s. (tehn.) gazometru. 
+gazon s. gazon. 
+gazólşer s. (tehn.) gazometru. 
+gazpaylawğî s. distribuitor de gaze. 
+gágáa s. (la păsări) cioc; clonŃ; plisc. 
+gágáalamak v.t. 1. (d. păsări) a 
+ciuguli. 2. (d. păsări) a da cu ciocul; a 
+ciupi. 
+gágáwuz s. găgăuz. 
+gálba adv. probabil; după cât se pare; 
+după toate probabilităŃile. 
+gázáta s. ziar. // ●a k ş am 
+gá zá t a s î ziar de seară. ●a y l î k 
+gá zá t a ziar lunar. ●b a ş g á z á t a 
+ziar important. ●ed eb i y a t 
+gá zá t a s î ziar literar. ●g á z á t a 
+f î k r a s î cronică de ziar. ●g á z á t a 
+i l an î anunŃ în ziar; inserare; 
+informaŃie. ●g á z á t a 
+k a b e r ğ í s í /m u h a b i r í reporter; 
+corespondent (la un ziar). ●g á z á t a 
+y a zuw ğu s î /m u h a r r i r í redactor 
+(la un ziar). ●h ap t a l î k gá zá t a ziar 
+săptămânal. ●k ún d e l í k g á z á t a 
+cotidian. ●r e sm i y gá zá t a buletin 
+oficial. ●s a b a gá zá t a s î ziar de 
+dimineaŃă. 
+gázátagîlîk s. jurnalistică. 
+gázátağî s. 1. ziarist. 2. vânzător de 
+ziare. 3. jurnalist. // ●gá zá t a ğ î 
+s o r a ş t î rm a s î interviu. 
+gázátağîlîk s. ziaristică. 
+gázátasatkan s. vânzător de ziare. 
+gázete s. ziar. // ●t í n ew ú n g í 
+gá z e t e ziarul de ieri. 
+gázeteğí s. 1. ziarist. 2. vânzător de 
+ziare. 
+gázeteğílík s. ziaristică. 
+gebe adj. (d. femei) gravidă; 
+însărcinată. 
+gebeden s. Ńarc. 
+gebelík s. (med.) graviditate; sarcină. 
+gebeş adj. 1. (d. oameni) gras; îndesat. 
+2. (fig.) prost; imbecil. 
+gelenek s. tradiŃie. // ●k a l k n î ñ 
+g e l en e k l e r í tradiŃiile poporului. 
+geleneklí adj. tradiŃional. 
+gelenekşí s. tradiŃionalist. 
+gelenekten adv. tradiŃional; prin 
+tradiŃie. 
+gemane s. 1. vioară; scripcă; laută. 2. 
+arc (cu săgeŃi). // ●g em an e ş a lm a k 
+a cânta la vioară. 
+gemaneğí s. violonist; scripcar; lăutar. 
+gemí s. vas; vapor; navă; corabie. //
+●a l î ş t î rm a / t a l im g em í s í (nav.) 
+navă şcoală. ●b o g em í d e k a ş 
+k a y î k b a r ? câte bărci sunt pe acest 
+vas? ; ●ğ e l k e ñ g em í s í (nav.) 
+corabie cu pânze. ●g em í ğ a l pa 
+w u r a vasul are tangaj. ●g em í 
+i n ş aa t î construcŃia de nave. ●g em í 
+l im an ga o g î r a y ğ a k vasul va face 
+escală în port. ●h a r b i y e g em í s í 
+(nav.) navă de război. ●u za y g em í s í 
+navă cosmică. ●z î r h l î g em í (mil.) 
+crucişător; cuirasat. 
+gemíğ í s. (nav.) marinar; navigator. 
+gemíğ ílík s. (nav.) marină; navigaŃie. 
+// ●k î y uw b o y î g em í ğ í l í g í (nav.) 
+cabotaj. 
+gemíğ ílíkkeyaragan adj. (mar.) 
+navigabil. 
+gemílík s. şantier naval. 
+gene I. adv. 1. iar; iarăşi; din nou. 2. 
+încă; mai. II. conj. totuşi; cu toate 
+acestea; orice s-ar zice. // ●g e n e d e 
+totuşi; cu toate acestea; orice s-ar zice; 
+pentru orice eventualitate. ●g en e 
+k o n î ş a încă vorbeşte. ●g en e 
+o g î r a rm î z mai trecem. ●o g en e 
+k e l d í el a venit din nou. ●s í z n í 
+g e n e b e k l i ym í z vă aşteptăm din 
+nou. 
+genel adj. 1. general; total. 2. public. 
+// ●g en e l b i b l i y o g r a f i y a 
+bibliografie generală. ●g e n e l h u k u k 
+(jur.) drept comun. ●g en e l k ó r í n í ş 
+vedere de ansamblu. ●g en e l 
+s e k r e t e r (pol.) secretar general. 
+●g en e l t ew ú k e istorie generală. 
+●g en e l t í l b í l ím í (lingv.) lingvistică 
+generală. ●g en e l t o p l an t î adunare 
+generală. ●g e n e l t ú ş ún ğ e l e r 
+consideraŃii generale. 
+genelaffuw s. amnistie generală. 
+genelkana s. bordel; casă de 
+toleranŃă. 
+genelkurmay s. (mil.) stat-major. 
+genelleme s. generalizare. 
+genellemek v.t. a generaliza. 
+genelleşken adj. generalizat. 
+genelleşme s. generalizare. 
+genelleşmek v.i. a se generaliza. //
+●l i ç ew ú y r e t ím í 
+g e n e l l e şm e k t e învăŃământul liceal 
+este în curs de generalizare. 
+genelleştírme s. generalizare. 
+genelleştírmek v.t. a generaliza. 
+genelleştírúw s. generalizare. 
+genelleşúw s. generalizare. 
+genellík s. generalitate; caracter 
+general. // ●g e n e l l í k m en în 
+general; în linii mari; grosso modo. 
+generastlangan adj. reîntâlnit. 
+generastlaw s. reîntâlnire. 
+genetuwgan adj. regenerat. 
+genetuwuw s. regenerare. 
+geñíş adj. 1. larg; amplu; vast; întins. 
+2. lat. 3. încăpător; spaŃios; 
+cuprinzător. // ●ğú r eg í g e ñ í ş 
+b o lm a k a avea o inimă largă; a fi 
+generos. // ●ğ e k e t t e r a k a y g e ñ í ş 
+haina e puŃin cam largă. ●g e ñ í ş 
+a ş î / po şm a k / ş a t (mat.) unghi 
+obtuz. ●g eñ í ş a ş î l î ú ş po şm a k 
+(mat.) triunghi obtuz. ●g e ñ í ş 
+e k s e r i y e t majoriate zdrobitoare. 
+●g eñ í ş g e şm í ş l í k (gram.) preterit. 
+●g eñ í ş m a ñ l a y frunte lată. 
+●g eñ í ş om î z l î spătos. ●g e ñ í ş 
+s o z î k aw a z / s e s l í /ú n l í (lingv.) 
+vocală deschisă. ●g e ñ í ş zam an 
+(gram.) aorist. ●ğ o l g e ñ í ş drumul 
+este lat. 
+geñíşekranlî adj. panoramic. 
+geñíşğayîlgan adj. extins; 
+predominant. 
+geñíşğayîlma s. extindere; 
+predominare. 
+geñíşğayîluw s. extindere; 
+predominare. 
+geñíşğúrek(lí) adj. generos; 
+mărinimos; milostiv; darnic. 
+geñíşğúreklík s. dărnicie; 
+generozitate; milostivire; mărinimie. 
+geñíş iygen adj. lărgit; mărit; extins; 
+lăŃit. 
+geñíş iyme s. lărgire; mărire; 
+extindere; lăŃire. 
+geñíş iymek v.i. a se lărgi; a se mări; a 
+se extinde; a se lăŃi. 
+figeliy adj. 1. activ. 2. (gram.) verbal. 
+figeliylík s. operativitate. 
+figelleşken adj. activat; intensificat. 
+figelleşme s. intensificare; înteŃire. 
+figelleşmek v.i. a se activa; a se 
+intensifica. 
+figelleşmelí adj. intensiv. 
+figelleştírgen adj. intensificator; 
+dinamizant. 
+figelleştírme s. activizare; 
+intensificare; dinamizare. 
+figelleştírmek v.t. a activa; a 
+intensifica. 
+figelleştírúw s. 1. activare; 
+intensificare. 2. activizare; 
+intensificare; dinamizare. 
+figelleştírúwğí adj. intensificator. 
+figelleşúw s. intensificare; înteŃire. 
+figellígíartkan adj. 1. activat; 
+antrenat; stimulat. 2. stimulat. 
+figellík s. activitate; intensitate. //
+●f i g e l l í k n í a r t t î rm a k a stimula. 
+figellíkarttîrgan I. adj. stimulant. II. 
+s. stimulent. 
+figellíkarttîrmas î s. 1. activare; 
+antrenare; stimulare. 2. apel; impuls; 
+îndemn; stimulare. 
+figellíks íz adj. inactiv. 
+figellíks ízlík s. inactivitate. 
+figurant s. figurant. 
+fihrist s. 1. cuprins; conŃinut; tablă de 
+materii; listă; indice. 2. catalog; 
+registru. 
+fiil s. 1. acŃiune; faptă. 2. (gram.) verb. 
+// ●e t k en f i i l (gram.) diateză activă. 
+●e t t í r g en f i i l (gram.) verb factitiv. 
+●f i i l ğ ó n e l í ş í (gram.) diateză. 
+●f i i l k ew d e s í (lingv.) temă verbală. 
+●g e ş í r g en f i i l (gram.) verb 
+tranzitiv. ●g e ş í rm e z f i i l (gram.) 
+verb intranzitiv. ●h á l f i i l (gram.) 
+modul gerunziu. 
+●k a rm a ş î k / b í r l e ş k en f i i l 
+(gram.) verb compus. ●k a r ş î l î k l î 
+f i i l (gram.) diateza reciprocităŃii. 
+●k a y t îm l î f i i l (gram.) verb reflexiv. 
+●s î fa t f i i l (gram.) participiu. 
+●t e k k í ş í l í f i i l (gram.) verb 
+unipersonal. ●y a r d îm ğ î f i i l 
+(gram.) verb auxiliar. ●y e t e r l í k 
+f i i l í (gram.) verb posibilitativ. 
+fiiliy adj. 1. activ. 2. (gram.) verbal. //
+●f i i l i y b î z î k (d. oameni) decăzut. 
+fiiliylík s. operativitate. 
+Fijiy s. (topon.) Fiji. 
+fijiyğe I. adv. în limba fijiană. II. s. 
+(limba) fijiană. 
+fijiylí s., adj. fijian. 
+fil s. 1. (zool.) elefant (lat., Elep has 
+maximus; Loxodonta af ricana). 
+2. (la şah) nebun. 
+filan adj., pron. cutare. 
+filanda pron. la cutare. 
+filandan pron. de la/dinspre cutare. 
+filanday pron. ca şi cutare. 
+filanga pron. spre cutare; lui cutare. 
+filannî pron. pe cutare. 
+filannîñ adj. lui cutare. 
+filarmonik adj. filarmonic. 
+filarmonika s. filarmonica. //
+●f i l a rm o n i k a o r k e s t r a s î 
+orchestră filarmonică. 
+filarmonikalî adj. filarmonic. 
+filbahar s. (bot.) lămâiŃă; sirinderică; 
+scumpină (lat., Philadelph us 
+corona rius). 
+filew s. plasă; fileu. // ●t o p f i l ew d e 
+k a l d î mingea s-a oprit în fileu. 
+filhakkika adv. într-adevăr. 
+filigran s. filigran. 
+filigranlî adj. filigranat. 
+Filipin s. (topon.) Filipine. 
+filipinlí s., adj. filipinez. 
+Filipin -órdegí s. (orn.) raŃă filipineză 
+(lat., Anas l uzo nica). 
+filiskin s. (bot.) voieştniŃă (lat., 
+Mentha silvestris). 
+Filistin-balkuşî s. (orn.) pasăre-
+nectar de Palestina (lat., Nectarinia 
+osea). 
+filiyala s. sucursală. 
+filiz s. 1. vlăstar; mlădiŃă. 2. (geol.) 
+filon; vână. // ●f i l i z d i y e g í lm e k a 
+se mlădia. // ●t em í r f i l i z í filon de 
+fier. 
+filizdiyiyílgen adj. mlădios. 
+filizlenmek v.i. 1. a înmuguri. 2. 
+(fig.) a apărea; a se naşte. 
+filizş îgargan s. miner. 
+filizş îgaruw s. minerit. 
+film s. film. // ●f i lm k a y t a rm a k a 
+turna un film. ●f i lm g e a lm a k a 
+filma. // ●b e l g e f i lm í film 
+documentar. ●b ó l í k l í f i lm film 
+serial. ●b ú gú n n e f i lm l e r 
+o y na y ? ce filme rulează astăzi? ; 
+●d i y a po z i t i f f i lm í film pentru 
+diapozitive. ●f i lm n í ñ ğ ó n e tm e n í 
+regizorul filmului. ●í z ğ í f i lm í film 
+poliŃist. ●k eñm an za r a l î f i l m film 
+panoramic. ●k î s k a m e t r a j l î f i lm 
+film de scurt metraj. ●k u r g î f i lm í 
+film de montaj. ●r e n k l í f i lm film 
+color. ●s ana t f i lm í film artistic. 
+●s e s s í z f i lm film mut. ●s ew da 
+f i lm í film de dragoste. ●t í z úw 
+f i lm í film serial. 
+filmgealîngan adj. filmat. 
+filmgealuw s. filmare. 
+filmğí s. cineast. 
+filmğílík s. cinematografie. 
+filmkaytarmasî s. filmare. 
+filmsúygen s. cinefil. 
+filmşewúrúlgen adj. filmat. 
+filmşewúrúmí s. filmare. 
+filmşúnas s. cinefil. 
+filoksera s. filoxeră. 
+filoloğik adj. filologic. 
+filoloğiya s. filologie. 
+filoloğiyağî s. filolog. 
+filoloğiyalî adj. filologic. 
+filolok s. filolog. 
+filozof s. filozof. 
+filozoflîk s. filozofie. 
+filtíşí s. fildeş. 
+Filtíş í-Ğagasî s. (topon.) Coasta de 
+Fildeş. 
+filtre s. filtru. 
+filtrelí adj. cu filtru. // ●f i l t r e l í 
+s i ga r a Ńigări cu filtru. 
+filtres íz adj. fără filtru. // ●f i l t r e s í z 
+s i ga r a ce fel de Ńigări străine vindeŃi? 
+; 
+fin s., adj. finlandez. 
+final s. (muz.) final. 
+finala s. (sport) finală. 
+finalagakírgen s. finalist. 
+finğan s. ceaşcă. 
+finğe I. adv. în limba finlandeză. II. s. 
+(limba) finlandeză. 
+Finlant s. (topon.) Finlanda. 
+finlantlî s., adj. finlandez. 
+Finsch'niñ -delítaşî s. (orn.) pietrar 
+caucazian (lat., Oenanthe 
+f inschii). 
+firar s. fugă; dezertare. // ●f i r a r 
+e tm e k a dezerta. 
+firarğî s. fugar; dezertor. 
+firarğîlîk s. fugă; dezertare. 
+firariy s. fugar; dezertor. 
+firavun s. (ist.) faraon. 
+Firdes s. (antrop. f., arab.) “Grădina 
+paradisului”. 
+firkat s. despărŃire; separare. 
+firkatlî adj. despărŃit; separat. 
+firma s. firmă. 
+Firuz s. (antrop. m., prsn.) "Cel fericit”. 
+Firuze s. (antrop. f., prsn.) “Cea 
+fericită”. 
+fistan s. fustă; rochie. 
+fistanğî s. fustangiu. 
+fişa s. 1. fişă (şi tehn.). 2. fisă (la jocuri 
+de noroc). // ●f i ş a k u t u g î fişier. 
+●í s t e k f i ş a s î fişă de comandă. 
+fişek s. 1. cartuş. 2. (mil.) rachetă. //
+●h aw a y i y f i ş e k rachetă; trasor. 
+●t en v i r f i ş e g í (mil.) trasor. 
+fişeklík s. cartuşieră. 
+fit s. intrigă; zâzanie; vrajbă. 
+fitil s. fitil. 
+fitne s. intrigă; zâzanie; vrajbă. 
+fitne -fesat s. intrigă; zâzanie; vrajbă; 
+conspiraŃie; uneltire; complot. 
+fitneğ í s., adj. intrigant; instigator; 
+incitator; provocator; aŃâŃător. 
+fitneğ ílík s. intrigă; zâzanie; vrajbă. 
+fitre s. caritate; pomană; milostenie. 
+fiyasko s. (fin.) faliment; fiasco. 
+fiyat s. preŃ; valoare. 
+fiyort s. (geogr.) fiord. 
+fizik adj. fizic. 
+fizika s. fizică. 
+fizikabílímğís í s. fizician. 
+fizikağ î s. fizician. 
+fizikiy adj. fizic.
