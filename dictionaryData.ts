@@ -5359,3 +5359,1422 @@ hayranlîk s. mirare; uimire; uluială. //
 ●h a y r an l î k t u ym a k a admira. 
 hayrat s. 1. binefacere. 2. instituŃie 
 filantropică.
+hemersen s. 1. măceaşă. 2. (bot.) 
+măceş; trandafir-sălbatic (lat., Rosa 
+canina). 
+hemfíkír s. tovarăş de idei. 
+hemğínís adj. de acelaşi gen; de 
+acelaşi fel. 
+hemhudut adj. limitrof. 
+hemoglobina s. (fiziol.) hemoglobină. 
+hemograma s. (med.) hemogramă. 
+hemorağ iya s. (med.) hemoragie. 
+hemra s. tovarăş de drum; tovarăş de 
+viaŃă; camarad. 
+hemşerí s. consătean. 
+hemş íre s. (med.) asistentă; soră. 
+hendek s. groapă; şanŃ; fosă. 
+hendekkazkan s. (constr.) excavator. 
+hendeklík s. teren accidentat. 
+hendese s. geometrie. // ●h e nd e s e 
+t í zúw í (mat.) progresie geometrică. 
+●ş e ş ím ğ í / t a h l i l i y h en d e s e 
+(mat.) geometrie analitică. 
+●s u r a t l aw ğ î / t a s a r i y h en d e s e 
+(mat.) geometrie descriptivă. ●t ú z l em 
+h en d e s e s í (mat.) geometrie plană. 
+●u z a y h end e s e s í (mat.) geometrie 
+în spaŃiu. 
+hendeselí adj. geometric. 
+hendesiy adj. geometric. //
+●h en d e s i y t í zú w (mat.) progresie 
+geometrică. 
+henúz adv. 1. încă. 2. deja. 3. doar; 
+numai; abia. 
+hep adv. 1. tot. 2. iarăşi; din nou. 3. şi 
+acum; încă. // ●k e ş e- k ún dú z h e p 
+ğ o l da zi şi noapte e pe drum. ●k ún-
+k ún g e h e p s î ğa k b o l a de la o zi 
+la alta se face tot mai cald. 
+hepánawday I. adj. asemănător; 
+similar. II. adv. tot astfel; analog. 
+hepbonday I. adj. asemănător; 
+similar. II. adv. tot astfel; analog. 
+hepís í pron. tot; toată; toŃi; toate. //
+●o n l a r n î ñ h e p í s í k e l d í ei au 
+venit toŃi. 
+hepís ín pron. pe tot; pe toată; pe toŃi; 
+pe toate. 
+hepís índe pron. la tot; la toată; la toŃi; 
+la toate. 
+hepís índen pron. de la/dinspre tot; de 
+la/dinspre toată; de la/dinspre toŃi; de 
+la/dinspre toate. 
+hepís índiy pron. ca tot; ca toată; ca 
+toŃi; ca toate. 
+hepís íne pron. spre tot; spre toată; 
+spre toŃi; spre toate; tuturor; oricui. 
+hepís íñ adj. tuturor. 
+hepkene conj. totuşi; cu toate acestea; 
+orice s-ar zice. 
+hepmínawday I. adj. asemănător; 
+similar. II. adv. tot astfel; analog. 
+heponday I. adj. asemănător; similar. 
+II. adv. tot astfel; analog. 
+hepşonday I. adj. asemănător; 
+similar. II. adv. tot astfel; analog. 
+heptagon s. (geom.) heptagon. 
+heptagonal adj. (geom.) heptagonal. 
+her adj. fiecare; oricare; orice. // ●h e r 
+i k t im a l g e k a r ş î pentru orice 
+eventualitate. ●h e r t ú r l í de orice fel. 
+●h e r zam an totdeauna; mereu; tot 
+timpul. ●h e r zam an k î uzual. 
+heraldik adj. eraldic. 
+heraldika s. eraldică. 
+heraldikalî adj. eraldic. 
+herbír adj. fiecare; oricare; orice. 
+herbírsí pron. fiecare. 
+herbírsín pron. pe fiecare. 
+herbírsínde pron. la fiecare. 
+herbírsínden pron. de la/dinspre 
+fiecare. 
+herbírsíndiy pron. ca fiecare. 
+herbírsíne pron. spre fiecare. 
+herbírsíñ adj. al fiecăruia. 
+herbírşiy pron. orice. //
+●h e r b í r ş i y g e i na naw u y m a 
+totul trebuie pus sub semnul îndoielii. 
+herbírşiyde pron. la orice. 
+herbírşiyden pron. de la/dinspre 
+orice; din orice. 
+herbírşiydiy pron. ca orice. 
+herbírşiyge pron. spre orice. 
+herbírşiyní pron. pe orice. 
+herbírşiyníñ adj. care aparŃine de 
+orice. 
+herdemtaze s. (bot.) flori-de-paie; 
+imortelă (lat., Helichrys um 
+bracteatum). 
+herdemtaze, sarî- s. (bot.) imortelă-
+galbenă (lat., Helich rys um 
+orientale). 
+hergele s. 1. cal nedresat. 2. (fig.) 
+canalie; lepădătură. 
+hergelelík s. crescătorie de cai de 
+rasă; herghelie. 
+hergún adv. zilnic; în fiecare zi. //
+●h e r g ún ğ o l g a k a r a p 
+b e k l e d í k v-am aşteptat în fiecare zi 
+cu ochii spre drum. 
+hergúnkí adj. zilnic. 
+herğúmerş s. învălmăşeală; 
+dezordine. 
+herğúmerşlí adj. învălmăşit; 
+dezordonat. 
+herhálde adv. oricum; în orice caz. 
+heríf s. individ; persoană. // ●m aw 
+h e r í f om rău. 
+herkez pron. toŃi; toată lumea; oricine. 
+// ●h e r k e z b í r d i y toŃi ca unul. 
+●h e r k e z n í ñ í ş í nd e a r s l an 
+ğa t a g î b a r în fiecare există un 
+culcuş de leu. ●h e r k e zn í ñ í ş í n e 
+y a r am a z nu convine oricui. 
+●h e r k e z n í ñ 
+k a r ş î s î nd a / h u z u r un da în 
+prezenŃa tuturor. 
+herkezb ílgen adj. binecunoscut; 
+recunoscut; arhicunoscut; notoriu. 
+herkezde pron. la toŃi; la toate. 
+herkezden pron. de la/dinspre toŃi; de 
+la/dinspre toate. 
+herkezdiy pron. ca toată lumea; 
+comun; obişnuit; ordinar. 
+herkezge pron. spre toŃi; spre toate; 
+tuturor; oricui. // ●h e r k e zg e 
+b í r d i y în mod egal. ●h e r k e zg e 
+ó zn í ñ k í s í n fiecăruia al său. 
+herkezgeğayuw s. trâmbiŃare; 
+divulgare. 
+herkezní pron. pe toŃi; pe toate; pe 
+oricine. 
+herkezníñ adj. care aparŃine tuturor. 
+herkeztan îgan adj. binecunoscut; 
+recunoscut; arhicunoscut; notoriu. 
+heroyina s. heroină. 
+herş iy pron. tot; toată; toŃi; toate; 
+orice. // ●h e r ş i y n í m a s a ga 
+ğa ym a k a da toate cărŃile pe faŃă. //
+●h e r ş i y ğ o l î nd a totul e în regulă. 
+●h e r ş i y h a l b o l a ğa k totul se va 
+rezolva. ●h e r ş i y d e n ew e l înainte 
+de orice. ●h e r ş i y í m en cu tot ce 
+are. ●ş únd í h e r ş i y t am am m î ? 
+acum totul e în regulă?; 
+herş iyde pron. la tot; la toată; la toŃi; 
+la toate; la orice. 
+herş iyden pron. din orice; de 
+la/dinspre tot; de la/dinspre toată; de 
+la/dinspre toŃi; de la/dinspre toate; de 
+la/dinspre orice. 
+herş iyd iy pron. ca tot; ca toată; ca 
+toŃi; ca toate; ca orice. 
+herş iyge pron. spre orice; spre tot; 
+spre toată; spre toŃi; spre toate; spre 
+orice. 
+herş iyn í pron. pe tot; pe toată; pe toŃi; 
+pe toate; pe orice. 
+herş iyn íñ adj. care aparŃine de orice. 
+herş iyn íyapkan adj. factotum. 
+heryagî postp. împrejurul. 
+heryakka adv. spre toate părŃile; 
+împrejur. 
+heryakta adv. pretutindeni; peste tot; 
+în toate părŃile; împrejur. 
+heryaktan adv. de pretutindeni; de 
+peste tot; din toate părŃile; dimprejur. 
+heryerde adv. pretutindeni; peste tot; 
+în toate părŃile; împrejur. 
+heryerden adv. de pretutindeni; de 
+peste tot; din toate părŃile; dimprejur. 
+heryerge adv. spre toate părŃile; 
+împrejur. 
+heryerínde adv. pe tot cuprinsul. 
+hesabiy adj. financiar; contabil. //
+●h e s a b i y b u h r an criză financiară. 
+hesabîaşîlgan adj. descifrat. 
+hesabînaşmasî s. descifrare. 
+hesabînayazuw s. trecere în cont; 
+imputare; imputaŃie. 
+hesap s. 1. aritmetică. 2. calcul; 
+socoteală. 3. (fin.) cont. 4. calcul; 
+apreciere; estimare; presupunere. 5. 
+(sport) scor. 6. măsură; cumpătare; 
+ponderat; precauŃie; prevedere; 
+prudenŃă. // ●b a ş t an h e s ap k a 
+a lm a k a preconiza. ●h e s a b î n 
+b í lm e k a şti socoteala lucrurilor; a fi 
+chibzuit; a fi cumpătat. ●h e s a b î n 
+y añ g î ş m a k a-şi greşi socotelile. 
+●h e s a b î na k e lm e k / y a r am a k a-
+i veni la socoteală; a-i conveni. 
+●h e s a b î na y a zm a k / g e ş í rm e k a 
+pune în socoteala cuiva; a-l Ńine bun 
+de plată; a-i imputa. ●h e s a b î n da 
+t a b î lm a k a se cifra la…; ●h e s a p 
+b e rm e k a da socoteală cuiva; a 
+răspunde în faŃa cuiva. ●h e s a p 
+s o r am a k a cere socoteală; a trage la 
+răspundere. ●h e s a p y a pm a k a-şi 
+face socotelile; a calcula; a presupune. 
+●h e s a pk a a lm a k a pune la 
+socoteală; a Ńine seama de…; a lua în 
+seamă; a bifa. ●h e s ap k a 
+k a tm am a k a nu pune la socoteală; 
+a nesocoti; a scăpa ceva din vedere; a 
+trece cu vederea; a omite. ●h e s ap k a 
+ş î km a k a ieşi la socoteală; a ajunge 
+la o rezolvare convenabilă. 
+●h e s a pk a t a r tm a k a cere 
+socoteală; a trage la răspundere. 
+●s î z g î / ğ e r g e /pw an h e s a b î 
+m an ğ eñm e k a câştiga la puncte 
+(sport). ●t ó g e r e k h e s a p y apm a k 
+a face socoteală rotundă; a rotunji 
+cifra. // ●b an k a h e s a b î (fin.) cont 
+bancar. ●ğa r i y h e s a p (fin.) cont 
+curent. ●h e s a b î t em í z corect. 
+●h e s a b î m á z í r m í ? este gata nota 
+de plată?; ●h e s a b îm a y a r am a y 
+nu-mi convine. ●h e s a p ğ e t v e l í 
+(mat.) riglă de calcul. ●h e s a p 
+í ş l em í (mat.) operaŃie aritmetică. 
+●h e s a p m a ş i na s î maşină de 
+calcul. ●m e n h e s a p t a ş a l t 
+añ l a ym an eu înŃeleg repede la 
+aritmetică. ●t ó g e r e k h e s a p 
+socoteală rotundă. 
+hesapbergen adj. răspunzător; 
+responsabil. 
+hesapbermeme s. iresponsabilitate. 
+hesapbermez adj. iresponsabil. 
+hesapbermezlík s. iresponsabilitate.
+ibadet s. 1. (relig.) închinare; 
+rugăciune; slujbă. 2. cult. 
+ibadetkana s. templu. 
+ibadetokîlgan adj. (relig.) pomenit. 
+ibadetş í s. pelerin; pelegrin; hagiu. 
+ibadetş ílík s. pelerinaj; pelegrinaj; 
+hagialâc. 
+ibanay s. moaşă. 
+ibanaygúmeşí s. (bot.) nalbă; mălăuŃ; 
+colăceii-babei (lat., Malva 
+silvestris). 
+ibanaylîk I. adj. (med.) obstetric. II. s. 
+(med.) obstetrică. 
+ibanaylîkbílímğí adj. (med.) 
+obstetric. 
+ibanaylîkbílímğís í s. (med.) 
+obstetrician; mamoş. 
+ibanaylîkbílímí s. (med.) obstetrică. 
+ibare s. 1. (lingv.) sintagmă; expresie. 
+2. text; formulare. 
+ibareetúw s. formulare. 
+ibarekáátí s. formular. 
+ibarelík s. formulă. 
+ibaret adj. compus; alcătuit; format. //
+●i b a r e t b o lm a k a se compune 
+din…; // ●b e ş k í ş í d e n i b a r e t b í r 
+g r u p un grup format din cinci 
+persoane. 
+ibaretl í adj. constituit. 
+ibaretl ík s. compunere; alcătuire; 
+formare. 
+ibeks -eşkísí s. (zool.) capră-de-
+stâncă; ibex (lat., Cap ra ibex). 
+Iberiya-şah -şoñgîrî s. (orn.) acvilă 
+imperială iberică (lat., Aquila 
+adalberti). 
+Iberiye-ğelbeges í s. (orn.) pitulice 
+iberiană (lat., Phylloscopus 
+ibericus). 
+iberiyelí I. adj. iberic. II. s., adj. 
+iberian. 
+Iberiye-sarîkaşî s. (orn.) pitulice 
+iberiană (lat., Phylloscopus 
+ibericus). 
+Iberiye-Yarîmadasî s. (topon.) 
+Peninsula Iberică. 
+ibik s. 1. supliment; adaos. 2. (la 
+unele păsări) creastă. 
+ibis, al- s. (orn.) ibis roşu (lat., 
+Eudocim us rube r). 
+ibis, óg íz-moyînlî- s. (orn.) ibis 
+amazonian (lat., T heristicus 
+caudatus). 
+ibis, taz- s. (orn.) ibis chel (lat., 
+Geronticus e remita). 
+ibis, veliy- s. (orn.) ibis (lat., 
+Thre skiornis aethiopica). 
+ibisí, Amazon- s. (orn.) ibis 
+amazonian (lat., T heristicus 
+caudatus). 
+ibisí, Awustraliye- s. (orn.) ibis 
+australian (lat., Th reskiornis 
+spinicollis). 
+iblis s. 1. drac; diavol; demon; satană. 
+2. (fig.) intrigant. 
+ibra s. (fin., jur.) achitare. // ●i b r a 
+e tm e k a achita. 
+Ibrah im/Ibram s. (antrop. m., arab.) 
+Avram. 
+ibralî s. (fin., jur.) achitat. 
+ibraz s. demonstrare; prezentare. //
+●i b r a z e tm e k a demonstra; a 
+prezenta. 
+ibrazlî adj. demonstrat; prezentat. 
+ibre s. 1. (tehn.) ac; indicator. 2. (bot.) 
+stil. 
+ibret I. adj. hidos; monstruos. II. s. 
+exemplu; pildă. 
+ibretberúw s. instructaj. 
+ibretberúwğí adj. instructiv. 
+ibretlí adj. exemplificat. 
+ibrik s. ibric. 
+ida I. adj. afirmativ. II. s. 1. afirmaŃie; 
+susŃinere (a unei păreri). 2. idee; 
+părere; convingere. // ●h a k k î n i da 
+e tm e k a-şi aroga dreptul de…; a 
+revendica ceva. ●i da e tm e k a 
+afirma; a susŃine. // ●i da e t em en 
+k e h a k k îm b a r afirm că am 
+dreptate. 
+idağî I. adj. încăpăŃânat; îndârjit. II. 
+s. pretendent; aspirant. 
+idalama s. afirmaŃie. 
+idalamak v.t. a afirma. 
+idalangan adj. afirmat. 
+idalaşkan adj. învrăjbit. 
+idalaşma s. răfuială; polemică; 
+dispută; scandal; ceartă; gâlceavă; 
+contrazicere; controversă; sfadă. 
+idalaşmak v.i. a se certa; a se 
+contrazice; a disputa. 
+idalaşmalî adj. controversat; disputat; 
+polemic. 
+idalaşuw s. răfuială; polemică; 
+dispută; scandal; ceartă; gâlceavă; 
+contrazicere; controversă; sfadă. 
+idalaşuwğî s., adj. scandalagiu. 
+idalî adj. afirmativ. 
+idam s. (jur.) execuŃie; pedeapsă 
+capitală. // ●i dam e tm e k (jur.) a 
+condamna la moarte; a executa; a 
+supune la pedeapsa capitală. //
+●i dam ğ e za s î (jur.) pedeapsă 
+capitală. ●i d am h ú k úm l í (jur.) 
+condamnat la moarte. ●i d am 
+k ú r s ú s í eşafod. 
+idamlî adj. (jur.) condamnat la moarte; 
+executat. 
+idaname s. act de acuzare. 
+idare s. 1. conducere; guvernare. 2. 
+administrare; dirijare. 3. (econ.) 
+economisire. // ●i d a r e e tm e k a 
+conduce; a guverna. // ●i da r e 
+h u k u g î drept administrativ. ●i da r e 
+m eğ l i s í consiliu de administraŃie. 
+●l im an i d a r e s í (nav.) căpitănia 
+portului. ●m a h a l l i y i da r e 
+administraŃie locală. 
+idareetken s. coordonator. 
+idareğ í s. cârmaci; conducător; 
+administrator; coordonator; dirijor. 
+idareğ ílík s. administraŃie; 
+administrare; conducere; coordonare; 
+dirijare. 
+idarelí adj. 1. conducător; de 
+conducere. 2. econom. 3. condus; 
+administrat; coordonat; dirijat; ghidat. 
+idarelík s. ghidare. 
+idaresíz adj. fără conducător; 
+necoordonat; necontrolat; 
+incontrolabil; nedirijat; neghidat. 
+idaretan îmaz adj. incontrolabil. 
+idariy adj. administrativ; de 
+conducere; conducător. // ●i da r i y 
+m úm t a z e (adm.) autonomie. 
+●i da r i y ş ew r e l e r (pol.) cercuri 
+conducătoare. 
+ideal s., adj. ideal. 
+idealğí s., adj. idealist. 
+idealğílík s. idealism. 
+idealism s. idealism. 
+idealist s., adj. idealist. 
+ideallaşkan adj. idealizat. 
+ideallaştîrma s. idealizare. 
+ideallaştîrmak v.t. a idealiza. 
+ideallaştîruw s. idealizare. 
+ideoloğ ik adj. ideologic. 
+ideoloğ iya I. adj. ideologic. II. s. 
+ideologie. 
+ideoloğ iyağî s. ideolog. 
+ideoloğ iyalî adj. ideologic. 
+ideolok s. ideolog. 
+idila s. idilă. 
+idilalî adj. idilic. 
+idman s. exerciŃiu fizic; antrenament; 
+sport. // ●i dm an y a pm a k a face 
+sport. // ●i dm a n a t î (sport) capră de 
+gimnastică. ●i dm an im eğ e s í club 
+sportiv. ●i dm an y a pm a ym a n nu 
+fac sport. ●k î ş i dm a n l a r î (sport) 
+sporturi de iarnă. 
+idmanğ î s. sportiv. 
+idmanlî adj. 1. antrenant. 2. (fig.) 
+familiarizat. 
+idmanmiydanî s. stadion. //
+●i dm a nm i y d an î ş î r a k l a r î 
+(sport) instalaŃie nocturnă. 
+idrak s. 1. inteligenŃă; raŃiune. 2. 
+percepere; cunoaştere. 
+idraklî adj. 1. perceput; cunoscut. 2. 
+inteligent; raŃional. 
+idrar s. urină. // ●i d r a r t ó km e k 
+(fiziol.) a urina. // ●i d r a r 
+a k t a rm a s î analiza urinei. ●i d r a r 
+k am î z î (chim.) acid uric. 
+idrarbílímğ ísí s. (med.) urolog. 
+idrarbílímí I. adj. (med.) urologic. II. 
+s. (med.) urologie. 
+idrarbílímlí adj. (med.) urologic. 
+idrarkuwuwğî adj. (farm.) diuretic. 
+idrarlîk s. (anat.) vezică urinară; 
+băşica udului. 
+idrarmeğras î s. (anat.) uretră. 
+idrartorbas î s. (anat.) vezică urinară; 
+băşica udului. 
+Idris-Kuyus î s. (topon.) ("Fântâna lui 
+Idris") Veteranu (jud. ConstanŃa). 
+ifa s. executare; îndeplinire. // ●i fa 
+b o lm a k a se executa; a se îndeplini. 
+●i fa e tm e k a executa; a îndeplini. 
+ifade s. 1. expunere; explicaŃie. 2. 
+exprimare; redare. 3. (jur.) depoziŃie. //
+●i fad e e tm e k a exprima. ●k o l-
+y ú z i fad e s í e tm e k a mima. //
+●a p- a y d î n /a p- a ş î k i f ad e 
+explicaŃie foarte clară. ●ğúm l en í ñ 
+i fad e e t k e n m a na s î sensul 
+exprimat de propoziŃie. ●i fa d e t a r z î 
+formă de exprimare. ●o y l a r î ñ î z n î 
+t a t a r ş a y a k ş î i f ad e e t e s í ñ í z 
+vă exprimaŃi bine opiniile tătăreşte. 
+●t an î k i f ad e s í (jur.) depoziŃia 
+martorului. ●y ú z i f ad e s í expresia 
+feŃei; mimică. 
+ifadedeñ íşmesí s. transfigurare. 
+ifadeetúwğ í adj. explicativ. 
+ifadelí adj. expresiv; expus; explicat. 
+ifadesídeñíşken adj. transfigurat. 
+ifadesíz adj. inexpresiv. 
+ifalî adj. îndeplinit. 
+iffet s. cinste; fidelitate; devotament. 
+iffetlí adj. cinstit; fidel; devotat. 
+iflas s. faliment; bancrută; crah; 
+ruinare. // ●i f l a s e tm e k a da 
+faliment. 
+iflaslî adj. falimentar; bancrută; crah; 
+ruinare. 
+ifna s. distrugere; nimicire. 
+ifnağî adj. distrugător; nimicitor. 
+ifnalî adj. nimicit; distrus.
+ğîgîlma s. cădere; prăvălire; prăbuşire; 
+surpare. 
+ğîgîlmak v.i. 1. a cădea; a se dărâma; 
+a se prăbuşi; a se distruge. 2. (fig.) a 
+se şubrezi; a slăbi. // ●a z t aa 
+ğ î g î l a ğ a k ed í încă puŃin şi cădea. 
+●ğ î g î l î p k e t t í s-a prăbuşit brusc. 
+ğîgîluw s. cădere; prăvălire; prăbuşire; 
+surpare. 
+ğîgîm s. dezastru; catastrofă; 
+calamitate; nenorocire. 
+ğîgîmlî s. dezastruos; catastrofal. 
+ğîgîntî s. ruină; dărâmătură. 
+ğîgîr s. 1. cărare; potecă. 2. curs (şi 
+fig.). 3. (fil.) curent. 4. urmă; făgaş. 
+ğîgîrdaş s. tovarăş; coleg. 
+ğîgîrdaşça adv. tovarăşeşte; colegial. 
+ğîgîrdaşlîk s. tovărăşie; colegialitate. 
+ğîgîrdaştay adv. tovarăşeşte; colegial. 
+ğîgîrşîk s. (dim.) cărăruie; potecuŃă. 
+ğîguw s. doborâre. 
+ğîguwğî adj. distrugător; nimicitor. 
+ğîkmak v.t. 1. a dărâma; a demola. 2. 
+a trânti; a doborî; a culca la pământ. 
+3. (fig.) a ruina; a distruge. // ●ğ a g î p 
+ğ î km a k a trece prin foc şi sabie; a 
+distruge; a incendia. ●gúw en í n 
+ğ î km a k a-l teroriza. ●i t e p 
+ğ î km a k a culca la pământ; a trânti; 
+a doborî. ●r e k o r t ğ î km a k a 
+doborî un record. ●y uw a s î n 
+ğ î km a k a-i strica cuiva casa. 
+ğîl s. (cron.) an. 
+ğîlamak v.i. a plânge. // ●ğ añ g î r -
+ğañ g î r ğ î l am a k a plânge cu 
+hohote. ●ğ î l a g î s î k e lm e k a-l 
+podidi plânsul. ●ğ î l a p s î z l am a k 
+(d. copii) a scânci. ●ó k í r e- ó k í r e 
+ğ î l am a k a plânge în hohote. ●za r -
+za r ğ î l am a k a plânge cu suspine; a 
+plânge în hohote; a hohoti. //
+●ğ î l a y t an plânge frecvent. 
+●t u r ga nd an b e r í t l í ğ î l a y de 
+când s-a sculat plânge. 
+ğîlamsîragan s. smiorcăit. 
+ğîlamsîrama s. smiorcăială. 
+ğîlamsîramak v.i. a se smiorcăi. 
+ğîlamsîraw s. smiorcăială. 
+ğîlamsîrawuk adj. plângăcios; 
+plângăreŃ; smiorcăit; scâncit; bâzâit. 
+ğîlan s. (zool.) şarpe. // ●ğ î l a n 
+s en e s í (cron.) anul şarpelui (conform 
+vechiului calendar tătăresc). ●ğ î l an 
+t e r í s í ş an t a geantă din piele de 
+şarpe. 
+ğîlan, şîñgîrdaklî- s. (zool.) şarpe-
+cu-clopoŃei; crotal (lat., C rotalus 
+horridus). 
+ğîlan, yalanğî - s. (zool.) năpârcă; 
+şopârlă fără membre (lat., An guis 
+f ragilis). 
+ğîlanbalîgî s. (iht.) anghilă (lat., 
+Anguilla an guilla). 
+ğîlan-búrkútí s. (orn.) şerpar (lat., 
+Circaetus gallicus). 
+ğîlanday adj. 1. viclean. 2. şerpuit. 
+ğîlangan s. (jur.) reclamant; petiŃionar. 
+ğîlanî, buga- s. (zool.) boa (lat., 
+Boa co nstrictor). 
+ğîlanî, kobra- s. (zool.) cobră; şarpe-
+cu-ochelari (lat., Naja naja). 
+ğîlanî, piton - s. (zool.) piton (lat., 
+Python). 
+ğîlankaviy adj. şerpuit. 
+ğîlanmak v.i. 1. a se plânge; a se 
+văita; a se văicări; a se jeli; a se jelui. 
+2. (jur.) a reclama; a se jelui. 
+ğîlanmoyînî, Afrika- s. (orn.) pasăre 
+gât de şarpe africană; anhigă africană 
+(lat., An hinga ruf a). 
+ğîlanmoyînî, Hint- s. (orn.) pasăre 
+gât de şarpe orientală; anhigă orientală 
+(lat., An hinga melano gaster). 
+ğîlanotî s. (bot.) iarba-şopârlelor 
+(lat., Polygo num viviparum). 
+ğîlanótmeg í s. (bot.) răculeŃ; cârligat; 
+ŃâŃa-fiului (lat., Polygon um 
+bistorta; Bistorta major). 
+ğîlansútí s. (bot.) şerpariŃă (lat., 
+Glaux ma ritima). 
+ğîlan-şelegí s. (bot.) orbalŃ; iarba-
+tâlharului; iarba-sfântului-Cristofor 
+(lat., Actaea spicata). 
+ğîlan-tóşegí s. (bot.) limba-şarpelui 
+(lat., Ophiogloss um vul gatum). 
+ğîlanuw s. 1. plâns; vaiet; văicăreală. 
+2. (jur.) petiŃie; reclamaŃie; plângere. 
+ğîlanyastîgî s. (bot.) rodul-
+pământului; barba-lui-Aron; 
+cocoşoaică; mărceŃ (lat., Arum 
+maculatum). 
+ğîlap-sîzlama s. scâncet; plânset. 
+ğîlap-sîzlaw s. scâncet; plânset. 
+ğîlar-sewet s. (bot.) salcie-
+plângătoare; salcie-pletoasă (lat., 
+Salix babylonica). 
+ğîlar-torak s. (bot.) salcie-plângătoare; 
+salcie-pletoasă (lat., Salix 
+babylonica). 
+ğîlaşmak v.i. a boci laolaltă; a plânge 
+laolaltă. 
+ğîlatkan-kúldúrgen adj. tragicomic. 
+ğîlatmak v.t. a determina să plângă. 
+ğîlatma -kúldúrme s. tragicomedie. 
+ğîlatuwğî adj. lamentabil. 
+ğîlatuwğî -kúldúrúwğí adj. 
+tragicomic. 
+ğîlaw s. plâns; plânset. 
+ğîlawuk adj. plângăcios; plângăreŃ; 
+smiorcăit; scâncit; bâzâit. 
+ğîlaytan adj. plângăcios; plângăreŃ; 
+smiorcăit; scâncit; bâzâit. 
+ğîl-bağîl adv. din an în an; anual. 
+ğîlda adv. anual; pe an. 
+ğîldam adj. 1. agil; sprinten; vioi. 2. 
+jucăuş; neastâmpărat; zburdalnic; 
+ştrengar. 
+ğîldamlîk s. 1. agilitate; sprinteneală; 
+vioiciune. 2. neastâmpăr; zburdălnicie; 
+ştrengărie. 
+ğîldan-ğ îlga adv. din an în an; anual. 
+ğîlga s. 1. râu; fluviu. 2. vale; bazin; 
+luncă; păşune. // ●E d í l ğ î l g a s î 
+fluviul Volga. 
+ğîlga-ğumurankulag î s. (bot.) 
+cornuŃ-de-câmp (lat., Cerastium 
+arvense). 
+ğîlga-kalampîrtamîrî s. (bot.) 
+călŃunul-doamnei ( lat., Geum 
+rivale). 
+ğîlga-karanfiltamîrî s. (bot.) 
+călŃunul-doamnei ( lat., Geum 
+rivale). 
+ğîlga-karzag î s. (zool.) scoică-de-râu 
+(lat., U nio). 
+ğîlga-kuşótmeg í s. (bot.) troscot-de-
+apă (lat., Poly gon um amf ibium). 
+ğîlgaşîk s. pârâu. 
+ğîlga-ş îrîldagî s. (orn.) greluşel de 
+zăvoi ( lat., Locustella 
+f luviatilis). 
+ğîlga-torsîg î s. (bot.) troscot-de-apă 
+(lat., Polygo num amf ibium). 
+ğîlgîn s. (bot.) tamariscă; cătină (lat., 
+Tamarix germanica; Myrica 
+germanica). 
+ğîlgîn-torgayî s. (orn.) vrabie persană 
+(lat., Passer pyrrho notus). 
+ğîlgîr adj. 1. agil; sprinten; vioi. 2. 
+jucăuş; neastâmpărat; zburdalnic; 
+ştrengar. 
+ğîlgîrlîk s. 1. agilitate; sprinteneală; 
+vioiciune. 2. neastâmpăr; zburdălnicie; 
+ştrengărie. 
+ğîlîm s. 1. plasă; năvod; fileu. 2. 
+(tehn.) reŃea. 3. (fig.) bandă; ceată; 
+clică; şleahtă. // ●ó r ím ğ e k ğ î l îm î 
+păienjeniş; pânză de păianjen. 
+ğîlîmgakarşî adj. antigang. 
+ğîlînaturgan adj. încălzit repetitiv; 
+reîncălzit. 
+ğîlîngan adj. încălzit; încins; 
+dezmorŃit. 
+ğîlînma s. încălzire. // ●o d an î ñ 
+ğ î l î nm a s î încălzirea camerei. 
+ğîlînmak v.i. a se încălzi. 
+ğîlînuw s. încălzire; încingere; 
+dezmorŃire. 
+ğîlîşkan adj. mişcat; retras. 
+ğîlîşma s. mişcare; retragere. 
+ğîlîşmak v.i. a se mişca; a se retrage. 
+ğîlîşuw s. mişcare; retragere. 
+ğîlîtaberílgen adj. încălzit repetitiv; 
+reîncălzit. 
+ğîlîtaberme s. încălzire repetitivă; 
+reîncălzire. 
+ğîlîtabermek v.t. a încălzi repetitiv; a 
+reîncălzi. 
+ğîlîtaturma s. încălzire repetitivă; 
+reîncălzire. 
+ğîlîtaturmak v.t. a încălzi repetitiv; a 
+reîncălzi. 
+ğîlîtaturuw s. încălzire repetitivă; 
+reîncălzire. 
+ğîlîtmak v.t. a încălzi. // ●b í r t a a 
+ğ î l î tm a k a reîncălzi. //
+●k a l o r i f e r ğ î l tm a y caloriferul nu 
+încălzeşte. 
+ğîlîz adj. debil; slab; plăpând. 
+ğîlîzlaşmak v.i. a slăbi. 
+ğîlîzlîk s. debilitate. 
+ğîlk adj. 1. stricat; alterat. 2. (d. ouă) 
+clocit; alterat. // ●ğ î l k ğ îm î r t a ou 
+clocit. 
+ğîlka adj. neamestecat; veritabil; pur; 
+curat. // ●ğ î l k a a l t î n aur veritabil. 
+ğîlkaytîmî s. aniversare. 
+ğîlkî I. adj. (d. animale) matur; adult. 
+II. s. cal nedresat. 
+ğîllî adj. 1. cald; călduros; termal; 
+termic. 2. căldură. // ●ğ î l l î s uw apă 
+caldă. 
+ğîllîbergen adj. exotermic. 
+ğîllîk I. adj. 1. de un an. 2. anual; pe 
+un an. II. s. 1. anuar. 2. 
+retribuŃie/salariu pe un an. 
+ğîllîsaklar adj. termoizolator; 
+termoizolant. //
+●ğ î l l î s a k l a r / s î ğa k t u t a r í ş e 
+termos. 
+ğîllîtutkan adj. călduros. 
+ğîlpîldagan adj. licăritor; scânteietor; 
+scăpărător. 
+ğîlpîldama s. 1. scânteie. 2. licărire; 
+scânteiere; scăpărare. 
+ğîlpîldamak v.i. a licări; a scânteia; a 
+scăpăra. 
+ğîlpîldaw s. 1. scânteie. 2. licărire; 
+scânteiere; scăpărare. 
+ğîlpîldawğî adj. licăritor; scânteietor; 
+scăpărător. 
+ğîlpîltî s. 1. licărire; scânteiere; 
+scăpărare. 2. scânteie. 
+ğîltîragan adj. 1. sclipitor; strălucitor; 
+lucitor; lustruit; şlefuit. 2. strălucit; 
+eminent. 
+ğîltîramak v.i. a luci; a străluci; a 
+sclipi. // ●k ú n e ş ğ î l t î r a y soarele 
+străluceşte. 
+ğîltîratîlgan adj. lustruit; poleit; 
+şlefuit. 
+ğîltîratîlmak v.i. a se lustrui; a se da 
+luciu; a se şlefui. 
+ğîltîratma s. lustruire; lustru; 
+şlefuire.
+engellegen s. inhibitor. 
+engelleme s. obstrucŃie. 
+engellemek v.t. 1. a împiedica. 2. (la 
+lupte tătăreşti) a pune piedică. 
+engellengen adj. barat; deconcertat; 
+dejucat; inhibat; stopat; oprit; 
+obstrucŃionat; anihilat; zădărnicit. 
+engellenme s. inhibiŃie. 
+engellenúw s. inhibiŃie. 
+engellew s. obstrucŃie. 
+engellí adj. 1. cu barieră; cu obstacol; 
+cu piedică; împiedicat. 2. handicapat; 
+infirm; invalid. // ●ú ş b i ñ m e t r e 
+en g e l l í ğ uw u rm a s î (sport) cursa 
+de trei mii metri obstacole. ●y ú z 
+m e t r e e n g e l l í ğuw u rm a s î 
+(sport) cursa de alergare o sută metri 
+garduri. 
+engelsíz adj. nestingerit. 
+Enge -Malle/Kenğe-Malle s. (topon.) 
+("Cartierul Nou") Mereni (jud. 
+ConstanŃa). 
+engen I. adj. 1. coborâtor; 
+descrescător. 2. coborât; descrescut; 
+scăzut. II. s. (med.) paralitic. 
+engerek s. (zool.) viperă; năpârcă 
+(lat., Vipera be ru s). 
+engerek, múyúzlí - s. (zool.) viperă-
+cu-corn (lat., Vipera 
+ammodytes). 
+Enge -Sale/Kenğe -Saluw s. (topon.) 
+("Satul Nou") Enisala (jud. Tulcea). 
+Engez s. (topon.) General Scărişoreanu 
+(jud. ConstanŃa). 
+engile s. (iht.) anghilă (lat., 
+Anguilla an guilla). 
+engin I. adj. 1. vast; imens; întins; 
+spaŃios. 2. (d. terenuri) jos; lăsat. II. s. 
+larg; largul mării. 
+enginar s. (bot.) anghinare (lat., 
+Cyna ra scoly mus). 
+enginlík s. imensitate; vastitate. 
+enğúmen s. comisie; comitet. //
+●k a rm a en ğúm en comisie mixtă. 
+enis s. prieten; amic. 
+Enise s. (antrop. f., arab.) “Prietena 
+apropiată”. 
+enison s. (bot.) anason; anison (lat., 
+Pimpinella anisum; Anisum 
+vulga re). 
+enisonî, kanara- s. (bot.) pătrunjel-
+de-câmp (lat., Pimpinella 
+saxif raga). 
+enisonî, yîldîz- s. (bot.) anason-
+stelat; anason-franŃuzesc; badian 
+(lat., Illicium anisatum; Illicium 
+veru m). 
+eník I. adj. lăsat în jos; coborât; 
+aplecat. II. s. căŃel; pui de vulpe; pui 
+de lup. 
+enínde -soñînda adv. în sfârşit; în 
+fine; în cele din urmă. 
+eníne adv. de-a latul; în lăŃime; de-a 
+curmezişul; transversal; pe latitudine. 
+// ●en í n e k e sm e (mat.) secŃiune 
+transversală. 
+eníş s. pantă; povârniş; versant; 
+coastă. 
+eníşte s. cumnat (soŃul surorii mai 
+mari). 
+eníştiy s. (dim., fam.) cumnăŃel (soŃul 
+surorii mai mari). 
+enkaz s. ruină; dărâmătură. 
+enlem s. (geogr.) latitudine. 
+enleme s. 1. lăŃire; lărgire. 2. 
+străbatere de-a latul. 
+enlemek v.t. 1. a merge de-a latul; a 
+străbate de-a latul. 2. a lăŃi; a lărgi. 
+enlengen adj. 1. străbătut de-a latul. 
+2. lăŃit; lărgit. 
+enlenme s. lărgire; lăŃire. 
+enlenmek v.i. 1. a fi străbătut de-a 
+latul. 2. a se lăŃi; a se lărgi. 
+enlenúw s. lărgire; lăŃire. 
+enlew s. 1. lăŃire; lărgire. 2. străbatere 
+de-a latul. 
+enliy adv. lăŃiş; în sensul lăŃimii; de-a 
+latul; în lăŃime; de-a curmezişul; 
+transversal; pe latitudine. 
+enlí adj. lat; larg. 
+enlíçinema s. cinemascop. 
+enlídeweran s. cinemascop. 
+enlík s. lăŃime; lărgime; lat. 
+enme s. 1. scădere; descreştere. 2. 
+(med.) apoplexie. 3. (geogr.) reflux. 
+enmek v.i. 1. a scădea; a descreşte (şi 
+fig.). 2. a se da jos; a coborî. 3. (d. 
+preŃuri) a descreşte; a se micşora. 4. 
+(med.) a paraliza. 
+enser s. piron. 
+enserleme s. pironire. 
+enserlemek v.t. a pironi. 
+enserlengen adj. pironit. 
+enserlenmek v.i. a fi pironit. 
+enserlew s. pironire. 
+enserlí adj. pironit. 
+ensersíz adj. fără piroane. 
+ensíz adj. strâmt. // ●en s í z t a k t a 
+şipcă; leaŃ; scândurică. 
+entár/entárí s. rochie. //
+●k ad i f e d e n e n t á r rochie de 
+catifea. ●y ú p e k e n t á r rochie de 
+mătase. 
+enter s. (zool.) babuin (lat., Papio 
+leucophae us). 
+enterita s. (med.) inflamarea 
+intestinului subŃire; enterită. 
+entígúw s. 1. hoinăreală; rătăcire; 
+vagabondaj; cutreierare; colindare. 2. 
+hoinăreală; vânturare. 
+entígúwğí s. hoinar; rătăcitor; 
+vagabond. 
+entíkme s. hoinăreală; vânturare. 
+entíkmek v.i. a hoinări; a rătăci; a 
+vagabonda; a cutreiera; a colinda. 
+enúw s. 1. coborâre; descreştere. 2. 
+scădere; descreştere. 3. (med.) 
+apoplexie. 4. (geogr.) reflux. 
+enva s. fel; varietate. 
+envayiy adj. felurit; variat. //
+●en v a y i y t ú r l í felurit; diferit; 
+variat. 
+envayiyler s., pl. varieteu; varietăŃi. 
+enver adj. foarte strălucitor; foarte 
+luminos; foarte radios. 
+Enver/Enwer s. (antrop. m., arab.) 
+“Cel radios”. 
+enze adj. slab; vlăguit; debil. 
+enzima s. (chim.) enzimă. 
+eñ adv. cel mai. // ●eñ y ú k s e k 
+n o k t ad an g e şm e k a culmina. //
+●eñ a z î n da n cel puŃin. ●eñ 
+b a l a b a n cel mai mare. ●eñ 
+b a l a b a n um um i y b ó l úw ğ í 
+(mat.) cel mai mare divizor comun. 
+●eñ b e k cel mai; cea mai. ●eñ 
+ğan î cel mai nou; modern. ●eñ 
+gú z e l cel mai frumos. ●eñ 
+k e l í ş k en optim. ●eñ k e ş cel 
+târziu. ●eñ k î s k a ğ o l drumul cel 
+mai scurt. ●e ñ k î s k a zam an da 
+în cel mai scurt timp. ●e ñ k í ş k en e 
+cel mai mic. ●eñ k î z g î n w a k î t 
+punct culminant. ●eñ s o ñ cel din 
+urmă; modern. ●eñ u y g un optim; 
+ideal. ●eñ y a k î ş k an optim; ideal. 
+●eñ y a k ş î optim; ideal. ●eñ y a k ş î 
+a r z î l a r ! cele mai bune urări!; ●eñ 
+y ú k s e k d e r eğ ed e în cel mai înalt 
+grad; maxim. ●eñ y ú k s e k n o k t a 
+punct culminant. ●m en ím eñ 
+s ú y g en b e s t eğ ím compozitorul 
+meu preferat. 
+eñge s. pace; înŃelegere; conciliere. //
+●eñ g e b o l s î n d ún i y a da ! să fie 
+pace în lume!; ●eñ g e ğ e l s e s í 
+conferinŃă de pace. ●eñ g e m en 
+b e r e k e t pace şi prosperitate. ●e ñ g e 
+m uw a h ed e s í (pol.) tratat de pace. 
+Eñge -Deriyasî s. (hidron.) Oceanul 
+Pacific. 
+eñgeğí adj. iubitor de pace; paşnic; 
+pacifist. 
+eñgeğíl ík s. pacifism. 
+eñgeleşken adj. împăcat; împăciuit. 
+eñgeleşme s. 1. conciliere; 
+împăciuire; împăcare; reconciliere. 2. 
+înŃelegere; acord. 
+eñgeleşmegen adj. neîmpăcat. 
+eñgeleşmek v.i. a se împăca; a se 
+înŃelege. 
+eñgeleşmez adj. ireconciliabil; de 
+neîmpăcat. 
+eñgeleştírgen adj. împăciuitor. 
+eñgeleştírme s. împăcare; 
+reconciliere. 
+eñgeleştírmek v.t. a împăca; a 
+reconcilia. 
+eñgeleştírúw s. 1. împăciuire. 2. 
+împăcare; reconciliere. 
+eñgeleştírúwğ í s. împăciuitorist. 
+eñgeleştírúwğúlúk s. 
+împăciuitorism. 
+eñgeleşúw s. 1. conciliere; împăciuire; 
+împăcare; reconciliere. 2. înŃelegere; 
+acord. 
+eñgesúygen adj. iubitor de pace; 
+paşnic; pacifist. 
+eñgesúyúw s. pacifism. 
+eñgeşúnas adj. iubitor de pace; 
+paşnic; pacifist. 
+eñgeşúnaslîk s. pacifism. 
+eñkíygen adj. lăsat pe vine; care şade 
+pe vine; aplecat. 
+eñkíyme s. lăsare pe vine; şedere pe 
+vine; aplecare; plecăciune. 
+eñkíymek v.i. a se lăsa pe vine; a 
+şedea pe vine; a se apleca. 
+eñkíytmek v.t. a-l face să se lase pe 
+vine; a-l face să şadă pe vine; a 
+determina să se aplece. 
+eñkíyúw s. lăsare pe vine; şedere pe 
+vine; aplecare; plecăciune. 
+eñse I. adj. cervical. II. s. (anat.) ceafă. 
+// ●eñ s e s í k a l î n persoană 
+influentă. 
+eñse súyegí s. (anat.) vertebră 
+cervicală. 
+eñseleme s. prindere; reŃinere; 
+înhăŃare; înşfăcare. 
+eñselemek v.t. a prinde; a înhăŃa; a 
+înşfăca. 
+eñselengen adj. prins; înhăŃat; 
+înşfăcat. 
+eñselenmek v.i. a fi prins; a fi 
+înhăŃat; a fi înşfăcat. 
+eñselew s. prindere; reŃinere; 
+înhăŃare; înşfăcare. 
+eñşí s. 1. fief; feudă. 2. zestre. 
+eñşíğ í s. feudal. 
+eñşíğ ílík s. feudalism. 
+eñşíleme s. 1. feudalizare. 2. 
+înzestrare. 
+eñşílemek v.t. 1. a feudaliza. 2. a 
+înzestra. 
+eñşílengen adj. 1. înzestrat. 2. 
+feudalizat. 
+eñşílew s. 1. feudalizare. 2. 
+înzestrare. 
+eñşílí adj. 1. feudal. 2. cu zestre; 
+înzestrat. 
+eñşílík s. obiect pentru zestre. 
+eñúst adj. absolut; suprem; sublim; 
+extrem. 
+eñústlúk s. supremaŃie.
+dere-aykabagî s. (orn.) lăcar mic 
+(lat., Acrocephal us 
+schoenobae nus). 
+dereden-tepeden adv. câte în lună şi 
+în stele. // ●d e r ed e n- t e p e d en 
+k o n î şm a k a vorbi câte în lună şi în 
+stele. 
+dereğe I. adv. atât de; aşa de. II. s. 1. 
+grad (şi fiz., mat.). 2. treaptă; nivel. //
+●b í r d e r e ğ e g e k a da r într-o 
+oarecare măsură. ●d e r e ğ e em s a l î 
+(mat.) exponent. ●eñ y ú k s e k 
+d e r eğ ed e în cel mai înalt grad; 
+maxim. ●im k áan d e r e ğ e s í nd e pe 
+măsura posibilităŃilor. ●m úm k i n 
+d e r eğ e s í n d e pe cât e posibil. 
+●ó l ím d e r eğ e s í rata mortalităŃii. 
+●s î ğa k l î k d e r eğ e s í grad de 
+căldură. ●s í z g e s o ñ d e r eğ e 
+m ed i nm en vă sunt profund 
+îndatorat. ●s o ñ d e r e ğ e (gram.) 
+superlativ. ●s o ñ d e r eğ e 
+m em n unm an sunt extrem de 
+mulŃumit. ●s o ñ d e r eğ ed e în 
+ultimul grad. 
+dereğe -dereğe adv. treptat; gradat. 
+dereğegeakelúw s. nivelare; 
+îndreptare. 
+dereğegekelúw s. nivelare; 
+îndreptare. 
+dereğelergebólíngen adj. gradat. 
+dereğelergebólúw s. gradare. 
+dereğelí adj. 1. gradat. 2. treptat; 
+nivelat. // ●b í r í n ğ í d e r eğ e l í 
+d e ñ k l em (mat.) ecuaŃie simplă. 
+●e k í n ğ í d e r e ğ e l í subaltern; 
+subordonat; colateral. ●e k í n ğ í 
+d e r eğ e l í m uw a d e l e (mat.) ecuaŃie 
+de gradul al doilea. 
+dereğelík s. gradaŃie. 
+dereğeólşer s. termometru. 
+dereğesíz adj. denivelat. 
+dereğesízlík s. denivelare. 
+deren adj. 1. adânc. 2. (fig.) profund; 
+aprofundat. // ●d e r en b í r n e f e s 
+a lm a k a inspira adânc; a-şi trage 
+sufletul; a răsufla uşurat. ●d e r en 
+í z í k a lm a k a se întipări. ●d e r en 
+t ú ş únm e k a chibzui adânc; a 
+medita. // ●d e r e n ş a na k farfurie 
+adâncă. ●d e r e n ş ú k ú r an l a r îm n î 
+s unam an ! vă transmit adânci 
+mulŃumiri!; ●d e r e n y u k î somn 
+profund. 
+derenbayîlma s. (med.) sincopă. 
+derenbayîluw s. (med.) sincopă. 
+deren -deren adv. foarte adânc; 
+profund. 
+derenleşken adj. adâncit; aprofundat. 
+derenleşme s. adâncire; adâncitură. 
+derenleşmek v.i. 1. a se adânci. 2. 
+(fig.) a se aprofunda. 
+derenleştírgen adj. aprofundat. 
+derenleştírme s. aprofundare. 
+derenleştírmek v.t. 1. a adânci. 2. 
+(fig.) a aprofunda. 
+derenleştírúw s. aprofundare. 
+derenleşúw s. adâncire; adâncitură. 
+derenlík s. 1. adâncime. 2. (fig.) 
+profunzime. 
+derentí s. gloată; adunătură. 
+derentúşúnúw s. meditaŃie; cugetare; 
+reflexie; speculaŃie. 
+dere-şîbawî s. (orn.) lăcar mic (lat., 
+Acrocep halus schoe nobaen us). 
+dergí s. revistă. // ●a y l î k d e r g í 
+revistă lunară. ●h ap t a l î k d e r g í 
+revistă săptămânală. ●o n b e ş 
+k ún l ú k d e r g í revistă bilunară. 
+●ş a k l î k d e r g í revistă periodică. 
+●y î l l î k d e r g í anuar. 
+derhal adv. imediat; îndată; 
+numaidecât; deodată. 
+deriya s. (geogr.) mare; ocean. 
+deriyayiy adj. oceanic. 
+deriyaz s. coasă. 
+deriyazğî s. cosaş. 
+deriyazlama s. cosire. 
+deriyazlamak v.t. a cosi. 
+deriyazlangan adj. cosit. 
+deriyazlanmak v.i. a se cosi; a fi 
+cosit. 
+deriyazlatmak v.t. a determina să 
+cosească. 
+derman I. adj. farmaceutic. II. s. 1. 
+putere; forŃă; vigoare; rezistenŃă. 2. 
+(fig.) remediu; leac. // ●î s l a tm a 
+d e rm a n î loŃiune. ●pa t en t l í 
+d e rm a n medicament brevetat. 
+●z e r l í d e rm an drog. 
+dermanğî adj. tămăduitor; vindecător; 
+lecuitor; curativ. 
+dermankana I. adj. farmaceutic. II. s. 
+farmacie; drogherie. 
+dermankanabílímğís í s. farmacolog. 
+dermankanabílímí s. farmacologie; 
+farmaceutică. 
+dermankanağ î s. farmacist. 
+dermankanağ îlîk s. farmacie (ca 
+ştiinŃă). 
+dermanlî adj. 1. puternic; rezistent. 2. 
+remediat; lecuit. 
+dermanotî s. (bot.) sănişoară; 
+şarponel; buruiană-de-dambla; iarba-
+frântului; cinci-foi (lat., Sanicula 
+europea). 
+dermansîz adj. 1. epuizat. 2. 
+incurabil; iremediabil. 
+dermansîzbîrakkan adj. epuizant; 
+extenuant. 
+dermansîzlîk s. epuizare; sleire. //
+●d e rm an s î z l î k k a o g î r a tm a k a 
+deprima. 
+dermansîzlîkkaog îragan adj. 
+demoralizat; deprimat. 
+dermansîzlîkkaog îraw s. 
+demoralizare; deprimare. 
+dermantabar adj. curabil; remediabil; 
+reparabil. 
+dermantapkan adj. însănătoşit; 
+lecuit; tămăduit; vindecat; refăcut; 
+restabilit. 
+dermatoloğik adj. dermatologic. 
+dermatoloğiya I. adj. dermatologic. 
+II. s. dermatologie. 
+dermatoloğiyağî s. dermatolog. 
+dermatoloğiyalî adj. dermatologic. 
+dernek s. 1. societate; organizaŃie. 2. 
+cerc; ambianŃă. 
+ders s. 1. lecŃie; curs. 2. (şcol.) temă. 
+3. (fig.) pildă; învăŃătură. // ●d e r s 
+b e rm e k a da lecŃii; a medita. ●d e r s 
+ş î ga rm a k a trage învăŃăminte din…; 
+a învăŃa din…; // ●b ú gú n ú ş ún 
+d e r s temă pentru azi. ●d e r s l e r í ñ 
+á r úw m í ? înveŃi bine?; ●d e r s n í ñ 
+y a zm a s î scrierea lecŃiei. ●d e r s t en 
+b u r un k a l a ş a ş a d î k înainte de 
+lecŃie am mâncat covrigi. ●d e r s t en 
+s o ñ r a după lecŃie. ●ed eb i y a t 
+d e r s í curs de literatură. ●eg e r 
+d e r s l e r í ñ b o l s a , e r t e n e r t e 
+t u r s a t î rm an dacă ai lecŃii 
+dimineaŃa te voi trezi devreme. 
+●k î r îm t a t a r ğ a d e r s k i t a b î 
+manual de limba tătară crimeană. 
+●s a g a d e r s b e r s í n ! să te 
+mediteze!; 
+dersalgan adj. învăŃat; instruit; 
+meditat. 
+dersbergen s. învăŃător; instructor; 
+meditator. 
+dersberúw s. învăŃare; instruire; 
+meditaŃie. 
+dersiy adj. ca lecŃie. // ●d e r s i y 
+m ú t aa k î p după lecŃie. 
+derskana s. clasă; sală de cursuri. 
+derskaytaruw s. chiul. 
+derskaytaruwğî s. chiulangiu. 
+derslík s. clasă; sală de cursuri. //
+●z í l d e n ew e l d e r s l í k k e k í r ! 
+intră în clasă înainte de clopoŃel!; 
+dersttenkaşkan s. chiulangiu. 
+dersttenkaşuw s. chiul. 
+dert s. 1. boală; suferinŃă; chin. 2. 
+necaz; supărare; belea; grijă; impas; 
+păs. 3. dorinŃă; cerere; solicitare; 
+aspiraŃie; năzuinŃă; ideal. // ●b a ş î 
+d e r t k e k í rm e k a da de bucluc; a 
+da de necaz. ●b a ş î d e r t t e 
+b o lm a k a fi în bucluc; a fi necăjit. 
+●d e r t í p í tm em e k a nu mai scăpa 
+de necazuri. ●d e r t í n p a y l a şm a k 
+a împărtăşi durerea cuiva. ●d e r t í n 
+t ó km e k / a şm a k a-şi descărca 
+sufletul; a-şi vărsa focul. // ●d e r t 
+o r t a g î tovarăş de suferinŃă. 
+●k e ş í nm e d e r t í lupta pentru 
+existenŃă. 
+dertaşuw s. confesiune; destăinuire; 
+mărturisire. 
+dert-bela s. necaz; nenorocire. 
+dertlenmek v.i. a se necăji; a se 
+întrista. 
+dertleşmek v.i. a-şi spune necazul 
+unul altuia; a se confesa reciproc. 
+dertlí adj. necăjit; amărât; trist. 
+dertlí -dertlí adj. necăjit; amărât; 
+trist. 
+dertpaylaşkan adj. compătimitor; 
+confident. 
+dertpaylaşuw s. compătimire; 
+confidenŃă. 
+dertsíz adj. fără griji; fără necazuri. 
+deruhte s. angajament. 
+deruhteğí s. angajator; patron; 
+exploatator. 
+deruhteğíler s., pl. patronat. 
+deruhtelí adj. angajat. 
+deruniy adj. spiritual; sufletesc. 
+derviş s. 1. (la musulmani) călugăr; 
+derviş. 2. (fig.) om simplu; modest. 
+dervişlík s. (la musulmani) călugărie. 
+derweze s. poartă. // ●a r k a 
+d e r w e z e s í poartă de serviciu. 
+●o l a r d e r w e z e n í ñ aw u z un da 
+b e k l i y l e r ei aşteaptă la poartă. 
+derwezeğí s. portar; uşier. 
+derwezeşík s. portiŃă. 
+desen s. (text.) desen; model. 
+desert s. (gastron.) desert. // ●d e s e r t 
+t a k îm î serviciu de desert. 
+desise s. intrigă; învrăjbire. 
+desiseğí s., adj. intrigant. 
+desiseğílík s. intrigă; învrăjbire. 
+despot s., adj. despot. 
+despotlîk s. despotism. 
+dessas s., adj. intrigant. 
+destan s. poem; epopee. // ●t í l l e r g e 
+d e s t a n b o lm a k a-i merge vestea şi 
+povestea; a intra in legendă. 
+destanğî s. narator. 
+destaniy adj. (lit.) epic. 
+deste s. 1. buchet; legătură. 2. mâner; 
+toartă; ureche. 3. pâlc; grup. 
+destek s. 1. suport. 2. (fig.) suport; 
+sprijin. // ●d e s t e k b o lm a k a 
+sprijini. ●d e s t e k k e ş a k î rm a k a 
+invoca. // ●d e s t e g í m e n cu 
+ajutorul; sub auspiciile. 
+desteklegen adj. susŃinător; 
+cooperant. 
+destekleme s. ajutorare; ajutor; 
+sprijin.
+çaher num. (prsn.) patru. 
+çaherşenbe s. (cron., prsn.) miercuri. 
+çakîr adj. 1. albastru deschis; bleu. 2. 
+(d. ochii unei fiinŃe) ceacâr. 
+Çakîr s. (antrop. m.) "Ceacârul". 
+çark s. roată; volant; strung. 
+çark-î felek iz.prsn. roata lumii; roata 
+destinului; roata norocului. 
+çarklama s. strunjire. 
+çarklamak v.t. a strunji. 
+çarklangan adj. strunjit. 
+çarklanmak v.i. a se strunji. 
+çarklatmak v.t. a determina să 
+strunjească. 
+çarklî adj. strunjit. 
+çarkşî s. rotar; strungar. 
+çarkşîlîk s. olărit; strungărie. 
+çarm îk s. 1. răstignire; crucificare. 2. 
+cruce; crucifix; semnul crucii. 
+çarm îkkatartîlgan adj. crucificat; 
+răstignit. 
+çarm îkkatartuw s. crucificare; 
+răstignire. 
+çarm îklama s. crucificare; răstignire. 
+çarm îklamak v.t. a crucifica; a 
+răstigni. 
+çarm îklangan adj. crucificat; 
+răstignit. 
+çarm îkşî s. (ist.) cruciat. 
+çarş î s. piaŃă; bazar. 
+çawun s. ceaun. 
+çawuş s. 1. (mil.) comandant de 
+pluton; sergent. 2. conducătorul unui 
+pelegrinaj; conducătorul uenei 
+caravane. 
+Çawuş-Kóy s. (topon.) Ciauşchioi (azi 
+Războieni, prin unire cu satul Alifaca) 
+(jud. Tulcea). 
+çay s. pârâu. 
+çárdah num. (prsn.) paisprezece. 
+çeçen I. adj. înŃelept; chibzuit. II. s. 
+poet; rapsod; bard; trubadur; 
+menestrel; tălmaci. 
+çeçenlík s. înŃelepciune. 
+çedír s. (bot.) cedru (lat., Cedrus). 
+çehar num. (prsn.) patru. 
+çeharşenbe s. (cron., prsn.) miercuri. 
+çehel num. (prsn.) patruzeci. 
+çek s. (fin.) cec. // ●ç e k k a r n e t í 
+carnet de cec. 
+çek s., adj. ceh. 
+Çekiye s. (topon.) Cehia. 
+çekiyelí s., adj. ceh. 
+çekşe I. adv. în limba cehă; ceheşte. 
+II. s. (limba) cehă. 
+Çelebiy/Şelebí s. (antrop. m.) "Cel 
+amabil". 
+çelofan s. celofan. 
+çelt s. celt. 
+çeltlík adj. celtic. 
+çeluloza s. celuloză. 
+çemen s. (bot.) schinduf (lat., 
+Trigo nella f oenu m graecu m). 
+çentigram s. centigram. 
+çentilitre s. centilitru. 
+çentima s. centimă. 
+çentimetre s. centimetru. 
+çentrala s. centrală. // ●e l e k t r i k 
+ç e n t r a l a s î centrală electrică. 
+●t e rm i k ç en t r a l a s î 
+termocentrală; centrală termoelectrică. 
+çentrifuk adj. centrifug. 
+çentripet adj. centripet. 
+çenzor s. cenzor. 
+çenzura s. cenzură. 
+çenzuralî adj. cenzurat. 
+çeram ika s. ceramică. 
+çerkez s., adj. cerchez. 
+çernoziyom s. cernoziom. 
+çertifikat s. certificat. 
+çeşme s. cişmea. 
+çete s. 1. ceată; bandă; clică; şleahtă. 
+2. grup de partizani. 
+çeteğ í s. partizan. 
+çetin adj. 1. (d. oameni) dur; aspru; 
+sever. 2. (d. terenuri) abrupt; 
+prăpăstios. 3. (d. acŃiuni) dificil; greu; 
+anevoios. 
+çetinleşme s. înăsprire; agravare; 
+înrăutăŃire. 
+çetinleşmek v.i. a se înăspri; a se 
+agrava; a se înrăutăŃi. 
+çetinleşúw s. înăsprire; agravare; 
+înrăutăŃire. 
+çetinlík s. gravitate; dificultate. 
+çetona s. (chim.) cetonă. 
+Çetti'níñ -ğelpazekuyrugî s. (orn.) 
+stufărică (lat., Cettia cetti). 
+çevik adj. agil; sprinten; vioi. 
+çeviklík s. agilitate; sprinteneală; 
+vioiciune. 
+çezariyana s. (med.) cezariană. 
+çibernetika I. adj. cibernetic. II. s. 
+cibernetică. 
+çibernetikağ î s. cibernetician. 
+çifre s. cifru; cod. 
+çifreleme s. codificare; cifru. 
+çifrelemek v.t. a cifra. 
+çifrelengen adj. codificat; cifrat. 
+çifrelí adj. cifrat; codificat. 
+çihil num. (prsn.) patruzeci. 
+çiklon s. ciclon. 
+çil s. pistrui. 
+Çile s. (topon.) Chile. 
+çilelí s., adj. chilian. 
+çilindre s. 1. (mat.) cilindru. 2. 
+(constr.) cilindru; compresor (pt. 
+drumuri). 3. joben. 
+çilindrelí adj. cilindric. 
+çilindrik adj. (mat.) cilindric. 
+çiliy s. amestec tradiŃional de 
+condimente; chili mexican. 
+çiliy-búberí s. (bot.) chili (lat., 
+Capsicum f rutescens). 
+çillí adj. pistruiat. 
+çim s. 1. gazon; iarbă. 2. (bot.) 
+muşchi. 
+çimen s. iarbă; verdeaŃă. 
+çimenlík s. pajişte. 
+çiment s. ciment. 
+çimentleşken adj. cimentat. 
+çimentleşme s. cimentare. 
+çimentleşmek v.i. a se cimenta. 
+çimentleştírmek v.t. a cimenta. 
+çimentleşúw s. cimentare. 
+çimentlí adj. cimentat. 
+çimlend írmek v.t. a pune la 
+germinat. 
+çimlengen adj. germinat. 
+çimlenme s. germinare; germinaŃie. 
+çimlenmek v.i. a germina. 
+çimlenúw s. germinare; germinaŃie. 
+çin s., adj. chinez; chinezesc. 
+Çin/Kîtay s. (topon.) China. 
+çinema s. cinematograf. //
+●g e z úw ğ í ç i n em a caravană 
+cinematografică. 
+çinemağî s. cineast. 
+çinemağîlîk s. cinematografie.
+çinemaskop s. cinemascop. 
+çinemasúygen s. cinefil. 
+çinemaşúnas s. cinefil. 
+çinematik adj. (fiz.) cinematic. 
+çinematika s. (fiz.) cinematică. 
+çinematikalî adj. (fiz.) cinematic. 
+çinemaúyí s. cinematecă. 
+çinetik adj. (fiz.) cinetic. 
+çinetika s. (fiz.) cinetică. 
+çinetikalî adj. (fiz.) cinetic. 
+çinğe I. adv. în limba chineză; 
+chinezeşte. II. s. (limba) chineză. 
+çinik adj. cinic. 
+çinism s. cinism. 
+çiniy s. faianŃă; porŃelan. 
+çiniyğílík s. 1. arta de prelucrare a 
+faianŃei. 2. obiecte de faianŃă. 
+çinlí s., adj. chinez; chinezesc. 
+çirk s. circ. 
+çiroza s. (med.) ciroză. //
+●k a r a ğ í g e r ç i r o za s î (med.) 
+ciroză. 
+çisterna s. cisternă. // ●ç i s t e r n a 
+v a g o n î vagon cisternă. 
+çistita s. (med.) cistită. 
+çiş s. (fam.) urină. // ●ç i ş e tm e k 
+(fam.) a urina. 
+çitrik adj. (chim.) citric. // ●ç i t r i k 
+ğ em í ş l e r citrice. 
+çit-sarmaş îgî s. (bot.) cupa-vacii 
+(lat., Convolvu lus sepium; 
+Calystegia sepium). 
+çivil s., adj. civil. 
+çiyanura s. cianură. 
+Çiyat s. (topon.) Ciad. 
+çiyatlî s., adj. ciadian. 
+çizme s. cizmă. // ●ş i zm e s í nd e n 
+y o k a r ga ş î km a k a-şi băga nasul 
+unde nu-i fierbe oala. 
+çít s. 1. gard de nuiele. 2. basma; 
+batic; eşarfă; bandă. 3. bandă sacră; 
+eşarfă sacră. 4. (text.) stambă. 
+çít, yes - s., adj. (ist.) scit; crimean; 
+membru al uniunii celor nouă eşarfe 
+sacre. 
+Çîfît-Kuyusî s. (topon.) Yovkovo 
+(Dobrich, Bulgaria). 
+çoban s. cioban; păstor. 
+çobankîzî s. păstoriŃă. 
+çobanlîk s. ciobănie; păstorit. 
+Çoban-Y îldîzî s. (astr.) Venus; 
+Luceafărul. 
+çokolata s. ciocolată. 
+çokolatalî adj. cu ciocolată. 
+Çolpan s. (astr.) Venus; Luceafărul. 
+çomak s. ciomag; ghioagă. 
+çuma s. (med.) ciumă; pestă. 
+çumalî adj. (med.) ciumat. 
+çuş -çuş interj. ciuş!; 
+çúke s. (iht.) cegă (lat., Acipenser 
+ruthen us). 
+çúnkí conj. pentru că; deoarece. 
+çúyún s. (bot.) săpunariŃă; spumariŃă; 
+odagaci; ciuin (lat., Sapona ria 
+off icinalis).
