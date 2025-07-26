@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback, useEffect } from 'react';
 import LanguageSelector from './components/LanguageSelector';
 import TextAreaInput from './components/TextAreaInput';
@@ -7,7 +6,7 @@ import { SwapIcon, TranslateIcon, ClearIcon, LoadingSpinner } from './components
 import { LanguageOption } from './types';
 import { LANGUAGES, DEFAULT_SOURCE_LANG, DEFAULT_TARGET_LANG } from './constants';
 import { translateText } from './services/translationService';
-import { getDictionary } from './dictionaryData';
+import { initializeAppData } from './dictionaryData';
 
 const App: React.FC = () => {
   const [sourceLang, setSourceLang] = useState<string>(DEFAULT_SOURCE_LANG);
@@ -20,7 +19,7 @@ const App: React.FC = () => {
   const [dictionaryError, setDictionaryError] = useState<string | null>(null);
 
   useEffect(() => {
-    getDictionary()
+    initializeAppData()
       .then(() => {
         setIsDictionaryLoading(false);
       })
