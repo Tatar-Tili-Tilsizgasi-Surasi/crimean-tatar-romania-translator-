@@ -7462,3 +7462,860 @@ răspicat.
 wurgulî adj. (fon.) accentuat; tonic. 
 wurgulîkîşkîrma s. exclamare; 
 exclamaŃie.
+ísteklend írmek v.t. a îndemna; a 
+încuraja. 
+ísteklí adj. 1. dorit. 2. cerut; solicitat. 
+ístekş í s. solicitant; petent. 
+ístelgen adj. 1. cerut; dorit; solicitat. 
+2. intenŃionat; voit. 
+ístelmegen adj. indezirabil. 
+ístelmek v.i. 1. a fi dorit. 2. a fi cerut; 
+a fi solicitat. 
+ístelm iykalgan adj. indezirabil; 
+nedorit. 
+ísteme s. cerere; solicitare. 
+ístemeden adv. involuntar; 
+neintenŃionat. // ●í s t em e d en 
+b o l d î a fost fără intenŃie. 
+ístemegen adj. nedoritor. 
+ístemek v.t. 1. a voi; a dori. 2. a cere; 
+a solicita. // ●b a ş s aw l u g î 
+í s t em e k a-şi exprima condoleanŃele. 
+●ğa nd an í s t em e k a dori din 
+suflet; a tânji după…; ●ğa n î 
+í s t em e k a-i da inima ghes; a pofti; a 
+dori. ●h i s s e / p a y í s t em e k a-şi 
+cere partea. ●im da t í s t em e k a 
+cere ajutor. ●m a z e r e t í s t em e k a 
+cere scuze. ●m ú s a ad e / í z í n / i ğ a z e 
+í s t em e k a cere permisiunea; a cere 
+voie; a cere îngăduinŃă. ●p a z l a 
+í s t em e k a suprasolicita. ●t a r z i y e 
+í s t em e k a se scuza. // ●b í r t aa 
+í s t i y s í ñ í z m í ? mai cereŃi o dată?; 
+●b o n î í s t em e z e d ím n-aş fi vrut 
+asta. ●ğa n î í s t e s e dacă doreşte. 
+●ğ ená b í s í n e í s t e s e y a pa r 
+dumneaei face ce vrea. 
+●h a k k l a ş m a k í s t i ym e n vreau să 
+mă împac. ●í s t e s eñ í z b í r l á j 
+b e r i y ím dacă doriŃi vă dau un 
+medicament. ●k a y da y e t 
+í s t i y s í ñ í z ? de care carne doriŃi?; 
+●m í na í s t e g e n m a ş i na ñ î z iată 
+maşina pe care o doreaŃi. ●s í z 
+k a l a y í s t e s e ñ í z cum doriŃi 
+dumneavoastră. ●s í z n í t a ğ i z 
+e tm e k í s t em e d ím n-am vrut să vă 
+deranjez. ●y a ş am a k í s t i ym en 
+vreau să trăiesc. 
+ístemlí adj. facultativ. 
+ístep adv. voit. 
+íster adv. după necesitate; după 
+nevoie; după trebuinŃă. 
+íster-ístemez adv. vrând-nevrând; 
+obligat; forŃat; constrâns; nolens-
+volens. 
+ístetmek v.t. 1. a face să ceară; a face 
+să solicite. 2. a face să vrea; a face să 
+dorească; a convinge. 
+ístew s. cerere; cerinŃă; dorinŃă; 
+deziderat; pretenŃie; petiŃie; 
+revendicare. // ●s un uw m an 
+í s t ew cerere şi ofertă. 
+ístewğí s. solicitant; petent. 
+ístiy adj. vaporos. 
+íş I. adj. 1. intern; interior. 2. imanent; 
+intrinsec; lăuntric. II. s. 1. interior; 
+partea interioară; incintă. 2. (la fructe) 
+miez. 3. burtă. 4. (fig.) inimă; suflet. //
+●a ğ î s î n í ş í n e k ómm e k a-şi 
+ascunde durerea; a-şi înghiŃi durerea. 
+●í ş y ú zú n a ş î k l am a k a-şi da 
+arama pe faŃă. ●í ş í a ş î lm a k a se 
+înveseli. ●í ş í k a r a rm a k a-şi face 
+inimă rea; a pune la inimă; a-şi face 
+sânge rău; a se posomorî; a se întrista. 
+●í ş í s î g î l m a k a-i fi cuiva urât; a se 
+plictisi. ●í ş í t î ş î na ş î km a k a-şi 
+scoate sufletul; a se extenua. ●í ş í n 
+a şm a k a-şi deschide sufletul; a se 
+destăinui; a se confesa. ●í ş í n 
+o k îm a k a citi gândurile cuiva. ●í ş í n 
+t a r tm a k a suspina; a ofta. ●í ş í n 
+t ó km e k a-şi descărca sufletul; a-şi 
+vărsa focul. ●í ş í n d e n g e şm e k a 
+avea un presentiment; a presimŃi. 
+●í ş í nd en k e l m e k a-i da inima 
+ghes; a dori; a pofti. ●í ş í n e b uw 
+t a r tm a k a inhala. ●í ş í n e 
+g e şm e k / k í rm e k a-l pătrunde. 
+●í ş í n e k a pa nm a k a se închide în 
+sine; a se închista; a se izola. ●í ş í n e 
+k u r t t ú şm e k a cădea la îndoială. 
+●k an- t e r í ş í n d e k a lm a k a-l 
+trece pe cineva toate năduşelile; a fi 
+numai o apă. // ●b í z ím í ş ím í z d en 
+b í r dú şm an ş î k k a n dintre noi a 
+ieşit un duşman. ●b í z ím í ş ím í zg e 
+b í r dú şm a n k í r g e n printre noi a 
+intrat un duşman. ●í ş 
+k a s t a l î k l a r î u zm a n î (med.) 
+specialist de boli interne. ●í ş l á s t í g í 
+h aw a k a ş î r a răsuflă camera. ●í ş 
+m e r k e z hipocentru. ●í ş s i y a s a 
+(pol.) politică internă. ●í ş í t a r 
+nerăbdător. ●í ş í m b î z î l d î am 
+diaree. ●í ş ím d e n k uw a nam an 
+mă bucur din suflet. ●í ş í ñ d e b í r 
+u r k an î ñ y o k eşti dezordonat. 
+●m e n ím í ş ím d e o t b a r arde 
+sufletul în mine. ●s en í ñ í ş í ñd e n e 
+b a r ? ce ascunzi în tine?; ●ú y n úñ 
+í ş í t o l d î s-a umplut casa. 
+íş s. 1. muncă; lucru. 2. ocupaŃie; 
+îndeletnicire. 3. serviciu; loc de 
+muncă. 4. (com.) afacere; tranzacŃie. 
+5. misiune; însărcinare; sarcină. //
+●a r k a s î n da í ş k ó rm e k a lucra 
+pe cineva pe la spate; a conspira; a 
+complota; a unelti. ●a s t t an- a s t t an 
+í ş k ó rm e k a complota; a unelti. 
+●á z í r l enm e g e n í ş k ó rm e k a 
+improviza. ●b a ş î n a í ş ş î g a rm a k 
+a da cuiva de furcă; a-i da de lucru; a-i 
+crea neplăceri. ●í ş a şm a k a da de 
+lucru cuiva; a-i da de furcă. ●í ş 
+b e rm e k a oferi cuiva de lucru; a da 
+cuiva de lucru. ●í ş í ş t e n g e şm e k 
+a nu mai fi de nicio treabă; a deveni 
+inutil; a fi prea târziu. ●í ş k ó rm e k a 
+face treabă; a trebălui; a se îndeletnici; 
+a lucra; a munci. ●í ş p í t í rm e k a 
+realiza; a concretiza. ●í ş í b o lm a k a 
+avea treabă; a avea de lucru; a fi 
+ocupat. ●í ş í n b í lm e k a şti ce are de 
+făcut; a fi priceput; a-şi face interesele; 
+a fi serios. ●í ş í n b î zm a k a-i strica 
+cuiva treaba; a-i zădărnici acŃiunile; a-l 
+sabota. ●í ş í n p í t í rm e k a da gata 
+pe cineva; a-l ucide; a-l nimici. ●í ş í n 
+ş ew ú rm e k / y ú r ú tm e k a-şi face 
+treaba; a-şi aranja ploile. ●í ş í n d en 
+a tm a k a-i face vânt cuiva; a-l da 
+afară dintr-o slujbă; a-l demite; a-l 
+concedia. ●í ş í nd en t u tm a k a Ńine 
+(pe cineva) din lucru; a-i răpi timpul. 
+●í ş í n e ğú k l em e k a-l pune la 
+treabă; a-l învesti; a-l însărcina. 
+●í ş í n e k a r am a k a-şi vedea de 
+treabă; a-şi căuta de nevoi. ●í ş í n e 
+k e lm e k a-i veni la socoteală; a-i 
+conveni; a-l satisface; a-l mulŃumi; a-i 
+fi util; a-i folosi. ●í ş í n e k í rm em e k 
+a nu-i păsa; a nu se sinchisi. ●í ş k e 
+y a r am a k a fi folositor; a fi util. 
+●k o r k î l î í ş k e k í r í şm e k a risca. 
+●m an /m en í ş í p í tm e k a sfârşi cu 
+cineva. // ●a b a t l î k í ş l e r í şantier 
+de construcŃii. ●aw u r í ş muncă 
+grea. ●b an k a í ş l e r í operaŃiuni 
+bancare. ●b a ş í ş í înainte de orice. 
+●b a ş aw u r t uw ğ î í ş sarcină dificilă. 
+●b e r p a ğ î l î k í ş l e r í lucrări de 
+restaurare. ●b o k o n î m e n ím 
+í ş ím e k í rm e z nu mă interesează 
+această temă. ●b ú gú n í ş k ún í azi e 
+zi de lucru. ●e l í n d e n í ş 
+k e lm eg en incapabil. ●h e r k e zn í ñ 
+í ş í n e y a r am a z nu convine oricui. 
+●í ş a r k a da ş î colaborator; coleg. 
+●í ş b o l s î n d e p ca să se afle în 
+treabă. ●í ş e s n a s î n da în timpul 
+lucrului. ●í ş í ş k ó lm e g í 
+combinezon. ●í ş k a za s î accident de 
+muncă. ●í ş k í ş í s í om de afaceri. 
+●í ş k ún í zi de lucru. ●í ş o r t a g î 
+partener. ●í ş p í t k e n ş í k până la 
+terminarea lucrului. ●í ş t i ğ a r e t 
+comerŃ interior. ●í ş u r b a s î salopetă; 
+halat. ●í ş w a k î t î n da o t î rm a k 
+y o k în timpul lucrului nu se stă. ●í ş 
+y e r í locul de muncă. ●í ş í b a r are 
+de lucru. ●í ş í ñ o k îm a k t î r treaba 
+ta este să înveŃi. ●í ş í n w a k î t î n da 
+y apk an punctual. ●í ş í ñ í zg e k e l e 
+m í ? vă convine?; ●í ş í ñ í zg e 
+k o l a y l î k ! spor la treabă!; ●í ş l e r 
+ğ o l î nd a treburile sunt pe făgaşul cel 
+bun. 
+●k an un t î ş î / y a s a t î ş î /á d e t t î ş î 
+í ş (jur.) faptă ilegală. ●k e sm e í ş í 
+traforaj. ●k o l í ş í lucru manual; 
+manoperă. ●k o l a y í ş treabă uşoară; 
+muncă uşoară. ●k ú nd e l í k í ş l e r 
+activităŃi cotidiene. ●m en ím n e 
+í ş ím b a r ? ce treabă am eu?; 
+●m ún a s i p b í r í ş o muncă 
+potrivită. ●o í ş b o lm a y t aa lucrul 
+acela nu este încă gata. ●o s a l í ş 
+treabă defectuoasă. ●p í t m e g e n í ş 
+restanŃă. ●t em í z l í k í ş l e r í serviciu 
+de salubritate. ●t i ğa r e t í ş l e r í 
+tranzacŃii comerciale. ●t r a ş t an 
+s o r a í ş k e k e t e se duce la lucru 
+după bărbierit. ●y a r îm í ş treabă 
+făcută pe jumătate. 
+íşazbar s. (arhit.) atrium. 
+íşbaşargan adj. eficient; eficace. 
+íşbaşaruw s. eficienŃă; eficacitate. 
+íş-bawur s. (anat.) viscere. // ●í ş í-
+b aw u r î m a n k ú lm e k a râde în 
+hohote. // ●í ş í- b aw u r î m an din 
+adâncul sufletului; din toată inima. 
+íşbergen s. (econ.) patron. 
+íşbergenler s., pl. (econ.) patronat. 
+íşberílgen adj. însărcinat; angajat. 
+íşberúw s. însărcinare; angajare. 
+íşbírlígí s. colaborare; cooperare; 
+asociere; asociaŃie; întrajutorare. 
+íşbírlígíyapkan s., adj. cooperatist. 
+íşbírlíklí adj. asociat; întovărăşit. 
+íşbîzgan adj. dăunător; defavorabil; 
+dezavantajos. 
+íşbîzuw s. defavorizare; dezavantaj; 
+sabotaj; subminare. 
+íşbîzuwğ î s. sabotor. 
+íşbúgúwlí adj. (fiz.) concav. 
+íşbúkriygen adj. (fiz.) concav. 
+íşçí s. muncitor; lucrător; salariat. //
+●í ş ç í t a k îm î echipă de muncitori. 
+●l im an í ş ç í s í (nav.) docher. 
+●t a r îm í ş ç í s í muncitor agricol. 
+íşçíler s., pl. muncitorime; proletariat. 
+íşçílergekarşî adj. antimuncitoresc. 
+íşçílík I. adj. muncitoresc. II. s. 
+muncitorime; proletariat. 
+íşdeñ íştírgen adj. reprofilat. 
+íşdeñ íştírúw s. reprofilare. 
+íşdeñ íz s. (geogr.) mare interioară. 
+îgrîp s. năvod. 
+îkînma s. scremet; icnet; opintire. 
+îkînmak v.i. a se screme; a icni; a se 
+opinti. 
+îkînuw s. scremet; icnet; opintire. 
+îlaw adj. contrar; opus; încăpăŃânat. 
+îlawkelgen adj. combativ; oponent; 
+opozant. 
+îlawkelúw s. 1. obiecŃie; observaŃie. 2. 
+combatere; opoziŃie. 3. opunere; 
+împotrivire. 
+îlawluk s. opunere; combativitate. 
+îlawsuzluk s. neîmpotrivire. 
+îlawturulmaz adj. irezistibil. 
+îlgamak v.i. (d. cai) a galopa. 
+îlgar s. galop. 
+îlgîm s. miraj; fata morgana. 
+îlîm s. cumpătare; moderaŃie. 
+îlîmlî adj. cumpătat; moderat. 
+îlîmsîz adj. necumpătat; nechibzuit; 
+nesăbuit; necugetat; nesocotit. 
+îlîmsîzlîk s. necumpătare; 
+nechibzuinŃă; nesăbuinŃă; necugetare; 
+nesocotinŃă. 
+îmîk s. (anat.) creştet; sinciput; vertex. 
+îmît s. 1. goldană; renglotă. 2. (bot.) 
+goldan; renglot (lat., Prun us 
+insititia). 
+îmlîk s. (gram.) interjecŃie. 
+înğîngan adj. 1. mâhnit; amărât; 
+necăjit. 2. luxat; scrântit. 
+înğînma s. 1. mâhnire; amărâre; 
+necăjire. 2. luxare; scrântire. 
+înğînmak v.i. 1. a se luxa; a se 
+scrânti. 2. a se mâhni; a se amărî; a se 
+necăji. 
+înğînuw s. 1. mâhnire; amărâre; 
+necăjire. 2. luxare; scrântire. 
+înğîtma s. 1. mâhnire; amărâre; 
+necăjire. 2. luxare; scrântire. 
+înğîtmak v.t. 1. a mâhni; a amărî; a 
+necăji. 2. a luxa; a scrânti. 
+înğîtuw s. 1. mâhnire; amărâre; 
+necăjire. 2. luxare; scrântire. 
+întîkam s. răzbunare; revanşă; 
+represalii. // ●î n t î k am a lm a k a se 
+răzbuna. 
+întîkamğî adj. răzbunător; revanşard; 
+vindicativ. 
+întîkamğîlîk s. (pol.) revanşism; 
+politică revanşardă. 
+întîkamîalîngan adj. răzbunat. 
+îñgîramak v.i. a geme; a boci; a 
+hohoti; a se tângui. 
+îñgîraşmak v.i. a geme; a boci; a 
+hohoti; a se tângui (laolaltă). 
+îñgîratmak v.t. a determina să geamă; 
+a determina să bocească; a determina 
+să hohotească; a determina să se 
+tânguiască. 
+îñgîraw s. geamăt; bocet; hohot; 
+tânguire. 
+îñgîrawğî s. bocitoare. 
+îñgîrdamak v.i. a geme; a boci; a 
+hohoti; a se tângui. 
+îñgîrdaşmak v.i. a se tângui; a boci; a 
+hohoti; a geme. 
+îñgîrdatmak v.t. a determina să 
+geamă; a determina să bocească; a 
+determina să hohotească; a determina 
+să se tânguiască. 
+îñgîrdaw s. geamăt; bocet; hohot; 
+tânguire. 
+îñgîrdawğ î s. bocitoare. 
+îñgîrtî s. geamăt; bocet; hohot; 
+tânguire. 
+îñkîldama s. scremet; icnet; opintire. 
+îñkîldamak v.i. a se screme; a icni; a 
+se opinti. 
+îñkîldaw s. scremet; icnet; opintire. 
+îñkîltî s. scremet; icnet; opintire. 
+îr s. cântec; melodie. 
+îrak I. adj. depărtat; îndepărtat. II. s., 
+adj. irakian. 
+Îrak s. (topon.) Irak. 
+îraklaşkan adj. îndepărtat; separat; 
+despărŃit. 
+îraklaşmak v.i. a se îndepărta; a se 
+separa; a se despărŃi. 
+îraklaştîrma s. îndepărtare. 
+îraklaştîrmak v.t. a îndepărta; a 
+separa; a despărŃi. 
+îraklaştîruw s. îndepărtare. 
+îraklî s., adj. irakian. 
+îraklîk s. depărtare; distanŃă. 
+îraksama s. (mat.) divergenŃă. 
+îraksamağî adj. (mat.) divergent. 
+îraktan adv. de departe; din depărtări. 
+îray s. (fil.) caracter. 
+îrayb ílímlí s. caracterologie. 
+îraylamak v.t. a caracteriza; a 
+înfăŃişa. 
+îraylangan adj. caracterizat; calificat. 
+îraylanmak v.i. a fi caracterizat. 
+îrgak s. cange; cârlig. 
+îrgalama s. zdruncinare; zgâlŃâială. 
+îrgalamak v.t. a zdruncina; a zgâlŃâi; a 
+mişca. 
+îrgalangan adj. clătinat; zdruncinat; 
+scuturat. 
+îrgalanmak v.i. a se zdruncina; a se 
+zgâlŃâi; a se mişca. 
+îrgalaw s. zdruncinare; zgâlŃâială. 
+îrgaşî I. adj. feminin; femeiesc. II. s. 
+(zool.) femeiuşcă; femelă. 
+îrgaşîaslan s. leoaică. 
+îrgaşîayuw s. ursoaică. 
+îrgaşîbîzaw s. viŃea; viŃică. 
+îrgaşîboş îk s. căŃeluşă. 
+îrgaşîbórí s. lupoaică. 
+îrgaşîdombay s. bivoliŃă. 
+îrgaşîdomîz s. scroafă; purcea. 
+îrgaşîen ík s. căŃeluşă. 
+îrgaşîeşek s. măgăriŃă. 
+îrgaşîğamîş s. bivoliŃă. 
+îrgaşîğolparîs s. tigroaică. 
+îrgaşîh înzîr s. scroafă; purcea. 
+îrgaşîit s. căŃea. 
+îrgaşîk s. piedică. // ●î r ga ş î k 
+s a lm a k a pune piedică. 
+îrgaşîkakay s. scroafă; purcea. 
+îrgaşîkaplan s. tigroaică. 
+îrgaşîkaşkîr s. lupoaică. 
+îrgaşîkoyan s. iepuroaică. 
+îrgaşîkópek s. căŃea. 
+îrgaşîlîk s. feminitate. 
+îrgaşîmanda s. bivoliŃă. 
+îrgaşîmerkep s. măgăriŃă. 
+îrgaşîm îşîk s. pisică; femeiuşca 
+motanului. 
+îrgaşînogay s. căŃea. 
+îrgaşîorgan s. pistil. 
+îrgaşîpelenk s. tigroaică. 
+îrgaşîş ir s. leoaică. 
+îrgaşîşopar s. scroafă; purcea. 
+îrgaşîşoşka s. scroafă; purcea. 
+îrgaşîtawlay s. iepuroaică. 
+îrgaşîtawşan s. iepuroaică. 
+îrgaşîtúlkí s. vulpoaică. 
+mukabelelí adj. 1. confruntat; 
+comparat. 2. cu răspuns; cu ripostă. 
+mukabil I. adj. 1. de peste drum; din 
+faŃă; de vizavi. 2. contrar; opus. II. s. 
+1. echivalent; corespondent. 2. 
+echivalent; schimb. 
+mukaddem adj. precedent; anterior. 
+mukaddeme s. 1. început. 2. 
+introducere; cuvânt înainte. 
+mukaddemelí adj. introdus; început. 
+mukadder adj. predestinat. 
+mukadderat s. destin. 
+mukaddes adj. sfânt; sacru. 
+mukaddeslík s. sfinŃenie; sanctitate. 
+mukaddestanîldî s. sfinŃire. 
+Mukadd im, El- s. (relig., arab.) 
+"Înaintestrămutătorul"; “Cel ce 
+stăpâneşte puterea de a aduce din 
+urmă în frunte; de a înainta; a 
+promova” (unul din cele 99 
+preafrumoase nume atribuite în Coran 
+lui Dumnezeu/Allah). 
+mukallit s., adj. mucalit. 
+mukarrer adj. hotărât; decis. 
+mukarrerat s. hotărâre; decizie. 
+mukarreratşî adj. hotărâtor; decisiv. 
+mukassiy adj. jenant; stânjenitor; 
+incomod; deranjant; supărător. 
+mukassiyet s. jenă; stânjenală; 
+incomodare; deranjare. 
+mukassiyetlí adj. jenat; stânjenit; 
+incomodat; deranjat. 
+mukavele s. 1. convenŃie; înŃelegere; 
+acord. 2. contract. // ●m u k a v e l e 
+t a r a f l a r î părŃi contractante. 
+mukavelelí adj. contractual; 
+convenŃional. 
+mukavemet s. rezistenŃă; împotrivire; 
+opunere. // ●m u k a v em e t 
+k ó s t e rm e k a opune rezistenŃă. 
+mukavemetlí adj. rezistent; solid. 
+mukavva s. mucava; carton. //
+●m u k a v v a m a s k a s î mască de 
+carnaval. 
+mukavvalama s. cartonare. 
+mukavvalamak v.t. a cartona. 
+mukavvalangan adj. cartonat. 
+mukavvalanmak v.i. a se cartona. 
+mukavvalî adj. cartonat. 
+mukayese s. comparaŃie. //
+●m u k a y e s e b o lm a k a se 
+compara; a se asemui. ●m u k a y e s e 
+e tm e k a compara; a asemui. 
+mukayeselí adj. comparativ; de 
+comparaŃie. 
+mukayiy s., adj. (farm.) vomitiv. 
+Mukit, El- s. (relig., arab.) 
+"SusŃinătorul"; “Cel ce asigură 
+mijloacele necesare traiului” (unul din 
+cele 99 preafrumoase nume atribuite în 
+Coran lui Dumnezeu/Allah). 
+muksit adj. chibzuit; cumpătat; 
+ponderat; echilibrat. 
+Muks it, El - s. (relig., arab.) "Cel 
+chibzuit" (unul din cele 99 
+preafrumoase nume atribuite în Coran 
+lui Dumnezeu/Allah). 
+muktar I. adj. autonom. II. s. (adm.) 
+primar. 
+Muktar s. (antrop. m., arab.) "Cel 
+neatârnat" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam). 
+muktariyat s. autonomie. 
+muktarlîk s. (adm.) primărie. 
+Muktasidun s. (antrop. m., arab.) "Cel 
+cumpătat" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam). 
+muktaza s. necesitate; nevoie; 
+trebuinŃă. 
+muktaziy adj. necesar; trebuincios. 
+Mukteda s. (antrop. m., arab.) "Cel 
+ascultat şi urmat" (unul din cele 400 de 
+nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+mukted ir adj. capabil; priceput. //
+●m u k t ed i r b o lm a k a fi în stare; a 
+fi capabil. 
+Muktedir, El- s. (relig., arab.) "Cel 
+preaputincios"; “Cel care domină orice 
+putere” (unul din cele 99 preafrumoase 
+nume atribuite în Coran lui 
+Dumnezeu/Allah). 
+mukted irlík s. talent; pricepere. 
+mulaj s. mulaj. 
+mum s. lumânare (şi electr.). //
+●m a y ş î r a k m a n k a r am a k a 
+căuta cu lumânarea. // ●m ú h ú r 
+m um î ceară roşie. 
+mumday adj. ca o lumânare. //
+●m um d a y t í k drept ca o lumânare. 
+mumgágáa s. (orn.) estrilda comună 
+(lat., Estrilda astrild). 
+mumgágáa, altîn-yúzlí - s. (orn.) 
+estrilda cu bujori portocalii (lat., 
+Estrilda melpoda). 
+mumgágáa, kîzîl-kulaklî- s. (orn.) 
+estrilda cu urechi roşii (lat., 
+Estrilda troglodytes). 
+mumgágáa, kîzîl-sakallî- s. (orn.) 
+estrilda arabă ( lat., Estrilda 
+ruf ibarba). 
+mumgágáa, kók- s. (orn.) estrilda 
+levănŃică (lat., Estrilda 
+caerules cens). 
+mumgágáa, mawî - s. (orn.) cinteză 
+fluturar cordon-bleu (lat., 
+Urae ginthus be n galus). 
+mumgágáa, pas -ğayalî- s. (orn.) 
+estrilda ruginie (lat., Estrilda 
+rhodopy ga). 
+mumgágáasî, Arap- s. (orn.) estrilda 
+arabă (lat., Estrilda ruf ibarba). 
+mumğagîlgan adj. ceruit. 
+mumğaguw s. ceruire. 
+Mum it, El- s. (relig., arab.) "Creatorul 
+morŃii" (unul din cele 99 preafrumoase 
+nume atribuite în Coran lui 
+Dumnezeu/Allah). 
+mum iya s. mumie. 
+mum iyalaşkan adj. mumificat. 
+mum iyalaşma s. mumificare. 
+mum iyalaşmak v.i. a se mumifica. 
+mum iyalaştîrmak v.t. a mumifica. 
+mum iyalaşuw s. mumificare. 
+mumlama s. ceruire. 
+mumlamak v.t. a cerui. 
+mumlangan adj. ceruit. 
+mumlaw s. ceruire. 
+mumlî adj. ceruit. 
+munar s. ceaŃă slabă; pâclă. 
+munda s. (la cabaline şi bovine) 
+gârbiŃă; greabăn. 
+munfasîl adj. 1. separat; despărŃit; 
+detaşat. 2. retras. 
+munfasîllîk s. rezervă în atitudine; 
+discreŃie. 
+munğip adj. necesar; trebuincios. //
+●m un ğ i p b o lm a k a trebui; a fi 
+necesar. ●m un ğ i p e tm e k a face 
+trebuincios; a face necesar. 
+munhas îr I. adj. limitat; delimitat. II. 
+adv. exclusiv; numai. // ●b a l l a r ga 
+m un h a s î r b a k ş a grădină exclusiv 
+pentru copii. ●n e v i y ş a h î s î na 
+m un h a s î r unic în felul său. 
+munhas îran adv. în exclusivitate. 
+munhas îrlîk s. limitare; restrângere; 
+reducere. 
+Mun if s. (antrop. m., arab.) “Cel ce 
+excelează”. 
+Mun im s. (antrop. m., arab.) “Cel 
+generos”. 
+mun ir adj. prealuminat; strălucitor; 
+radios. 
+Mun ir/Mon ir s. (antrop. m., arab.) 
+"Prealuminatul" (unul din cele 400 de 
+nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+Mun ire/Monire s. (antrop. f., arab.) 
+“Cea strălucitoare’. 
+mun is adj. 1. obişnuit; deprins. 2. 
+sociabil. 3. (d. animale) domesticit; 
+îmblânzit. 
+Mun is/Mon is s. (antrop. m., arab.) 
+“Cel prietenos”. 
+Mun ise/Mon ise s. (antrop. f., arab.) 
+“Cea prietenoasă”. 
+Mun iyíp s. (antrop. m., arab.) "Cel ce 
+se căieşte" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam). 
+munkabîz adj. 1. (med.) contractat; 
+încordat. 2. (med.) constipat. //
+●m un k a b î zm an sunt constipat. 
+munkabîzlîk adj. încordare; 
+contracŃie; strângere. 
+munkalip adj. schimbat; transformat; 
+modificat. 
+munkat adj. întrerupt; suspendat. //
+●m un k a t b o lm a k a se întrerupe; a 
+se suspenda. ●m un k a t e tm e k a 
+întrerupe; a suspenda. 
+munkatlîk s. întrerupere; 
+suspendare. 
+Muntah in s. (antrop. m., arab.) 
+"Examinatorul" (unul din cele 400 de 
+nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+Muntakan s. (antrop. m., arab.) 
+"Alesul" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam). 
+Muntakim, El- s. (relig., arab.) 
+"Osânditorul"; “Cel ce pedepseşte 
+greşelile conform dreptăŃii divine” (unul 
+din cele 99 preafrumoase nume atribuite 
+în Coran lui Dumnezeu/Allah). 
+muntazam adj. regulat; obişnuit; 
+firesc; normal. // ●m un t a z am 
+t e r t í pk e s a l m a k a sistematiza. //
+●m un t a z am o r d î (mil.) armată 
+regulată. 
+muntazaman adj. sistematic; 
+sistematizat. 
+muntazamanlaşkan adj. 
+sistematizat. 
+muntazamanlaşmagan adj. 
+nesistematizat. 
+muntazamanlaşmak v.i. a se 
+sistematiza. 
+muntazamanlaşmama s. 
+nesistematizare. 
+muntazamanlaştîrma s. 
+sistematizare. 
+muntazamanlaştîrmak v.t. a 
+sistematiza. 
+muntazamanlaştîruw s. 
+sistematizare. 
+muntazamlî adj. sistematic; 
+sistematizat. 
+muntazamlîk s. obişnuinŃă; 
+normalitate. 
+muntazamtertíp s. sistematizare. 
+muntazamtertíps íz adj. 
+nesistematizat. 
+muntazamtertíps ízlík s. 
+nesistematizare. 
+munzam adj. 1. suplimentar; în plus. 
+2. încă; mai; în plus.
+naadam I. adj. olimpic. II. s. jocuri 
+sportive; olimpiadă. // ●ğa z 
+naa dam î (sport) olimpiada de vară. 
+●k î ş naa dam î (sport) olimpiada de 
+iarnă. 
+naadamlî adj. olimpic. 
+Nabih s. (antrop. m., arab.) “Cel 
+inteligent”. 
+Nabihe s. (antrop. f., arab.) “Cea 
+inteligentă”. 
+nabîz s. plus. // ●na b î z a tm a k a 
+pulsa. ●n a b î z î n a lm a k a lua cuiva 
+pulsul. ●na b î z î n a k ó r e ş e r b e t 
+b e rm e k a-i da cuiva apă la moară; a-
+i face pe voie. // ●n a b î z î m n o rm a l 
+m î ? pulsul îmi este normal?; 
+naçiz adj. fără valoare; lipsit de 
+valoare. 
+nadan adj. neştiutor; incult; ignorant. 
+nadanlîk s. incultură; ignoranŃă. 
+nadas s. arătură de toamnă. 
+nadide adj. 1. rară; neobişnuită. 2. 
+egală; rivală. 
+nadim adj. care se căieşte; care 
+regretă; pocăit. 
+nadinş adj. neastâmpărat; zburdalnic; 
+ştrengar. 
+nadinşlík s. neastâmpăr; zburdălnicie; 
+ştrengărie. 
+nadir adj. rar; neobişnuit. // ●na d i r 
+k u ş pasăre rară. 
+Nadire s. (antrop. f., arab.) “Cea rară”. 
+nadirlík s. raritate. 
+nadogrî adj. incorect. 
+nadogrîlîk s. incorectitudine. 
+nadúrúst adj. nesincer; incorect; 
+nedrept; necinstit. 
+nadúrústlúk s. nesinceritate; 
+incorectitudine; nedreptate; necinste. 
+nafaka s. 1. hrană; subzistenŃă. 2. 
+(jur.) pensie alimentară. 
+nafile adj. inutil; în zadar; zadarnic. 
+Nafise s. (antrop. f., arab.) “Piatră 
+preŃioasă”. 
+nafiy adj. util; folositor; favorabil. 
+Nafiy, El- s. (relig., arab.) "Cel 
+priincios"; “Creatorul tuturor lucrurilor 
+folositoare şi profitabile” (unul din cele 
+99 preafrumoase nume atribuite în 
+Coran lui Dumnezeu/Allah). 
+nafiya s. lucrări publice. 
+nafiz adj. 1. penetrant. 2. (d. oameni) 
+influent. 
+naftalina s. naftalină. 
+nagara s. (muz.) tobă. 
+nagarağî s. toboşar. 
+nagîl s. 1. povestire; relatare. 2. (lit.) 
+poveste; basm. 
+nagîlaytkan s. povestitor. 
+nagîlğî s. povestitor. 
+nagîlkon îsî s. (lit.) subiect; intrigă; 
+acŃiune. 
+nagîllî adj. povestit; relatat. 
+nağak s. toporişcă. 
+nağiy adj. sigur; ferit; ocrotit; la 
+adăpost; de nădejde. 
+Nağiy s. (antrop. m., arab.) 
+"Confidentul de nădejde" (unul din cele 
+400 de nume atribuite în Coran 
+Profetului Muhammed Aliyselam). 
+Nağiye s. (antrop. f., arab.) 
+“Confidenta de nădejde”. 
+Nağiyulla(h) s. (antrop. m., arab.) 
+"Confidentul lui Allah" (unul din cele 
+400 de nume atribuite în Coran 
+Profetului Muhammed Aliyselam). 
+nahif adj. slab; neputincios. 
+Nahiy s. (antrop. m., arab.) "Cel ce 
+pune sub interdicŃie" (unul din cele 400 
+de nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+nahiye s. (adm.) comună. 
+nahoş adj. neplăcut; nedorit. 
+nahvet s. orgoliu; trufie. 
+nakarat s. (muz.) refren. 
+nakil I. adj. (fiz.) conducător. II. s. 1. 
+transport; transportare. 2. povestire; 
+relatare. 3. (lit.) poveste; basm. 4. 
+(tehn.) transmisie; transmisiune. //
+●na k i l b o lm a k a se transmite; a se 
+transporta; a se povesti; a se relata; a 
+se zice. // ●na k i l m e k a n i sm í 
+(tehn.) mecanism de transmisie. 
+●na k i l v a s î t a s î mijloc de 
+transport. 
+nakillí adj. 1. transmis; trimis; 
+transportat. 2. povestit; relatat. 
+nakis adj. imperfect; defectiv; 
+neregulat. // ●na k i s f i g e l l e r 
+(gram.) verbe neregulate. 
+nakislík s. imperfecŃiune; 
+neregularitate. 
+Nakî s. (antrop. m., arab.) "Imaculatul" 
+(unul din cele 400 de nume atribuite în 
+Coran Profetului Muhammed Aliyselam). 
+Nakîp s. (antrop. m., arab.) "Cel mai 
+bun om din popor" (unul din cele 400 
+de nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+nakîs s. (geom.) elipsă. 
+nakîslî adj. (geom.) eliptic. 
+nakîslîğísím s. (geom.) elipsoid. 
+nakîş s. 1. broderie. 2. muzică 
+orientală. 3. model; desen; decoraŃie; 
+ornament. 4. feston. // ●na k î ş 
+í ş l em e k a broda. 
+nakîşçî s. desenator; brodeză. 
+nakîşlama s. brodare; decorare. 
+nakîşlamak v.t. a broda; a decora. 
+nakîşlangan adj. brodat; decorat. 
+nakîşlanmak v.i. a se broda; a se 
+decora. 
+nakîşlaw s. brodare; decorare. 
+nakîşlî adj. brodat; decorat. //
+●na k î ş l î í ş k ó lm e k ie. 
+nakîşşaşkan s. desenator. 
+nakîştagîlgan adj. (mil.) decorat. 
+nakîştaguw s. (mil.) decorare. 
+nakît s. (fin.) numerar; lichiditate; bani 
+gheaŃă; fond. // ●na k î t m a n pe 
+bani. 
+nakîtğatkîzdîrîlgan adj. finanŃat. 
+nakîtğatkîzdîruw s. finanŃare. 
+nakîz adj. contrar; opus; antagonic. 
+nakîzlîk s. contrast; contradicŃie; 
+opunere; antagonism; împotrivire. 
+nakka s. (iht.) somn (lat., Silurus 
+glanis). 
+naklen adv. prin tradiŃie; prin viu grai. 
+nakletílgen adj. 1. transmis; 
+transportat; cărat. 2. povestit; relatat. 
+nakletílmek v.i. 1. a se transmite; a 
+se transporta; a se căra. 2. a se 
+povesti; a se relata. 
+nakletmek v.t. 1. a povesti; a relata. 
+2. a transmite; a transporta; a căra. 
+nakletúw s. 1. transmitere; 
+transportare; cărare. 2. povestire; 
+relatare. 
+nakletúwğí s. curier; transportator; 
+însoŃitor. 
+nakletúwğúlúk s. transport; 
+transportare; curierat; însoŃire. 
+nakliy adj. 1. tradiŃional; 
+dintotdeauna. 2. de transport. 
+nakliyat s. 1. tradiŃie; datină; 
+obişnuinŃă; obicei. 2. transporturi; 
+mijloace de transport. // ●d eñ í z 
+na k l i y a t î (nav.) transport maritim. 
+●h aw a n a k l i y a t v a s î t a s î mijloc 
+de transport aerian. 
+nakliye s. transport; transportare. //
+●na k l i y e p i y a t î tarif de transport. 
+●na k l i y e s en e t í (com.) scrisoare 
+de trăsură. 
+nakliyeğí s. cărăuş; transportator. 
+nakliyeğíl ík s. transport; 
+transportare; curierat; însoŃire. 
+nakşetílgen adj. 1. imprimat; 
+întipărit. 2. desenat; pictat. 
+nakşetílmek v.i. 1. a fi imprimat; a se 
+întipări. 2. a fi desenat; a fi pictat. 
+nakşetmek v.t. 1. a desena; a picta. 
+2. a imprima; a întipări. 
+naktiy adj. pecuniar; bănesc; 
+financiar. // ●na k t i y ğ e za amendă. 
+●na k t i y t a r l î k criză financiară. 
+naktura s. (orn.) găinuşă de stepă; 
+găinuşă de nisip ( lat., Syrrhaptes 
+paradoxus). 
+naktura, boyalî- s. (orn.) găinuşă 
+zburătoare dungată (lat., Pterocles 
+indicus). 
+naktura, kara-bawurlî- s. (orn.) 
+găinuşă zburătoare cu pântece negru 
+(lat., Pterocles orie ntalis). 
+naktura, kawerengí -bawurlî- s. 
+(orn.) găinuşă zburătoare cu pântece 
+castaniu (lat., Pterocles 
+exustus). 
+naktura, kíşkene - s. (orn.) găinuşă 
+zburătoare mică (lat., Pterocles 
+lichtensteinii). 
+naktura, meneklí - s. (orn.) găinuşă 
+zburătoare pântece pestriŃ (lat., 
+Pterocles sene gallus). 
+naktura, tel-kuyruklî - s. (orn.) 
+găinuşă zburătoare cu coadă-ac (lat., 
+Pterocles alchata). 
+nakzetílgen adj. 1. nesocotit; 
+încălcat; violat. 2. (jur.) casat. 
+nakzetme s. 1. nesocotire; încălcare; 
+violare. 2. (jur.) casaŃie. 
+nakzetmek v.t. 1. a nesocoti; a 
+încălca; a viola; a nu respecta. 2. (jur.) 
+a casa. 
+nal s. 1. potcoavă. 2. (tehn.) sabot. //
+●d ó r t na l m an k e t m e k a merge 
+în galop. ●n a l l a r î n t í km e k a-şi 
+lepăda potcoavele; a muri. 
+nalbant s. potcovar. 
+Nalbant s. 1. (topon., localitate 
+desfiinŃată) Nalbant (jud. ConstanŃa). 2. 
+(topon.) Nalbant (jud. Tulcea). 
+nalbantlîk s. potcovărie; atelier de 
+potcovar; meserie de potcovar. 
+nalğî s. potcovar. 
+nalğîlîk s. potcovărie; atelier de 
+potcovar; meserie de potcovar. 
+nalîn s. galenŃi. 
+nallama s. potcovire. 
+nallamak v.t. a potcovi. 
+nallangan adj. potcovit. 
+nallanmagan adj. nepotcovit. 
+nallanmak v.i. a se potcovi. 
+nallanmaykalgan adj. nepotcovit. 
+nallaw s. potcovire. 
+nallî adj. potcovit. 
+nalsîz adj. nepotcovit. 
+nalşa s. blacheu.
