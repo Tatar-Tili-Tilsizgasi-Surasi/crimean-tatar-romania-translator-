@@ -9469,3 +9469,733 @@ fizika s. fizică.
 fizikabílímğís í s. fizician. 
 fizikağ î s. fizician. 
 fizikiy adj. fizic.
+oralma -kuşanma s. înfofolire; 
+încotoşmănare; cocoloşire. 
+oraluw-kuşanuw s. înfofolire; 
+încotoşmănare; cocoloşire. 
+orama s. 1. înfăşare; înfăşurare. 2. 
+bobină; bobinare; bobinaj. 3. sul; 
+rulou. 
+oramak v.t. a face sul; a împacheta; a 
+înfăşura; a bobina. // ●o r a l ga 
+o r am a k a bobina. 
+oran s. 1. raport; proporŃie. 2. 
+simetrie; echilibru. 3. (mat.) raport. 
+oranj adj. oranj; portocaliu. 
+oranlamak v.t. 1. a calcula; a socoti. 
+2. a presupune; a crede. 3. a compara; 
+a asemui. 
+oranlangan adj. 1. calculat; socotit. 
+2. presupus; crezut. 3. comparat; 
+asemuit. 
+oranlanmak v.i. 1. a se calcula; a se 
+socoti. 2. a se presupune; a se crede. 
+3. a se compara; a se asemui. 
+oranlaw s. 1. calculare; socotire. 2. 
+presupunere; credinŃă. 3. comparare; 
+asemuire. 
+oranlî adj. 1. bine proporŃionat; 
+simetric. 2. echilibrat; moderat; 
+proporŃional. 
+oransîz adj. disproporŃionat; asimetric; 
+dezechilibrat. 
+oransîzlîk s. disproporŃie; asimetrie; 
+dezechilibru. 
+orantî s. proporŃie (şi mat.). // ●t e r s 
+o r an t î l î (mat.) invers proporŃional. 
+orantîlî adj. proporŃional; 
+proporŃionat. 
+orantîsîz adj. disproporŃionat. 
+orantîsîzl îk s. disproporŃie. 
+oraspî s., adj. curvă; curviştină; 
+prostituată. 
+oraspîday adv. curveşte; ca 
+prostituatele. 
+oraspîğa adv. curveşte; ca 
+prostituatele. 
+oraspîlîk s. curvăsărie; curvie; 
+prostituŃie. 
+oratmak v.t. a determina să facă sul; a 
+determina să răsucească; a determina 
+să înfăşoare. 
+oraw s. înfăşare; înfăşurare; sul. 
+orawlî adj. înfăşurat. 
+orawluk s. pansament. 
+oraza s. (relig., la musulmani) post. //
+●o r a z a t u tm a k (relig., la 
+musulmani) a Ńine post; a posti. 
+ordin s. ordin; dispoziŃie. 
+ordî s. armată; oaste; oştire; forŃe 
+militare. // ●ğú r ú ş / p i y ad e o r d î s î 
+(mil.) infanterie. ●m un t a z am o r d î 
+(mil.) armată regulată. ●o r d î em í r í 
+(mil.) ordin de zi. ●o r d î ú y í casa 
+armatei. 
+ordîbaşî s. (mil.) comandant; 
+conducător de oaste. 
+ordîbîzgan I. s. (med.) varice. II. s., 
+adj. 1. corupător; seducător. 2. 
+intrigant; instigator; incitator; 
+provocator; aŃâŃător. 
+orga s. (muz.) orgă. 
+orgağî s. (muz.) organist. 
+organ s. 1. (anat.) organ. 2. şnur; 
+şiret; firet. 
+organik adj. organic. 
+organism s. organism. 
+orgaşalgan s. (muz.) organist. 
+Orhan s. (antrop. m.) "Hanul pag". 
+oriğ inal adj. original; autentic. 
+oriğ inallîk s. originalitate; 
+autenticitate. 
+Orinoko-kazî s. (orn.) gâscă de 
+Orinoco (lat., Neoc hen jubata). 
+orîk adj. (d. cai) alb cu spate negru. 
+orîlgan adj. secerat. 
+orîlmak v.i. a se secera. 
+orîm s. sul; rulou. 
+orîn s. 1. loc rezervat. 2. post; funcŃie. 
+orkestra s. orchestră. //
+●f i l a rm o n i k a o r k e s t r a s î 
+orchestră filarmonică. ●o r k e s t r a n î 
+k ím ğ ó n e t e? cine dirijează 
+orchestra?; 
+orkestragakelíştírúw s. (muz.) 
+orchestraŃie; orchestrare. 
+orkestralaştîrma s. orchestrare. 
+orkestralaştîrmak v.t. a orchestra. 
+orkestralaştîruw s. orchestrare. 
+ormak v.t. a secera. 
+orman s. pădure. // ●d e l í o rm a n 
+pădure virgină; codru des; desiş; hăŃiş. 
+●o e k í o rm an a r a s î n da b í r 
+ğ o l b a r între cele două păduri e un 
+drum. ●o rm a n a y aw ğ u s î 
+pădurar. ●o rm an k e na r î lizieră. 
+Orman, Ahmet- s. (topon., pădure 
+lângă Isaccea) ("Pădurea lui Ahmet") 
+Ahmedorman (jud. Tulcea). 
+Orman, Kara- s. (topon.) ("Pădurea 
+Neagră") Caraorman (jud. Tulcea). 
+Orman, Tele - s. (topon.) ("Pădurea 
+SciŃilor") Teleorman. 
+orman-añgîrî s. (orn.) raŃă mandarin 
+americană (lat., Aix sponsa). 
+orman-ğelbegesí s. (orn.) pitulice 
+sfârâitoare (lat., Phylloscopus 
+sibilatrix). 
+ormanğî s. 1. pădurar. 2. silvicultor. 
+ormanğîlîk s. silvicultură. 
+ormanlaşkan adj. împădurit. 
+ormanlaşmak v.i. a se împăduri. 
+ormanlaştîrma s. împădurire. 
+ormanlaştîrmak v.t. a împăduri. 
+ormanlaştîruw s. împădurire. 
+ormanlî adj. păduros; împădurit. 
+ormanlîk adj. forestier. 
+ormansîz adj. (d. munŃi) pleşuv. 
+ormansîzlîk s. (d. munŃi) pleşuvie. 
+orman-ş îrîldagî s. (orn.) greluşel de 
+pădure (lat., Lo custella 
+f asciolata). 
+orman-sarîkaşî s. (orn.) pitulice 
+sfârâitoare (lat., Phylloscopus 
+sibilatrix). 
+orman-sodîrgayî s. (orn.) brumăriŃă 
+de pădure (lat., Pru nella 
+modula ris). 
+orn itoloğik adj. ornitologic. 
+orn itoloğiya I. adj. ornitologic. II. s. 
+ornitologie. 
+orn itoloğiyağî s. ornitolog. 
+orn itoloğiyalî adj. ornitologic. 
+orn itolok s. ornitolog. 
+orsa s. (nav.) babord. 
+orta I. adj. mediu; mijlociu. II. s. 1. 
+jumătate. 2. centru; mijloc. // ●o r t a 
+ğ o l t u tm a k a Ńine calea de mijloc; a 
+fi moderat. // ●b aá r n í ñ o r t a s î 
+mijlocul primăverii. ●ğ o l n î ñ o r t a s î 
+jumătatea drumului. ●m e ğ b u r i y 
+o r t a ú y r e t ím învăŃământ secundar 
+obligatoriu. ●o r t a d a l g a / du l k un 
+unde medii. ●o r t a ğ o l via media; 
+cale de mijloc. ●o r t a ğ o l a l t î nd î r 
+aurită este calea de mijloc. ●o r t a 
+m e k t e p / o k î l şcoală medie. ●o r t a 
+pa rm a k degetul mijlociu. ●o r t a 
+ş a k t ew ú k e s í istoria evului mediu. 
+●o r t a s î k l e t (sport) categoria 
+mijlocie. ●o r t a g a s a l î n g an p a r a 
+miză. 
+Orta -Afrika s. (topon.) Republica 
+Central-Africană. 
+orta-afrikalî s., adj. centrafrican. 
+Orta -Amerika s. (topon.) America 
+Centrală. 
+orta-amerikalî s., adj. 
+centramerican. 
+ortaboy(lî ) adj. de statură mijlocie. 
+ortada adv. la mijloc; în centru. //
+●o r t ada k a l d î rm a k a face ceva 
+pe jumătate. 
+ortadakalgan adj. rămas la mijloc; 
+neterminat; întrerupt. 
+ortadan adv. dinspre mijloc; dinspre 
+centru. 
+ortaga adv. spre mijloc; spre centru. //
+●o r t a ga a t m a k a arunca la mijloc; 
+a centra; a pune pe tapet; a da pe faŃă; 
+a da în vileag; a divulga. ●o r t a ga 
+s a lm a k a pune la mijloc; a centra; a 
+pune pe tapet; a da pe faŃă; a da în 
+vileag; a divulga. ●o r t a g a ş î km a k 
+a ieşi în mijloc; a ieşi la iveală; a se da 
+pe faŃă. 
+ortagaatîlgan adj. (sport) centrat. 
+ortagaatuw s. (sport) centrare. 
+ortagağ îyîlgan adj. centralizat. 
+ortagağ îyuw s. centralizare. 
+ortagakondîrma s. (sport) centrare. 
+ortagakongan adj. (sport) centrat. 
+ortagakondîruw s. (sport) centrare. 
+ortagaotîrgan adj. centrat. 
+ortagaotîrtuw s. centrare. 
+ortagasalîngan adj. divulgat; 
+dezvăluit. 
+ortagasaluw s. divulgare; dezvăluire. 
+ortagaş îguw s. apariŃie. 
+ortagaş îkkan adj. apărut. 
+ortagatógílgen adj. 1. deconspirat; 
+divulgat. 2. mărturisit; destăinuit; 
+recunoscut. 3. dezvăluit; divulgat; 
+trădat. 
+ortagatógúw s. 1. confesiune; 
+deconspirare; divulgare. 2. dezvăluire; 
+divulgare; trădare. 3. mărturisire; 
+destăinuire; recunoaştere. 
+ortahál s. mediocritate. 
+ortahállí adj. mediocru. 
+ortak I. adj. comun; colectiv. II. s. 1. 
+(econ.) asociat. 2. (jur.) complice. //
+●d e r t o r t a g î tovarăş de suferinŃă. 
+●í ş o r t a g î partener. ●k a b aá t 
+o r t a g î (jur.) complice. ●o r t a k 
+fa r k (mat.) progresie aritmetică. 
+●o r t a k t am b ó l g en (mat.) divizor 
+comun. 
+ortaketúw s. cointeresare. 
+ortaklaşîp adv. în asociaŃie cu…; în 
+tovărăşie; în comun. 
+ortaklaşîp-şalîşma s. colaborare. 
+ortaklaşîp-şalîşuw s. colaborare. 
+ortaklaşmak v.i. a se asocia; a se uni; 
+a se întovărăşi. // ●o r t a k l a ş î p 
+ş a l î şm a colaborare. 
+ortaklîk s. 1. asociaŃie; întovărăşire. 
+2. (econ.) societate; companie. //
+●k a b a á t o r t a k l î g î complicitate. 
+●o r t a k l î k ğ ó n e l í ş í (gram.) diateza 
+de reciprocitate. 
+ortakólşelgen adj. (mat.) 
+comensurabil. // ●o r t a k ó l ş e l g en 
+s a y î l a r (mat.) numere 
+comensurabile. 
+ortakólşelmez adj. (mat.) 
+incomensurabil. // ●o r t a k ó l ş e lm e z 
+s a y î l a r (mat.) numere 
+incomensurabile. 
+ortakşî s. dijmaş. 
+ortakşîlîk s. întovărăşire; asociere. 
+Orta -Kúntuwar s. (topon.) Orientul 
+Mijlociu. 
+ortakyaşaw s. simbioză. 
+ortalama I. adj. mediu. II. adv. în 
+medie. III. s. 1. centrare; axare. 2. 
+(mat.) stabilire mediei; rotunjire. //
+●o r t a l am a p i y a t preŃ mediu.
+ónsen s. (la şa) oblânc. 
+ópke s. 1. furie; mânie; ciudă. 2. 
+(anat.) plămân. 3. (med.) tuberculoză; 
+ftizie; oftică. // ●da k k a da r 
+ó pk em b a r am o supărare cât un 
+munte. ●ó pk e d en ó l g en a murit de 
+tuberculoză. 
+ópkeğí adj. coleric. 
+ópkelendírmek v.t. a înfuria; a 
+mânia; a supăra. 
+ópkelendírúwğí adj. supărător. 
+ópkelenewuygan adj. supărăcios; 
+arŃăgos; irascibil. 
+ópkelenewuyma s. nervozitate; arŃag; 
+irascibilitate. 
+ópkelenewuyuw s. nervozitate; arŃag; 
+irascibilitate. 
+ópkelengen adj. 1. înfuriat; furios; 
+înciudat; mânios; supărat; indignat; 
+revoltat. 2. (med.) tuberculos; ftizic; 
+ofticos. 
+ópkelenme s. furie; mânie; ciudă; 
+supărare; indignare; revoltă. 
+ópkelenmek v.i. a se înfuria; a se 
+mânia; a se supăra. // ●ş a l t 
+ó pk e l e n g en coleric. 
+ópkelí adj. 1. înfuriat; furios; 
+înciudat; mânios; supărat; indignat; 
+revoltat. 2. (med.) tuberculos; ftizic; 
+ofticos. 
+ópkesíz adj. fără mânie; fără furie; 
+fără ciudă. 
+ópmek v.t. a săruta; a pupa. //
+●aw u zu nd an ó pm e k a-i da cuiva 
+o gură; a-l săruta pe gură. ●e t e k 
+ó pm e k a săruta poalele; a se linguşi. 
+●k o l ó pm e k a săruta mâna. 
+ór adv. sus. 
+órde adv. sus; pe partea superioară; 
+deasupra. 
+órdeg í adj. care este sus; care este 
+deasupra. 
+órdeg í, Afrika -Murun î- s. (orn.) raŃă 
+de Cap; sarselă de Cap (lat., Anas 
+capensis). 
+órdeg í, Amazon- s. (orn.) raŃă 
+braziliană; raŃă amazoniană (lat., 
+Amazonetta brasiliensis). 
+órdeg í, Amerika- s. (orn.) raŃă 
+leşească (lat., Cairina moschata). 
+órdeg í, Baykal- s. (orn.) raŃă mică de 
+Baikal (lat., Anas f ormosa). 
+órdeg í, Filipin- s. (orn.) raŃă 
+filipineză (lat., A nas l uzo nica). 
+órdeg í, ğaz- s. (orn.) raŃă porumbacă 
+(lat., Marma ronetta 
+angustirostris). 
+órdeg í, Islant-altînkóz- s. (orn.) 
+raŃa lui Barrow (lat., B ucephala 
+islandica). 
+órdeg í, kara-Amerika- s. (orn.) raŃă 
+neagră americană (lat., Melanitta 
+nigra ame ricana). 
+órdeg í, kara-kózlí-deñíz- s. (orn.) 
+eider roşcat (lat., Polysticta 
+stelleri). 
+órdeg í, kózíldíríklí-deñíz- s. (orn.) 
+eider cu ochelari (lat., Somateria 
+f ischeri). 
+órdeg í, kral-deñíz- s. (orn.) eider 
+regal (lat., Somateria 
+spectabilis). 
+órdeg í, kúrekş í-Afrika-Murunî - s. 
+(orn.) raŃă lopătar de Cap (lat., Anas 
+smithii). 
+órdeg í, kúrekşí -Awustraliye- s. 
+(orn.) raŃă lopătar australiană (lat., 
+Anas rhy nchotis). 
+órdeg í, puna -Amazon - s. (orn.) raŃă 
+puna sud-americană ( lat., Anas 
+puna). 
+órdeg í, ş îjgîruwğ î-Amerika- s. 
+(orn.) raŃă fluierătoare americană 
+(lat., Anas a mericana). 
+órdeg í, sîradan-deñíz- s. (orn.) eider 
+(lat., Somateria mollissima). 
+órdeg í, yeşíl -kanatlî - Amerika - s. 
+(orn.) raŃă cu aripă verde americană 
+(lat., Anas crec ca ca rolinensis). 
+órdek s. (orn.) raŃă (lat., A nas 
+platyrhynchos domesticus). //
+●ó r d e k b a l a s î / b î ğ î s î răŃuşcă; 
+boboc de raŃă. ●ó r d e k e t í carne de 
+raŃă. 
+órdek, ak-başlî- s. (orn.) raŃă cu cap 
+alb (lat., Oxy ura leu cocephala). 
+órdek, ak-pîşkî- s. (orn.) ferestraş 
+mic (lat., Mergus albellus). 
+órdek, ak-yúzlí- s. (orn.) raŃă cu 
+obraz alb (lat., B ucephala 
+albeola). 
+órdek, ak-yúzlí -kîl-kuyruklî - s. 
+(orn.) raŃă cu obrazul alb (lat., Anas 
+bahamensis). 
+órdek, alaşa- s. (orn.) raŃă pătată 
+(lat., Anas f lavirostris). 
+órdek, altînkóz- s. (orn.) raŃă 
+sunătoare (lat., B ucephala 
+clangula). 
+órdek, boz- s. (orn.) raŃă pestriŃă 
+(lat., Anas strepera). 
+órdek, gúmúş- s. (orn.) raŃă argintie 
+(lat., Anas v ersicolo r). 
+órdek, kad ife- s. (orn.) raŃă catifelată 
+(lat., Melanitta f usca). 
+órdek, kalpaklî-pîşkî- s. (orn.) 
+ferestraş cu glugă (lat., Mergus 
+cucullatus; Lop hodytes 
+cucullatus). 
+órdek, kara - s. (orn.) raŃă neagră 
+(lat., Melanitta nigra). 
+órdek, kara-başlî- s. (orn.) raŃă cu 
+cap negru (lat., Heteronetta 
+atricapilla). 
+órdek, kawerengí - s. (orn.) raŃă 
+brună (lat., Anas rubripes). 
+órdek, kekeşlí-pîşkî- s. (orn.) 
+ferestraş moŃat (lat., Mergus 
+serrator). 
+órdek, kestanerengí - s. (orn.) raŃă 
+castanie (lat., A nas castanea). 
+órdek, kíşkene- s. (orn.) raŃă mică 
+(lat., Anas crec ca). 
+órdek, kîlkuyruk- s. (orn.) raŃă 
+suliŃar (lat., Anas ac uta). 
+órdek, kîrmîzî-gágáalî - s. (orn.) raŃă 
+cu cioc roşu (lat., Anas 
+erythrorhyn cha). 
+órdek, kîzîl-kúrekşí - s. (orn.) raŃă 
+lopătar roşie (lat., Anas platalea). 
+órdek, kîzîl-sîrtlî- s. (orn.) raŃă cu 
+spinare roşie (lat., Callonetta 
+leucoph rys). 
+órdek, koñgîr- s. (orn.) raŃă roşcată 
+jamaicană (lat., Oxyura 
+jamaicensis). 
+órdek, kuruldawğî - s. (orn.) raŃă 
+cârâitoare (lat., Anas 
+que rqued ula). 
+órdek, kúrekş í- s. (orn.) raŃă lingurar 
+(lat., Anas clypeata; Spatula 
+clypeata). 
+órdek, mawî-kanatlî - s. (orn.) raŃă 
+cu aripă albastră (lat., Anas 
+discors). 
+órdek, oraklî - s. (orn.) raŃă mică 
+siberiană (lat., Anas f alcata). 
+órdek, pamuk- s. (orn.) raŃă mică de 
+bumbac (lat., Nettapus 
+coroma ndelianus). 
+órdek, pîşkî- s. (orn.) ferestraş mare; 
+bodârlău cu ferăstrău (lat., Me rgus 
+merganse r). 
+órdek, şakabaz- s. (orn.) raŃă 
+arlechin (lat., Histrionicus 
+histrionicus). 
+órdek, şîjg îruwğî - s. (orn.) raŃă 
+fluierătoare europeană (lat., Anas 
+penelope). 
+órdek, sarî-gágáalî- s. (orn.) raŃă cu 
+cioc galben (lat., Anas u ndulata). 
+órdek, tarak- s. (orn.) raŃă pieptene 
+(lat., Sarkidiornis sylvicola). 
+órdek, tel-kuyruklî- s. (orn.) raŃă de 
+gheŃuri (lat., Clan gula hyemalis). 
+órdek, tolareng í- s. (orn.) raŃă 
+cărămizie (lat., Anas 
+cyanoptera). 
+órdek, yeş ílbaş- s. (orn.) raŃă mare 
+(lat., Anas platyrhy nchos). 
+órdekí adj. care este sus; care este 
+deasupra. 
+órdekílerínd iy adv. ca cele de mai 
+sus. 
+órdek-kerdemesí s. (bot.) brâncuŃă; 
+rapiŃă-sălbatică (lat., Nasturtium 
+palustre). 
+órdekmurun s. (zool.) ornitorinc 
+(lat., Ornithorhy nch us 
+anatinus). 
+órdek-teresí s. (bot.) brâncuŃă; rapiŃă-
+sălbatică (lat., Nasturtium 
+palustre). 
+órden adv. de sus; dinspre partea 
+superioară. 
+óre s. (med.) urticarie. 
+óreke s. furcă de tors; crăcan; cracă 
+ramificată. 
+óren s. ruină; dărâmătură (şi fig.). 
+óreñge s. (zool.) rinocer (lat., 
+Rhinoceros). 
+óreñgebóğek s. (ent.) băligar-cu-corn; 
+caraban; nasicorn (lat., Oryctes 
+nasicornis). 
+óreñgekuş s. (orn.) pasărea-rinocer; 
+corbul cu corn (lat., Bu corv us 
+abyssinicus). 
+óreñgekuş, boz- s. (orn.) pasărea 
+rinocer toko cenuşie (lat., Tock us 
+nasutus). 
+óreñge-tezíkşí s. (ent.) caraban; 
+nasicorn; băligar-cu-corn (lat., 
+Oryctes nasicornis). 
+órf s. obicei; datină. 
+órfiy adj. strămoşesc; din datină. 
+órge adv. în sus; spre partea 
+superioară. 
+órgí s. 1. împletire; împletitură. 2. 
+(anat.) plex. 
+órgín adj. organizat; orânduit. 
+órgít s. organizaŃie. // ●s i nd i k a t 
+ó r g í t í organizaŃie de sindicat. 
+órgítleme s. organizare. 
+órgítlemek v.t. a organiza. 
+órgítlengen adj. organizat. 
+órgítlenmek v.i. a se organiza. 
+órgítlí adj. organizat. 
+órgítş í s. organizator. 
+órí s. construcŃie; clădire. 
+órílgen adj. croşetat; împletit; tricotat. 
+órílmek v.i. a fi împletit; a fi tricotat; a 
+fi croşetat. 
+órím s. împletitură; obiect tricotat; 
+obiect croşetat. // ●ş á ş ó r ím í 
+împletitură de păr. 
+órímğeg í, kanara- s. (ent.) tarantulă 
+(lat., Lycosa tarentula). 
+órímğek s. (ent.) păianjen. //
+●ó r ím ğ e k ğ î l îm î păienjeniş; pânză 
+de păianjen. 
+órínde adv. în susul. 
+órínden adv. din susul. 
+óríne adv. spre susul. 
+órkeş s. (la cămile) cocoaşă.
+ğamlîk-íşelík s. sticlărie; obiecte de 
+sticlă. 
+ğamşîk s. cercevea; ramă; cadru; toc. 
+ğamtî s. păr pubian. 
+ğamtókken s. sticlar. 
+ğan s. 1. suflet. 2. viaŃă. 3. forŃă; 
+putere; vigoare; tonus. 4. persoană; 
+ins. 5. înviorare; însufleŃire; 
+înfrigurare; vervă; vivacitate. 6. fiinŃă; 
+vietate; vieŃuitoare; creatură; făptură. 
+// ●ğan a tm a k a dori din suflet; a 
+tânji după… ; ●ğ an k u l a g î m an 
+s e s l em e k a fi numai urechi; a 
+asculta cu atenŃie. ●ğ an ş e g í şm e k 
+a se zbate între viaŃă şi moarte; a 
+agoniza; a intra în comă. ●ğa n î 
+aw u rm a k a-l durea sufletul. ●ğa n î 
+ğanm a k a-l arde pe cineva la suflet; 
+a i se rupe sufletul. ●ğa n î í s t em e k 
+a-i da inima ghes; a pofti; a dori. 
+●ğa n î s î g î lm a k a-i fi cuiva urât; a 
+se plictisi. ●ğa n î ş î km a k a-şi da 
+duhul; a muri; a-şi scoate sufletul; a se 
+extenua; a se speria. ●ğan î n 
+a lm a k a lua viaŃa cuiva; a-i curma 
+zilele; a-l ucide. ●ğa n î n b e rm e k a-
+şi da viaŃa; a se jertfi; a muri; a se 
+zbate; a se strădui. ●ğan î n 
+ğa km a k a-i mânca sufletul cuiva. 
+●ğa n î n ş î ga rm a k a-i scoate 
+sufletul; a-l obosi; a-l extenua. 
+●ğa n î n s î km am a k a nu se 
+prăpădi cu firea. ●ğ an î na t i ym e k 
+a-i merge la suflet. ●ğ an î nd an 
+b u km a k a i se urî cu zilele. ●ó z 
+ğan î n a lm a k a-şi lua viaŃa; a se 
+sinucide. ●ó z ğan î nd an k ó p 
+s ú ym e k a iubi pe cineva din tot 
+sufletul. // ●ğa n d o s t î prieten bun. 
+●ğa n gúw en ğ e s í asigurare de 
+persoane. ●ğ an m an , b a ş m a n cu 
+trup şi suflet. ●ğan s a y îm î 
+recensământul populaŃiei. ●ğ an 
+t am î r î / t a z î l î punct nevralgic. 
+●ğa n î í s t e s e dacă doreşte. ●t em í r 
+ğan suflet de fier. 
+ğan I. adj. 1. (d. străzi) lăturalnic; 
+dosnic. 2. secundar; lateral. II. postp. 
+1. lângă; în apropiere. 2. alături de… ; 
+III. s. 1. parte; loc. 2. margine; latură. 
+3. direcŃie; sens. 
+ğana s. (orn.) brumăriŃă de pădure 
+(lat., Prunella mod ularis). 
+ğana-ğana adv. compătimitor. 
+ğanağîsî s. durere; necaz; amărăciune; 
+întristare; mâhnire; tristeŃe; 
+posomorâre. 
+ğanaluw s. asasinare; asasinat; omor; 
+omucidere; ucidere; suprimare; 
+lichidare. 
+ğanaluwğî adj. letal; ucigător. 
+ğanan s. iubită; amantă. 
+Ğanan s. (relig.) Dumnezeu. 
+ğanardak s. vulcan. // ●ğan a r da k 
+aw u z î crater vulcanic. ●ğa na r d a k 
+t a ş î rocă vulcanică. 
+ğanardakb ílímğísí s. vulcanolog. 
+ğanardakb ílímí s. vulcanologie. 
+ğanardakkópíg í adj. ponce. 
+ğanardaklaşkan adj. vulcanizat. 
+ğanardaklaşmak v.i. a se vulcaniza. 
+ğanardaklaştîrma s. vulcanizare. 
+ğanardaklaştîrmak v.t. a vulcaniza. 
+ğanardaklaştîruw s. vulcanizare. 
+ğanardaklî adj. vulcanic; vulcanizat. 
+// ●ğan a r da k l î k aw u ç u k 
+cauciuc vulcanizat. 
+ğanatkan adj. 1. încântat; fascinat; 
+captivat. 2. ambiŃios. 3. dornic; 
+doritor. 
+ğanattîrgan adj. încântător; 
+fascinant; captivant. 
+ğanattîruw s. încântare; fascinaŃie. 
+ğanatuw s. 1. încântare; fascinaŃie. 2. 
+ambiŃie; năzuinŃă; aspiraŃie; dorinŃă; 
+ideal. 3. dorinŃă; jind. 
+ğanavar s. 1. fiară; monstru; animal 
+sălbatic. 2. (fig.) criminal. //
+●ğa na v a r dúd ú g í sirenă. 
+ğanavarlîk s. ferocitate; cruzime. 
+ğanawuymaz adj. ignifug. 
+ğanay s. 1. profil. 2. iubită; amantă. //
+●ğa na y î a y î r î lm a k / k a b a rm a k 
+a se profila; a se reliefa. 
+ğanayayîrîlmasî s. profilare; 
+reliefare. 
+ğanayayîrmasî s. reliefare; profilare. 
+ğanayîayîrîlgan adj. profilat; reliefat. 
+ğanayîkabargan adj. profilat; reliefat. 
+ğanaykabarmasî s. profilare; 
+reliefare. 
+ğanaykabartmasî s. reliefare; 
+profilare. 
+ğanberúw s. 1. moarte; sucombare. 2. 
+râvnă; interes; strădanie; osteneală; 
+stăruinŃă; silinŃă. 
+ğandan adv. sincer; din suflet. //
+●ğa nd an í s t em e k a dori din 
+suflet; a tânji după…; ●ğa nd an 
+k î ş k î rm a k a ovaŃiona. //
+●daw e t í ñ í z ú ş ún ğa nd an 
+ş ú k ú r a n l a r ! mulŃumiri din suflet 
+pentru invitaŃie!; ●ğ and an a l k î ş 
+ovaŃie. ●ğ an dan ş ú k ú r a n l a r 
+mulŃumiri din suflet. 
+ğandan adv. dintr-o parte; din profil. 
+ğandan -ğúrekten adv. din adâncul 
+sufletului; din toată inima. 
+ğandanlîk s. sinceritate; intimitate. 
+ğandan -tílden adv. sincer; din suflet. 
+ğandarma s. jandarmerie; jandarm. 
+ğandaş s., adj. susŃinător; adept. 
+ğandaşlîk s. partizanat. 
+ğanetí s. (gastron.) muşchi; vrăbioară. 
+ğangan adj. 1. (d. o lampă etc.) aprins. 
+2. bronzat; pârlit. 3. ars. 4. (d. plante) 
+ofilit; veştejit. 5. (fig.) îndurerat. 6. 
+(fig.) păcălit; înşelat. // ●ğa n g an 
+a ga ş rug. ●ğ an ga n k ú l tăciune. 
+●ğa n g an y ú z faŃă bronzată. 
+ğangan-ğîgîlgan adj. ars; pârjolit; 
+doborât; distrus. 
+ğangayakîn adj. sincer; afectuos; 
+prietenos; sociabil; cald; comunicativ. 
+ğangayakînlîk s. sinceritate; 
+afecŃiune; prietenie; bună-credinŃă. 
+ğangîn s. 1. foc; incendiu. 2. (med.) 
+febră. // ●ğan g î n k u l a s î foişor de 
+foc. 
+ğangînğî s. pompier. 
+ğangînğîlar s., pl. pompieri. 
+ğangîn-mangîn s. foc; incendiu. 
+ğangînsóndírgen s. pompier. 
+ğangînsóndírgenler s., pl. pompieri. 
+ğanğaguw s. asuprire; împilare; 
+maltratare; oprimare; oropsire; 
+persecuŃie; prigoană; urgisire. 
+ğanğakkan adj. 1. dureros; regretabil. 
+2. supărător; enervant; agasant; 
+iritant. 3. asupritor; opresor; 
+persecutant; prigonitor. 
+ğanğanmas î s. 1. simpatie. 2. căinŃă; 
+regret; deplângere. 3. supărare; necaz; 
+durere; îndurerare. 
+ğan-ğ íger adj. intim; apropiat; drag. 
+ğanğoldaşî s. prieten apropiat; soŃ; 
+soŃie. 
+ğanhîraş adj. groaznic; înfricoşător. 
+ğaniy s. asasin; criminal. 
+ğanístemesí s. dorinŃă; ideal; jind; 
+năzuinŃă; aspiraŃie. 
+ğanîağ îgan adj. îndurerat; mâhnit; 
+trist. 
+ğanîalîngan adj. omorât; ucis; 
+asasinat. 
+ğanîatîlmagan adj. nedoritor. 
+ğanîğangan I. adj. 1. supărat; necăjit. 
+2. îndurerat; maltratat; asuprit; 
+năpăstuit; oprimat; persecutat; 
+prigonit; urgisit. II. s. simpatizant. 
+ğanîístemegen adj. nedoritor. 
+ğanîk adj. 1. ars. 2. bronzat (la soare). 
+3. (fig.) necăjit; amărât; îndurerat. //
+●ğa n î k ó tm e k pâine arsă. 
+ğanîm interj. 1. dragul meu!; sufletul 
+meu!; 2. fiŃi bun!; fiŃi amabil!; 
+ğanîm-ğígerím interj. sufletul şi viaŃa 
+mea!; 
+ğanîm-kózím interj. dragul meu!; 
+dragă!; 
+ğanînatiygen adj. înduioşat. 
+ğanînatiyme s. înduioşare. 
+ğanînatiysetken adj. înduioşător. 
+ğanînatiyúw s. înduioşare. 
+ğanînbergen adj. 1. sârguincios; 
+silitor; stăruitor. 2. defunct; mort; 
+răposat. 
+ğanînda postp. lângă. // ●ú y nú ñ 
+k a t î nd a t e r e k b a r lângă casă 
+sunt pomi. 
+ğanînkutargan adj. salvat; eliberat; 
+dezrobit; descătuşat. 
+ğanîs îgîlgan adj. plictisit; scârbit; 
+sătul. 
+ğanîş îkkan adj. ostenit; vlăguit. 
+ğankutargan s., adj. salvator; 
+eliberator; dezrobitor; izbăvitor; 
+mântuitor. // ●ğ an k u t a r g an 
+k u ş a k centură de salvare. 
+●ğa n k u t a r ga n m a ş i na 
+ambulanŃă; salvare. 
+ğankutarma s. salvare. //
+●ğa n k u t a rm a k a l a ş î colac de 
+salvare. ●ğa n k u t a rm a k a y î g î 
+barcă de salvare. 
+ğankutaruw s. salvare; eliberare; 
+dezrobire; izbăvire; mântuire. 
+ğanlanabergen adj. reîncarnat. 
+ğanlanaberme s. reîncarnare. 
+ğanlanabermek v.i. a se reîncarna. 
+ğanlanaberúw s. reîncarnare. 
+ğanlanaturgan adj. reîncarnat. 
+ğanlanaturma s. reîncarnare. 
+ğanlanaturmak v.i. a se reîncarna. 
+ğanlandîrgan s., adj. animator. 
+ğanlandîrîlgan adj. personificat; 
+întruchipat. 
+ğanlandîrma s. animaŃie. 
+ğanlandîrmak v.t. a însufleŃi; a 
+înviora. 
+ğanlandîruw s. energizare; reanimare; 
+resuscitare; tonificare. 
+ğanlandîruwğî I. adj. întăritor; tonic; 
+tonifiant; analeptic; reconfortant; 
+fortifiant; energizant; intensificator. II. 
+s., adj. animator. 
+ğanlangan adj. înviorat. 
+ğanlanma s. înviorare; reînviere; 
+înviere. 
+ğanlanmak v.i. a se însufleŃi; a se 
+înviora. // ●b í r t aa ğ an l a nm a k a 
+se reîncarna. 
+ğanlanuw s. înviere. 
+ğanlî I. adj. 1. viu; însufleŃit; vivace; 
+tonic. 2. animat; înviorat. II. s. fiinŃă; 
+vietate; vieŃuitoare; creatură; făptură. 
+// ●ğan l î á l em lumea organică. 
+●ğa n l î m ú l k i y e t şeptel. ●ğu r t 
+ğan l î s î animal domestic. ●y e d í 
+ğan l î vivace. 
+ğanlî-başl î adj. cu trup şi suflet.
