@@ -3921,3 +3921,980 @@ radiyoğayînlaw s. radiodifuzare;
 radiodifuziune. 
 radiyoğayînlawğî s. radioemiŃător. 
 radiyoğayînlî adj. radiodifuzat.
+patentsíz adj. nepatentat; nebrevetat. 
+patina s. (sport, tehn.) patină. 
+patinağî s. (sport) patinator. 
+patinaj s. 1. (sport) patinaj. 2. 
+patinare; alunecare; patinaj. 
+patinataygan s. (sport) patinator. 
+patî, Kîtay- s. (bot.) ochiul-boului; 
+rotil (lat., Callistephus 
+chinensis). 
+patî, saray- s. (bot.) săpunele; 
+dumitraş; pocrovă (lat., Aster 
+laexigatus). 
+patlagan adj. 1. plesnit; explodat. 2. 
+exploziv; explozibil. // ●pa t l a g an 
+m add e material explozibil. 
+patlak adj. spart; crăpat. 
+patlakkóz adj. 1. cu ochii bulbucaŃi. 
+2. rău de mama focului; omul 
+dracului; afurisit. 
+patlama s. explozie; pocnet. //
+●a t e ş l í p a t l am a bombă 
+incendiară. ●pa t l am a d a l g a s î 
+suflul exploziei. ●s ú y g í pa t l am a s î 
+izbucnire de dragoste. 
+patlamak v.i. 1. a se crăpa; a plesni; a 
+trosni; a se sparge; a se fisura. 2. a 
+exploda. 3. (d. fenomene ale naturii) a 
+se dezlănŃui; a se porni. 4. a izbucni; 
+a-şi pierde răbdarea; a da strechea 
+în…; // ●b a ş î n a p a t l am a k a se 
+sparge în capul cuiva. ●k am î ş î 
+pa t l am a k (med.) a avea erecŃie. 
+●ó t í n pa t l am a k a-i crăpa fierea; a 
+se speria. 
+patlatma s. bombă. // ●h i d r o ğ en l í 
+pa t l a tm a (mil.) bombă cu hidrogen. 
+●ó z e k l í / ş eg í r d e k l í pa t l a t m a 
+(mil.) bombă nucleară. 
+●s î ğa k ó z e k l í / s î ğa k ş eg í r d e k l í 
+pa t l a tm a (mil.) bombă 
+termonucleară. ●t a n e l í pa t l a t m a 
+(mil.) bombă atomică. 
+patlatmaatkan s. (mil.) bombardier. 
+patlatmağawd îrgan s. (mil.) 
+bombardier. 
+patlatmak v.t. a sparge; a fisura; a 
+dezlănŃui. // ●k am î ş pa t l a tm a k a 
+pocni din bici. 
+patlatmataşîgan s. (mil.) bombardier. 
+patlatmatókken s. (mil.) bombardier. 
+patlatuw s. bombă. 
+patlaw s. explozie; pocnet. 
+patlawğî adj. exploziv; explozibil. 
+patlîğan s. (bot.) vânătă; pătlăgea-
+vânătă (lat., Solan um melon gea). 
+// ●pa t l î ğ an s a l a t a s î salată de 
+vinete. 
+patoloğik adj. (med.) patologic. 
+patoloğiya I. adj. (med.) patologic. II. 
+s. (med.) patologie. 
+patoloğiyalî adj. (med.) patologic. 
+patriarkal adj. (relig.) patriarhal. 
+patrik s. (relig.) patriarh. 
+patriklík I. adj. (relig.) patriarhal. II. 
+s. (relig.) patriarhie; patriarhat. 
+patron s. (electr., econ.) patron. 
+patronlar s., pl. (econ.) patronat. 
+patronlîk s. (econ.) patronat. 
+patşa s. padişah; sultan. 
+paviliyon s. (constr.) pavilion. 
+pay s. 1. parte; contribuŃie; cotă. 2. 
+porŃiune; porŃie; parte. 3. (mat.) 
+numărător. // ●b a ş t an pa y 
+a y î rm a k a predestina. 
+●h i s s e /p a y s a k l am a k a-i păstra 
+cuiva parte din…; a-i aloca. ●ó z í n e 
+pa y ş î ga r tm a k a-şi lua un os de 
+ros; a trage spuza pe turta sa; a-şi crea 
+avantaj. ●p a y a y î rm a k / e tm e k a-i 
+face cuiva parte din…; a-i aloca. ●pa y 
+í s t em e k a-şi cere partea. ●pa y 
+k apm a k a-şi face parte din…; a-şi 
+însuşi ceva. ●p a y p í şm e k a face 
+planuri; a plănui; a norma. ●p a y î n 
+a lm a k a-şi lua porŃia; a fi 
+muştruluit. ●pa y î n b e rm e k a-i da 
+porŃia; a-l muştrului. ●p a y î n 
+k e t í rm e k a lua parte la…; a-şi da 
+obolul; a-şi aduce contribuŃia. //
+●a r s l an pa y î partea leului. ●e k í 
+pa y s a l a t a două porŃii de salată. 
+paya s. jalon. // ●p a y a o t î r tm a k a 
+jalona. 
+payağî s. marcator; marcher. 
+payalama s. jalonare. 
+payalamak v.t. a jalona. 
+payalangan adj. jalonat. 
+payalanmak v.i. a se jalona. 
+payalaw s. jalonare. 
+payalgan adj. căpătuit; procopsit; 
+cointeresat. 
+payalî adj. jalonat. 
+payanta s. paiantă. 
+payaotîrtîlgan adj. jalonat. 
+payaotîrtuw s. jalonare. 
+paybergen adj. mustrător; dojenitor. 
+payberúw s. 1. dojană; muştruluială; 
+burduşeală; ciomăgeală; mustrare; 
+chelfăneală. 2. cointeresare. 
+payda I. adj. utilitar. II. s. folos; 
+avantaj; profit. // ●b í r pa y da 
+k ó rm em e k a nu avea niciun folos. 
+●p a y da e tm e k a fi de folos; a 
+avantaja; a părtini. ●pa y da 
+k ó rm e k a trage foloase. //
+●g e zm e k t e p a y d a y o k plimbatul 
+n-are folos. ●k u l l a n îm pa y d a s î 
+(jur.) uzufruct. ●pa y da s î n k ím 
+k ó r e? cui îi foloseşte?; ●s í z g e n e 
+pa y dam t i y e r ? cu ce vă pot fi de 
+folos?; 
+payda s. (mat.) numitor. //
+●p a y da l a r n î e ş í t l em e k (mat.) a 
+aduce la acelaşi numitor. 
+paydaetken adj. părtinitor. 
+paydaetúw s. părtinire. 
+paydağ î s., adj. utilitarist. 
+paydağ îlîk s. utilitarism. 
+paydakórúw s. folosinŃă; folosire; 
+fructificare. 
+paydalangan adj. beneficiar; 
+câştigător; utilizator. 
+paydalanmak v.i. a se folosi de; a 
+profita. // ●k ím pa y da l a na ? cui îi 
+foloseşte?; 
+paydalî adj. folositor; avantajos. 
+paydalîk adj. utilitar. // ●p a y da l î k 
+m a ş i na s î (transp.) autoutilitară. 
+paydalîş îkkan adj. rentabilizat. 
+paydas îkórílgen adj. fructificat. 
+paydas îz adj. nefolositor; inutil; 
+neconvenabil; neprielnic. 
+paydas îzlîk s. inutilitate. 
+paydaş s. participant. 
+paydaşlîk s. contribuŃie; participaŃie. 
+paydatartúw s. fructificare. 
+paydos I. interj. pauză!; II. s. pauză; 
+repaus. // ●ú y l e pa y d o s î pauza de 
+prânz. 
+payğî s. (fin.) acŃionar; asociat. 
+payînalgan adj. dojenit; muştruluit; 
+burduşit; ciomăgit; mustrat. 
+paylama s. distribuire; repartizare; 
+livrare. 
+paylamak v.t. a distribui; a repartiza; 
+a livra. 
+paylangan adj. distribuit; repartizat; 
+livrat. 
+paylanmak v.i. a fi distribuit; a fi 
+repartizat; a fi livrat. 
+paylaşîlgan adj. împărŃit; partajat. 
+paylaşîmiyelík s. coproprietate. 
+paylaşîmiyesí s., adj. coproprietar. 
+paylaşma s. împărŃire; partajare; 
+coabitare. 
+paylaşmak v.i. a împărŃi; a partaja; a 
+coabita. // ●d e r t í n pa y l a şm a k a 
+împărtăşi durerea cuiva. ●k o z î n î 
+pa y l a şm a k a-şi împărŃi foloasele. 
+paylaşmalîiye s., adj. coproprietar. 
+paylaşmalîiyelík s. coproprietate. 
+paylaştîrmak v.t. a determina să 
+împartă; a face să partajeze; a 
+determina să coabiteze. 
+paylaşuw s. împărŃire; partajare; 
+coabitare. 
+paylawğî I. adj. distributiv. II. s. 
+distribuitor. 
+pay-pay adj. porŃionat. // ●p a y - p a y 
+e tm e k a porŃiona. 
+paypíş ílgen adj. plănuit. 
+paypíşúw s. normare; plănuire. 
+paysaklamasî s. alocare; afectare. 
+paytak I. adj. crăcănat. II. s. (la şah) 
+pion. 
+paytakît s. capitală; metropolă. //
+●p a y t a k î t b a ş pa pa z î mitropolit. 
+payton s. faeton; landou; caleaşcă; 
+trăsură; birjă. // ●ğ e na z e p a y t o n î 
+dric. ●m o t o ç i k l e t a pa y t o n î ataş. 
+●m o t o r l î pa y t o n autocar. 
+paytonğ î s. birjar; vizitiu. //
+●p a y t o n ğ î y e r í capră de trăsură. 
+paytonğ î, ak-kuyruklî- s. (orn.) 
+faeton cu cioc alb (lat., Phaethon 
+lepturus). 
+paytonğ î, kîzîl-tumşuklî - s. (orn.) 
+faeton cu cioc roşu (lat., Phaethon 
+aethereus). 
+paytonğ îday adv. birjăreşte. 
+paytonğ îlîk s. birjărie. 
+paz s. (tehn.) pană; ic. // ●p a z 
+k î s t î rm a k (tehn.) a împăna. 
+pazar s. 1. piaŃă; bazar; târg. 2. 
+comerŃ; negoŃ; vânzare; târguieli. 3. 
+(cron.) duminică. // ●pa za r ga 
+ş î ga rm a k a scoate la vânzare. //
+●an t i k a ğ î l a r pa za r î târgul 
+anticarilor. ●a t ş î k l a r pa za r î 
+bâlci. ●b o pa z a r ga ğ o l ş îm an 
+pentru duminica aceasta sunt drumeŃ. 
+●ğ ená b í l e r í g e ş en pa za r 
+k e l d í l e r dumnealor au venit 
+duminica trecută. ●h a yw an 
+pa za r î obor. ●y a r î n p a z a r mâine 
+e duminică. 
+pazargúní s. (cron.) duminică. 
+pazarlama s. negociere; tocmeală; 
+târguială; cumpărături. 
+pazarlamak v.t. (com.) a tocmi; a 
+târgui; a precupeŃi. 
+pazarlanmagan adj. neprecupeŃit. 
+pazarlanmak v.t. (com.) a fi tocmit; a 
+fi târguit; a fi precupeŃit. 
+pazarlanmaz adj. neprecupeŃit. 
+pazarlaşkan s. negociator. 
+pazarlaşma s. (com.) tocmeală; 
+târguială; negociere. 
+pazarlaşmak v.i. (com.) a se tocmi; a 
+se târgui; a negocia. 
+pazarlaşmalar s., pl. tratative. 
+pazarlaşuw s. (com.) tocmeală; 
+târguială; negociere. 
+pazarlaw s. negociere; tocmeală; 
+târguială; cumpărături. 
+pazarlawğî s. negociator. 
+pazarlîk s. 1. negociere; tocmeală; 
+târguială. 2. cumpărături; târguieli. //
+●p a z a r l î k e tm e k a se tocmi; a se 
+târgui. // ●e k í y a k l î p a z a r l î k l a r 
+negocieri bilaterale. 
+Pazarlîk s. (topon.) ("Târgul", 
+"Târguiala") Târguşor (jud. ConstanŃa). 
+pazarótmek s. franzelă.
+kerdeme s. (bot.) năsturel; cardama; 
+bobâlnic; măcriş-de-baltă (lat., 
+Nasturtium of ficinale). 
+kerdemesí, órdek- s. (bot.) brâncuŃă; 
+rapiŃă-sălbatică (lat., Nasturtium 
+palustre). 
+kerd iy s. strat de flori; răzor. 
+kere s. dată; oară; rând. // ●b í r k e r e 
+o dată; vreodată. ●b í r k e r e t aa 
+încă o dată. ●b í r í n ğ í k e r e prima 
+dată. ●k a ş k e r e? de câte ori?; 
+●k ó p k e r e de multe ori. 
+kerefe s. carafă. 
+kerege s. stâlp; prăjină. 
+keregírğí s., adj. determinist. 
+keregírğílík s. (fil.) determinism. 
+kerek I. adj. necesar; trebuincios; 
+indispensabil. II. conj. fie… fie…; 
+atât… cât şi…; III. s. necesitate; 
+nevoie; trebuinŃă. // ●a lm a s î 
+k e r e k trebuie să ia. ●Ay i ş e b o l s a 
+k e r e k probabil că este Ayşe. 
+●a y t uw k e r e k trebuie spus. 
+●b í z ím d e b a rm am î z k e r e k 
+trebuie să mergem şi noi. ●b o l s a 
+k e r e k pesemne; probabil. 
+●e h emm i y e t m en t eb a r ú z 
+e t t í rm em k e r e k k e trebuie să 
+evidenŃiez în mod deosebit că. 
+●k a r b u r a t o r n î t em í z l em e k 
+k e r e k trebuie curăŃat carburatorul. 
+●k e lm e s í k e r e k ed í trebuia să 
+vină. ●k e r e k b o l s a dacă trebuie. 
+●k e r e k g i b í ş a l î şm a y nu 
+funcŃionează cum trebuie. ●k e r e k 
+t uw u l b o l s a dacă nu trebuie. 
+●k e r e km i y m a ga nu-mi trebuie. 
+●m a g a b í r h am a l k e r e k am 
+nevoie de un hamal. ●n e k e r e k 
+s a ga ? ce-Ńi trebuie?; ●t í ş n í 
+t o t î rm a k k e r e k dintele trebuie 
+plombat. ●t o p l a n t î g a o n î da 
+ş a k î rm a k k e r e k trebuie chemat şi 
+el la adunare. ●t r en n í 
+aw u ş t u rm am k e r e k trebuie să 
+schimb trenul. 
+kerekken adj. necesar. //
+●î s p a t l anm a k k e r e k k en ceea ce 
+era de demonstrat. 
+kerekkende adv. dacă trebuie; când 
+trebuie; dacă este necesar; la nevoie; la 
+rigoare. 
+kereklí adj. necesar; trebuincios; 
+indispensabil. 
+kereklík s. materiale; bunuri; 
+mijloace; necesitate; nevoie; trebuinŃă. 
+// ●k e r e k l í k k i p í (gram.) modul 
+necesitativ. ●s e r t k e r e k l í k 
+necesitate dură. 
+kerekmegen adj. inutil; nefolositor; 
+netrebuincios; superfluu. 
+kerekmek v.i. a trebui; a fi nevoie; a fi 
+necesar. // ●k e r e k t í r s a ga ! aşa-Ńi 
+trebuie!; ●k ó p s aw b o l î ñ î z , 
+k e r e km i y e d í ! mulŃumesc mult, 
+nu era necesar!; 
+kerekmeme s. inutilitate. 
+kerekse adv. dacă trebuie; când 
+trebuie; dacă este necesar; la nevoie; la 
+rigoare. 
+kereksíz adj. inutil; netrebuincios; de 
+prisos; nefolositor. 
+kereksízlík s. inutilitate. 
+kereksíztîrîşkan adj. zădărnicit; 
+anihilat. 
+kereksíztîrîştîrma s. zădărnicire; 
+anihilare. 
+kerekşe s. 1. motiv; pricină; cauză. 2. 
+(mat.) corolar. 
+kerekte adv. dacă trebuie; când 
+trebuie; dacă este necesar; la nevoie; la 
+rigoare. // ●m a y k e r e k t e un 
+k e t í r e s í ñ când trebuie ulei aduci 
+făină. 
+kerektírgen s. 1. cauzator; 
+determinant. 2. (gram.) determinant. 
+kerektírílgen adj. determinat; cauzat. 
+kerektírme s. determinare; implicare; 
+cauzare. 
+kerektírmek v.t. a determina; a 
+implica; a necesita; a cauza. //
+●t e l e s úw k e r e k t í rm e k a impune 
+grabă; a cere iuŃeală. 
+kerem s. 1. mărinimie; nobleŃe; 
+generozitate; cherem. 2. (zool.) veveriŃă 
+(lat., Sciurus vul garis). 
+keremit s. cărămidă; Ńiglă. // ●ş i r e l í 
+k e r em i t teracotă. 
+keremitrengí adj. cărămiziu; bric; 
+teracot. 
+keremitşí s. cărămidar. 
+keren, ak- s. (orn.) gaie albă (lat., 
+Elanus cae rul us). 
+keren, kara- s. (orn.) gaie neagră 
+(lat., Milvus mi gra ns). 
+keren, kara-kanatlî- s. (orn.) gaie 
+albă (lat., Elan us caerulus). 
+keren, kara-omîzlî- s. (orn.) gaie 
+albă (lat., Elan us caerulus). 
+keren, kîzîl- s. (orn.) gaie roşie (lat., 
+Milvus milvus). 
+keren, şatal -kuyruklî - s. (orn.) gaie 
+cu coadă de rândunică (lat., 
+Chelictinia riocourii). 
+kerenay s. (muz.) bucium. 
+kerení, ğílbíz- s. (orn.) uliu de melci 
+(lat., Rostrhamus sociabilis). 
+kerep s. păienjeniş; pânză de păianjen. 
+kereste s. cherestea. 
+keresteğí s. cherestegiu. 
+kerevet s. canapea. 
+kerewez s. (bot.) Ńelină (lat., Apium 
+graveole ns). 
+kerez s. cireaşă. 
+kergen s. (orn.) ciocârlie de câmp 
+(lat., Alauda a rve nsis). 
+kergep s. (text.) gherghef. 
+kergín adj. încordat; tensionat; stresat 
+(şi fig.). 
+kergínleşken adj. încordat; stresat; 
+tensionat. 
+kergínleşme s. stres. 
+kergínleşmek v.i. a se încorda; a se 
+tensiona; a se stresa (şi fig.). 
+kergínleştírmek v.i. a încorda; a 
+tensiona; a stresa (şi fig.). 
+kergínleşúw s. încordare; tensionare; 
+stresare (şi fig.). 
+kergínlík s. încordare; tensionare; 
+stres (şi fig.). // ●k an k e r g í n l í g í 
+(med.) tensiune. 
+kerim adj. generos; darnic; mărinimos. 
+Kerim s. (antrop. m., arab.) 
+"Mărinimosul" (unul din cele 400 de 
+nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+Kerim, El- s. (relig., arab.) "Cel 
+mărinimos" (unul din cele 99 
+preafrumoase nume atribuite în Coran 
+lui Dumnezeu/Allah). 
+kerime s. fiică; fată. 
+Kerime s. (antrop. f., arab.) “Cea 
+mărinimoasă”. 
+Kerim-Kuyusî s. (topon.) ("Fântâna lui 
+Kerim") Zorile (jud. ConstanŃa). 
+Kerip s. (antrop. m., arab.) "Aproapele" 
+(unul din cele 400 de nume atribuite în 
+Coran Profetului Muhammed Aliyselam). 
+keriya s. război de Ńesut. 
+keriyağezí s. (bot.) iarbă-stelată 
+(lat., She rardia arven sis). 
+keriyakîrm îzîsî s. (bot.) roibă; 
+garanŃă; otrăŃel; paŃachină; rumenele 
+(lat., Rubia tinctorum). 
+keriyaşewetí s. (bot.) drobuşor; 
+boiengioaie; cardama; laba-mâŃei 
+(lat., Isatis tinctoria). 
+kerí I. adj. 1. posterior; din spate; de 
+dinapoi. 2. înapoiat; retrograd. II. 
+adv. înapoi; în spate; îndărăt. III. s. 
+1. partea de dinapoi; partea din spate; 
+dos. 2. sfârşit; final. 3. rest; rămăşiŃă. 
+// ●k e r í k a km a k a respinge; a 
+refuza; a recuza. 
+kerí, Hint-kók- s. (orn.) 
+dumbrăveancă albastră indiană (lat., 
+Coracias be nghalensis). 
+keríde adv. în spate; în urmă; înapoi. 
+keríden adv. din spate; din urmă; 
+dinapoi. 
+keríge adv. spre spate; înapoi; 
+îndărăt. 
+keríğí s., adj. (pol.) reacŃionar. 
+keríğílík s. (pol.) reacŃionarism; 
+reacŃiune. 
+keríkagîlgan adj. 1. (fiz.) respins. 2. 
+recuzat; refuzat. 
+keríkakma s. 1. (fiz.) respingere. 2. 
+recuzare; refuz. 
+keríkalgan s. codaş; înapoiat; 
+decăzut. 
+kerílegen adj. decăzut; degradat; 
+regresiv. 
+keríleme s. 1. retragere; dare înapoi. 
+2. (fig.) regres; decădere. 
+kerílemek v.i. 1. a se retrage; a da 
+înapoi. 2. (fig.) a regresa; a da înapoi; 
+a decădea. 
+kerílgen adj. tensionat; întins; extins; 
+încordat; stresat. 
+kerílík s. 1. îndărătnicie; 
+încăpăŃânare. 2. regres; înapoiere; 
+decădere. 
+kerílím s. 1. (fiz.) tensiune; voltaj. 2. 
+(med.) tensiune; stres. 3. tensionare; 
+încordare; întindere; extindere. //
+●k an k e r í l ím í (med.) tensiune. 
+kerílímlí adj. 1. încordat; tensionat; 
+stresat. 2. extensiv. 
+kerílímólşer s. (fiz.) voltmetru; 
+tensiometru. 
+kerílme s. tensiune; tensionare; 
+încordare; stresare; întindere; 
+extindere. 
+kerílmek v.i. 1. a se întinde; a se 
+extinde. 2. a se încorda; a se tensiona. 
+// ●k an îm k e r í l d í am tensiune. 
+keríngen adj. întins (pt. relaxare). 
+kerínmek v.i. a se întinde (pt. 
+relaxare). 
+kerínúw s. întindere (pt. relaxare). 
+kerísí postp. îndărătul; dinapoia; 
+înapoia. 
+kerísínde adv. în spatele; în spinarea; 
+pe verso. 
+kerísínden adv. din spatele; din 
+spinarea; de pe verso. 
+kerkana s. bordel; casă de toleranŃă. 
+kerken s. (la animalele rumegătoare) 
+ierbar; rumen. 
+kerkínşek s. (orn.) şoim de iarnă; 
+vânturel de iarnă; şoimul porumbeilor 
+(lat., Falco colu mbarius). 
+kerkínşekş í s. şoimar. 
+Kermadek-Adalarî-boraganğ îsî s. 
+(orn.) rândunica furtunii de Insulele 
+Kermadec (lat., Pterodroma 
+neglecta). 
+kerme s. tensiune; tensionare; 
+încordare. 
+kermek v.t. 1. a întinde; a extinde. 2. 
+a tensiona; a încorda. 
+kermeş ík s. 1. fructul sângerului. 2. 
+(bot.) sânger (lat., Co rn us 
+sanguinea).
+geñíş iyúw s. lărgire; mărire; extindere; 
+lăŃire. 
+geñíşleme s. expansiune. 
+geñíşlengen adj. lărgit; mărit; extins; 
+lăŃit. 
+geñíşlenme s. lărgire; mărire; 
+extindere; lăŃire. 
+geñíşlenmek v.i. a se lărgi; a se mări; 
+a se extinde; a se lăŃi. 
+geñíşlenúw s. lărgire; mărire; 
+extindere; lăŃire. 
+geñíşletmek v.t. a lărgi; a mări; a 
+extinde; a lăŃi. 
+geñíşlew s. expansiune. 
+geñíşliy adv. lăŃiş; în sensul lăŃimii. 
+geñíşlík s. 1. extindere; mărime; 
+amplitudine. 2. lăŃime; lărgime. 3. 
+(fig.) bunăstare; prosperitate. //
+●a z am i y g e ñ í ş l í k lăŃime maximă 
+permisă. ●k um a ş n î ñ g eñ í ş l í g í 
+lăŃimea stofei. ●k um l u k l a r n î ñ 
+g e ñ í ş l í g í lăŃimea plajelor. ●ş ó l n í ñ 
+g e ñ í ş l í g í lăŃimea câmpului. 
+geñíz I. adj. nazal. II. s. (anat.) fosă 
+nazală. // ●g e ñ í z d e n k o n î ş m a k a 
+vorbi pe nas; a fonfăi. // ●g eñ í z 
+t a r t î k aw a z î (lingv.) consoană 
+nazală. 
+geñízden adv. nazal. 
+geñízdenkonîşuw s. fonfăială. 
+geñízğe adv. nazal. 
+geñízleşken adj. nazalizat. 
+geñízleşme s. nazalizare. 
+geñízleşmek v.i. a se nazaliza. 
+geñízleştírmek v.t. a nazaliza. 
+geñízleşúw s. nazalizare. 
+geñízlí adj. nazal; nazalizat. 
+gerdek s. 1. cameră nupŃială. 2. 
+ecran; cortină. 
+gerdeklí adj. ecranat. 
+gergedan s. (zool.) rinocer (lat., 
+Rhinoceros). 
+gergedanbóğek s. (ent.) băligar-cu-
+corn; caraban; nasicorn (lat., 
+Oryctes nasicornis). 
+gergedan-tezíkşí s. (ent.) caraban; 
+nasicorn; băligar-cu-corn (lat., 
+Oryctes nasicornis). 
+gergef s. (text.) gherghef. // ●g e r g e f 
+í ş l em e k a broda la gherghef. 
+gerila s. gherilă; război de partizani. 
+gerp s. emblemă; stemă; blazon. 
+gerpbílímğí adj. eraldic. 
+gerpbílím í s. eraldică. 
+gerplí adj. emblematic. 
+geş interj. (la diferite jocuri de cărŃi) pas! 
+; 
+geşe postp. (pt. exprimarea orei) şi. //
+●o n b í r n í ş e r í k g e ş e unsprezece 
+şi un sfert. ●s áá t o n n î y í g í r ím 
+g e ş e t r en k e l d í trenul a sosit la 
+ora zece şi douăzeci. 
+geşek s. pasarelă. 
+geşen adj. trecut; precedent; 
+premergător. // ●ğ en á b í l e r í g e ş en 
+pa za r k e l d í l e r dumnealor au venit 
+duminica trecută. ●g e ş en h a p t a 
+ğ o l ga ş î k t î k am pornit la drum 
+săptămâna trecută. ●g e ş en 
+k ún l e r d e zilele trecute. ●g e ş en 
+s e f e r rândul trecut. ●g e ş en s en e 
+anul trecut. ●g e ş en s en e 
+b í r í n ğ í l í k n í a l d î anul trecut a 
+luat premiul întâi. ●g e ş en 
+z em an e g e n i s p e t í m en 
+comparativ cu timpul trecut. 
+geşende adv. deunăzi; recent; nu 
+demult; acum câteva zile. 
+geşenden adv. din trecut. 
+geşenek s. coridor; culoar; hol; galerie. 
+geşenge adv. pentru trecut. 
+geşengekaragan adj. retrospectiv. 
+geşengekullanîlgan adj. retroactiv. 
+geşeng í adj. retro. 
+geşenlerde adv. deunăzi; recent; nu 
+demult; acum câteva zile. 
+geşer adj. 1. (fin.) curent; în curs. 2. 
+(econ.) căutat; cerut. 3. uzual; 
+obişnuit. 4. valabil; valid. // ●g e ş e r 
+pa r a monedă în curs. 
+geşerlí adj. valabil; valid. 
+geşerlígípítken adj. expirat; nul. 
+geşerlík s. 1. (fin.) curs. 2. (econ.) 
+căutare; cerere. 3. valabilitate; 
+validitate. // ●b i l e t g e ş e r l í g í 
+valabilitatea biletului. 
+geşerlíkberílgen adj. validat. 
+geşerlíkberúw s. validare. 
+geşerlíktenş îgaruw s. (jur.) 
+prescripŃie; invalidare. 
+geşerlíktenş îkkan adj. (jur.) prescris; 
+invalidat. 
+geşersíz adj. (d. legi, dispoziŃii) fără 
+valabilitate; ieşit din vigoare; expirat; 
+invalidat; nul. 
+geşersízlík s. (jur.) nulitate. 
+geşiyatîrganda adv. în trecere; în 
+treacăt. 
+geşílealgan adj. accesibil. 
+geşílír adj. penetrabil. 
+geşílmek v.i. a se trece; a se sări; a se 
+traversa; a se parcurge; a se străbate. 
+// ●a y t î p g e ş í l g en în treacăt 
+spuse. ●m ú r en g e ş í l g en y e r vad. 
+geşílmez adj. impenetrabil. 
+geşílmiykalîr adj. impenetrabil. 
+geşírgen adj. 1. (fiz.) permeabil. 2. 
+(fiz.) bun conducător; conductibil; 
+conductor. 3. (gram.) tranzitiv. //
+●g e ş í r g en f i i l (gram.) verb 
+tranzitiv. 
+geşírílgen adj. 1. petrecut; trăit. 2. 
+condus; petrecut; însoŃit; călăuzit. 3. 
+pus; introdus; băgat. 4. trecut; 
+transmis; pasat. 5. (tehn., lingv.) 
+decalcat; calchiat. 
+geşírílme s. transmitere; perpetuare. 
+geşírílmek v.i. 1. a se petrece; a fi 
+trăit. 2. a fi pus; a fi introdus; a fi 
+băgat. 3. a se trece; a se transmite; a 
+se pasa. 4. a se conduce; a se petrece. 
+geşírílúw s. transmitere; perpetuare. 
+geşírímlí adj. (fiz.) permeabil. 
+geşírímlílík s. (fiz.) permeabilitate. 
+geşírímsíz adj. (fiz.) impermeabil. 
+geşírímsízlík s. (fiz.) 
+impermeabilitate. 
+geşírme s. 1. punere; introducere; 
+băgare. 2. (tehn., lingv.) calc; 
+decalcare; calchiere. 3. trecere; 
+transmitere; pasare. 4. conducere; 
+petrecere; însoŃire; călăuzire. 5. 
+(gram.) tranzitivitate. // ●g e ş í rm e 
+k áá t í hârtie de calc. ●n e z a r e t t en 
+g e ş í rm e recenzie. 
+geşírmek v.t. 1. a trece; a transmite; a 
+pasa. 2. a pune; a introduce; a băga. 
+3. a conduce; a petrece; a însoŃi; a 
+călăuzi. 4. a petrece; a trăi (o perioadă 
+de timp). 5. (tehn., lingv.) a decalca; a 
+calchia. // ●b a l a l î g î n g e ş í rm e k a 
+copilări. ●b a y g î n l î k g e ş í rm e k a 
+leşina. ●b í r t a a k ó z d en 
+g e ş í rm e k a reexamina; a revizui; a 
+recapitula. ●d e f t e r g e g e ş í rm e k a 
+consemna. ●e l e k t e n g e ş í rm e k a 
+trece prin ciur; a cerne. ●ğ i nn e t 
+g e ş í rm e k a-şi pierde facultăŃile 
+mintale; a-şi pierde minŃile. 
+●ğú r eg í nd en g e ş í rm e k a-i cădea 
+cu drag; a-i cădea la inimă; a-l îndrăgi. 
+●h a y a t k a g e ş í rm e k a transpune 
+în viaŃă. ●h e s a b î n a g e ş í rm e k a 
+pune în socoteala cuiva; a-l Ńine bun 
+de plată; a-i imputa. ●k a b aá t í n d en 
+g e ş í rm e k a graŃia pe cineva; a-l 
+ierta. ●k î l î ş t an g e ş í rm e k a trece 
+prin foc şi sabie. ●k î ş n î g e ş í rm e k 
+a ierna. ●k ó k í r e k g e ş í rm e k a 
+suspina; a ofta. ●k o l d an 
+g e ş í rm e k a lua la mână; a lucra 
+manual; a manipula. ●k o l ga 
+g e ş í rm e k a pune mâna pe ceva; a-şi 
+însuşi; a pune mâna pe cineva; a-l 
+prinde; a-l înhăŃa; a-l aresta. 
+●k ó zd en g e ş í rm e k a cerceta cu 
+privirea; a revizui. ●k ún l e r í n 
+g e ş í rm e k a-şi petrece zilele; a trăi. 
+●k ú p e ş t eg e g e ş í rm e k a 
+transborda. ●m u r u n t a k 
+g e ş í rm e k a pune botniŃă. ●óm í r í n 
+g e ş í rm e k a-şi duce traiul; a-şi 
+petrece viaŃa; a trăi. 
+●o y b e r úw d en / s e s b e r úw d en 
+g e ş í rm e k a supune la vot. 
+●s i ğ i l g e g e ş í rm e k a înregistra; a 
+înscrie. ●s ú z g e ş t e n g e ş í rm e k a 
+trece prin strecurătoare; a strecura. 
+●t eğ r ú b e d e n g e ş í rm e k a 
+practica. ●t o p n î g e ş í rm e k (sport) a 
+pasa mingea. ●ú s t ún e g e ş í rm e k a 
+trece ceva pe numele cuiva. 
+●w a k î t î n g e ş í rm e k a-şi petrece 
+timpul. ●y a z uw n î b a ş k a k áá t k e 
+g e ş í rm e k a transcrie. ●zam an î n 
+g e ş í rm e k a-şi petrece vremea. //
+●m e n s í z n í g e ş í r i y ím să vă arăt 
+eu drumul. 
+geşírmeme s. (gram.) intranzitivitate. 
+geşírmez adj. (gram.) intranzitiv. //
+●g e ş í rm e z f i i l (gram.) verb 
+intranzitiv. 
+geşírmezlík s. (gram.) intranzitivitate. 
+geşírúw s. 1. (fiz.) permeabilitate. 
+punere; introducere; băgare. 2. (fiz.) 
+conductibilitate. (tehn., lingv.) calc; 
+decalcare; calchiere. 3. trecere; 
+transmitere; pasare. 4. conducere; 
+petrecere; însoŃire; călăuzire. 5. 
+(gram.) tranzitivitate. 
+geşírúwğí s., adj. conductor; 
+transmiŃător. // ●g e ş í r úw ğ í 
+t eg e r ş í k (tehn.) roată de transmisie. 
+geşíş s. 1. trecere; tranziŃie. 2. trecere; 
+culoar; pasaj; cale de acces. 3. (geogr.) 
+trecătoare; pas. // ●t a r g e ş í ş 
+defileu. 
+geşíşme s. osmoză. 
+geşken I. adj. 1. trecut; vechi. 2. (d. 
+timp) precedent; anterior; trecut. 3. 
+(med.) molipsitor; contagios; 
+transmisibil. II. s. trecut. //
+●b í r ew n í ñ y e r í n e g e ş k en 
+succesor. ●dú şm an y a g î na 
+g e ş k en k a ş a k transfug. ●g e ş k en 
+zam an (gram.) timpul trecut. 
+geşkenden adv. din trecut. 
+geşkín adj. 1. (d. oameni) trecut; 
+îmbătrânit. 2. (d. plante) ofilit; veştejit; 
+trecut. 
+geşme s. 1. trecere; traversare; pasaj. 
+2. depăşire; penetraŃie. // ●g e şm e 
+pa rm a k l î g î barieră. ●k ó s t e r í ş 
+t ó r en í paradă; ceremonie. ●r e sm i y 
+g e şm e defilare; paradă. 
+geşmeden adv. fără să treacă. //
+●k ó p g e şm ed en nu mult după 
+aceea. 
+geşmegen adj. 1. care nu trece; care 
+nu are trecere. 2. (d. legi, dispoziŃii) 
+fără valabilitate; ieşit din vigoare; 
+expirat; invalidat; nul. // ●s ó z í 
+g e şm e g e n fără trecere; fără 
+influenŃă.
+fiziyoloğ ik adj. fiziologic. 
+fiziyoloğ iya s. fiziologie. 
+fiziyoloğ iyağî s. fiziolog. 
+fiziyoloğ iyalî adj. fiziologic. 
+fiziyolok s. fiziolog. 
+fiziyonom iya s. fizionomie. 
+fiziyoterapiya s. (med.) fizioterapie. 
+fíkír s. 1. idee; gând. 2. opinie; părere. 
+3. minte; judecată; raŃiune. 4. 
+memorie. 
+Fíkíriye s. (antrop. f., arab.) “Cea 
+chibzuită”. 
+fíkírsíz adj. stupid; fără sens. 
+fíkírsízlík s. stupiditate. 
+fîkara adj. 1. sărac; nevoiaş. 2. 
+sărman; biet. 
+fîkaralîk s. sărăcie; lipsuri. 
+fîkra I. adj. (anat.) vertebral. II. s. 1. 
+anecdotă; istorioară. 2. cronică; 
+articol. 3. paragraf; pasaj. 4. (anat.) 
+vertebră. // ●gá zá t a f î k r a s î 
+cronică de ziar. 
+fîkralî adj. vertebrat. 
+fîkralîlar s., pl. vertebrate. 
+fîkrasîz adj. nevertebrat. 
+fîkrasîzlar s., pl. nevertebrate. 
+fîndîg î, manda- s. (bot.) alunele; 
+mândălac (lat., Carum 
+bulbocastanum). 
+fîndîk s. 1. alună. 2. (bot.) alun (lat., 
+Coryl us avella na). 
+fîndîkğargan s. spărgător de nuci. 
+fîndîkkurtî adj. mignon. 
+fîndîklî adj. cu alune. // ●f î nd î k l î 
+ş o k o l a t a ciocolată cu alune. 
+fîndîklîk s. aluniş; alunet. 
+Fîndîklîk s. (topon.) Ostrov (jud. 
+ConstanŃa).
+fîrîldagan adj. răpăitor; Ńăcănitor; 
+păcănitor. 
+fîrîldak s. 1. morişcă de vânt. 2. (la 
+sobe) aerisire; ventilaŃie; tirant. 3. 
+heliograf; aparat pentru transmiterea 
+semnalelor luminoase. 4. (tehn.) 
+ventilator; suflantă. 
+fîrîldakburumğa s. (tehn.) 
+turbosuflantă. 
+fîrîldama s. răpăit; Ńăcănit; păcănit. 
+fîrîldamak v.i. a răpăi; a Ńăcăni; a 
+păcăni. 
+fîrîldaw s. răpăit; Ńăcănit; păcănit. 
+fîrîltî s. răpăit; Ńăcănit; păcănit. 
+fîrîltîlî adj. răpăitor; Ńăcănitor; 
+păcănitor. 
+fîrîn s. 1. cuptor. 2. brutărie. 
+fîrînğî s. brutar. 
+fîrka s. 1. (pol.) partid; grupare. 2. 
+(mil.) divizie. 
+fîrkalîk adj. partinic. 
+fîrkalîkkakarşî adj. antipartinic. 
+fîrsat s. 1. ocazie; prilej; posibilitate. 
+2. oportunitate; moment prielnic. //
+●f î r s a t k a ş î rm a k a rata ocazia. 
+●f î r s a t k o l l am a k a urmări 
+momentul potrivit. ●f î r s a t t apm a k 
+a prinde ocazia. // ●k o n î şm a k 
+f î r s a t î ocazie de a vorbi. 
+fîrsatşî s. oportunist. 
+fîrsatşîlîk s. oportunism. 
+fîrtîna s. 1. furtună. 2. (fig.) scandal. 
+// ●f î r t î na b í l d í r í l e se anunŃă 
+furtună. 
+fîrtînalî adj. furtunos. 
+fîs interj. fâs! ; 
+fîsîldama s. fâsâit. 
+fîsîldamak v.i. a fâsâi. 
+fîsîldatmak v.t. a determina să fâsâie. 
+fîsîldaw s. fâsâit. 
+fîsîltî s. fâsâit. 
+fîstîgî, ğer- s. (bot.) arahidă (plantă) 
+(lat., Arac his hypogaea). 1. 
+arahidă; alună-de-pământ (fruct).
+fîstîk s. fistic (fruct).
+fîstîk-şam î s. (bot.) coconar; pin 
+(lat., Pinus pinea). 
+fîstîktay adj. durduliu; rotund. 
+fîstîkteregí s. (bot.) fistic (plantă) 
+(lat., Pistacia vera). 
+fîşîrdama s. foşnet; freamăt. 
+fîşîrdamak v.i. a foşni; a fremăta. 
+fîşîrdaw s. foşnet; freamăt. 
+fîşîrtî s. foşnet; freamăt. 
+flakon s. flacon. 
+flamant s., adj. flamand. 
+flamantşa I. adv. în limba flamandă. 
+II. s. (limba) flamandă. 
+flaş s. (foto.) blitz. 
+fláwta s. (muz.) flaut. 
+fláwtağî s. (muz.) flautist. 
+flebita s. (med.) flebită. 
+flegmon s. (med.) flegmon. 
+flirt s. flirt. 
+flor s. (chim.) fluor. 
+floreta s. floretă. 
+florlî adj. fluorescent. 
+flota s. (nav.) flotă. 
+flotila s. flotilă. 
+fobiya s. fobie. 
+fodîl adj. îngâmfat; înfumurat. 
+fodîllîk s. îngâmfare; înfumurare. 
+fodra s. căptuşeală; dublură (la haină 
+etc.).
+foka s. (zool.) focă (lat., Phoca 
+vitulina). 
+fokstrot s. foxtrot. 
+folklor s. folclor. 
+folklorğî s. folclorist. 
+fondanta s. bomboană fondantă. 
+fonetik adj. fonetic. 
+fonetika s. fonetică. 
+fonetikalî adj. fonetic. 
+fonik adj. fonic. 
+fonoloğiya s. fonologie. 
+font s. (fin.) fond. 
+fonta s. fontă. 
+Forbes'níñ -ğawunkuşî s. (orn.) 
+prundăraşul lui Forbes (lat., 
+Cha radrius f orbesi). 
+Forbes'níñ -suwtorgayî s. (orn.) 
+prundăraşul lui Forbes (lat., 
+Cha radrius f orbesi). 
+forma s. formă; model. 
+form ik adj. formic. 
+formol s. (chim.) formol. 
+formula s. formulă. 
+Forster'níñ -karkîldag î s. (orn.) chiră 
+cu mască; pescăriŃă cu mască (lat., 
+Sterna f orsteri). 
+forum s. forum. 
+fosfat s. (chim.) fosfat. 
+fosfor s. (chim.) fosfor. 
+fosforğarîk adj. fosforescent. 
+fosforlî adj. fosforescent; fosforos. //
+●f o s f o r l î ğ e l k uw gan l a r ace 
+fosforescente (la ceas).
+fosila s. fosilă. 
+fota s. fotă. 
+fotbal s. fotbal. // ●f o t b a l m e ç í 
+(sport) meci de fotbal. ●f o t b a l 
+s e zo n î (sport) sezonul fotbalistic. 
+●f o t b a l t a k îm î (sport) echipă de 
+fotbal. ●f o t b a l t o b î (sport) minge de 
+fotbal. ●f o t b a l t u r n ew í (sport) 
+turneu de fotbal. 
+fotbalğî s. fotbalist. 
+fotbalist s. fotbalist. 
+fotograf s. fotograf. // ●k a n e l í 
+f o t o g r a f m a ş i na s î aparat de 
+fotografiat digital. ●k ó r í k l í 
+f o t o g r a f m a ş i na s î aparat de 
+fotografiat cu burduf. 
+fotografiya s. fotografie. 
+fotografiyagaalîngan adj. fotografiat. 
+fotografiyagaaluw s. fotografiat; 
+fotografiere. 
+fotografiyağ î s. fotograf. 
+fotografkana s. atelier fotografic. 
+fotoğenik adj. fotogenic. 
+fotokaberğí s. fotoreporter. 
+fotokopiya s. fotocopie. 
+fotometre s. (fiz.) fotometru. 
+fotomontaj s. fotomontaj. 
+fotomuhabir s. fotoreporter. 
+fotosinteza s. fotosinteză. 
+foyleton s. (lit.) foileton. 
+foyletonğ î s. (lit.) foiletonist. 
+fragment s. fragment. 
+frak s. frac. 
+frank s. (unitate monetară) franc. 
+Franklin'n íñ-kagay s. (orn.) 
+pescăruşul lui Franklin (lat., Larus 
+pipixcan). 
+Franklin'n íñ-şaklayî s. (orn.) 
+pescăruşul lui Franklin (lat., Larus 
+pipixcan). 
+franko adj. franco. 
+frans îz I. adj. franŃuzesc. II. s., adj. 
+francez. 
+frans îzğa I. adv. în limba franceză; 
+franŃuzeşte. II. s. (limba) franceză. 
+frans îz-kelemí s. (bot.) varză-de-
+Bruxelles (lat., B rassica oleracea 
+gemmif era). 
+franzela s. franzelă. 
+fregata s. (nav.) fregată. 
+fren s. (tehn.) frână. // ●f r e n 
+y apm a k (tehn.) a frâna. 
+frengiy s. (med.) sifilis. 
+frengiylí adj. (med.) sifilitic. 
+Frengístan s. (topon.) FranŃa. 
+Frengístan -akşateregí s. (bot.) 
+jugastru de Banat (lat., Acer 
+monspess ulan um). 
+frengístanlî I. adj. franŃuzesc. II. s., 
+adj. francez. 
+Frengístan -úreñgesí s. (bot.) 
+jugastru de Banat (lat., Acer 
+monspess ulan um). 
+frenğí s. frânar. 
+frenk I. adj. franŃuzesc. II. s., adj. 
+francez. 
+frenkşe I. adv. în limba franceză; 
+franŃuzeşte. II. s. (limba) franceză. 
+frenleme s. frânare. 
+frenlemek v.t. a frâna (şi fig.).
+frenlengen adj. frânat. 
+frenlew s. frânare. 
+frensal îngan adj. frânat. 
+frensaluw s. frânare. 
+freska s. frescă. 
+frez adj. frez. 
+freza s. (tehn.) freză (scula). // ●f r e z a 
+m a ş i na s î freză; maşină de frezat. 
+frezağî s. (tehn.) frezor. 
+frezalama s. (tehn.) frezare. 
+frezalamak v.t. (tehn.) a freza. 
+frezalangan adj. (tehn.) frezat. 
+frigorifik adj. frigorific. 
+friğider s. frigider. 
+fruktoza s. fructoză; levuloză. 
+fuhuş s. prostituŃie. 
+ful s. (la joc de cărŃi) ful. 
+fuliya s. (bot.) iris-galben; stânjenel-
+galben; spetejoară (lat., Iris 
+pseudacorus). 
+fuliya, ufak- s. (bot.) răŃişoare (lat., 
+Iris pumila). 
+funda s. (bot.) iarbă-neagră (lat., 
+Callu na v ulga ris). 
+fundalîk s. 1. boschet; tufiş; tufă. 2. 
+mărăciniş; tufăriş. 
+funikular s. funicular. 
+funiya s. (mil.) amorsă. 
+funksiya s. (mat.) funcŃie.
