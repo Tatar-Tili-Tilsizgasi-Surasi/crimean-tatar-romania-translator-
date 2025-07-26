@@ -1,12 +1,13 @@
 
 import React, { useState, useCallback, useEffect } from 'react';
-import LanguageSelector from './LanguageSelector';
-import TextAreaInput from './TextAreaInput';
-import IconButton from './IconButton';
-import { SwapIcon, TranslateIcon, ClearIcon, LoadingSpinner } from './Icons';
+import LanguageSelector from './components/LanguageSelector';
+import TextAreaInput from './components/TextAreaInput';
+import IconButton from './components/IconButton';
+import { SwapIcon, TranslateIcon, ClearIcon, LoadingSpinner } from './components/Icons';
 import { LanguageOption } from './types';
 import { LANGUAGES, DEFAULT_SOURCE_LANG, DEFAULT_TARGET_LANG } from './constants';
-import { translateText } from './translationService';
+import { translateText } from './services/translationService';
+import { getDictionary } from './dictionaryData';
 
 const App: React.FC = () => {
   const [sourceLang, setSourceLang] = useState<string>(DEFAULT_SOURCE_LANG);
@@ -14,7 +15,20 @@ const App: React.FC = () => {
   const [sourceText, setSourceText] = useState<string>('');
   const [translatedText, setTranslatedText] = useState<string>('');
   const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [isDictionaryLoading, setIsDictionaryLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  const [dictionaryError, setDictionaryError] = useState<string | null>(null);
+
+  useEffect(() => {
+    getDictionary()
+      .then(() => {
+        setIsDictionaryLoading(false);
+      })
+      .catch((err) => {
+        setDictionaryError(err.message || 'Dictionary could not be loaded. Lookup is disabled.');
+        setIsDictionaryLoading(false);
+      });
+  }, []);
 
   const getLangName = useCallback((code: string): string => {
     return LANGUAGES.find(lang => lang.code === code)?.name || code;
@@ -34,7 +48,7 @@ const App: React.FC = () => {
 
     setIsLoading(true);
     setError(null);
-    setTranslatedText(''); // Clear previous translation
+    setTranslatedText('');
 
     try {
       const result = await translateText(sourceText, getLangName(sourceLang), getLangName(targetLang));
@@ -57,7 +71,7 @@ const App: React.FC = () => {
     setTargetLang(currentSourceLang);
     setSourceText(translatedText);
     setTranslatedText(currentSourceText);
-    setError(null); // Clear error on swap
+    setError(null);
   }, [sourceLang, targetLang, sourceText, translatedText]);
 
   const handleClearAll = useCallback(() => {
@@ -66,16 +80,24 @@ const App: React.FC = () => {
     setError(null);
   }, []);
 
-  // Effect to update placeholder text when language changes
   const [sourcePlaceholder, setSourcePlaceholder] = useState<string>(`Enter text in ${getLangName(DEFAULT_SOURCE_LANG)}`);
   
   useEffect(() => {
     setSourcePlaceholder(`Enter text in ${getLangName(sourceLang)}...`);
   }, [sourceLang, getLangName]);
 
+  const isAppBusy = isLoading || isDictionaryLoading;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-gray-900 text-slate-200 p-4 sm:p-8 flex flex-col items-center font-['Inter']">
+    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-gray-900 text-slate-200 p-4 sm:p-8 flex flex-col items-center font-['Inter'] relative">
+      {isDictionaryLoading && (
+        <div className="absolute inset-0 bg-slate-900/80 backdrop-blur-sm flex items-center justify-center z-50">
+          <div className="flex items-center text-sky-300">
+            <LoadingSpinner className="w-6 h-6 mr-3" />
+            <span className="text-lg">Loading dictionary...</span>
+          </div>
+        </div>
+      )}
       <main className="container mx-auto max-w-3xl w-full bg-slate-800/70 backdrop-blur-lg shadow-2xl rounded-xl p-6 sm:p-10">
         <header className="mb-8 text-center">
           <h1 className="text-3xl sm:text-4xl font-bold text-sky-400 tracking-tight">
@@ -87,7 +109,6 @@ const App: React.FC = () => {
         </header>
 
         <div className="flex flex-col space-y-6">
-          {/* Input Area */}
           <div className="p-5 bg-slate-700/40 rounded-lg shadow-lg ring-1 ring-slate-700">
             <LanguageSelector
               id="source-language"
@@ -96,7 +117,7 @@ const App: React.FC = () => {
               selectedLanguage={sourceLang}
               onChange={(lang) => setSourceLang(lang)}
               className="mb-3"
-              disabled={isLoading}
+              disabled={isAppBusy}
             />
             <TextAreaInput
               id="source-text"
@@ -104,11 +125,10 @@ const App: React.FC = () => {
               onChange={(text) => setSourceText(text)}
               placeholder={sourcePlaceholder}
               rows={5}
-              readOnly={isLoading}
+              readOnly={isAppBusy}
             />
           </div>
 
-          {/* Action Buttons */}
           <div className="flex items-center justify-center space-x-3 sm:space-x-4 my-1 sm:my-2">
             <IconButton
               onClick={handleSwapLanguages}
@@ -116,11 +136,11 @@ const App: React.FC = () => {
               ariaLabel="Swap languages"
               title="Swap Languages"
               className="bg-sky-600 hover:bg-sky-700 active:bg-sky-800"
-              disabled={isLoading}
+              disabled={isAppBusy}
             />
             <button
               onClick={handleTranslate}
-              disabled={isLoading || !sourceText.trim()}
+              disabled={isAppBusy || !sourceText.trim()}
               className="flex-grow sm:flex-grow-0 flex items-center justify-center px-6 py-3 sm:px-8 sm:py-3.5 bg-green-600 hover:bg-green-500 active:bg-green-700 text-white font-semibold rounded-lg shadow-md disabled:opacity-60 disabled:cursor-not-allowed transition-all duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-800 focus:ring-green-500"
             >
               {isLoading ? (
@@ -136,11 +156,10 @@ const App: React.FC = () => {
               ariaLabel="Clear all text"
               title="Clear Text"
               className="bg-rose-600 hover:bg-rose-700 active:bg-rose-800"
-              disabled={isLoading && !sourceText && !translatedText}
+              disabled={isAppBusy && !sourceText && !translatedText}
             />
           </div>
 
-          {/* Output Area */}
           <div className="p-5 bg-slate-700/40 rounded-lg shadow-lg ring-1 ring-slate-700">
             <LanguageSelector
               id="target-language"
@@ -149,7 +168,7 @@ const App: React.FC = () => {
               selectedLanguage={targetLang}
               onChange={(lang) => setTargetLang(lang)}
               className="mb-3"
-              disabled={isLoading}
+              disabled={isAppBusy}
             />
             <TextAreaInput
               id="translated-text"
@@ -160,6 +179,11 @@ const App: React.FC = () => {
             />
           </div>
 
+          {dictionaryError && (
+             <div className="mt-4 p-3.5 bg-yellow-500/20 text-yellow-300 border border-yellow-500/30 rounded-md text-sm text-center shadow">
+              <strong>Warning:</strong> {dictionaryError}
+            </div>
+          )}
           {error && (
             <div className="mt-4 p-3.5 bg-red-500/20 text-red-300 border border-red-500/30 rounded-md text-sm text-center shadow">
               <strong>Error:</strong> {error}
