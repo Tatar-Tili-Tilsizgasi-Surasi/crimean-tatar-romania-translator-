@@ -360,11 +360,12 @@ DT often prefers different (though usually related Turkic) lexical items for com
 
 III. Grammar & Morphology:
 
-Comitative (Postposition "with"):
-- DT uses the invariant postposition "men" after the noun/pronoun.
+Comitative (Postposition "with") / Conjunction ("and"):
+- DT uses the postposition "man" (with back-vowel words) or "men" (with front-vowel words) after a noun/pronoun. It serves for both the comitative "with" and the conjunction "and".
   - SCT: menimle (with me) -> DT: men men
   - SCT: seninle (with you sg.) -> DT: sen men
   - SCT: biznen (with us) -> DT: bíz men
+  - As conjunction: "et men balîk" (meat and fish), "kola man şips" (cola and chips).
 
 Future Tense:
 - SCT -AcAK/-EcEK. DT seems to use -AğaK/-eğeK (intervocalic k->ğ).
@@ -1202,6 +1203,15 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - ğîlan s. şarpe.
 --- End of Miscellaneous Phrases and Vocabulary ---
 
+--- Start of Conjunctions "man" and "men" ---
+In Crimean Tatar (Romania) the word "and" can be expressed using "man" or "men", which also functions as the postposition "with". The choice depends on the vowel harmony of the preceding word.
+- "men" is used with front-vowel words:
+  - et men balîk (meat and fish)
+  - kartiy men kartba (Grandmother and Grandfather)
+- "man" is used with back-vowel words:
+  - kola man şips (cola and chips)
+--- End of Conjunctions "man" and "men" ---
+
 --- Start of Abbreviations ---
 - çm (çentimetre) = cm (centimeter)
 - ok (okka) = kg (kilogramme)
@@ -2007,14 +2017,14 @@ Postpositions
 
 Crimean Tatar uses postpositions. Each postposition governs a specific case, either dative, genitive or ablative. Some common postpositions are shown below:
 
-Postposition  English Case
-kadar       until   DAT
-taban       towards DAT
-zarpînda    during  GEN
-men         with    GEN (Critical DT feature for comitative: e.g. 'men men' for 'with me')
-úşún        for     GEN
-soñ         after   ABL
-sebep       due to  ABL
+Postposition  English      Case
+kadar       until        DAT
+taban       towards      DAT
+zarpînda    during       GEN
+man/men     with, and    GEN (Critical DT feature. Used for comitative "with" and conjunction "and". Follows vowel harmony: \`men\` for front-vowel stems, \`man\` for back-vowel stems. e.g. 'men men' for 'with me', 'kola man şips' for 'cola and chips')
+úşún        for          GEN
+soñ         after        ABL
+sebep       due to       ABL
 --- End of Comprehensive Crimean Tatar (RO) Grammar Details ---
 `;
 
