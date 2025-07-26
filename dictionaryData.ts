@@ -6742,3 +6742,723 @@ trebuincios.
 lúzumsuz adj. inutil; de prisos; 
 superfluu. 
 lúzumsuzluk s. inutilitate; zădărnicie.
+ma interj. 1. Ńine!; na!; ia!; 2. (către 
+câini) cuŃu!; 
+maada postp. în afară de…; cu 
+excepŃia…; // ●b o n dan m aa da în 
+afară de aceasta. 
+Maah s. (antrop. m., arab.) "Abolitorul 
+necredinŃei" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam). 
+maalesef adv. cu părere de rău; cu 
+regret; din păcate. // ●m a a l e s e f b o 
+b o lm a z din păcate asta nu se poate. 
+maarif I. adj. instructiv; educativ. II. 
+s. 1. instrucŃie; educaŃie. 2. 
+învăŃământ. 
+maariflendírmek v.t. a instrui; a 
+educa. 
+maariflendírúw s. instruire; educare. 
+maariflengen adj. instruit; educat. 
+maariflenmek v.i. a se instrui; a se 
+educa. 
+maarifsíz adj. neinstruit; needucat. 
+maarifsízlík s. lipsă de instruire; lipsă 
+de educaŃie. 
+maarifşí s. instructor; educator. 
+maarifşílík s. instrucŃie; educare. 
+maaş s. salariu; leafă; retribuŃie. 
+maaşlî s., adj. salariat; lefegiu. 
+maatteessúf adv. cu părere de rău; cu 
+regret; din păcate. 
+mabet s. 1. dragoste; afecŃiune; 
+ataşament. 2. prietenie. 
+mabetílíşkíğísí s. aventurier; 
+persoană care caută aventuri 
+amoroase. 
+mabetílíşkísí s. aventură; legătură 
+amoroasă întâmplătoare. 
+mabetlengen adj. îndrăgostit; 
+amorezat. 
+mabetlenmek v.i. a se îndrăgosti; a 
+se amoreza. 
+mabetlenúw s. îndrăgostire; 
+amorezare. 
+mabetlí s. îndrăgostit; amorezat. //
+●m a b e t l í l e r n í ñ k aw g a s î n da y 
+ca supărările îndrăgostiŃilor; trecător. 
+mabetlík s. dragoste; afecŃiune; 
+ataşament; prietenie. 
+mabut s. 1. divinitate; Dumnezeu. 2. 
+idol. 
+MacQueen'n íñ-toykuş î s. (orn.) 
+dropia lui MacQueen (lat., 
+Chlamy dotis macquee nii). 
+Madagaskar s. (topon.) Madagascar. 
+madagaskarlî s., adj. malgaş. 
+madam s. doamnă (formulă de 
+adresare). 
+madde s. 1. (fiz.) materie; substanŃă. 
+2. element component; material. 3. 
+(jur.) articol; paragraf. 4. subiect; 
+chestiune. // ●a s î l m ad d e substrat. 
+●h am m a dd e materie primă. 
+●k im i y a m a dd e s í produs chimic. 
+●p a t l a g an m a dd e material 
+explozibil. 
+●u y u t uw ğ î / ş a ş î r t uw ğ î m a dd e 
+stupefiant. 
+maddeğí s., adj. (fil.) materialist. 
+maddeğílík s. (fil.) materialism. //
+●dú n i y a t a n îm l î m ad d e ğ í l í k 
+materialism dialectic. 
+maddeleşken adj. materializat. 
+maddeleşme s. materializare. 
+maddeleşmek v.i. a se materializa. 
+maddeleştírmek v.t. a materializa. 
+madde-madde adv. punct cu punct; 
+articol cu articol; paragraf cu paragraf. 
+maddiy adj. material. // ●m ad d i y 
+á l em lumea materială. 
+maddiy-maneviy adj. material şi 
+spiritual. 
+madem conj. deoarece; fiindcă; 
+întrucât; de vreme ce; dacă înt-adevăr. 
+maden I. adj. 1. mineral. 2. metalic; 
+de metal. II. s. 1. metal. 2. minereu. 
+3. mină. // ●a l t î n m a d e n í mină de 
+aur. ●m a d en 
+ğa t a g î / t am î r î / t a z î l î zăcământ. 
+●m ad en s uw î apă minerală. 
+●ş i fa l î m a d e n s uw l a r î ape 
+minerale curative. ●t u z m a d e n í 
+salină. 
+madenbílímğísí s. mineralog. 
+madenbílímí s. mineralogie. 
+madenğ í s. miner. 
+madenğ ílík I. adj. minier. II. s. 
+minerit. 
+madeniy adj. mineral; anorganic; 
+neorganic. // ●m ad en i y k i m i y a 
+chimie anorganică. ●m ad en i y m a y 
+ulei mineral. 
+madeniyleşken adj. mineralizat. 
+madeniyleşmek v.i. a se mineraliza. 
+madeniyleştírme s. mineralizare. 
+madeniyleştírmek v.t. a mineraliza. 
+madenírítken s. topitor; metalurg. 
+madenírítme I. adj. metalurgic. II. s. 
+topitorie; metalurgie. 
+madenkómírí s. huilă. 
+Madiyre s. (topon.) Madeira. 
+Madiyre -boraganğ îsî s. (orn.) 
+rândunica furtunii de Madeira (lat., 
+Oceanodro ma castro). 
+madrigal s. (muz.) madrigal. 
+madun adj. subordonat; supus; 
+subjugat. 
+mafsal s. (anat.) articulaŃie; 
+încheietură. 
+maga pron. spre mine; mie. // ●b o 
+y e r n í ñ h aw a s î m a ga y a r a d î 
+aerul de aici mi-a priit. ●k e r e km i y 
+m a g a nu-mi trebuie. ●m a g a b í r 
+h am a l k e r e k am nevoie de un 
+hamal. ●m a ga b í r k aw e 
+a k e l í r s í ñ í z m í ? vreŃi să-mi 
+aduceŃi o cafea?; ●m a ga i t im a t 
+e t í ñ í z ! aveŃi încredere în mine!; 
+●m a g a k a l s a dacă ar fi după mine. 
+●m a g a k a r ş î faŃă de mine. ●m a ga 
+k a r ş î k o n î ş a vorbeşte împotriva 
+mea. ●m a ga k ó r e după părerea 
+mea. ●m a ga k ó r e h a k k î ñ î z b a r 
+după părerea mea aveŃi dreptate. 
+●m a g a y am a n b í r t e s i r 
+b î r a k t î mi-a făcut o impresie 
+proastă. ●t i ym e m a ga ! nu mă 
+atinge!; 
+magara s. peşteră; grotă; cavernă. 
+magaralarbílímğís í s. speolog. 
+magaralarbílím í s. speologie. 
+magaralî adj. cavernos. 
+magaza s. 1. magazin. 2. magazie. //
+●ó z í n e k î zm e t m a g a z a s î 
+magazin cu autoservire. 
+magazağî s. magazioner. 
+magazin s. (d. publicaŃii periodice) 
+magazin. 
+magdur adj. 1. neîndreptăŃit; 
+nejustificat. 2. injust; nedrept. 
+magdurluk s. 1. neîndreptăŃire. 2. 
+nedreptate; injusteŃe. 
+magfiret s. 1. iertare; absolvire. 2. 
+indulgenŃă; îndurare; îngăduinŃă; 
+milostivire; clemenŃă. 
+magfiretlí adj. 1. iertător; indulgent; 
+îndurător; îngăduitor; milostivit; 
+clement. 2. iertat; scuzat. 
+maglúbiyet s. înfrângere. //
+●m a g l ú b i y e t k e o g î r am a k a 
+suferi o înfrângere. 
+maglúp adj. înfrânt; învins. 
+magma s. (geol.) magmă. 
+magnat s. magnat. 
+magnetik adj. (fiz.) magnetic. 
+magnetism s. (fiz.) magnetism. 
+magnetow s. (fiz.) magnetou. 
+magneziyum s. (chim.) magneziu. 
+magnoliya s. (bot.) magnolie (lat., 
+Magnolia). 
+magrur adj. mândru; orgolios. 
+mağar I. adj. maghiar; ungar; 
+unguresc. II. s. maghiar; ungur. 
+mağarğa I. adv. ungureşte. II. s. 
+(limba) maghiară. 
+Mağarîstan s. (topon.) Ungaria. 
+Mağdiy/Majdiy s. (antrop. m., arab.) 
+“Cel nobil”. 
+Mağedd in/Mağettin s. (antrop. m., 
+arab.) “NobleŃea credinŃei”. 
+mağera s. aventură; acŃiune 
+îndrăzneaŃă. 
+mağerağî s., adj. aventurier; persoană 
+îndrăzneaŃă. 
+mağeralî adj. aventuros. 
+Mağide/Majide s. (antrop. f., arab.) 
+“Cea nobilă”. 
+mağit adj. nobil; mărinimos; generos. 
+Mağit/Majit, El- s. (relig., arab.) "Cel 
+nobil"; “Cel vrednic de cinste; 
+mărinimos şi îngăduitor” (unul din cele 
+99 preafrumoase nume atribuite în 
+Coran lui Dumnezeu/Allah). 
+mağîr s. Ńesală. 
+mağîrlama s. Ńesălare. 
+mağîrlamak v.t. a Ńesăla. 
+mağîrlangan adj. Ńesălat. 
+mağîrlanmak v.i. a se Ńesăla. 
+mağîrlaw s. Ńesălare. 
+mağîrlî adj. Ńesălat. 
+mağun s. pastă (şi culin.). // ●ğam ğ î 
+m a ğ un î chit. ●k a y i s e m a ğu n î 
+gem de caise. ●t í ş m a ğ un î pastă de 
+dinŃi. ●t í ş m a ğ un î t u l um î tub de 
+pastă de dinŃi. 
+mağunlama s. chituire. 
+mağunlamak v.t. a chitui. 
+mağunlangan adj. chituit. 
+mağunlaw s. chituire. 
+mah s. (cron., prsn.) lună. 
+mahal s. loc; teritoriu; district; circă. 
+mahalle s. cartier; zonă. 
+mahalliy adj. local. // ●m a h a l l i y 
+ád e t l e r obiceiuri locale. 
+●m a h a l l i y i d a r e administraŃie 
+locală. 
+maharet s. pricepere; iscusinŃă; 
+îndemânare. 
+maharetlí adj. priceput; iscusit; 
+îndemânatic. 
+maharetsíz adj. nepriceput; 
+neîndemânatic. 
+maharetsízlík s. nepricepere. 
+Mahdiy s. (antrop. m., arab.) "Cel 
+călăuzit pe calea întemeiată". 
+Mahdiye s. (antrop. f., arab.) "Cea 
+călăuzită pe calea întemeiată". 
+mahdut adj. 1. delimitat; limitat. 2. 
+restrâns; redus; limitat. 
+mahdutlaşkan adj. limitat; restrâns; 
+redus. 
+mahdutlaşmak v.i. a se limita; a se 
+restrânge; a se reduce.
+şifasîz adj. nevindecabil; incurabil. 
+şifatabar adj. curabil; remediabil; 
+reparabil. 
+şifatapkan adj. însănătoşit; lecuit; 
+tămăduit; vindecat. 
+şifatapmaz adj. incurabil; 
+nevindecabil. 
+şifer s. (geol.) şist; ardezie. 
+şifon iyer s. şifonier. 
+Şihabaddin/Şihabattin s. (antrop. 
+m., arab.) “Luceafărul credinŃei”. 
+şiir s. poezie; poem. 
+şikáar I. interj. mare brânză!; II. s. 
+vânat; pradă; captură; trofeu de război. 
+şikáyet s. 1. lamentare; văicăreală. 2. 
+reclamaŃie; plângere. // ●ş i k á y e t 
+e tm e k a reclama; a se plânge de. 
+şikáyetlí s. (jur.) reclamat; pârât. //
+●ş i k á y e t l í t a lw a r î boxa 
+acuzaŃilor. 
+şikáyetname s. plângere; reclamaŃie 
+(oficială). 
+şikáyetşí s. (jur.) reclamant; 
+petiŃionar. 
+şike s. (în sport) aranjament (ilicit). 
+şikemperwer s., adj. gurmand; 
+mâncăcios. 
+şikest adj. mutilat; invalid; infirm; 
+handicapat. 
+şikestlík s. mutilare; invaliditate; 
+infirmitate; handicap. 
+şile s. 1. (la musulmani) ascetism. 2. 
+chin; suferinŃă. 3. scul; jurubiŃă; 
+ghem; bobină. 4. (la arc) coardă. 
+şileğí s. ascet; sihastru; pustnic. 
+şileken s. şipcă; leaŃ; scândurică. 
+şilekeş adj. (d. oameni) chinuit; 
+necăjit. 
+şilelí adj. chinuit; necăjit. 
+şilte s. saltea. 
+şimal s. (geogr.) nord; miazănoapte. 
+şimal-ayuwî s. (zool.) urs-alb; urs-
+polar (lat., U rsu s ma ritimus). 
+şimal-garp s. (geogr.) nord-vest. 
+şimaliy adj. nordic; de miazănoapte; 
+septentrional. // ●ş i m a l i y f eğ i r 
+auroră boreală. 
+Şimaliy-Amerika s. (topon.) America 
+de Nord. 
+şimaliy-amerikalî s., adj. nord-
+american. 
+şimaliy-baykuş s. (orn.) minuniŃă 
+(lat., Aegolius f une reus). 
+şimaliy-dew -boraganğî s. (orn.) 
+petrel gigant nordic (lat., 
+Macronectes halli). 
+şimaliy-erkelewğí s. (orn.) mierloi 
+american (lat., Mimus 
+polyglottos). 
+şimaliy-kerwankuşî s. (orn.) culic 
+nordic (lat., N umenius bo realis). 
+Şimaliy-Kore s. (topon.) Coreea de 
+Nord. 
+şimaliy-korelí s., adj. nord-coreean. 
+şimaliy-ótlegen s. (orn.) parulă 
+nordică (lat., Parula ame ricana). 
+şimal-maralî s. (zool.) ren (lat., 
+Rangif er tarandus). 
+şimal-şark s. (geogr.) nord-est. 
+şimal-suw -sayragî s. (orn.) sturz de 
+apă nordic (lat., Seiurus 
+noveborace nsis). 
+şimpanze s. (zool.) cimpanzeu (lat., 
+Pan troglodytes). 
+şineriye s. (bot.) cineraria (lat., 
+Cinera ria hyb rida). 
+şinin adj. nou. 
+şipura s. (iht.) doradă (lat., 
+Sparidae). 
+şir s. (zool.) leu (lat., Felis leo). 
+şiraze s. 1. (tipogr.) rând. 2. (fig.) 
+ordine; rânduială; orânduială; ritual. 
+şirazelí adj. ordonat; rânduit; 
+orânduit. 
+şire s. 1. email; smalŃ; glazură; lac; 
+vernis. 2. suc; sevă; zeamă; must; 
+extract. 
+şireleme s. emailare; smălŃuire; 
+glazurare; lăcuire; vernisare. 
+şirelemek v.t. a emaila; a smălŃui; a 
+glazura; a lăcui; a vernisa. 
+şirelengen adj. emailat; smălŃuit; 
+glazurat; lăcuit; vernisat. 
+şirelenmek v.i. a se emaila; a se 
+smălŃui; a se glazura; a se lăcui; a se 
+vernisa. 
+şirelí adj. 1. suculent; zemos; mustos. 
+2. emailat; smălŃuit; glazurat; lăcuit; 
+vernisat. // ●ş i r e l í k e r em i t 
+teracotă. 
+şirelík s. suculenŃă. 
+şirin adj. 1. dulce; gustos. 2. plăcut; 
+atrăgător; simpatic. 
+Şirin(ler) s. (topon.) Siriu (jud. 
+ConstanŃa). 
+şirinlík s. 1. dulceaŃă; gust dulce. 2. 
+atracŃie; farmec. 
+şiriyan s. (anat.) arteră. 
+şirket s. (econ.) companie; societate; 
+întreprindere. // ●a t s î z ş i r k e t 
+societate anomină. ●h i s s e l í ş i r k e t 
+societate pe acŃiuni. ●i n ş aa t 
+ş i r k e t í firmă de construcŃii. ●k a p î-
+p e n ğ í r e ş i r k e t í firmă de uşi şi 
+ferestre. ●ş i r k e t s e rm a y e s í (com.) 
+capital social. 
+şirret adj. irascibil; certăreŃ; arŃăgos. 
+şirretlík s. irascibilitate; ceartă; 
+scandal. 
+şist s. (geol.) şist; ardezie. 
+şitúne s. templu. 
+şive s. 1. pronunŃie; accent; fonetism. 
+2. supleŃe; graŃie; zvelteŃe. 
+şivekáar adj. suplu; graŃios; zvelt. 
+şivelí adj. 1. suplu; graŃios; zvelt. 2. 
+pronunŃat; accentuat. 
+şivesíz adj. dizgraŃios. 
+şiy s. lucru; obiect; ceva. // ●a l a y 
+ş i y n í a ş a g an omnivor. ●b a ş k a 
+ş i y altceva. ●b e k l e nm eg en ş i y 
+surpriză. ●b o ş i y g e k a- t í p 
+a y t î l a ? cum se numeşte acest 
+lucru?; ●b o l a t a n ş i y lucru 
+obişnuit. ●b o nd a y ş i y b o lm a z 
+aşa ceva nu este posibil. ●b o ş ş i y l e r 
+baliverne. ●m í n aw d a y ş i y b o l î r 
+m î ? se poate aşa ceva?; ●s e n e d en 
+m úd ew e r ş i y l e r lucruri rămase de 
+anul trecut. ●s î r a da n ş i y lucru 
+comun. ●ş i y l e r n í ñ ó z e g í n d e în 
+mijlocul lucrurilor; în esenŃă; în miez. 
+●t u h a f ş i y lucru curios. 
+şiy I. adj. 1. crud; necopt. 2. (fig.) 
+grosolan; necuviincios. 3. (d. culori) 
+strident; Ńipător. 4. (d. oameni) novice; 
+neexperimentat. II. s. (meteo.) rouă. //
+●y e ş í l l í k ş i y í ş í n d e vegetaŃia e 
+în rouă. 
+şiyar s. lozincă; slogan; motto; parolă. 
+şiybórek s. (gastron.) plăcintă 
+tătărească. 
+şiydem s. (bot.) brânduşă (lat., 
+Cro cus he uf f elianus). 
+şiydem, aşş î- s. (bot.) brânduşă-de-
+toamnă; floarea-brumei (lat., 
+Colchic um a utumnale). 
+şiydem, sarî- s. (bot.) brânduşă-
+galbenă (lat., C rocus moesiacus). 
+şiydem, zerlí - s. (bot.) brânduşă-de-
+toamnă; floarea-brumei (lat., 
+Colchic um a utumnale). 
+şiydemí, kúz- s. (bot.) brânduşă-de-
+toamnă; floarea-brumei (lat., 
+Colchic um a utumnale). 
+şiyín s. broderie. 
+şiyíndírík s. cobiliŃă. 
+şiyínğí s. brodeză. 
+şiyínlemek v.t. a broda. 
+şiyínlengen adj. brodat. 
+şiyínlí adj. brodat. 
+şiylengen s. înrourat. 
+şiylenme s. înrourare. 
+şiylenmek v.i. a se înroura. 
+şiyler s., pl. efecte; obiecte; lucruri. 
+şiylí adj. înrourat. 
+şiylík s. 1. crudităŃi. 2. (fig.) 
+grosolănie; lipsă de tact. 
+şizme s. cizmă. 
+şígít s. sămânŃă; sâmbure. 
+şíkrík s. cumpănă; instalaŃie de scos 
+apa din fântână. 
+şíl s. pistrui. 
+şíl, kara- s. (orn.) potârniche frankolin 
+neagră (lat., F rancolin us 
+f rancolinus). 
+şíl, koşak-şîganaklî- s. (orn.) 
+potârniche francolin cu doi pinteni 
+(lat., F rancolin us bicalcaratus). 
+şílí, Erkel'n íñ- s. (orn.) potârnichea 
+frankolin Erckel (lat., F rancolin us 
+erckelii). 
+şílíng ír s. lăcătuş. 
+şílíng írlík s. lăcătuşerie. 
+şíllí adj. pistruiat. 
+şím s. 1. gazon; iarbă; raigras. 2. (bot.) 
+muşchi. 
+şím, uzunóm írlí - s. (bot.) zizanie; 
+raigras-englezesc (lat., Lolium 
+peren ne). 
+şímeldek s. (bot.) mătăcină (lat., 
+Dracocep halum f ruticulosum). 
+şímen s. iarbă; verdeaŃă. 
+şímenlík s. iarbă; pajişte. 
+şímgek s. (bot.) sugel-alb; urzică-
+moartă; urzică-albă (lat., Lamium 
+album). 
+şímgek, kîrmîzî- s. (bot.) sugel; 
+urzică-moartă (lat., La mium 
+purp ure um). 
+şímgek, sarî - s. (bot.) sugel-galben; 
+gălbiniŃă (lat., La mium 
+galeobdolon; Galeobdolo n 
+luteum). 
+şímlend írmek v.t. a pune la germinat; 
+a face să încolŃească; a face să răsară; 
+a face să mijească. 
+şímlengen adj. germinat; încolŃit; 
+răsărit; mijit. 
+şímlenme s. germinare; germinaŃie; 
+încolŃire; răsărire; mijire. 
+şímlenmek v.i. a germina; a încolŃi; a 
+răsări; a miji. 
+şímş íge s. (orn.) piŃigoi (lat., Parus 
+sp.). 
+şímş íge, akşa- s. (orn.) piŃigoi azuriu 
+(lat., Parus cyan us). 
+şímş íge, balaban- s. (orn.) piŃigoi 
+mare (lat., Parus major). 
+şímş íge, kekeşlí - s. (orn.) piŃigoi 
+moŃat (lat., Pa rus cristatus; 
+Lophopha nes c ristatus). 
+şímş íge, mawî - s. (orn.) piŃigoi 
+albastru (lat., Parus caerul eus; 
+Cyanistes caerule us). 
+şímş íge, m îyîklî- s. (orn.) piŃigoi de 
+stuf (lat., Pan urus biarmicus). 
+şímş íges í, bataklîk- s. (orn.) piŃigoi 
+sur (lat., Parus palustris; 
+Poecile palustris). 
+şímş íges í, dak- s. (orn.) piŃigoi de 
+munte (lat., Parus montanus; 
+Poecile montana).
+wakît-hál s. situaŃie materială; 
+posibilităŃi materiale. // ●w a k î t î-
+h á l í y e r í nd e înstărit; cu mari 
+posibilităŃi materiale. 
+wakîtîgeşken adj. învechit; depăşit; 
+demodat; bătrânesc; caduc; desuet; 
+perimat. 
+wakîtînda adv. 1. în timpul; pe 
+vremea când; exact când. 2. la 
+momentul potrivit. // ●í ş 
+w a k î t î nd a o t î rm a k y o k în 
+timpul lucrului nu se stă. ●í ş í n 
+w a k î t î nd a y apk an punctual. 
+●w a k î t î n da b a r a ğ a km î z vom 
+ajunge la timp. 
+wakîtîndan adv. din timp; din timpul; 
+de pe vremea când. 
+wakîtlar s., pl. împrejurare; 
+circumstanŃă; context; conjunctură. 
+wakîtlî I. adj. cu situaŃie materială; cu 
+posibilităŃi materiale; avut; bogat. II. 
+adv. la momentul potrivit; din timp; 
+devreme. 
+wakîtlî-wakîtînda adv. 1. la 
+momentul potrivit; din timp; devreme. 
+2. bine făcut. 
+wakîtlî-wakîts îz adv. 1. în momente 
+nepotrivite. 2. chiar şi în criză de 
+timp. // ●w a k î t l î-w a k î t s î z k e l e 
+vine în momente nepotrivite. 
+wakîtsîz I. adj. fără timp. II. adv. în 
+momente nepotrivite. 
+wakîtsîzlîk s. criză de timp. 
+wakîtta adv. la momentul; în 
+momentul. // ●b o n da y w a k î t t a pe 
+asemenea vreme. ●u y gun w a k î t t a 
+la momentul oportun. 
+wakîttan adv. din momentul; din 
+vremea; în avans; înainte de. 
+wakîttan-wakîtka adv. din când în 
+când; uneori. 
+wakît-wakît adv. din când în când; 
+uneori. 
+waklîk s. mărunŃiş; bani mărunŃi. 
+wakpetílgen adj. 1. donat; dăruit. 2. 
+consacrat; a dedicat. 
+wakpetílmek v.i. 1. a se dona; a se 
+dărui. 2. a se consacra; a se dedica. 
+wakpetken s. donator. 
+wakpetmek v.t. 1. a consacra; a 
+dedica. 2. a dona; a dărui. 
+wakpetúw s. dedicaŃie; donaŃie. 
+wakpetúwğí s. donator. 
+wak-wak interj. mac!; oac!; 
+walla(h) interj. zău!; pe legea mea!; 
+parol!; 
+walla(h)-billa(h) interj. zău!; pe legea 
+mea!; parol!; 
+wañgîrîşmak v.i. a se tângui laolaltă; 
+a boci laolaltă; a jeli laolaltă. 
+wañgîrma s. tânguire; bocire; jelire. 
+wañgîrmak v.i. a se tângui; a boci; a 
+jeli. 
+wañgîruwğî s. bocitoare. 
+wat s. (fiz.) watt. 
+watan s. patrie; Ńară. // ●w a t an 
+s ú y gú s í dragoste de patrie. 
+●w a t a n ga i h an e t trădare de 
+patrie. 
+watandaş s. compatriot; cetăŃean; 
+concetăŃean. // ●w a t and a ş 
+h a k k l a r î (jur.) drepturi civile. 
+watandaşlîk s. cetăŃenie. 
+watan iy adj. patriotic. // ●w a t a n i y 
+t u y gu l a r sentimente patriotice. 
+watanperwer s. patriot. 
+watanperwerlík s. patriotism. 
+watansîz s. apatrid. 
+watansúygen s. patriot. 
+watansúyme s. patriotism. 
+watanşúnas s. patriot. 
+watanşúnaslîk s. patriotism. 
+watîlgan adj. mărunŃit; zdrobit; 
+sfărâmicios. 
+watîlmak v.i. a se sfărâma; a se 
+fărâmiŃa; a se mărunŃi. 
+watma s. sfărâmare; fărâmiŃare; 
+mărunŃire. 
+watmak v.t. a sfărâma; a fărâmiŃa; a 
+mărunŃi. 
+watmetre s. wattmetru. 
+watólşer s. wattmetru. 
+watsaniye s. (fiz.) wattsecundă. 
+watuwğî adj. zdrobitor. 
+watuwlî adj. sfărâmat; fărâmiŃat; 
+mărunŃit; zdrobit. 
+way interj. vai!; oh!; aoleu!; // ●w a y 
+b a ş îm a ! vai de capul meu!; ●w a y 
+ğañ g î z l a r g a vai de omul singur. 
+●w a y ğ eñ í l g en l e r g e vai de 
+învinşi. ●w a y n en i y ím /a na y îm ! 
+vai, măicuŃă!; 
+way-way I. interj. vai!; oh!; vai-vai!; II. 
+s. vaiet. 
+wazife s. 1. datorie; îndatorire; 
+obligaŃie. 2. misiune; sarcină. //
+●w a z i f e s í n d eñ í ş t í rm e k a-i 
+schimba funcŃia; a-l permuta. 
+●w a z i f e s í nd en 
+ş î ga rm a k /a lm a k a destitui pe 
+cineva. ●w a z i f e s í n e s a lm a k a 
+pune în funcŃie pe cineva; a-l învesti; 
+a-l însărcina. // ●r i y a z i y e t 
+w a z i f e s í tema la matematică. 
+●s i y a s i y w a z i f e legaŃie; misiune 
+diplomatică. ●w a z i f e b a ş î n da în 
+exerciŃiul funcŃiunii. ●w a z i f en í ñ 
+y e r i n e a k e l í nm e s í îndeplinirea 
+misiunii. 
+wazifeberílgen adj. însărcinat; 
+numit; desemnat. 
+wazifeberúw s. însărcinare; numire; 
+desemnare. 
+wazifedeñíştírgen adj. permutat. 
+wazifelendírílgen adj. acreditat; 
+delegat; împuternicit; mandatat. 
+wazifelendírme s. acreditare; 
+delegare; împuternicire; mandatare. 
+wazifelendírmek v.t. a acredita; a 
+delega; a împuternici; a mandata. 
+wazifelí adj. însărcinat; împuternicit; 
+mandatat; acreditat. // ●w a z i f e l í 
+ş a h î s funcŃionar. 
+wazifename s. împuternicire; 
+mandat. 
+wazifesíndenalîngan adj. revocat; 
+destituit; concediat; demis. 
+wazifesíndenaluw s. revocare; 
+destituire; concediere; demitere. 
+wazifesíndenatîlgan adj. revocat; 
+destituit; concediat; demis. 
+wazifesíndenatuw s. revocare; 
+destituire; concediere; demitere. 
+wazifesíndentartîlgan adj. revocat; 
+destituit; concediat; demis. 
+wazifesíndentartuw s. revocare; 
+destituire; concediere; demitere. 
+wazifesínesalîngan adj. abilitat; 
+însărcinat; înscăunat; întronat; 
+învestit. 
+wazifesínesaluw s. abilitare; 
+însărcinare; înscăunare; întronare; 
+învestitură. 
+wazifesíz adj. fără sarcini; fără 
+ocupaŃie; fără griji. 
+wazifesízlík s. lipsă de sarcini; lipsă 
+de ocupaŃie; lipsă de griji. 
+wagamlaw s. răscoacere. 
+wakîldaw s. măcăit; măcănit; orăcăit. 
+wakşeşeklí-ğalba s. (bot.) 
+lumânărică; coada-lupului (lat., 
+Verbasc um thapsus). 
+wakşeşeklí-s îyîrkuyrug î s. (bot.) 
+lumânărică; coada-lupului (lat., 
+Verbasc um thapsus). 
+wañgîruw s. tânguire; bocire; jelire. 
+watuw s. sfărâmare; fărâmiŃare; 
+mărunŃire. 
+we conj. şi. // ●e g l e núw w e 
+d í ñ l enm e k o ş î l l a r î condiŃii de 
+distracŃie şi odihnă. ●k î r îm t a t a r 
+t í l í w e ed eb i y a t î limba şi 
+literatura tătară crimeană. ●m a h s ú s 
+w e n am a h s ú s abia perceptibil. 
+●m e ğ b u r i y w e m e ğğ an i y 
+obligatoriu şi gratuit. ●w e s a y i r e 
+etcetera; şi aşa mai departe. 
+wekíl s. 1. împuternicit; mandatar; 
+reprezentant. 2. avocat. 3. ministru. 
+4. (jur.) tutore; curator. 
+wekíllík s. (jur.) tutelă; curatelă. 
+wekíllíktenboşangan adj. (jur.) 
+emancipat. 
+wekíllíktenboşatma s. (jur.) 
+emancipare. 
+welew conj. chiar dacă; deşi. 
+welí s. 1. (relig.) sfânt; sacru. 2. (jur.) 
+tutore; curator. 
+welílík s. 1. (relig.) sfinŃenie. 2. (jur.) 
+tutelă; curatelă. 
+wepat s. deces; moarte. // ●w e p a t 
+e tm e k / b o lm a k a deceda; a muri. 
+wepatbolgan adj. decedat; defunct. 
+wepatlî adj. decedat; mort. 
+wesselam interj. suficient!; îndeajuns!; 
+ajunge!; asta-i tot!; 
+western s. western. 
+White'níñ -sayragî s. (orn.) sturz 
+auriu (lat., Z oothera da uma). 
+widiya s. (tehn.) widia. 
+wigwam s. wigwam. 
+windsurf s. windsurf. 
+windsurfşî s. surfist. 
+windsurfşuluk s. surfist. 
+wiskiy s. whisky. 
+wok s. wok. 
+wolfram I. adj. (chim.) wolframic. II. s. 
+(chim.) wolfram. 
+wolframlî adj. (chim.) wolframic. 
+wurdumtuymaz adj. 1. nesimŃit; 
+lipsit de bun-simŃ. 2. insensibil. 
+wurdumtuymazlîk s. insensibilitate; 
+nesimŃire. 
+wurdurmak v.t. 1. a determina să 
+lovească; a determina să izbească; a 
+determina să rănească. 2. a determina 
+să împuşte; a determina să ucidă. 3. a 
+determina să bată; a determina să 
+ciocănească. 
+wurgan s. (mat.) înmulŃitor; factor. 
+wurgan-ğîkkan adj. 1. bătăios; 
+combativ; certăreŃ. 2. temerar; 
+îndrăzneŃ; cutezător; neînfricat; 
+aventuros. 
+wurg î s. 1. (lingv.) accent. 2. (muz.) 
+ton; tonalitate; intonaŃie. 
+wurg îsaluw s. accentuare; evidenŃiere; 
+reliefare; marcare. 
+wurgulama s. accentuare; exclamare. 
+wurgulamak v.t. a accentua; a 
+exclama. // ●w u r g u l a p 
+b í l d í rm e k a preciza; a specifica. 
+●w u r g u l a p k î ş k î rm a k a 
+exclama. 
+wurgulangan adj. (fon.) accentuat; 
+tonic. 
+wurgulanmak v.i. a se accentua. 
+wurgulap-b íldírílgen adj. precizat; 
+specificat. 
+wurgulap-b íldírúw s. precizare; 
+specificare. 
+wurgulay-wurgulay adv. accentuat; 
+răspicat. 
+wurgulî adj. (fon.) accentuat; tonic. 
+wurgulîkîşkîrma s. exclamare; 
+exclamaŃie.
