@@ -2161,3 +2161,248 @@ jurnal s. jurnal.
 jurnalist s. jurnalist. 
 jurnalistika s. jurnalistică. 
 jurnalistlík s. jurnalistică.
+şemayil s. înfăŃişare; aspect. 
+şember I. adj. rotund. II. s. 1. cerc. 2. 
+(mat.) circumferinŃă. 3. basma; batic; 
+năframă. // ●t eg e r ş í k ş em b e r í 
+şină. 
+şemberleme s. cercuire. 
+şemberlemek v.t. 1. a cercui. 2. a 
+rotunji; a da forma unui cerc. 
+şemberlenmek v.i. 1. a se cercui. 2. 
+a lua forma unui cerc. 
+şemberlí adj. cercuit. 
+şemeke adj. 1. violet-închis; mov; 
+vineŃiu. 2. vânăt. 
+şemen s. (bot.) schinduf (lat., 
+Trigo nella f oenum graec um). 1. 
+coroană; cunună; diademă; ghirlandă. 
+şemenleme s. încoronare; 
+încununare. 
+şemenlemek v.t. a încorona; a 
+încununa. 
+şemenlengen adj. încoronat; 
+încununat. 
+şemenlenmek v.i. a se încorona; a se 
+încununa. 
+şemenlí adj. încoronat; încununat. 
+şeminew s. şemineu; cămin. 
+şems s. soare. 
+Şemseddin/Şemsettin s. (antrop. 
+m., prsn.) “Soarele credinŃei”. 
+şems iye s. umbrelă. // ●k ú n e ş 
+ş em s i y e s í umbrelă de soare. 
+şemşe s. lingură. 
+Şemşeler s. (topon., localitate 
+desfiinŃată) Şemseler (jud. Tulcea). 
+şems iyeşeşeg í s. (bot.) căprişor 
+(lat., Cype rus f lavescens). 
+şen adj. vesel; voios; bine dispus. 
+şenbe s. (cron., prsn.) sâmbătă. 
+şenbih s. (cron., prsn.) sâmbătă. 
+şendere s. şindrilă. 
+şene s. 1. (anat.) bărbie; falcă; maxilar; 
+mandibulă. 2. (fig.) vorbărie; 
+pălăvrăgeală. // ●ş en e a tm a k a 
+agoniza; a intra în comă. // ●ú s t 
+ş en e maxilar superior. 
+şenebaz adj. guraliv; flecar. 
+şenek s. 1. (anat., bot.) cotiledon. 2. 
+(anat.) bărbie; falcă; maxilar; 
+mandibulă. 
+şenelí adj. guraliv; flecar. 
+şeneşke s. 1. Ńeapă; spin; ghimpe; ac. 
+2. furculiŃă. 
+şeneşke, ak- s. (bot.) verigar; părul-
+ciutei; salbă-moale (lat., R hamn us 
+cathartica). 
+şeneşke, kara- s. (bot.) paliur (lat., 
+Paliurus spina-ch risti). 
+şeneşkelí adj. Ńepos; spinos; cu 
+ghimpi; ghimpat. 
+şeneşkelík s. 1. mărăcine; mărăciniş. 
+2. boschet; tufiş; tufă. 
+şenet s. (zool., bot.) valvă. 
+şengel s. cârlig; cinghel. //
+●k u y r u g un a ş en g e l t a km a k a 
+se Ńine coadă după cineva; a-l pune 
+sub urmărire. 
+şengeltaguw s. pândă. 
+şenlend írmek v.t. a înveseli; a 
+desfăta; a delecta. 
+şenlengen adj. înveselit; dispus; 
+desfătat; delectat. 
+şenlenme s. înveselire; dispunere; 
+desfătare; delectare. 
+şenlenmek v.i. a se înveseli; a se 
+dispune; a se desfăta; a se delecta. 
+şenleşmek v.i. a se înveseli laolaltă; a 
+se dispune laolaltă; a se desfăta 
+laolaltă; a se delecta laolaltă. 
+şenlík I. adj. sărbătoresc. II. s. 1. 
+veselie; voioşie; bună dispoziŃie. 2. 
+sărbătoare; festival. 
+şentík s. ştirbitură; tocire; uzură; 
+ciuntitură; ciobitură. 
+şentíklemek v.t. a ştirbi; a toci; a uza; 
+a ciunti;a ciobi. 
+şentíklí adj. ştirbit; tocit; uzat; ciunt; 
+ciuntit; ciobit. 
+şentílgen adj. ştirbit; tocit; uzat; 
+ciunt; ciuntit; ciobit. 
+şentílme s. ştirbire; tocire; uzare; 
+ciuntire; ciobire. 
+şentílmek v.i. a se ştirbi; a se toci; a 
+se uza; a se ciunti;a se ciobi. 
+şentme s. ştirbire; tocire; uzare; 
+ciuntire; ciobire. 
+şentmek v.t. a ştirbi; a toci; a uza; a 
+ciunti; a ciobi. 
+şeper s. gard. 
+şeperleme s. îngrădire; împrejmuire. 
+şeperlemek v.t. a îngrădi; a 
+împrejmui. 
+şeperlengen adj. îngrădit; 
+împrejmuit. 
+şeperlí adj. îngrădit; împrejmuit. 
+şeperlík s. îngrăditură. 
+şepke s. drojdie de vin. 
+şepken s. 1. ilic; pieptar. 2. postav. 
+şepkenğí s. postăvar. 
+şepkenğílík s. postăvărie. 
+şepşek s. iepuraş. 
+şep-şewre adv. de jur împrejur. 
+şer s. rău; răutate. 
+şerare s. fulger; scânteie; scăpărare. 
+şerareleme s. fulgerare; scânteiere; 
+scăpărare. 
+şerarelemek v.i., v.t. a fulgera; a 
+scânteia; a scăpăra. 
+şerarelí adj. fulgerător; scânteietor; 
+scânteietor. 
+şerbet s. 1. şerbet. 2. băutură 
+răcoritoare; sirop. // ●na b î z î na 
+k ó r e ş e r b e t b e rm e k a-i da cuiva 
+apă la moară; a-i face pe voie. 
+şerbetl í adj. cu şerbet; siropos. 
+şerbetşíotî s. (bot.) hamei (lat., 
+Hum ulus lup ulus). 
+şeref s. onoare; cinste; stimă; 
+prestigiu. // ●ğ eñ í l g en g e ş e r e f ! 
+glorie victimei!; ●ş e r e f d i p l om a s î 
+menŃiune; distincŃie. ●ş e r e f 
+k ú r s ú s í (sport) tribună de onoare. 
+●ş e r e f s ó z í cuvânt de onoare. 
+●ş e r e f í ñ í zg e ! (la toasturi) în cinstea 
+dumneavoastră!; noroc!; 
+şerefe s. balconul minaretului. 
+Şerefeddin/Şerafettin/Şerfettin 
+s. (antrop. m., arab.) "Onoarea 
+credinŃei". 
+şereflend írmek v.t. a onora; a cinsti. 
+şereflengen adj. cinstit; onorat. 
+şereflenme s. cinstire; onorare. 
+şereflenmek v.i. a fi onorat; a fi 
+cinstit. 
+şereflí adj. onorat; stimat; respectat; 
+prestigios. 
+şerefs ízb îrakkan adj. dezonorant; 
+batjocoritor. 
+şerefs ízb îrakma s. dezonorare; 
+batjocură; necinstire; stigmatizare. 
+şerefs ízkalgan adj. dezonorat; 
+batjocorit; necinstit; stigmatizat. 
+şerefs ízlík s. dezonorare; ruşine; 
+ocară. 
+Şeremet s. (topon.) Casian (jud. 
+ConstanŃa). 
+şeren s. snop. // ●ş e r e n s a lm a k a 
+snopi; a face snopi. 
+şerenlemek v.t. a snopi; a face snopi. 
+şerez s. 1. gustare; aperitiv. 2. desert. 
+şerge s. 1. iurtă; cort. 2. şatră. 3. 
+cergă. 
+şerg il adj. iritat; revoltat. 
+Şergiye s. (antrop. f.) “Baştina”. 
+şerif adj. onorat; stimat; respectat; 
+prestigios. // ●ş e r i f d o k t o r doctor 
+de onoare; doctor honoris causa. 
+Şerif s. (antrop. m., arab.) “Cel stimat”. 
+Şerife s. (antrop. f., arab.) “Cea 
+stimată”. 
+şerik I. adj. tovărăşesc. II. s. asociat; 
+tovărăş. 
+şeriklí adj. asociat; întovărăşit. 
+şeriklík s. 1. asociere; întovărăşire. 2. 
+tovărăşesc. 
+şerikşe adv. tovărăşeşte. 
+şeriktiy adv. tovărăşeşte. 
+şerir adj. mârşav; ticălos; infam. 
+şerirlík s. infamie. 
+şeriyat s. (ist.) legislaŃie musulmană. 
+şerík s. sfert. // ●b í r ş e r í k m e t r e 
+l á s t í k un sfert de metru de elastic. 
+●b í r ş e r í k o k k a p í r í j un sfert de 
+kilogram de orez. ●o n b í r n í ş e r í k 
+g e ş e unsprezece şi un sfert. 
+●po r t a k a l n î d ó r t ş e r í k k e 
+b ó l d ím am împărŃit portocala în 
+patru sferturi. ●ş e r í k s áá t un sfert 
+de oră. ●ş e r í k s áá t k e ş í km e d en 
+punctual; fără sfertul de oră academic. 
+●ş e r í k s áá t k e ş í km e l í un sfert 
+de oră după timpul dat; sfertul de oră 
+academic. 
+şeríkşer num. câte un sfert. 
+şerít s. 1. şnur; şiret; galon. 2. (tehn.) 
+bandă; fâşie. 3. (ent., med.) tenie; 
+panglică (lat., Taenia solium). //
+●b o aw t o ğ o l k a ş ş e r í t ? câte 
+benzi are această autostradă?; 
+●ó l ş em e ş e r í t í ruletă. 
+şerítlí adj. galonat; împodobit cu 
+galoane. 
+şermende s., adj. nenorocit; nefericit; 
+obidit; prăpădit; nevoiaş; mizerabil. 
+şerpelenk s. 1. zmeu. 2. (zool.) liliac 
+(lat., Vespe rtilio). 
+şerşewe s. cercevea; ramă; cadru. //
+●ş e r ş ew e g e t a km a k a înrăma. 
+şerşewegetagîlgan adj. înrămat. 
+şerşeweleme s. 1. înrămare; 
+încadrare. 2. încadrare; situare. 
+şerşewelemek v.t. 1. a înrăma; a 
+încadra. 2. a încadra; a situa. 
+şerşewelengen adj. 1. înrămat; 
+încadrat. 2. încadrat; situat. 
+şertík I. adj. cioplit; sculptat; crestat; 
+şanfrenat; canelat. II. s. şanfren; 
+crestătură; canelură. 
+şertíkleme s. cioplire; sculptare; 
+crestare. 
+şertíklemek v.t. a ciopli; a sculpta; a 
+cresta. 
+şertíklengen adj. cioplit; sculptat; 
+crestat. 
+şertíklewğí s. cioplitor; sculptor. 
+şertíklewğúlúk s. sculptură. 
+şertíkl í adj. cioplit; sculptat; crestat; 
+şanfrenat; canelat. 
+şertílgen adj. 1. însemnat; marcat. 2. 
+(tehn.) care are marginile tăiate; 
+şanfrenat; crestat; canelat. 
+şertílmek v.i. 1. a fi însemnat; a fi 
+marcat. 2. (tehn.) a i se tăia marginile; 
+a fi şanfrenat; a fi crestat; a fi canelat. 
+şertme s. 1. însemnare; marcare. 2. 
+(tehn.) tăierea marginilor; şanfrenare; 
+crestare; canelare. 
+şertmek v.t. 1. (tehn.) a tăia marginile; 
+a şanfrena; a cresta; a canela. 2. a face 
+să pacănească. 3. a ciupi strunele 
+unui instrument muzical. 4. a 
+însemna; a marca. 
+şeş num. (prsn.) şase. 
+şeşeg ím interj. floarea mea!; 
+şeşek s. 1. floare. 2. desen; broderie. 
+3. (med.) variolă; vărsat. 4. mucegai.
