@@ -2406,3 +2406,636 @@ unui instrument muzical. 4. a
 şeşeg ím interj. floarea mea!; 
 şeşek s. 1. floare. 2. desen; broderie. 
 3. (med.) variolă; vărsat. 4. mucegai.
+tağalak s. bobină; mosor; mulinetă. 
+tağir s. comerciant; negustor. 
+tağiz s. incomodare; stânjeneală; 
+deranjare; stingherire. // ●t a ğ i z 
+b o lm a k a fi incomodat; a fi hărŃuit; a 
+fi stânjenit; a fi jenat; a fi deranjat. 
+●t a ğ i z e tm e k a incomoda; a hărŃui; 
+a stânjeni; a jena; a deranja. // ●h e ş 
+t a ğ i z t uw u l nu e niciun deranj. 
+●s í zn í t a ğ i z e tm e k í s t em e d ím 
+n-am vrut să vă deranjez. 
+tağizğí adj. incomod; jenant; 
+stânjenitor; stingheritor; supărător. 
+tağizlí adj. deranjat; stingherit; 
+incomodat; supărat. 
+tağîr s. împietrire; înlemnire; 
+înmărmurire; încremenire. 
+tağîrlangan adj. împietrit; înlemnit; 
+înmărmurit; încremenit. 
+tağîrlanma s. împietrire; înlemnire; 
+înmărmurire; încremenire. 
+tağîrlanmak v.i. a împietri; a înlemni; 
+a înmărmuri; a încremeni. 
+tağîrlî adj. împietrit; înlemnit; 
+înmărmurit; încremenit. 
+taha s. puritate; curăŃenie; 
+neprihănire. 
+Taha s. (antrop. m., arab.) "Cel pur"; 
+"Cel curat" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam). 
+tahaffuz I. adj. profilactic. II. s. 
+profilaxie. 
+tahaffuzğî adj. profilactic. 
+tahaffuzkana s. carantină. 
+tahakkuk s. îndeplinire; înfăptuire; 
+realizare. // ●t a h a k k u k b o lm a k a 
+se îndeplini; a se înfăptui; a se realiza. 
+●t a h a k k u k e tm e k a îndeplini; a 
+înfăptui; a realiza. ●t a h a k k u k 
+e t t í rm e k a constata. 
+tahakkuklî adj. îndeplinit; constatat. 
+tahakkum s. 1. dominare; dominaŃie; 
+stăpânire. 2. asuprire; exploatare; jug. 
+// ●t a h a k k um b o lm a k a fi 
+dominat; a fi stăpânit; a fi asuprit; a fi 
+exploatat. ●t a h a k k um e tm e k a 
+domina; a stăpâni; a asupri; a 
+exploata. 
+tahakkumetken adj. dominant. 
+tahakkumğî s. asupritor; exploatator. 
+tahakkumlî adj. dominat; asuprit; 
+exploatat. 
+tahallúl s. descompunere; 
+dezmembrare. // ●t a h a l l ú l 
+b o lm a k a se descompune; a se 
+dezmembra. ●t a h a l l ú l e tm e k a 
+descompune; a dezmembra. 
+tahallúllí adj. descompus; 
+dezmembrat. 
+tahammuz s. oxidare. 
+tahammuzlî adj. oxidat; oxidabil. 
+tahammúl s. 1. răbdare; suportare. 2. 
+îngăduinŃă; tolerare; concesie. 3. 
+tenacitate; perseverenŃă. //
+●t a h amm ú l b o lm a k a fi răbdat; a 
+fi suportat; a fi tolerat. ●t a h amm ú l 
+e tm e k a răbda; a suporta; a tolera. //
+●t a h amm ú l e t í lm e z insuportabil. 
+tahammúlbolmaz adj. insuportabil. 
+tahammúllí adj. răbdător; tolerant; 
+tenace; perseverent. 
+tahammúlsúz adj. nerăbdător; 
+intolerant. 
+tahammúlsúzlúk s. nerăbdare; 
+intoleranŃă. 
+tahammúr s. fermentare; fermentaŃie; 
+dospire. // ●t a h amm ú r b o lm a k a 
+fermenta; a dospi. 
+tahammúrlí adj. fermentat; dospit. 
+taharet s. (relig., la musulmani) 
+spălare; purificare. 
+tahassús s. impresionare; emoŃionare. 
+tahaşşút s. adunare; acumulare; 
+concentrare. // ●t a h a ş ş ú t b o lm a k 
+a se aduna; a se acumula; a se 
+strânge; a se concentra. ●t a h a ş ş ú t 
+e tm e k a aduna; a acumula; a 
+strânge; a concentra. 
+tahaşşútlí adj. adunat; acumulat; 
+concentrat. 
+tahattur s. amintire; pomenire. //
+●t a h a t t u r b o lm a k a-şi aminti. 
+●t a h a t t u r e tm e k a aminti. 
+tahatturlî adj. amintit; pomenit. 
+tahayyúl s. închipuire; imaginaŃie; 
+fantezie. // ●t a h a y y ú l e tm e k a-şi 
+închipui. 
+tahayyúlğí s. visător; vizionar. 
+tahayyúllí adj. închipuit; imaginat. 
+tahdidat s. mărginire; restrângere; 
+îngrădire. 
+tahdidatlî adj. mărginit; restrâns; 
+îngrădit. 
+tahdit s. limitare; delimitare. //
+●t a h d i t b o lm a k a se limita; a se 
+delimita. ●t a h d i t e tm e k a limita; a 
+delimita. 
+tahfif s. 1. uşurare; înlesnire; 
+facilitare. 2. alinare; calmare. //
+●t a h f i f b o lm a k a se uşura; a se 
+înlesni; a se facilita; a se calma. 
+●t a h f i f e tm e k a uşura; a înlesni; a 
+facilita; a calma. 
+tahfiflí adj. 1. uşurat; înlesnit; 
+facilitat. 2. alinat; calmat. 
+tahir adj. pur; curat; neprihănit. 
+Tahir s. (antrop. m., arab.) "Cel pur"; 
+"Cel curat" (unul din cele 400 de nume 
+atribuite în Coran Profetului Muhammed 
+Aliyselam). 
+Tahire s. (antrop. f., arab.) “Cea pură”; 
+“Cea castă”. 
+tahîl s. cereale; grâne. 
+tahkik s. 1. cercetare; investigare; 
+urmărire penală; anchetă. 2. realizare; 
+îndeplinire; înfăptuire. // ●t a h k i k 
+b o lm a k a fi anchetat. ●t a h k i k 
+e tm e k a ancheta. 
+tahkikat s. realizare; îndeplinire; 
+înfăptuire. 
+tahkiklí adj. 1. cercetat; investigat; 
+urmărit penal; anchetat. 2. realizat; 
+îndeplinit; înfăptuit. 
+tahkikşí s. anchetator; investigator. 
+tahkim s. 1. întărire; consolidare; 
+fortificare. 2. (econ., jur.) arbitraj. //
+●t a h k im b o lm a k a se întări; a se 
+consolida; a se fortifica. ●t a h k im 
+e tm e k a întări; a consolida; a 
+fortifica. 
+tahkimğí I. adj. întăritor; tonic; 
+tonifiant; analeptic; reconfortant; 
+fortifiant. II. s. (econ., jur.) arbitru. 
+tahkimlí adj. 1. întărit; consolidat; 
+fortificat. 2. (econ., jur.) cu arbitraj; 
+arbitrat. 
+tahkir s. insultă; ofensă; jignire. //
+●t a h k i r b o lm a k a fi insultat; a fi 
+ofensat; a fi jignit; a fi ocărât. 
+●t a h k i r e tm e k a insulta; a ofensa; 
+a jigni; a ocărî. 
+tahkirğí adj. insultător; ofensator; 
+jignitor. 
+tahkirl í adj. insultat; ofensat; jignit. 
+tahlil s. 1. (med.) analiză. 2. analiză; 
+examinare. // ●t a h l i l b o lm a k 
+(med.) a se analiza. ●t a h l i l e tm e k 
+(med.) a analiza. // ●i d r a r t a h l i l í 
+analiza urinei. 
+tahliliy adj. analitic; analizat. //
+●t a h l i l i y h e nd e s e (mat.) 
+geometrie analitică. 
+tahlillí adj. analitic; analizat. 
+tahlis iye s. (d. servicii) salvare; 
+salvamar. // ●t a h l i s i y e k a y î g î 
+(nav.) barcă de salvare. 
+tahliye s. 1. descărcare; golire. 2. 
+eliberare; golire; evacuare. //
+●t a h l i y e b o lm a k a se descărca; a 
+se goli; a se evacua. ●t a h l i y e 
+e tm e k a descărca; a goli; a evacua. 
+tahliyeğí s. descărcător; eliberator. 
+tahliyelí adj. 1. descărcat; golit. 2. 
+eliberat; golit; evacuat. 
+tahm il s. încărcare; umplere. //
+●t a hm i l b o lm a k a se încărca; a se 
+umple. ●t a hm i l e tm e k a încărca; a 
+umple. 
+tahm ilğí s. încărcător. 
+tahm illí adj. încărcat; umplut. 
+tahm in s. 1. presupunere; supoziŃie. 
+2. estimare; evaluare. // ●t a hm i n 
+b o lm a k a se presupune. ●t a hm i n 
+e tm e k a presupune. // ●t a hm i n 
+e t í lm e z imprevizibil. 
+tahm inbolmaz adj. imprevizibil. 
+tahm inen adv. aproximativ; cam; 
+aproape. 
+tahm inğ í s. evaluator. 
+tahm iniy adj. prezumtiv; ipotetic; 
+probabil; presupus. 
+tahm inlí adj. presupus. 
+tahn it s. îmbălsămare. // ●t a h n i t 
+e tm e k a îmbălsăma. 
+tahn itlí adj. îmbălsămat. 
+tahribetmek v.t. a distruge; a nimici; 
+a devasta. 
+tahribetúwğ í adj. distrugător; 
+nimicitor; devastator. 
+tahrif s. denaturare; falsificare. //
+●t a h r i f b o lm a k a se denatura; a 
+se falsifica. ●t a h r i f e tm e k a 
+denatura; a falsifica. 
+tahriflí adj. denaturat. 
+tahrifşí s. falsificator. 
+tahrik s. 1. impuls; imbold; îndemn. 
+2. instigare; incitare; provocare; 
+aŃâŃare; întărâtare. // ●t a h r i k 
+b o lm a k a fi impulsionat; a fi 
+îndemnat; a fi aŃâŃat; a fi incitat; a fi 
+instigat. ●t a h r i k e tm e k a 
+impulsiona; a îndemna; a aŃâŃa; a 
+incita; a instiga. // ●t a h r i k e t úw ğ í 
+provocator; instigator. ●t a h r i k 
+k ú ş í forŃă motrice. ●t a h r i k 
+m e k a n i sm í (tehn.) mecanism de 
+transmisie. ●t a h r i k t e g e r ş í g í 
+(tehn.) volant. 
+tahrikat s. instigare; incitare; 
+provocare; aŃâŃare; întărâtare. 
+tahrikatş í s. agent provocator. 
+tahrikl í adj. 1. impulsionat; îmboldit; 
+îndemnat. 2. instigat; incitat; 
+provocat; aŃâŃat; întărâtat. 
+tahrikşí s. agent provocator. 
+tahrip s. distrugere; nimicire; 
+devastare. // ●t a h r i p b o lm a k a fi 
+devastat; a fi distrus; a fi nimicit. //
+●t a h r i p e t í lm e z indestructibil. 
+tahripbolmaz adj. indestructibil. 
+tahripkáar adj. distrugător; nimicitor; 
+devastator. 
+tahriplí adj. nimicit; distrus; devastat; 
+stârpit. 
+tahripş í adj. distrugător; nimicitor; 
+devastator. 
+tahrir s. scris; scriere. // ●t a h r i r 
+b o lm a k a se scrie. ●t a h r i r e tm e k 
+a scrie. // ●t a h r i r h ey e t í redacŃie; 
+colegiu redacŃional. 
+tahrirğe adv. în scris; scris.
+ubud iy s. sclav; rob. 
+ubud iyet s. sclavie; robie. 
+ubud iyetşí adj. sclavagist. 
+ubur-subur adv. fremătând; palpitând; 
+agitându-se. 
+uf interj. of!; uf!; 
+ufak adj. mic; mărunt. 
+ufaklîk s. 1. mărunŃiş; bani mărunŃi. 
+2. (iht.) baboi; fâŃă; plevuşcă. 
+ufak-s iyenek s. (iht.) sardeluŃă; şprot 
+(lat., Sprattus sprattus 
+phalericus). 
+ufak-tefek s. mărunŃişuri; multe şi 
+mărunte; chiŃibuşuri. 
+ufkiy adj. (mat.) orizontal. // ●u f k i y 
+ğ e r g e (mat.) orizontală. ●u f k i y 
+s î z î k (mat.) linie orizontală. 
+ufuk s. orizont; zare. 
+ufuldagan adj. care oftează. 
+ufuldamak v.i. a ofta. 
+ufuldatmak v.t. a determina să ofteze. 
+ufuldaw s. oftat. 
+ufunet s. 1. duhoare; putoare; miros 
+urât. 2. (med.) inflamaŃie. 
+ufunetlengen adj. (med.) inflamat. 
+ufunetlenme s. inflamare. 
+ufunetlenmek v.i. (med.) a se 
+inflama. 
+ufunetlí adj. (med.) inflamat. 
+Uganda s. (topon.) Uganda. 
+ugandalî s., adj. ugandez. 
+uğa s. (anat.) coccis; noadă. 
+uğube s. 1. curiozitate; raritate; 
+ciudăŃenie. 2. pocitanie; monstru. 
+uğubeleşken adj. pocit; sluŃit. 
+uğubeleşmek v.i. a fi pocit; a fi sluŃit. 
+uğubeleştírme s. pocire; sluŃire. 
+uğubeleştírmek v.t. a poci; a sluŃi. 
+uğubelí adj. pocit; sluŃit. 
+uğuz adj. ieftin. // ●u ğ u z 
+a t l a tm a k / k u t u lm a k a scăpa 
+ieftin. ●u ğu zg a ş î km a k a ieşi la 
+socoteală cu preŃul; a face banii daŃi; a 
+ieşi ieftin. // ●t aa u ğ u z î y o k m î ? 
+nu aveŃi ceva mai ieftin?; ●u ğu z 
+b í l e z í k brăŃară ieftină. 
+uğuzlaşkan adj. ieftinit. //
+●u ğ u z l a ş k a n m a l l a r (com.) 
+solduri. 
+uğuzlaşma s. ieftinire. 
+uğuzlaşmak v.i. a se ieftini. 
+uğuzlatmak v.t. a ieftini; a reduce 
+preŃurile. 
+uğuzluk s. ieftinire. 
+ujin s. femeie. 
+ukaláa s., adj. pedant. 
+ukaláalîk s. pedanterie. 
+ukrayin s., adj. ucrainean. 
+ukrayinğe I. adv. în limba 
+ucraineană. II. s. (limba) ucraineană. 
+Ukrayna s. (topon.) Ucraina. 
+ukraynalî s., adj. ucrainean. 
+ul s. fiu; fecior; băiat. // ●t o r î nn î ñ 
+u l î strănepot. ●y o l ğ î n î ñ u l î fiul 
+drumeŃului. 
+ulagan adj. roşu; roşcat; roşcovan. 
+ulah s., adj. (ist.) valah; vlah. 
+ulak I. s. 1. ied. 2. (astr.) zodia 
+capricornului. 3. mesager; curier. II. 
+s., adj. valah; vlah. 
+Ulak-Kóy s. (topon.) ("Satul Iezilor") 
+Vlahii (jud. ConstanŃa). 
+ulam s. 1. grup; grupare. 2. (fil.) 
+categorie; tagmă. // ●t í l s î zg a s î 
+u l am l a r î (gram.) categorii 
+gramaticale. 
+ulama s. 1. adăugare. 2. alăturare; 
+unire. 3. (gram.) alipire; ataşare. 
+ulamak v.t. 1. a adăuga. 2. a alătura; 
+a uni. 3. (gram.) a alipi; a ataşa. 
+ulangan adj. 1. (gram.) alipit; ataşat. 
+2. a alăturat; unit. 3. adăugat. 
+ulanmak v.i. 1. (gram.) a se alipi; a se 
+ataşa. 2. a se alătura; a se uni. 3. a se 
+adăuga. 
+ulantî s. adaos; supliment. 
+ulaslîk s. cărpeniş; pădure de carpeni. 
+ulaş s. (gram.) gerunziu. 
+ulaşîm s. legătură; contact. 
+ulaşmak v.i. a sosi; a veni; a ajunge. 
+ulaştîrma s. 1. transport; 
+comunicaŃie. 2. legătură; contact. 
+ulaştîrmak v.t. a duce; a transporta; a 
+determina să ajungă (la…). 
+ulçer s. (med.) ulcer. 
+ulçerlí adj. ulceros. 
+ulema s. 1. savanŃi; oameni de ştiinŃă. 
+2. (la musulmani) cler; preoŃime. 
+ulga s. (mil.) avangardă. 
+ulgam s. striu; striaŃie. 
+ulgamlî adj. striat. 
+ulka s. Ńară; patrie. // ●b i y a k u l k a 
+(pol.) stat neutru. ●ğ e l e nd e ş 
+u l k a l a r Ńările limitrofe. ●k a y s î 
+u l k ad an s î ñ î z ? din ce Ńară 
+sunteŃi?; ●u l k a b ú t ún l ú g í (jur.) 
+integritate teritorială. ●u l k an î ñ 
+b a ş k a s a b a s î capitala Ńării. 
+●u l k a n î ñ ó s úw í dezvoltarea Ńării. 
+●y a b an ğ î u l k a l a r Ńări străine. 
+●y a k î n- u z a k u l k a l a r Ńările 
+apropiate şi Ńările îndepărtate. 
+ulkardaş î s. frate. 
+ulkasîz s. apatrid. 
+Ulkayer s. (astr.) Pleiadele. 
+ulkum s. (gastron.) scoveargă. 
+ulşuk s. 1. băieŃel; băieŃaş; puşti. 2. 
+(biol.) embrion. 
+ulşukbílímí s. embriologie. 
+ulşuklî adj. (biol.) embrionic. 
+ultan s. (la încălŃăminte) talpă; pingea. 
+ultimatum s. (jur.) ultimatum. 
+ultrakîska adj. (fiz.) ultrascurt. 
+ultramodern adj. foarte modern; 
+ultramodern. 
+ultraşemeke adj. (fiz.) ultraviolet. 
+ultraviyolet adj. (fiz.) ultraviolet. 
+uluma s. urlet (de câine, de lup). 
+ulumak v.i. (d. câini, lupi) a urla. 
+ulus s. naŃiune; seminŃie. // ●u l u s 
+b a y r am î sărbătoare naŃională. 
+●u l u s e g em e n l í g í suveranitate 
+naŃională. 
+uluslararasî adj. internaŃional. //
+●u l u s l a r a r a s î b í l ím 
+k u r u l t a y î congres ştiinŃific 
+internaŃional. ●u l u s l a r a r a s î 
+u z a k s e s / t e l e f o n k o n î şm a s î 
+convorbire telefonică internaŃională. 
+uluslararasîlîk s. internaŃionalism. 
+uluslaşkan adj. naŃionalizat. 
+uluslaştîrîlmak v.i. a se naŃionaliza. 
+uluslaştîrma s. naŃionalizare. 
+uluslaştîrmak v.t. a naŃionaliza. 
+ulusşî adj. 1. naŃional. 2. naŃionalist. 
+ulusşuluk s. naŃionalism. 
+uluw adj. măreŃ; grandios; impunător. 
+uluwanay s. străbunică. 
+uluwbabay s. străbunic.
+yapalagî, şól- s. (orn.) huhurez de 
+deşert (lat., Strix butleri). 
+yapalagî, torgay- s. (orn.) ciovică 
+(lat., Strix passerina; 
+Glaucidium passe rinum). 
+yapalagî, uzun -kuyruklî-taw- s. 
+(orn.) huhurez mare (lat., Strix 
+urale nsis). 
+yapalak s. (orn.) cucuvea (lat., 
+Athene noctua). 
+yapalak, ak- s. (orn.) huhurez alb; 
+bufniŃă de zăpadă (lat., Bubo 
+scandiacus; Nyctea scandiaca). 
+yapalak, alaşa- s. (orn.) cucuvea 
+indiană pătată (lat., Athena 
+brama). 
+yapalak, kulaksîz- s. (orn.) huhurez 
+mic (lat., Strix aluco). 
+yapalak, maw -baş- s. (orn.) ciuş 
+(lat., Otus scops). 
+yapalak, şal-sîzîklî- s. (orn.) ciuş 
+dungat (lat., Otus brucei). 
+yapalak, sakallî- s. (orn.) huhurez cu 
+barbă (lat., Strix neb ulosa). 
+yapalak, sîzîklî- s. (orn.) huhurez 
+dungat (lat., Strix varia). 
+yapalak, yakalî- s. (orn.) ciuş gulerat 
+(lat., Otus bakkamoena). 
+yapîluw s. 1. alcătuire; compunere; 
+formare; întemeiere. 2. structură; 
+factură; mod de alcătuire; mod de 
+construire; reŃetă. 3. facere; 
+îndeplinire; înfăptuire; săvârşire; 
+executare; efectuare; creare. 4. 
+reparare; dregere. 
+yaprak-ğelbeges í s. (orn.) pitulicea 
+lui Hume (lat., Phylloscop us 
+humei). 
+yapraklanuw s. înfrunzire. 
+yapraklaştîruw s. laminare. 
+yaprak-sarîkaşî s. (orn.) pitulicea lui 
+Hume (lat., Phylloscop us 
+humei). 
+yapraks îzlaşuw s. desfrunzire. 
+yaraklanuw s. înarmare. 
+yaraks îzlanuw s. dezarmare. 
+yaralaw s. rănire. 
+yararlanuw s. folosinŃă; folosire; 
+beneficiu; fructificare. 
+yaratîluw s. 1. creare; făurire; 
+înfiinŃare. 2. fire; temperament. 
+yaratuw s. 1. naştere. 2. naştere; 
+creare; apariŃie. 3. natură; fire; 
+temperament. 
+yaraw s. 1. părtinire. 2. folos; utilitate. 
+3. oportunitate. 
+yard îmlaşuw s. ajutor reciproc; 
+întrajutorare. 
+yarg îlaw s. (econ., jur.) judecare; 
+judecată; arbitraj. 
+yarîmlaw s. înjumătăŃire. 
+yarîm-yakalî-ş îbînğ î s. (orn.) muscar 
+semigulerat (lat., Ficedula 
+semitorquata). 
+yarîngîsî s. cel de mâine. 
+yarîşuw s. 1. întrecere; concurs; 
+competiŃie. 2. (econ.) concurenŃă; 
+rivalitate. 3. (sport) partidă; joc; meci. 
+yarlîklaw s. etichetare. 
+yarlîkwuruw s. etichetare. 
+yas, ğ îltîr- s. (bot.) linguriŃa-zânei 
+(lat., Fomes l ucidus). 
+yaşaruw s. umezire; înlăcrimare. 
+yaşayaluw s. viabilitate. 
+yaşlanuw s. înaintare în vârstă; 
+îmbătrânire. 
+yasalaw s. legalizare. 
+yasaluw s. 1. structură; factură; mod 
+de alcătuire; mod de construire; reŃetă. 
+2. alcătuire; compunere; formare; 
+întemeiere. 3. facere; îndeplinire; 
+înfăptuire; săvârşire; executare; 
+efectuare; creare. 4. reparare; dregere. 
+yasayaluw s. capacitate; pricepere. 
+yasaywuyuw s. înjghebare. 
+yasemin s. (bot.) iasomie (lat., 
+Jasminu m of f icinale). 
+yasî, deñ íz- s. (bot.) fucus (lat., 
+Fuc us ve siculosus). 
+yasî, kayîñ- s. (bot.) văcălie-de-fag 
+(lat., Ganode rma applanatum). 
+yasî, narus - s. (bot.) văcălie-de-brad 
+(lat., Fomes pinicola). 
+yasî, sakal- s. (bot.) pletele-muierii; 
+mătreaŃă-de-arbori (lat., U snea 
+barbata). 
+yasî, tal- s. (bot.) văcălie-de-salcie 
+(lat., Tra metes suaveolens). 
+yasî, tozterek- s. (bot.) văcălie-de-
+mesteacăn (lat., Placodes 
+betulinus). 
+yaslanuw s. proptire; sprijinire; 
+rezemare. 
+yasm îk s. (bot.) linte (lat., Lens 
+esculenta). 
+yastîlaw s. turtire; aplatizare. 
+yastorgay s. (orn.) presură de tundră 
+(lat., Calca rius lappo nicus). 
+yawaşlaw s. 1. potolire; liniştire; 
+calmare. 2. încetinire; micşorarea 
+vitezei. 
+yazd îruw s. înscriere; înmatriculare; 
+înregistrare. 
+yazîşuw s. corespondenŃă; schimb de 
+scrisori. 
+yebergen adj. (peior.) mort; care a 
+crăpat. 
+yebermek v.i. (peior.) a muri; a crăpa. 
+yebertílgen adj. (peior.) nimicit; ucis; 
+stârpit. 
+yebertken adj. (peior.) nimicitor; 
+ucigător. 
+yebertme s. (peior.) suprimare; 
+nimicire; ucidere; stârpire. 
+yebertmek v.t. (peior.) a omorî. 
+yedek I. adj. de rezervă. II. s. rezervă; 
+stoc. 
+yedeklemek v.t. a remorca. 
+yedew I. num. grup de şapte. II. s. 
+(muz.) septet. 
+yedewí pron. toŃi şapte. 
+yedew-yedew num. grupuri de câte 
+şapte. 
+yedí num. şapte. // ●b ú gú n y ed í 
+n i s an azi este şapte aprilie. ●y e d í 
+ğan l î vivace. ●y e d í d en ew e l 
+s áá t ş a l a ceasul sună înainte de 
+ora şapte. 
+yedíbírleşmedegerlí adj. (chim.) 
+heptavalent. 
+yedíbuğak s. (geom.) heptagon. 
+yedíbuğaklî adj. (geom.) heptagonal. 
+yedíde I. adv. la şapte; din şapte. II. 
+s. şeptime. 
+yedíde -bír num. o şeptime. 
+yedíkat adj. înşeptit; septuplu. 
+yedíkatartkan adj. înşeptit; 
+septuplu. 
+yedíkatartma s. înşeptire. 
+yedíkatlî adj. înşeptit; septuplu. 
+yedíkeñ s. (geom.) heptagon. 
+yedíkeñlí adj. (geom.) heptagonal. 
+yedíleme s. înşeptire. 
+yedílemek v.t. a înşepti. 
+yedílengen adj. înşeptit; septuplu. 
+yedílenmek v.i. a se înşepti. 
+yedílep adv. înşeptit; reciclând de 
+şapte ori. 
+yedílerde num. aproximativ şapte. 
+yedílík s. şeptime. 
+yedínğí num. şaptelea. 
+yedí-sekíz num. aproximativ şapte-
+opt. 
+yedíşer num. câte şapte. 
+yedíşer-yedíşer num. şapte câte 
+şapte. 
+yedítamla s. (ent.) buburuză; 
+gărgăriŃă; mămăruŃă; paparugă; boul-
+lui-Dumnezeu; vaca-Domnului (lat., 
+Coccinella septempunctata). 
+yedítamlas î, mezeliye- s. (ent.) 
+măzărar; gărgăriŃă (lat., Bruch us 
+pisi). 
+yedívalensalî adj. (chim.) 
+heptavalent. 
+yegáne adj. unic. 
+yegánelík s. unicitate. 
+yeger s. şa. // ●y eg e r w u rm a k a 
+înşeua. // ●y eg e r k a ş î oblâncul 
+şeii. 
+yegerğí s. şelar. 
+yegerğílík s. şelărie (meserie sau 
+atelier). 
+yeger-ğúgen s. harnaşament. 
+yegerleme s. înşeuare. 
+yegerlemek v.t. a înşeua. 
+yegerlengen adj. înşeuat. 
+yegerlenmek v.i. a se înşeua. 
+yegerlí adj. înşeuat. 
+yegersíz adj. neînşeuat; fără şa. 
+yegerwurma s. înşeuare. 
+yegerwurulgan adj. înşeuat. 
+yegúy s. biserică. // ●k í ş k e n e 
+y eg ú y capelă. 
+yek num. (prsn.) unu. 
+yeknesak adj. uniform. 
+yeknesaklîk s. uniformitate. 
+yekpare adj. (d. materiale) masiv; 
+dintr-o bucată; monobloc. 
+yekşenbe s. (cron., prsn.) duminică. 
+yekta adj. impar; fără pereche. 
+yekun s. (mat.) sumă; total. 
+yelek s. 1. ilic; pieptar. 2. (la păsări) 
+pană; fulg (de dimensiuni mari). 
+yelkeñ s. 1. velă; pânză (de corabie). 
+2. coviltir. 
+yelkeñlí I. adj. cu coviltir. II. s. 
+corabie. 
+yemek s. 1. mâncare; hrană. 2. masă; 
+prânz. // ●y em e k a ş am a k a 
+mânca; a lua masa. ●y em e k 
+p í ş í rm e k a găti mâncare. //
+●b ú g ún g í y em e k l i s t a s î meniul 
+de astăzi. ●k î r y em e g í picnic. 
+●s a b a y em e g í micul dejun. ●t ú r l í 
+y em e k l e r diferite mâncăruri. 
+●y em e k m a s a s î masă de 
+bucătărie. ●y em e k o d a s î 
+sufragerie; popotă. ●y em e k t a b a g î 
+platou. ●y em e k t u z s u z b o l s î n ! 
+mâncarea să fie nesărată!; 
+●y em e k k e da l d î l a r au dat iama 
+în mâncare. ●y em e k k e k e t em en 
+merg la masă. 
+yemekborîs î s. (anat.) esofag. 
+yemekkana s. sală de mese; 
+sufragerie. 
+yemen s., adj. yemenit. 
+Yemen s. (topon.) Yemen. 
+Yemen-ğeleşesí s. (orn.) silvie de 
+Yemen (lat., Parisoma buryi; 
+Sylvia buryi). 
+Yemen-kanariyasî s. (orn.) cănăraş 
+de Yemen (lat., Serin us 
+menach ensis). 
+Yemen-ketenkuşî s. (orn.) cânepar 
+de Yemen (lat., Ca rduelis 
+yemenen sis). 
+yemenlí s., adj. yemenit. 
+Yemen-sayrag î s. (orn.) sturz de 
+Yemen (lat., T urd us 
+menach ensis).
