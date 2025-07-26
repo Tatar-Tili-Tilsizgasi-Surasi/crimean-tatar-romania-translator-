@@ -4898,3 +4898,464 @@ mărăciniş; tufăriş.
 funikular s. funicular. 
 funiya s. (mil.) amorsă. 
 funksiya s. (mat.) funcŃie.
+kíş í s. 1. persoană; individ. 2. om. 3. 
+(lit.) personaj; erou. // ●k í ş í 
+b o lm a k a fi om; a fi omenos; a se 
+face om; a-şi face un rost în viaŃă. 
+●k í ş í o y na tm a k a purta lumea pe 
+degete; a înşela oamenii. ●k í ş í 
+s a tm a k a trăda; a vinde. ●k í ş í g e 
+a l î ş t î rm a k a îmblânzi; a domestici. 
+●o y e r n í ñ k í ş í s í b o lm am a k a 
+nu se sinchisi; a nu-i păsa; a fi 
+indiferent. // ●a y a k ş î k î l î k l î b í r 
+k í ş í un om cu înfăŃişare de slugă. 
+●a y t uw l î k í ş í personalitate. 
+●a y uw da y b í r k í ş í un om cât un 
+urs. ●b a ş k a- b a ş k a k í ş í l e r 
+diverse persoane. ●b a z î k í ş í l e r 
+unii oameni. ●b e ş k í ş í d en i b a r e t 
+b í r g r up un grup format din cinci 
+persoane. ●b í r k ó y n í ñ k í ş í s í 
+lume multă cât tot satul. ●b î zg î n 
+k í ş í persoană imorală. ●b o k í ş í n í ñ 
+g e şm í ş í trecutul acestui om. 
+●b o l a t an ú s t í b í r k í ş í e un om extraordinar. ●d a k t a y b í r k í ş í un 
+munte de om. ●d ew l e t k í ş í s í om 
+de stat. ●d ún i y a n î ñ k í ş í s í lumea 
+de pe lume. ●e d e p l í k í ş í om 
+modest. ●f a l a n k í ş í cutare ins. 
+●ğ e t k í l í k í ş í (jur.) persoană fizică. 
+●ğuw a ş k í ş í om blând. ●h a l e k e t 
+k í ş í s í om de acŃiune. 
+●h o ş k a r ş î l a n ga n k í ş í persoană 
+agreată; persona grata. 
+●h o ş k a r ş î l a nm a z k í ş í persoană 
+neagreată; persona non grata. ●i n ğ e 
+k í ş í om delicat. ●í ş k í ş í s í om de 
+afaceri. ●k a ş k í ş í ? câŃi oameni?; 
+●k a y s î k í ş í d en s o r a y îm ? pe 
+cine să întreb?; ●k í ş í b e k a z 
+b o l s a dacă sunt foarte puŃini oameni. 
+●k í ş í t o k î n î lm a z l î g î (jur.) 
+imunitatea persoanei. ●n u t u k 
+t u t k an k í ş í n í t a n î y s î ñ m î ? îl 
+cunoşti pe cel care Ńine cuvântarea?; 
+●o k ada r ş a l î ş k a n b í r k í ş í un 
+om atât de harnic. ●o k í ş í 
+h a k k î nd a t ú r l í k a b e r l e r ğú r e 
+în legătură cu omul acela circulă 
+felurite zvonuri. ●o y e r n í ñ k í ş í s í 
+t uw u l nici nu-i pasă. 
+●ş a y t an / k u r na z k í ş í om şiret; 
+viclean. ●s en t ú ş úm e k e l g en 
+k í ş í s í ñ tu eşti persoana pe care am 
+visat-o. ●s î r ada n k í ş í om simplu. 
+●s î r î k t a y k í ş í vlăjgan. ●ş o k í ş í 
+acel om. ●t a b i y a t s a b î s î b í r 
+k í ş í un om cu gust. 
+●t e r b i y e s í z / n e z a k e t s í z k í ş í 
+Ńopârlan. ●u za y k í ş í s í cosmonaut. 
+●y a b an î k í ş í om sălbatic. 
+●y a r am a z k í ş í om rău. ●y e r n í ñ 
+k í ş í s í indigen; localnic; băştinaş. 
+●y î k p a l l î k í ş í om norocos. 
+kíş íaşagan s., adj. antropofag. 
+kíş íaşaw s. antropofagie. 
+kíş íatî s. antroponim; antroponimic. 
+kíş íatîbílím í s. antroponimie. 
+kíş íatîbílímlí adj. antroponimic. 
+kíş íbaşîna adv. pe persoană; pe cap 
+de locuitor. 
+kíş ídiy adv. omeneşte. 
+kíş ígealîşkan adj. domestic; 
+domesticit; îmblânzit. 
+kíş ígealîşmaz adj. neîmblânzit. 
+kíş ígealîştîruw s. domesticire; 
+îmblânzire. 
+kíş ígealîştîruwğî s., adj. 
+îmblânzitor. 
+kíş ígekoşîlgan adj. sociabil. 
+kíş ígekoşîlma s. sociabilitate. 
+kíş ígekoşîlmaz adj. nesociabil. 
+kíş ígekoşîluw s. sociabilitate. 
+kíş íkúldúrgen adj. comic; hazliu; 
+ridicol; caraghios. 
+kíş íkúldúrúw s. comicărie; 
+caraghioslâc. 
+kíş íleştírílgen adj. personificat. 
+kíş íleştírme s. personificare. 
+kíş íleştírmek v.t. a personifica. 
+kíş ílík s. 1. personalitate; 
+individualitate. 2. omenie; umanitate; 
+bunătate. // ●e k í k í ş í l í k k a b i na 
+cabină pentru două persoane. 
+kíş ílíklí adj. cu personalitate. 
+kíş ílíksíz adj. fără personalitate; lipsit 
+de personalitate. 
+kíş ílíktîşî adj. (gram.) impersonal. 
+kíş íóttírgen s. criminal; ucigaş; 
+asasin. 
+kíş íóttírme s. crimă; omor; 
+omucidere; asasinat. 
+kíş ísatkan adj. trădător; infidel; 
+perfid. 
+kíş ísatuw s. trădare; infidelitate; 
+perfidie. 
+kíş ísíremek v.i. a fi nemulŃumit de 
+prezenŃa cuiva. 
+kíş ísíz adj. 1. (gram.) impersonal. 2. 
+nepopulat. 3. singuratic; neprotejat; 
+fără relaŃii. // ●k í ş í s í z k i p (gram.) 
+mod impersonal. 
+kíş ísízlík s. singurătate; lipsă de 
+protecŃie; lipsă de relaŃii. 
+kíş ísúygen adj. omenos; uman. 
+kíş ísúymeden adv. neomeneşte. 
+kíş ísúymeme s. neomenie. 
+kíş ísúymez adj. neomenos; inuman. 
+kíş ísúyúw s. omenie; umanism. 
+kíş íyerleştírmesí s. populare. 
+kíşke I. adj. 1. mic; mărunt. 2. redus; 
+limitat. 3. scund; mic de statură. 4. 
+scurt; mic. 5. meschin; josnic; urât. II. 
+s. copil. // ●k í ş k e ú ş l ú k (muz.) 
+terŃă mică. 
+Kíşke-Búlbúl s. (topon.) 
+("Privighetoarea Mică") Ciocârlia de Jos 
+(jud. ConstanŃa). 
+kíşke -dîzlagan s. (bot.) urzică-mică; 
+urzică-iute; oieştea (lat., U rtica 
+ure ns). 
+kíşkegóñ íl(lí) adj. modest. 
+kíşkegóñ íllík s. modestie. 
+Kíşke-Kargalîk s. (topon.) ("Ciorăria 
+Mică") Gargalâcul Mic; Corbu de Jos 
+(jud. ConstanŃa). 
+Kíşke-Kóy s. (topon.) ("Satul Mic") 
+Nistoreşti (jud. ConstanŃa). 
+kíşkelgen adj. 1. micşorat; diminuat; 
+redus. 2. înjosit; umilit; dezonorat; 
+dispreŃuit. 
+kíşkelmek v.i. 1. a se micşora; a se 
+diminua; a se reduce. 2. a se înjosi; a 
+se umili; a se dezonora; a fi dispreŃuit. 
+kíşkeltken adj. înjositor; umilitor; 
+dezonorant; dispreŃuitor. 
+kíşkeltme s. 1. înjosire; umilire; 
+dezonorare; dispreŃ. 2. micşorare; 
+diminuare; reducere. 3. diminutiv. 
+kíşkeltmek v.t. 1. a micşora; a 
+diminua; a reduce. 2. a înjosi; a umili; 
+a dezonora; a dispreŃui. 
+kíşkene I. adj. 1. mic; mărunt. 2. 
+redus; limitat. 3. scund; mic de 
+statură. 4. scurt; mic. 5. meschin; 
+josnic; urât. II. s. copil. // ●b e k 
+k í ş k en e minuscul; foarte mic. ●e k í 
+y a ş k í ş k en e cu doi ani mai tânăr. 
+●eñ k í ş k e n e cel mai mic. 
+●k í ş k e n e a t prenume. ●k í ş k en e 
+h ew k e l statuetă. ●k í ş k en e 
+k a ş î k linguriŃă. ●k í ş k en e 
+k í l s e / y eg ú y capelă. ●k í ş k en e 
+m a k a s forfecuŃă. ●k í ş k en e 
+m a ş i na autoturism. ●k í ş k en e 
+pa r ş a particulă. ●k í ş k en e pu r ş î 
+periuŃă. ●k í ş k en e ş an a k 
+farfurioară. ●k í ş k e n e s an d î k 
+casetă. ●k í ş k en e s o k a k stradelă. 
+●k í ş k e n e t eg e r ş í k rolă. 
+●k í ş k e n e ú y casă mică. ●t aa 
+k í ş k en e mai mic. 
+kíşkene-Afrika -baykuşî s. (orn.) 
+bufniŃă mică africană (lat., B ubo 
+af ricanus). 
+kíşkene-ak-karkara s. (orn.) egretă 
+mică (lat., E gretta garzetta). 
+kíşkene-ak-mañlaylî-kaz s. (orn.) 
+gârliŃă mică (lat., Anser 
+erythropus). 
+kíşkene-ak-şapur s. (orn.) egretă 
+mică (lat., E gretta garzetta). 
+kíşkene-alak s. (orn.) alcă mică 
+(lat., Alle alle). 
+kíşkene-alaşa-kúrte s. (orn.) 
+ciocănitoare pestriŃă mică (lat., 
+Dend rocopos mino r). 
+kíşkene-alaşa-terekkakkan s. (orn.) 
+ciocănitoare pestriŃă mică (lat., 
+Dend rocopos mino r). 
+kíşkene-alaşa-tokîldak s. (orn.) 
+ciocănitoare pestriŃă mică (lat., 
+Dend rocopos mino r). 
+kíşkene-Amerika-suwbugasî s. 
+(orn.) stârc mic american (lat., 
+Ixobrychus exilis). 
+kíşkene-atmağa s. (orn.) uliu 
+păsărar; coroi (lat., Accipiter 
+nisus). 
+Kíşkene -Ayuw s. (astr.) Carul-Mic; 
+Ursa-Mică. 
+kíşkene-bag îrtlak s. (orn.) găinuşă 
+zburătoare mică (lat., Pterocles 
+lichtensteinii). 
+kíşkene-balkuşî s. (orn.) pasăre-
+nectar mică (lat., Anthreptes 
+platurus). 
+kíşkene-baykuş s. (orn.) cucuvea 
+(lat., Athene noctua). 
+kíşkene-boztorgay s. (orn.) ciocârlie 
+de câmp mică (lat., Alauda 
+gul gula). 
+kíşkene-búlbúlotî s. (bot.) voinicică 
+(lat., Sisymbrium loeselii). 
+kíşkene-dalg îş s. (orn.) corcodel mic 
+(lat., Tachybaptus ruf icollis). 
+kíşkene-ekí -tamgalî-boztorgay s. 
+(orn.) ciocârlie cu două pete (lat., 
+Melanocoryp ha bimaculata). 
+kíşkene-gagara s. (orn.) corcodel mic 
+(lat., Tachybaptus ruf icollis). 
+kíşkene-ğelbege s. (orn.) pitulice cu 
+sprâncene galbene (lat., 
+Phylloscopus inornatus). 
+kíşkene-ğeleşe s. (orn.) silvie mică 
+(lat., Sylvia cu rruca). 
+kíşkene-ğelkuwgan s. (orn.) ielcovan 
+mic; furtunar mic; pasărea-furtunii 
+mică (lat., Puf f inus assimilis). 
+kíşkene-Hint-karkîldagî s. (orn.) 
+chiră mică indiană; pescăriŃă mică 
+indiană (lat., Sterna sau nde rsi). 
+kíşkene-kagay s. (orn.) pescăruş mic 
+(lat., Laru s min utus; 
+Hydrocoloe us minutus). 
+kíşkene-kanariya s. (orn.) cănăraş 
+(lat., Serin us s erin us). 
+kíşkene-karabaş s. (orn.) silvie 
+mediteraneană (lat., Sylvia 
+melanocephala). 
+kíşkene-kara-başlî -ğeleşe s. (orn.) 
+silvie mediteraneană (lat., Sylvia 
+melanocephala). 
+kíşkene-karabatak s. (orn.) 
+cormoran mic (lat., Phalacroco rax 
+pygmaeus). 
+kíşkene-kara-legelek s. (orn.) barza 
+lui Abdim (lat., Ciconia abdimii). 
+kíşkene-kar-kazî s. (orn.) gâsca lui 
+Ross; gâscă mică de zăpadă (lat., 
+Che n rossii; Anse r rossii). 
+kíşkene-karkîldak s. (orn.) chiră 
+mică; pescăriŃă mică (lat., Sterna 
+albif rons). 
+kíşkene-kaya-karlîgaş î s. (orn.) 
+lăstun de stâncă mic (lat., 
+Ptyonoprogne f uligula). 
+kíşkene-kekeşlí -karkîldak s. (orn.) 
+chiră mică moŃată; pescăriŃă mică 
+moŃată (lat., Sterna 
+bengale nsis). 
+kíşkene-kerwankuşî s. (orn.) culic 
+pitic (lat., N ume nius minutus). 
+kíşkene-ketenkuşî s. (orn.) sticlete 
+mic (lat., Ca rduelis cabaret). 
+kíşkene-kirazkuş î s. (orn.) presură 
+mică (lat., Embe riza p usilla). 
+kíşkenekíy adj. mititel; mărunŃel; 
+minuscul; liliput; liliputan.
+hawaalan î s. aeroport; aerodrom. 
+hawaalgan adj. aerisit. 
+hawaaluw s. aerisire; inhalare. 
+hawabaskan s. (tehn.) pompă. 
+hawabasma s. (tehn.) pompare. 
+hawaberúw s. umflare; suflare. 
+hawabílímğís í s. meteorolog; 
+climatolog. 
+hawabílím í I. adj. meteorologic; 
+climatologic. II. s. meteorologie; 
+climatologie. 
+hawabílímlí adj. meteorologic; 
+climatologic. 
+hawaboşamasî s. dezumflare. 
+hawadantaş îlgan adj. aeropurtat. 
+hawadeñ íştírmes í s. ventilare; 
+aerisire. 
+hawadis s. ştire; veste; noutate. 
+hawagaras î s. aerogară. 
+hawagasawurgan adj. risipitor; care 
+risipeşte bunuri sau bani. 
+hawagasawurulgan adj. (d. bunuri 
+sau bani) risipit. 
+hawagasawuruw s. (d. bunuri sau 
+bani) risipire. 
+hawagazî s. gaz aerian; gaz de 
+iluminat. 
+hawageşírmez adj. ermetic; etanş. 
+hawağî s. aviator. 
+hawağîlîk s. aviaŃie. 
+hawağîlîkkayaragan adj. (av.) 
+navigabil. 
+hawahaleketí adj. (fiz.) aerodinamic. 
+hawahaleketlí adj. (fiz.) aerodinamic. 
+hawakapalmasî s. înnorare; 
+posomorâre. 
+hawakaşîrgan adj. dezumflat; 
+răsuflat. 
+hawakaşîrmaz adj. ermetic; etanş. 
+hawakúre s. (fiz.) atmosferă. 
+hawalandîrma s. 1. (tehn.) aerisire; 
+ventilaŃie; tirant. 2. decolare. 
+hawalandîrmak v.t. 1. a aerisi. 2. a 
+determina să zboare; a ridica în aer. //
+●b í r t aa h aw a l an d î rm a k a 
+reîmprospăta aerul. 
+hawalanma s. zbor. 
+hawalanmak v.i. 1. a se aerisi. 2. a 
+zbura; a pluti în aer. 3. a-şi lua 
+zborul; a se înălŃa în aer; a decola. 
+hawalanuw s. zbor. 
+hawale s. 1. (d. bunuri materiale) 
+transfer; predare; înmânare. 2. 
+mandat poştal. 3. (com.) ordin de 
+plată; transfer. // ●h aw a l e e tm e k 
+a preda; a încredinŃa. // ●po ş t a 
+h aw a l e s í mandat poştal. 
+hawalelí adj. (d. bunuri materiale) 
+transferat; predat; înmânat. 
+hawalename s. mandat poştal. 
+hawalimanî s. aeroport; aerodrom. 
+hawalî adj. 1. melodic. 2. climatic; 
+climateric. 
+hawamiydanî s. aeroport; aerodrom. 
+hawanîñğîmşamasî s. dezgheŃ. 
+hawasî s. (meteo.) vremea; timpul; 
+clima; climatul. // ●h aw a s î 
+a ş î lm a k a se însenina. ●h aw a s î 
+k ap a lm a k a se înnora. 
+hawasîboşagan adj. dezumflat; 
+răsuflat. 
+hawasîdeñíşken adj. ventilat; aerisit. 
+hawasînaalîşkan adj. aclimatizat; 
+naturalizat. 
+hawasînaalîştîrma s. aclimatizare; 
+naturalizare. 
+hawasînşalgan adj. flatant; linguşitor; 
+măgulitor. 
+hawasînşalmasî s. flatare; linguşire; 
+măgulire. 
+hawasîşalîngan adj. flatat; linguşit; 
+măgulit. 
+hawastasiyas î s. aerogară. 
+hawaşîgarmas î s. dezumflare; 
+răsuflare. 
+hawatartkan adj. aerisit; ventilat. 
+hawatartma s. aerisire; ventilare. 
+hawatartuw s. aerisire; ventilare. 
+hawataşî s. meteorit. 
+hawayiy adj. 1. aerian; aeropurtat. 2. 
+albastru deschis; bleu; azuriu. 3. (fig.) 
+uşuratic. // ●h aw a y i y f i ş e k 
+rachetă; trasor. 
+haw-haw interj. ham!; 
+hawlama s. lătrat. 
+hawlamak v.i. a lătra. 
+hawlaw s. lătrat. 
+hawuz s. 1. bazin; havuz. 2. (nav.) 
+doc. // ●ğa l dam a h aw u z î piscină; 
+bazin de înot. 
+haya s. (anat.) testicul. 
+hayal s. 1. imaginaŃie; închipuire. 2. 
+vedenie; nălucă; himeră; fantomă; 
+stafie; spectru. 
+hayalet s. vedenie; nălucă; himeră; 
+fantomă; stafie; spectru. 
+hayalğî s. 1. utopist; visător; vizionar. 
+2. magician; iluzionist; scamator. 
+hayalğîlîk s. magie; iluzionism; 
+scamatorie. 
+hayaliy adj. imaginar; himeric; 
+fantomatic. 
+hayal-miyal adj. confuz; neclar; vag. 
+hayalperest adj. imaginar; himeric; 
+fantomatic. 
+hayat s. 1. cameră de zi. 2. viaŃă; 
+existenŃă (şi fig.). 3. trai; viaŃă. 4. 
+stare; situaŃie. // ●h a y a t k a 
+g e ş í rm e k a transpune în viaŃă. 
+●h a y a t k a k a y t a rm a k a aduce pe 
+cineva la viaŃă; a-l însănătoşi; a-l 
+reanima. ●h a y a t k a k ó z l e r í n 
+ğumm a k a închide ochii; a muri. //
+●b î zg î n h a y a t viaŃă desfrântă. 
+●h a y a t a r k a da ş î / ğ o l da ş î soŃ; 
+soŃie; tovarăş de viaŃă. ●h a y a t n î ñ 
+k a y i d e s í regula vieŃii. 
+hayatiy adj. vital; fundamental; de 
+bază. 
+hayatîm interj. viaŃa mea!; 
+hayatkageş írílgen adj. transpus în 
+viaŃă; realizat; înfăptuit; exercitat. 
+hayatkageş írílír adj. fezabil. 
+hayatkageş írílmez adj. irealizabil; 
+nefezabil. 
+hayatkageş írúw s. transpunere în 
+viaŃă; realizare; înfăptuire; exercitare. 
+hayatkakaytaruw s. readucere la 
+viaŃă; reanimare; reînviere; 
+resuscitare. 
+hayatkakaytkan adj. reanimat; 
+înviat; reînviat; resuscitat. 
+hayatkakaytuw s. revenire la viaŃă; 
+înviere. 
+hayatkakelgen adj. realizat; 
+înfăptuit. 
+haybet s. prestanŃă; demnitate. 
+haybetlemek v.t. a trata; a cinsti; a 
+ospăta; a onora. 
+haybetlenmek v.i. a fi tratat; a fi 
+cinstit; a fi ospătat; a fi onorat. 
+haybetl í adj. cu prestanŃă; impunător; 
+demn. 
+haybetsíz adj. neimpunător; 
+neimpozant; nedemn. 
+Haydar s. 1. (antrop. m., arab.) “Leul”. 
+Haydar-Şíptlík s. (topon.) ("Moşia lui 
+Haidar") Haidar (jud. Tulcea). 
+haydî interj. hai!; haide!; 
+Hayd în s. (topon., localitate desfiinŃată) 
+Haidîn (jud. ConstanŃa). 
+haydut s. haiduc. 
+haydutluk s. haiducie. 
+Hayitiy s. (topon.) Haiti. 
+hayitiylí s., adj. haitian. 
+Hayiy, El- s. (relig., arab.) "Cel aievea 
+viu" (unul din cele 99 preafrumoase 
+nume atribuite în Coran lui 
+Dumnezeu/Allah). 
+hayiz adj. înzestrat; dotat; prevăzut 
+cu…; 
+hayîn s., adj. trădător; perfid; ticălos. 
+hayînlîk s. trădare; perfidie; 
+ticăloşenie. 
+hayît s. (bot.) mielărea (lat., Vitex 
+agn us castus). 
+hayîz s. menstruaŃie; ciclu. 
+haylaz s., adj. vagabond; derbedeu; 
+haimana. 
+hayleker adj. şiret; şmecher; viclean. 
+haylekerlík adj. şiretenie; şiretlic; 
+şmecherie; viclenie; subterfugiu. 
+hayliy adj. destul de mult; suficient. 
+hayran I. adj. mirat; uimit; uluit. II. s. 
+admirator; fan. // ●h a y r an 
+b o lm a k a se mira; a se minuna; a 
+admira. 
+hayrangakaldîrgan adj. admirabil. 
+hayranlî adj. cu mirare; cu uimire; cu 
+uluială. 
+hayranlîk s. mirare; uimire; uluială. //
+●h a y r an l î k t u ym a k a admira. 
+hayrat s. 1. binefacere. 2. instituŃie 
+filantropică.
