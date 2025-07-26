@@ -196,7 +196,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center text-slate-500 mt-10 text-xs sm:text-sm">
-        Tatar Tílí Tílsîzgasî Şurasî<br>Powered by Google Gemini API. UI by AI.</br>>
+        Tatar Tílí Tílsîzgasî Şurasî Powered by Google Gemini API. UI by AI.
       </footer>
     </div>
   );
