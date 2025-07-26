@@ -6564,217 +6564,181 @@ desteklegen adj. susŃinător;
 cooperant. 
 destekleme s. ajutorare; ajutor; 
 sprijin.
-çaher num. (prsn.) patru. 
-çaherşenbe s. (cron., prsn.) miercuri. 
-çakîr adj. 1. albastru deschis; bleu. 2. 
-(d. ochii unei fiinŃe) ceacâr. 
-Çakîr s. (antrop. m.) "Ceacârul". 
-çark s. roată; volant; strung. 
-çark-î felek iz.prsn. roata lumii; roata 
-destinului; roata norocului. 
-çarklama s. strunjire. 
-çarklamak v.t. a strunji. 
-çarklangan adj. strunjit. 
-çarklanmak v.i. a se strunji. 
-çarklatmak v.t. a determina să 
-strunjească. 
-çarklî adj. strunjit. 
-çarkşî s. rotar; strungar. 
-çarkşîlîk s. olărit; strungărie. 
-çarm îk s. 1. răstignire; crucificare. 2. 
-cruce; crucifix; semnul crucii. 
-çarm îkkatartîlgan adj. crucificat; 
-răstignit. 
-çarm îkkatartuw s. crucificare; 
-răstignire. 
-çarm îklama s. crucificare; răstignire. 
-çarm îklamak v.t. a crucifica; a 
-răstigni. 
-çarm îklangan adj. crucificat; 
-răstignit. 
-çarm îkşî s. (ist.) cruciat. 
-çarş î s. piaŃă; bazar. 
-çawun s. ceaun. 
-çawuş s. 1. (mil.) comandant de 
-pluton; sergent. 2. conducătorul unui 
-pelegrinaj; conducătorul uenei 
-caravane. 
-Çawuş-Kóy s. (topon.) Ciauşchioi (azi 
-Războieni, prin unire cu satul Alifaca) 
-(jud. Tulcea). 
-çay s. pârâu. 
-çárdah num. (prsn.) paisprezece. 
-çeçen I. adj. înŃelept; chibzuit. II. s. 
-poet; rapsod; bard; trubadur; 
-menestrel; tălmaci. 
-çeçenlík s. înŃelepciune. 
-çedír s. (bot.) cedru (lat., Cedrus). 
-çehar num. (prsn.) patru. 
-çeharşenbe s. (cron., prsn.) miercuri. 
-çehel num. (prsn.) patruzeci. 
-çek s. (fin.) cec. // ●ç e k k a r n e t í 
-carnet de cec. 
-çek s., adj. ceh. 
-Çekiye s. (topon.) Cehia. 
-çekiyelí s., adj. ceh. 
-çekşe I. adv. în limba cehă; ceheşte. 
-II. s. (limba) cehă. 
-Çelebiy/Şelebí s. (antrop. m.) "Cel 
-amabil". 
-çelofan s. celofan. 
-çelt s. celt. 
-çeltlík adj. celtic. 
-çeluloza s. celuloză. 
-çemen s. (bot.) schinduf (lat., 
-Trigo nella f oenu m graecu m). 
-çentigram s. centigram. 
-çentilitre s. centilitru. 
-çentima s. centimă. 
-çentimetre s. centimetru. 
-çentrala s. centrală. // ●e l e k t r i k 
-ç e n t r a l a s î centrală electrică. 
-●t e rm i k ç en t r a l a s î 
-termocentrală; centrală termoelectrică. 
-çentrifuk adj. centrifug. 
-çentripet adj. centripet. 
-çenzor s. cenzor. 
-çenzura s. cenzură. 
-çenzuralî adj. cenzurat. 
-çeram ika s. ceramică. 
-çerkez s., adj. cerchez. 
-çernoziyom s. cernoziom. 
-çertifikat s. certificat. 
-çeşme s. cişmea. 
-çete s. 1. ceată; bandă; clică; şleahtă. 
-2. grup de partizani. 
-çeteğ í s. partizan. 
-çetin adj. 1. (d. oameni) dur; aspru; 
-sever. 2. (d. terenuri) abrupt; 
-prăpăstios. 3. (d. acŃiuni) dificil; greu; 
-anevoios. 
-çetinleşme s. înăsprire; agravare; 
-înrăutăŃire. 
-çetinleşmek v.i. a se înăspri; a se 
-agrava; a se înrăutăŃi. 
-çetinleşúw s. înăsprire; agravare; 
-înrăutăŃire. 
-çetinlík s. gravitate; dificultate. 
-çetona s. (chim.) cetonă. 
-Çetti'níñ -ğelpazekuyrugî s. (orn.) 
-stufărică (lat., Cettia cetti). 
-çevik adj. agil; sprinten; vioi. 
-çeviklík s. agilitate; sprinteneală; 
-vioiciune. 
-çezariyana s. (med.) cezariană. 
-çibernetika I. adj. cibernetic. II. s. 
-cibernetică. 
-çibernetikağ î s. cibernetician. 
-çifre s. cifru; cod. 
-çifreleme s. codificare; cifru. 
-çifrelemek v.t. a cifra. 
-çifrelengen adj. codificat; cifrat. 
-çifrelí adj. cifrat; codificat. 
-çihil num. (prsn.) patruzeci. 
-çiklon s. ciclon. 
-çil s. pistrui. 
-Çile s. (topon.) Chile. 
-çilelí s., adj. chilian. 
-çilindre s. 1. (mat.) cilindru. 2. 
-(constr.) cilindru; compresor (pt. 
-drumuri). 3. joben. 
-çilindrelí adj. cilindric. 
-çilindrik adj. (mat.) cilindric. 
-çiliy s. amestec tradiŃional de 
-condimente; chili mexican. 
-çiliy-búberí s. (bot.) chili (lat., 
-Capsicum f rutescens). 
-çillí adj. pistruiat. 
-çim s. 1. gazon; iarbă. 2. (bot.) 
-muşchi. 
-çimen s. iarbă; verdeaŃă. 
-çimenlík s. pajişte. 
-çiment s. ciment. 
-çimentleşken adj. cimentat. 
-çimentleşme s. cimentare. 
-çimentleşmek v.i. a se cimenta. 
-çimentleştírmek v.t. a cimenta. 
-çimentleşúw s. cimentare. 
-çimentlí adj. cimentat. 
-çimlend írmek v.t. a pune la 
-germinat. 
-çimlengen adj. germinat. 
-çimlenme s. germinare; germinaŃie. 
-çimlenmek v.i. a germina. 
-çimlenúw s. germinare; germinaŃie. 
-çin s., adj. chinez; chinezesc. 
-Çin/Kîtay s. (topon.) China. 
-çinema s. cinematograf. //
-●g e z úw ğ í ç i n em a caravană 
-cinematografică. 
-çinemağî s. cineast. 
-çinemağîlîk s. cinematografie.
-çinemaskop s. cinemascop. 
-çinemasúygen s. cinefil. 
-çinemaşúnas s. cinefil. 
-çinematik adj. (fiz.) cinematic. 
-çinematika s. (fiz.) cinematică. 
-çinematikalî adj. (fiz.) cinematic. 
-çinemaúyí s. cinematecă. 
-çinetik adj. (fiz.) cinetic. 
-çinetika s. (fiz.) cinetică. 
-çinetikalî adj. (fiz.) cinetic. 
-çinğe I. adv. în limba chineză; 
-chinezeşte. II. s. (limba) chineză. 
-çinik adj. cinic. 
-çinism s. cinism. 
-çiniy s. faianŃă; porŃelan. 
-çiniyğílík s. 1. arta de prelucrare a 
-faianŃei. 2. obiecte de faianŃă. 
-çinlí s., adj. chinez; chinezesc. 
-çirk s. circ. 
-çiroza s. (med.) ciroză. //
-●k a r a ğ í g e r ç i r o za s î (med.) 
-ciroză. 
-çisterna s. cisternă. // ●ç i s t e r n a 
-v a g o n î vagon cisternă. 
-çistita s. (med.) cistită. 
-çiş s. (fam.) urină. // ●ç i ş e tm e k 
-(fam.) a urina. 
-çitrik adj. (chim.) citric. // ●ç i t r i k 
-ğ em í ş l e r citrice. 
-çit-sarmaş îgî s. (bot.) cupa-vacii 
-(lat., Convolvu lus sepium; 
-Calystegia sepium). 
-çivil s., adj. civil. 
-çiyanura s. cianură. 
-Çiyat s. (topon.) Ciad. 
-çiyatlî s., adj. ciadian. 
-çizme s. cizmă. // ●ş i zm e s í nd e n 
-y o k a r ga ş î km a k a-şi băga nasul 
-unde nu-i fierbe oala. 
-çít s. 1. gard de nuiele. 2. basma; 
-batic; eşarfă; bandă. 3. bandă sacră; 
-eşarfă sacră. 4. (text.) stambă. 
-çít, yes - s., adj. (ist.) scit; crimean; 
-membru al uniunii celor nouă eşarfe 
-sacre. 
-Çîfît-Kuyusî s. (topon.) Yovkovo 
-(Dobrich, Bulgaria). 
-çoban s. cioban; păstor. 
-çobankîzî s. păstoriŃă. 
-çobanlîk s. ciobănie; păstorit. 
-Çoban-Y îldîzî s. (astr.) Venus; 
-Luceafărul. 
-çokolata s. ciocolată. 
-çokolatalî adj. cu ciocolată. 
-Çolpan s. (astr.) Venus; Luceafărul. 
-çomak s. ciomag; ghioagă. 
-çuma s. (med.) ciumă; pestă. 
-çumalî adj. (med.) ciumat. 
-çuş -çuş interj. ciuş!; 
-çúke s. (iht.) cegă (lat., Acipenser 
-ruthen us). 
-çúnkí conj. pentru că; deoarece. 
-çúyún s. (bot.) săpunariŃă; spumariŃă; 
-odagaci; ciuin (lat., Sapona ria 
-off icinalis).
+limfatik adj. limfatic. 
+limfoçita s. (anat.) limfocită. 
+limita s. limită (şi mat.). 
+limon s. 1. lămâie. 2. (bot.) lămâi 
+(lat., Citrus limon). // ●l im o n 
+s a r î s î de culoarea lamâiei; ca lămâia. 
+●l im o n s uw î limonadă; citronadă. 
+limon, tatlî- s. (bot.) limetă; lămâie-
+verde (lat., Citrus au ra ntif olia). 
+limonada s. limonadă. 
+limon-kanariyasî s. (orn.) cănăraş 
+galben (lat., Se rinu s citrinella). 
+limonlî adj. cu lămâie. // ●l im o n l î 
+ş a y ceai cu lămâie. ●l i m o n l î 
+s a z an b a l î ğ î doresc crap cu 
+lămâie. 
+limonotî s. (bot.) citronelă; iarbă-de-
+lămâie (lat., Cymbopogo n 
+citratus; Andropo gon citratum). 
+limontozî s. sare de lămâie. 
+lingvist s. lingvist. 
+lingvistika s. lingvistică. 
+lingvistikağî adj. lingvistic. 
+lingvistikalî adj. lingvistic. 
+linolewum s. linoleum. 
+linotip s. linotip. 
+linşaj s. linşaj. 
+lira s. (unitate monetară, muz.) liră. 
+lirik adj. liric. 
+lirism s. lirism. 
+lisan s. (lingv.) limbă; vorbire. 
+lista s. listă. // ●b ú gú n g í y em e k 
+l i s t a s î meniul de astăzi. ●t e r im 
+l i s t a s î nomenclatură. 
+litiyum s. (chim.) litiu. 
+litografiya s. litografie. 
+litografiyağî s. litograf. 
+litografiyalî adj. litografiat. 
+litosfera s. litosferă. 
+litre s. litru. 
+litrelík s. vas de un litru. // ●e k í 
+l i t r e l í k s aw u t vas de doi litri. 
+lituwan s., adj. lituanian. 
+lituwanğa I. adv. în limba lituaniană. 
+II. s. (limba) lituaniană. 
+Lituwan iye s. (topon.) Lituania. 
+lituwaniyelí s., adj. lituanian. 
+liva s. 1. drapel. 2. (mil.) brigadă. 
+livar s. heleşteu; iaz; râmnic; bazin 
+pentru peşti. 
+liyakat s. 1. folos; avantaj. 2. merit. 
+liyakatlî adj. 1. folositor; avantajos; 
+convenabil. 2. acceptabil. 
+liyakats îz adj. 1. nefolositor; 
+dezavantajos; neconvenabil. 2. 
+inacceptabil; intolerabil. 
+liyakats îzlîk adj. inutilitate; 
+dezavantaj. 
+liyla adj. liliachiu; lila. 
+liylak s. (bot.) liliac; iorgovan (lat., 
+Syringa vul ga ris). 
+liylakiy adj. liliachiu; lila. 
+liyla-salep s. (bot.) salep-purpuriu; 
+poroinic-purpuriu; untul-vacii-
+purpuriu (lat., Orchis p urp urea). 
+lobeliya s. (bot.) lobelie (lat., 
+Lobelia inf lata). 
+lobît s. măciucă; ghioagă. 
+lodos s. 1. vânt din sud. 2. sud; 
+miazăzi. 
+logaritm s. (mat.) logaritm. 
+logofet s. (ist.) logofăt. 
+loğistika s. logistică. 
+loja s. lojă. 
+lokal s. local; clădire. 
+lokanta s. restaurant; local. 
+lokantalî adj. cu restaurant. //
+●l o k an t a l î v a g o n vagon 
+restaurant. 
+lokîm s. rahat. // ●ğ ew e z l í l o k îm 
+rahat cu nuci. 
+lokma s. îmbucătură; înghiŃitură. 
+lokomotif s. locomotivă. 
+lokotenent s. (mil.) locotenent. 
+loksa s. lehuză. 
+loksalîk s. lehuzie. 
+loksalîkta adv. în perioadă care 
+urmează imediat naşterii; în lăuzie. 
+loksaotî s. (bot.) curcubeŃea; remf; 
+mărul-lupului; lepădătoare (lat., 
+Aristolochia clematitis). 
+Londra s. (topon.) Londra. 
+londralî s., adj. londonez. 
+lop s. (anat.) lob. 
+lopşîk s. (anat.) lobul. 
+lort s. lord. // ●l o r t l a r o da s î (pol.) 
+camera lorzilor. 
+losiyon s. loŃiune. 
+lostra s. lustragerie. 
+lostrağî s. lustragiu. 
+loş adj. (d. locuri) întunecos; obscur. 
+loşlîk s. loc întunecos; întuneric; 
+obscuritate. 
+loteriya s. loterie. 
+lotus s. (bot.) lotus (lat., Nymp haea 
+lotus). 
+lotus, sarî- s. (bot.) plutică (lat., 
+Nymphoides peltata). 
+lugat s. 1. cuvânt; vorbă. 2. dicŃionar; 
+glosar. // ●l u ga t b í l g e n lexicolog. 
+lugatbílímğísí s. lexicolog. 
+lugatbílímí I. adj. lexicologic. II. s. 
+lexicologie. 
+lugatbílímlí adj. lexicologic. 
+luk-luk interj. gâl-gâl!; 
+luks s. 1. (fiz.) lux. 2. lux; bogăŃie; 
+somptuozitate. 
+Luksemburk s. (topon.) Luxemburg. 
+luksemburklî s., adj. luxemburghez. 
+lukuldagan adj. gâlgâitor; clocotitor. 
+lukuldama s. gâlgâit; clocot. 
+lukuldamak v.i. a gâlgâi; a clocoti. 
+lukuldaw s. gâlgâit; clocot. 
+lukultî s. gâlgâit; clocot. 
+lumbago s. (med.) lumbago. 
+lustra s. lustră. 
+luteran s., adj. luteran. 
+lúbnan s., adj. libanez. 
+Lúbnan s. (topon.) Liban. 
+lúbnanlî s., adj. libanez. 
+lúfer s. (iht.) lufar (lat., Pomatomus 
+saltatrix). 
+lúle s. 1. lulea; pipă. 2. buclă; 
+cârlionŃ. // ●l ú l e t ú t ún í tutun de 
+pipă. ●ş á ş l ú l e s í buclă (de păr). 
+lúleğí s. fabricant de lulele; vânzător 
+de pipe. // ●l ú l eğ í ş am î r î humă; 
+argilă; lut. 
+lúlelí adj. buclat; cârlionŃat. 
+lúletaş î s. (geol.) magnezit. 
+lútfen adv. fiŃi bun!; fiŃi amabil; vă 
+rog!; 
+lútfiy adj. respectuos; stimat; stimabil; 
+amabil; cu consideraŃie; galant; 
+curtenitor. 
+Lútf iy s. (antrop. m., arab.) “Cel 
+amabil”. 
+Lútf iye s. (antrop. f., arab.) “Cea 
+amabilă”. 
+lútfiyğe adv. 1. fiŃi bun!; fiŃi amabil; 
+vă rog!; 2. respectuos; cu respect; cu 
+stimă; amabil; cu amabilitate; cu 
+consideraŃie. // ●l ú t f i y ğ e , b o 
+y e r d e n ! vă rog, pe aici!; 
+●l ú t f i y ğ e , m e n í t e r a k a y 
+b e k l e ñ í z ! vă rog, aşteptaŃi-mă 
+puŃin!; 
+lútfiylík s. respect; stimă; amabilitate; 
+consideraŃie; galanterie; curtoazie. 
+Lútfúlla(h) s. (antrop. m., arab.) 
+"Favoritul lui Allah/Dumnezeu". 
+lútúf s. respect; stimă; amabilitate; 
+consideraŃie; hatâr; galanterie; 
+curtoazie. 
+lútúfkáar adj. respectuos; amabil; cu 
+consideraŃie; galant; curtenitor. //
+●b e k l ú t ú f k á a r s î ñ î z sunteŃi 
+foarte amabil. 
+lútúfkáarlîk s. respect; stimă; 
+amabilitate; consideraŃie; galanterie; 
+curtoazie. 
+lúzum s. 1. necesitate; nevoie. 2. 
+utilitate. 
+lúzumlî adj. 1. necesar. 2. util; 
+trebuincios. 
+lúzumsuz adj. inutil; de prisos; 
+superfluu. 
+lúzumsuzluk s. inutilitate; zădărnicie.
