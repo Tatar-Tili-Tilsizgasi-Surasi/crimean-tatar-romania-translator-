@@ -704,6 +704,33 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - English: Ode to the Man in the Moon - American astronauts made a few brief visits to your welcoming smile, but couldn't hang around since they needed to breathe and your hospitality didn't include oxygen. Fanciful writers and wishful scientists mumble about colonies under dome habitats, which are far beyond current technology that consumes our resources in unproductive wars that make space travel unaffordable.; Crimean Tatar (RO): Aydakî adamga kaside - Amerikalî uzayğılar seníñ sîğak kúlúmsírewíñe bírkaş kîska ziyaret yaptîlar ama fazla kala-almadîlar çúnkí nefes almak zorînda edíler seníñ sápírsúyúwíñde oksiğen tabîlmaz. Hayaliy yazarlar man ísteklí bílím adamlarî kubbe astî yaşam ortamî hakkında mîrîldarlar, kím búgúnkí teknoloğiyanîñ kayet aldîndadîr ke semeresíz marebeler kaynaklarîmîznî túketíp uzay ğolşîlîgî kayet paaliga şîgar.
 - English: White Interlude - An unexpected snowfall covers the city with clean, white quilts, quickly obscuring dirt, grime, stains, rust, urban excrescences combining avidly, resurfacing the filth temporarily submerged by nature's decorator.; Crimean Tatar (RO): Ak teneffús - Beklenmegen bír kar kaplar kasabanî temíz, ak yorkan man, hemen kaplap kír, şamîr, leke, tot, toymay karîşîp turgan kasaba ósímlerí, tuwanîñ boyağîsî battîrîp algan kírníñ ústíne şîgîp.
 - English: Overdose - Man reproduces faster than productivity, at least the poverty class that competes voraciously for diminishing resources, limited food supply, outbreeding many species with rampant consumption in the shared environment that will not sustain the increasing hordes.; Crimean Tatar (RO): Hesapsîz hisse - Insan úretím kúşínden taa şalt kóbiyír, eñ azdan azayatîrgan servetke ğutuktay şabîşkan yoksîllîk sînîfî, túkengen aş kaynagî ortamda, hîzlî túketímí men kóbiygen ordîlarnî pesliy-almayğak paylaşîlgan so ortamda kóp ğínísní ozîp.
+- French: Lecteurpaisible et bucolique,
+Sobre et naïfhomme de bien,
+Jette ce livre saturnien,
+Orgiaque et mélancolique.
+Si tu n'asfait ta rhétorique
+Chez Satan, le rusé doyen,
+Jette! tu n'y comprendrais rien,
+Ou tu me croirais hysthérique.
+Mais si, sans se laisser charmer,
+Ton oeilsait plonger dans lesgouffres,
+Lis-moi, pour apprendre à m'aimer;
+Âme curieuse qui souffres
+Et vas cherchant ton paradis,
+Plains-moi! ... Sinon, je te maudis!; Crimean Tatar (RO): Ey, okîwğî! Ğuwaş, temíz ,
+Awurbaşlî, dúrúst adam,
+Bo kitapnî at ! Ke haram,
+Moñlî, bîzîk, telbegesíz .
+Şaytan man, bo kurnaz usta,
+Uzak kórssen ğenábíñní ,
+At ! Ke okîp boşka mení
+Şatlak tutarsîñ hesapta.
+Lákin akîl kaşîrmadan
+Kózíñ karay-alsa ğarga,
+Okîp mení, alîş maga.
+Şekken góñíl , meraklangan,
+Karap tursañ kókte ğennet,
+Maga insaf! Ya, bol nálet ! 
 
 - Romanian: bună dimineața; English: good morning; Crimean Tatar (RO): kayîrlî sabahlar
 - Romanian: bună ziua; English: good day / hello; Crimean Tatar (RO): kúnaydîñ
