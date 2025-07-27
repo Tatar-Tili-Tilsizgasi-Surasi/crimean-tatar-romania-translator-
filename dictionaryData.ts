@@ -10881,3 +10881,203 @@ căpitănia portului. ●l im a n í ş ç í s í
 (nav.) docher. ●l im an 
 m a s î r a p l a r î (nav.) speze portuare. 
 limfa s. (biol.) limfă.
+Lituwaniye
+s. (topon.) Lituania.
+Lúbnan
+s. (topon.) Liban.
+Luksemburk
+s. (topon.) Luxemburg.
+maga bír kawe akelírsíñíz mí?
+vreţi să-mi aduceţi o cafea?
+maraba
+interj. noroc!; salut!; bonjur!
+Marakeş
+s. (topon.) Maroc.
+maraz
+I. adj. 1. (d. oameni) rău; răutăcios; periculos. 2. bolnav; suferind. II. s. 1. boală; maladie; epidemie; molimă; patologie. 2. (fig.) pacoste; belea; necaz.
+maruze tam tuwul
+adresa nu este completă.
+Matlîm
+s. (topon.) Lomnitsa (Dobrich, Bulgaria).
+mawî
+adj. albastru.
+mensuğat
+s. textile.
+mínawday şiy bolîr mî?
+se poate aşa ceva?
+mîntaka
+s. regiune; zonă.
+mîşîk
+s. pisică.
+Moñgolîstan
+s. (topon.) Mongolia.
+muhtelit adet
+(mat.) număr mixt.
+músúr
+s. porumb. (lat., Zea mays)
+muwallímatşa
+I. adv. în felul profesorilor; ca profesorii. II. s. limbaj academic.
+namevğudiyet
+s. absenţă; lipsă.
+Namibiye
+s. (topon.) Namibia.
+Nawrez
+s. prima zi a primăverii (sărbătoare celebrată de popoarele musulmane).
+Noel
+s. (în relig. creştină) Crăciun.
+nogay yîlî
+(cron.) anul câinelui (conform vechiului calendar tătăresc).
+ogîratmak
+v.t. a determina să se abată pe la…; a face să dea în…;
+ógíz yîlî
+(cron.) anul boului (conform vechiului calendar tătăresc).
+okka
+s. 1. kilogram. 2. oca (unitate de măsură a masei şi capacităţii).
+ortalîk agargan hálínde
+cu toate că se luminase.
+osman
+s. şarpe; dragon.
+Osman
+s. (antrop. m., arab.) "Şarpele”; “Dragonul”.
+ózbek
+s., adj. uzbec.
+Ózbekístan
+s. (topon.) Uzbekistan.
+ózbekístanlî
+s., adj. uzbec.
+ózbekşe
+I. adv. în limba uzbecă. II. s. (limba) uzbecă.
+ózíneidare
+s. autonomie.
+ózíneidarelí
+adj. autonom.
+papatiya
+s. (bot.) muşeţel; romaniţă (lat., Chamomilla recutita; Matricaria chamomilla).
+pápíş
+s. papuc.
+Papuwa Kenğe Gúyne
+s. (topon.) Papua Noua Guinee.
+Paragway
+s. (topon.) Paraguay.
+parlawlî agaş
+lemne sparte.
+Paska
+s. (în relig. creştină) Paşti.
+peruze
+s. turcoază; peruzea.
+peşka
+s. sobă; cuptor; cămin.
+píkír
+s. 1. idee; gând. 2. opinie; părere. 3. minte; judecată; raţiune. 4. memorie.
+pink-ponk
+s. ping-pong; tenis de masă.
+píríj
+s. (bot.) orez (lat., Oryza sativa).
+Polagîstan/Poloniye
+s. (topon.) Polonia.
+polakşa
+I. adv. în limba poloneză. II. s. (limba) poloneză.
+pulkana
+s. monetărie.
+pwan
+s. (sport) punct.
+pyúre
+s. (gastron.) piure.
+rakîs
+s. 1. dans. 2. (fiz.) pendulare; oscilare.
+rumanğa
+adv. în limba română; româneşte.
+Rumaniye
+s. (topon.) România.
+sáát
+s. 1. ceas; ceasornic. 2. (cron.) oră; ceas. 3. timp; vreme.
+sabîn
+s. săpun.
+sade adet
+(mat.) număr prim.
+şagîlgan
+s. electricitate.
+sakalîn tírmende agartmak
+a încărunţi de pomană.
+şalgî
+s. 1. (muz.) instrument muzical. 2. (muz.) melodie; muzică. 3. (muz.) orchestră. 4. coasă.
+salînğak
+s. leagăn; scrânciob; balansor.
+sanskrit
+s., adj. sanscrit.
+sanskritşe
+I. adv. în limba sanscrită. II. s. (limba) sanscrită.
+şáşí-başî agarmak
+a-i albi părul; a încărunţi.
+şáşín agartmak
+a-i scoate peri albi.
+saw bolîñîz!
+vă mulţumesc!
+seriyelek
+s. informatică.
+sîğawul yîlî
+(cron.) anul şobolanului (conform vechiului calendar tătăresc).
+sîguwğî adale
+(anat.) muşchi constrictor.
+şo maruzení karayman
+caut această adresă.
+Şoban Yîldîzî
+s. (astr.) Venus; Luceafărul.
+şokolata
+s. ciocolată.
+tajik
+s., adj. tadjik.
+Tajikístan
+s. (topon.) Tadjikistan.
+tajikşe
+I. adv. în limba tadjikă. II. s. (limba) tadjikă.
+takîm adalar
+arhipelag.
+Tañrî katîñîzda bolsîn!
+Dumnezeu cu voi!
+tapiy
+adj. dependent; subordonat; subjugat; supus.
+tapîzkana
+s. carantină.
+tawkîya senesí
+(cron.) anul cocoşului (conform vechiului calendar tătăresc).
+tawlay senesí
+(cron.) anul iepurelui (conform vechiului calendar tătăresc).
+tekámúl
+s. evoluţie; dezvoltare.
+tokîma
+I. adj. textil. II. s. 1. ţesătură; material textil; stofă; textile. 2. (fig.) minciună; născocire; neadevăr. 3. ţesătorie.
+tokta
+I. interj. stop!; stai!; II. s. virgulă.
+toñdîrma
+s. 1. îngheţată. 2. îngheţare; congelare.
+trenğol
+s. cale ferată.
+tropikaşasî
+adj. (geogr.) subtropical.
+tukum
+s. 1. (bot.) sămânţă; sâmbure. 2. (biol.) spermă.
+Túnisiye
+s. (topon.) Tunisia.
+Turan/Duran
+s. (antrop. m., prsn.) nume legendar persan.
+Túrkiye
+s. (topon.) Turcia.
+túrkmen
+s., adj. turkmen.
+túrkmenğe
+I. adv. în limba turkmenă. II. s. (limba) turkmenă.
+Túrkmenístan
+s. (topon.) Turkmenistan.
+túrkmenístanlî
+s., adj. turkmen.
+Túrkústan-şímşígesí
+s. (orn.) piţigoi de Turkestan (lat., Parus bokharensis).
+túrúkşe
+I. adv. turceşte; în limba turcă. II. s. (limba) turcă.
+uygurğa/uygurşa
+I. adv. în limba uygură. II. s. (limba) uygură.
+úyretmen bízge dogrî karay
+profesorul priveşte spre noi.
+uzabílímí
+s. anatomie.
