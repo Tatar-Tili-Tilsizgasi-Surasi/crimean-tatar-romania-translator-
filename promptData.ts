@@ -730,7 +730,57 @@ Kózíñ karay-alsa ğarga,
 Okîp mení, alîş maga.
 Şekken góñíl , meraklangan,
 Karap tursañ kókte ğennet,
-Maga insaf! Ya, bol nálet ! 
+Maga insaf! Ya, bol nálet !
+- German: Freude, schoener Goetterfunken,
+Tochter aus Elysium,
+Wir betreten feuertrunken,
+Himmlische, dein Heiligtum.
+Deine Zauber binden wieder
+Was der Mode Schwert geteilt
+Bettler werden Fuerstenbrueder
+Wo dein sanfter Fluegel weilt.
+Chor.
+Seid umschlungen, Millionen!
+Diesen Kuss der ganzen Welt!
+Brueder - ueber'm Sternenzelt
+Muss ein lieber Vater wohnen.; Crimean Tatar (RO): Kunak, hoş Tañrî şagîmî,
+Kók kîzî gúlistanda,
+Bíz kíremíz álewleníp
+Semaviy mehrabîña.
+Tîlsîmîñ birleştíredír
+Kuy kîlîşî ayîrsa,
+Tílenşí mîrza man kardaş
+Kanatîñ ğuwaş kaksa.
+Kor.
+Kuşaklaşsîn miliyonlar!
+Bo óbúw dúniyaga!
+Kardaşlar – súygen ata
+Yîldîz án-yagînda yaşar.
+- German: Wem der grosse Wurf gelungen,
+Eines Freundes Freund zu sein,
+Wer ein holdes Weib errungen,
+Mische seinen Jubel ein!
+Ja - wer auch nur eine Seele
+Sein nennt auf dem Erdenrund!
+Und wer's nie gekonnt, der stehle
+Weinend sich aus diesem Bund
+Chor.
+Was den grossen Ring bewohnet,
+Huldige der Sympathie!
+Zu den Sternen leitet sie,
+Wo der Unbekannte thronet.; Crimean Tatar (RO): Úyken-geñíş kîsmetlíler
+Bolîp dost arkadaşka,
+Súygen, sadîk biykelíler,
+Koşîlîr kuwanîşka!
+Ya - kímíñ tek ğanî bolsa
+Tek ózíñ káyinatta!
+Beğermegen ğîlasa da
+Yerí yok ortaklîkta .
+Kor.
+Bo ken şemberdekíler
+Húrmet eter hoşlîkka!
+Aşîp ğol yîldîzlîkka
+Şo evrende ógíysírer.
 
 - Romanian: bună dimineața; English: good morning; Crimean Tatar (RO): kayîrlî sabahlar
 - Romanian: bună ziua; English: good day / hello; Crimean Tatar (RO): kúnaydîñ
