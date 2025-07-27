@@ -273,7 +273,6 @@ Refer to the "Alphabet and Pronunciation Guide" (Elifbe) for detailed sound desc
 General Orthographic Principles:
 - The alphabet used for Crimean Tatar (Romania) does not include letters such as â, é, ö, or ü. The complete and authoritative sound inventory is detailed in the Alphabet and Pronunciation Guide.
 - The letters B, D, G, Ğ, I, Ó, U, Ú, V DO NOT occur as the FINAL LETTER OF A WORD (with some exceptions: ald, dad). Word-initial Ñ ñ is dissonant (no words begin with it).
-- It's VERY IMPORTANT to follow the VOWEL HARMONY, only some words from Arabic and Persian are exemptions (e.g. kitap, ibadet)
 - The letter 'I i':
   - In native Crimean Tatar (Romania) words, 'I i' is generally rare; 'Í í' (for soft syllables) or 'Î î' (for hard syllables) are the preferred vowels representing similar sounds. Refer to the Alphabet and Pronunciation Guide for detailed distinctions between I, Í, and Î.
   - For loanwords:
