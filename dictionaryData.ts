@@ -11081,3 +11081,966 @@ I. adv. în limba uygură. II. s. (limba) uygură.
 profesorul priveşte spre noi.
 uzabílímí
 s. anatomie.
+kazadan adv. accidental; involontar. 
+kazagakalgan adj. accidentat; 
+victimă. 
+kazagakarşî adj. antiaccident. 
+kazagaogîragan adj. accidentat; 
+victimă. 
+kazah s., adj. kazah. 
+Kazah îstan s. (topon.) Kazahstan. 
+kazahîstanlî s., adj. kazah. 
+kazahşa I. adv. în limba kazahă. II. s. 
+(limba) kazahă. 
+kazak s. 1. cazac. 2. român. //
+●k a z a k k a l k î poporul român. 
+●k a z a k 
+k î s k aa y a k l î s î /a p a k a y î 
+româncă. ●k a za k m am ú l l e r í 
+produse româneşti. ●k a z a k 
+m e t b e s í bucătăria românească. 
+●k a z a k r e s í m o k î l î şcoala de 
+pictură românească. ●k a z a k t í l í 
+i h t i y a r i y e s í facultatea de limba 
+română. ●k a z a k 
+u y r u k l u g î / t eb aa s î cetăŃenie 
+română. ●k a za k u y r u k l um an 
+sunt cetăŃean român. 
+kazaka s. vestă; jiletcă. 
+kazakşa I. adv. româneşte; în limba 
+română. II. s. (limba) română. //
+●k a z a k ş a k o n î şm a k a vorbi 
+româneşte. // ●k a z a k ş a h e ş 
+añ l am a ym a n nu înŃeleg deloc 
+româneşte. ●k a za k ş a ú y r en eğ e k 
+b o l am an aş dori să învăŃ româneşte. 
+kazalamak v.t. a accidenta. 
+kazalangan adj. accidentat. 
+kazalanmak v.i. a se accidenta. 
+kazalî adj. accidental; catastrofal. 
+kazan s. 1. cazan (şi tehn.). 2. (tehn.) 
+boiler. 
+kazanbaş î s. bucătar-şef. 
+kazandîrgan adj. profitabil; rentabil. 
+kazandîrmak v.t. a crea profit; a 
+renta. 
+kazandîrmaz adj. neprofitabil. 
+kazangan s. beneficiar. 
+kazanğ î s. cazangiu. 
+kazanîlgan adj. obŃinut; dobândit; 
+câştigat; meritat. 
+kazanîlmak v.i. 1. a se câştiga; a se 
+obŃine. 2. a fi cucerit; a fi dobândit. 
+kazanma s. dobândire; obŃinere. 
+kazanmak v.t. 1. a câştiga; a obŃine. 
+2. a cuceri; a dobândi. //
+●b í r t aa / ğa ñ î da n k a za nm a k a 
+redobândi. ●d aw a n î k a z anm a k 
+(jur.) a câştiga un proces. ●h a k k 
+k a z anm a k (jur.) a avea câştig de 
+cauză. 
+●k î ym e t / ó n em / e h emm i y e t 
+k a z anm a k a căpăta importanŃă. 
+●m añ l a y t e r í m en k a z anm a k 
+a câştiga cu sudoarea frunŃii; a câştiga 
+prin trudă. ●nam / ş a n k a z anm a k 
+a i se duce vestea; a i se duce faima; a 
+ajunge celebru. ●ó tm eg í n 
+k a z anm a k a-şi câştiga pâinea; a-şi 
+câştiga existenŃa. ●s a y î 
+k a z anm a k a creşte numeric. 
+●w a k î t / zam an k a za nm a k a 
+câştiga timp. // ●b í r í n ğ í 
+k ad em e n í k ím k a za nd î ? cine a 
+câştigat prima etapă?; ●k ím ş a l î ş a 
+k a z ana cine munceşte câştigă. 
+kazanş s. câştig; profit; beneficiu. //
+●k a y r i y s a f i y k a z an ş (fin.) câştig 
+brut. ●s a f i y k a z an ş (fin.) câştig 
+net. 
+kazanş î s. bucătar. 
+kazanşlî adj. avantajos; profitabil. 
+kazanşlîşîkkan adj. eficientizat; 
+rentabilizat. 
+kazanşsîz adj. dezavantajos; 
+neprofitabil. 
+kazanşsîzlîk s. dezavantaj. 
+kazanuw s. dobândire; obŃinere. 
+kazar s. 1. Ńinut; regiune. 2. loc. 3. 
+pământ; sol; teren; întindere de 
+pământ. 
+kazara adv. întâmplător; accidental. 
+Kazar-karkîldag î s. (orn.) chiră mare; 
+chiră de Marea Caspică; pescăriŃă 
+mare; pescăriŃă de Marea Caspică 
+(lat., Sterna caspia; 
+Hydrop rogne caspia). 
+Kazar-ularî s. (orn.) găinuşă de 
+zăpadă de Marea Caspică (lat., 
+Tetraogallus caspius). 
+kazaw s., adj. kazah.
+kazawğa I. adv. în limba kazahăII. s. 
+(limba) kazahă.
+Kazawstan s. (topon.) Kazahstan.
+kazawstanlî s., adj. kazah.
+kazayagî s. 1. (bot.) talpa-gâştei; 
+spanac-porcesc (lat., 
+Che nopodium hybrid um). 2. (bot.) 
+talpa-gâştei; apucătoare; cătuşniŃă 
+(lat., Leon urus ca rdiaca). 3. 
+laba-gâştei; ridurile formate la coada 
+ochiului. 4. laba-gâştei. 
+kazayagî, ak- s. (bot.) lobodă; 
+spanac-sălbatic; piciorul-caprei (lat., 
+Che nopodium album). 
+kazayagî, múslí- s. (bot.) tămâiŃă; 
+Ńifroş (lat., Chenopo dium 
+ambrosioides). 
+kazazede adj. accidentat; naufragiat; 
+victimă. 
+kaz-beşparmakotî s. (bot.) coada-
+racului (lat., Potentilla 
+anserina). 
+kazdîrmak v.t. 1. a determina să 
+erodeze; a determina să corodeze. 2. a 
+determina să sape; a determina să 
+excaveze. 3. a determina să graveze. 
+kazemata s. cazemată. 
+kazeyina s. (chim.) cazeină. 
+kazino s. cazino. 
+kazî s. ulei; grăsime; unsoare; 
+lubrifiant. 
+kazî, ak-karînlî-yas- s. (orn.) gâscă 
+cu pântece alb; gâscă de Atlantic 
+(lat., B ranta bernicla h rota). 
+kazî, Awustraliye -taw - s. (orn.) 
+gâscă cu manşete; gâscă australiană 
+de pădure (lat., Che nonetta 
+jubata). 
+kazî, Hint- s. (orn.) gâscă de India 
+(lat., Anse r indic us). 
+kazî, Kanada - s. (orn.) gâscă 
+canadiană (lat., B ranta 
+canadensis). 
+kazî, kar- s. (orn.) gâscă de zăpadă 
+(lat., Chen cae rules cens; Anse r 
+caerules cens). 
+kazî, kara-karînli -yas- s. (orn.) 
+gâscă cu pântece negru; gâscă de 
+Pacific (lat., Bra nta bernicla 
+nigricans). 
+kazî, kíşkene -kar- s. (orn.) gâsca lui 
+Ross; gâscă mică de zăpadă (lat., 
+Che n rossii; Anse r rossii). 
+kazî, kíşkene-tarla- s. (orn.) gâscă 
+cu cioc scurt (lat., Anser 
+brachy rhy nch us). 
+kazî, Kîtay- s. (orn.) gâscă 
+chinezească; gâscă lebădă (lat., 
+Anser cy gnoides). 
+kazî, kuw- s. (orn.) gâscă chinezească; 
+gâscă lebădă (lat., Anser 
+cygnoides). 
+kazî, M îsîr- s. (orn.) gâscă de Nil 
+(lat., Alopoche n ae gypticus). 
+kazî, Orinoko- s. (orn.) gâscă de 
+Orinoco (lat., Neoc hen jubata). 
+kazî, pakla- s. (orn.) gâscă de 
+semănătură (lat., A nse r f abalis). 
+kazî, Ross'nîñ- s. (orn.) gâsca lui 
+Ross; gâscă mică de zăpadă (lat., 
+Che n rossii; Anse r rossii). 
+kazî, Seb ír- s. (orn.) gâscă cu gât roşu 
+(lat., B ranta ruf icollis). 
+kazî, Seb ír-yas - s. (orn.) gâscă 
+neagră (lat., B ranta bernicla 
+bernicla). 
+kazî, tarla- s. (orn.) gâscă de 
+semănătură (lat., A nse r f abalis). 
+kazîğag îlgan adj. gresat; uns. 
+kazîk s. 1. par; Ńăruş; Ńeapă. 2. (fig.) 
+şiretlic; tertip. // ●k a z î k a tm a k a 
+trage Ńeapă; a Ńepui; a înşela; a păcăli. 
+●k a z î k ğ u t k an da y ğú rm e k a 
+umbla ŃanŃoş. ●k a z î k k a 
+o t î r tm a k a trage în Ńeapă; a Ńepui. 
+// ●k a z î k l î h umm a (med.) 
+tetanos. 
+kazîkatîlgan adj. tras în Ńeapă; 
+înşelat; păcălit. 
+kazîkatkan adj. înşelător; trişor. 
+kazîkatuw s. înşelare; înşelătorie; 
+trişare; festă; păcăleală; renghi. 
+kazîkğutkan adj. băŃos; ŃanŃoş; 
+mândru; Ńeapăn; drept; vertical. 
+kazîkğutkanday adv. ŃanŃoş; Ńeapăn; 
+drept. 
+kazîkkaotîrgan adj. tras în Ńeapă; 
+Ńepuit. 
+kazîkkaotîrtuw s. tragere în Ńeapă; 
+Ńepuire. 
+kazîklagan adj. înşelător; trişor. 
+kazîklama s. 1. înşelare; păcăleală. 2. 
+tragere în Ńeapă; Ńepuire. 3. arăcire; 
+împărare. 
+kazîklamak v.t. 1. a arăci; a împăra. 
+2. a trage în Ńeapă; a Ńepui. 3. a trage 
+Ńeapă; a Ńepui; a înşela; a păcăli. 
+kazîklangan adj. 1. înşelat; păcălit. 
+2. tras în Ńeapă; Ńepuit. 3. arăcit; 
+împărat. 
+kazîklanmak v.i. 1. (ist.) a fi tras în 
+Ńeapă; a fi Ńepui. 2. a fi înşelat; a se 
+păcăli. 3. a fi arăcit; a fi împărat. 
+kazîklaw s. 1. înşelare; păcăleală. 2. 
+tragere în Ńeapă; Ńepuire. 3. arăcire; 
+împărare. 
+kazîlama s. gresare; ungere. 
+kazîlamak v.t. a unge; a gresa. 
+kazîlangan adj. gresat; uns. 
+kazîlanmak v.i. a se unge; a se gresa. 
+kazîlaw s. gresare; ungere. 
+kazîlawğî s. (tehn.) gresor; ungător. 
+kazîlgan adj. 1. erodat; corodat. 2. 
+săpat; excavat. 3. gravat. 
+kazîlî adj. 1. (d. câştiguri) mare; 
+însemnat; gras. 2. uns; gresat; 
+lubrifiat. 3. uleios; unsuros; gras. 
+kazîlîakşar s. vopsea de ulei. 
+kazîlîboya s. vopsea de ulei. 
+kazîlma s. 1. săpătură; săpături; 
+săpat; săpare; excavare. 2. erodare; 
+corodare. 3. gravare; gravură. 
+kazîlmak v.i. 1. a se eroda; a se 
+coroda. 2. a se săpa; a se excava. 3. a 
+se grava. 
+kazîlmalar s., pl. săpături. 
+kazîluw s. 1. săpătură; săpături; 
+săpat; săpare; excavare. 2. erodare; 
+corodare. 3. gravare; gravură. 
+kazîm s. 1. erodare; corodare. 2. 
+gravare; gravură. 3. săpătură; 
+săpături; săpat; săpare; excavare. 
+kazîmbílímğísí s. arheolog.
+kazîmbílímí I. adj. arheologic. II. s. 
+arheologie. 
+kazîmbílímlí adj. arheologic. 
+kazîmlar s., pl. săpături. 
+kazîp-şîgarîlgan adj. dezgropat. 
+kazîp-şîgaruw s. dezgropare. 
+kazkafa(lî) adj. greu de cap; greoi la 
+minte; prost; prostănac. 
+kazma s. cazma; hârleŃ. // ●k a zm a 
+s ana t ş î s î gravor. 
+kazmak v.t. 1. a săpa; a excava. 2. a 
+grava. 3. a eroda; a coroda. // ●a s t î n 
+k a zm a k a săpa pe cineva; a unelti 
+împotriva cuiva; a-l submina; a-l 
+sabota. ●ó z ş u k u r u n ó z í 
+k a zm a k a-şi săpa singur groapa. 
+●y en i r ğ e k a zm a k a se caria. 
+kazma-kúrek s. unelte de grădinărit. 
+kazna s. tezaur; comoară; depozit; 
+vistierie. // ●k e l im e k a z na s î lexic. 
+kaznağ î s. trezorier; vistiernic. 
+kazotî s. (bot.) gâscariŃă (lat., 
+Arabis alpina; Arabis hirsuta). 
+kaztîrnag î s. (bot.) coada-racului 
+(lat., Potentilla anserina). 
+kazuw s. 1. săpătură; săpat; săpare; 
+excavare. 2. gravare; gravură. 3. 
+erodare; corodare. 
+kazuwğ î I. adj. 1. eroziv. 2. eroziv; 
+coroziv. II. s. gravor; săpător. 
+káar s. 1. folos; avantaj. 2. câştig; 
+profit; beneficiu. 
+káarlî adj. avantajos; rentabil. 
+káarlîşîkkan adj. 1. eficientizat; 
+rentabilizat. 2. beneficiar; câştigător. 
+káarsîz adj. nerentabil. 
+káarşîgargan adj. beneficiar; 
+câştigător. 
+káarşîgaruw I. adj. eficientizare; 
+rentabilizare. II. s. prevalare de…; 
+káát I. adj. de hârtie. II. s. 1. 
+scrisoare. 2. hârtie. 3. act; document. 
+4. carte de joc. 5. bancnotă. // ●k áá t 
+t am ga l am a k a timbra. ●y a zuw n î 
+b a ş k a k áá t k e g e ş í rm e k a 
+transcrie. // ●e s k í k áá t 
+maculatură. ●g e ş í rm e k áá t í hârtie 
+de calc. ●ğ o l k áá t í foaie de drum. 
+●ğu k a k áá t foiŃă. ●g úm r ú k 
+k áá t í declaraŃie vamală. 
+●i s k am b i l k áá t í cărŃi de joc. 
+●k áá t f a b r i k a s î fabrică de hârtie. 
+●k áá t y ap r a g î coală de hârtie. 
+●k a y î t k á á t í fişă de înregistrare. 
+●k u r u tm a / s ú n g e r k áá t í 
+sugativă. ●m a ş i n an î ñ k á á t l e r í 
+actele maşinii. ●nú fu s k áá t í 
+certificat de naştere. ●o y î n k áá t í 
+carte de joc. ●p e r gam e n t k áá t í 
+hârtie pergament. ●r e s ím k áá t í 
+hârtie fotografică. 
+●ş ew e t / i n d i g o / k a r b o n / s u r e t / k
+o p i y a k áá t í hârtie-carbon. 
+●s i ga r a k áá t í hârtie de Ńigară. 
+●ú y l e nm e k áá t í certificat de 
+căsătorie. ●y a z î k á á t í coală de 
+scris. 
+káátkana s. fabrică de hârtie. 
+káátler s., pl. scripte; acte; 
+documente; dosar. // ●k á á t l e r 
+am b a r î arhivă. 
+káátlerde adv. în scripte; în acte; în 
+documente; la dosar; ad acta. 
+káátlerden adv. din scripte; din acte; 
+din documente; din dosar. 
+káátlík s. 1. clasor. 2. arhivă. 
+káátpara s. bancnotă. 
+káátten adj. de hârtie. 
+kááttestímalî s. prosop de hârtie; 
+şerveŃel. 
+Kábe-Ğolî s. (astr.) calea lactee; 
+drumul robilor. 
+kábus s. coşmar. 
+káfir adj. 1. necredincios; ateu. 2. 
+(fig.) netrebnic; păcătos. 
+káfiy I. adj. suficient; destul. II. interj. 
+suficient!; gata!; // ●k á f i y b o lm a k 
+a fi suficient. 
+káfiybolmagan adj. nesatisfăcător. 
+káh in s. prezicător; ghicitor. 
+káh inlí adj. prevestit; presimŃit; 
+prevăzut. 
+káh inlík s. prezicere; prevestire; 
+prognoză; pronostic. 
+káhya s. intendent; vătaf. 
+kám il adj. complet; total; desăvârşit; 
+perfect; ideal; matur; major. 
+Kámil s. (antrop. m., arab.) 
+"Desăvârşitul" (unul din cele 400 de 
+nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+Kámile s. (antrop. f., arab.) “Cea 
+desăvşită”. 
+kám illeşken adj. completat; 
+desăvârşit; perfecŃionat; idealizat; 
+maturizat; major. 
+kám illeşme s. majorat; maturizare. 
+kám illeşmek v.i. a se completa; a se 
+desăvârşi; a se perfecŃiona; a fi 
+idealizat; a se maturiza. 
+kám illeştírme s. completare; 
+desăvârşire; perfecŃionare; idealizare; 
+maturizare. 
+kám illeştírmek v.t. a completa; a 
+desăvârşi; a perfecŃiona; a idealiza; a 
+maturiza. 
+kám illík s. perfecŃie; perfecŃiune. 
+kápír adj. 1. ateu care se declară 
+credincios; fals credincios. 2. 
+netrebnic; păcătos; eretic. 
+kápírlík s. 1. făŃărnicie în credinŃă. 2. 
+netrebnicie; păcătoşenie; erezie. 
+káse s. castron. 
+káş if s. 1. explorator; descoperitor. 2. 
+inventator; inovator. 
+kátibiyadil s. notar. 
+kátib-í adliye iz.prsn. notar. 
+kátip s. secretar. // ●k á t i p 
+y a r d îm ğ î s î subsecretar. 
+kátiplík s. secretariat. 
+káyinat I. adj. universal; cosmic. II. s. 
+lume; univers; cosmos. 
+káyinatbílím í s. cosmologie. 
+káyinatbílímlí adj. cosmologic. 
+káyinatsîzgasî s. cosmografie. 
+káyinatşî adj. universal; cosmic. 
+káyinattuwumğ î adj. cosmogonic. 
+káyinattuwumî s. cosmogonie. 
+Kázim/Kázím s. (antrop. m., arab.) 
+“Cel cumpătat”. 
+ke I. adv. atât de… încât…; atât de… 
+că…; II. conj. 1. că; încât. 2. ca să; 
+pentru a…; 3. pentru că; deoarece; 
+întrucât; fiindcă; de vreme ce. //
+●a y d î d i y í k k e… admiŃând că…; 
+●d em e k k e aşadar. ●f a r z e t i y í k 
+k e presupunând că…; ●i da 
+e t em en k e h a k k îm b a r afirm că 
+am dreptate. ●i k t im a l k e pesemne; 
+probabil că. ●i na nam an k e 
+a y t k an î ñ î z da y cred că este aşa 
+cum spuneŃi dumneavoastră. 
+●i na n î ñ î z k e ş o n da y credeŃi-mă 
+că e aşa. ●k ó r í n í r k e în aparenŃă. 
+●s an e t em e n k e y e r í nd e 
+b o lm a z cred că ar fi inoportun. 
+●ş o nd a y k e deci; prin urmare. 
+●ş ú ph e s í z k e b o nda y fără 
+îndoială că e aşa. 
+kebabe s. (bot.) cubeb (lat., Piper 
+cubeba). 
+kebap s. chebap. // ●ş í ş / s ú n b e 
+k eb a p frigăruie. 
+kebek s. 1. tărâŃă. 2. mătreaŃă. 
+kebeke s. (bot.) dovlecel; bostănel 
+(lat., C ucu rbita pepo oblonga). 
+kebeklí adj. 1. cu tărâŃă; din tărâŃă. 
+2. cu mătreaŃă. 
+kebir adj. măreŃ; maiestuos; 
+impunător. 
+Kebir, El- s. (relig., arab.) "Cel 
+maiestuos" (unul din cele 99 
+preafrumoase nume atribuite în Coran 
+lui Dumnezeu/Allah). 
+kebíz s. (anat.) subsuoară; subraŃ; 
+axilă. 
+kebre s. 1. caperă. 2. (bot.) caper 
+(lat., Capparis spinosa). 
+kebze s. lopăŃică. 
+kebze súyegí s. (anat.) omoplat; 
+scapulă. 
+keday I. adj. servil. II. s. 1. cerşetor. 
+2. iobag; şerb; serv. // ●k e da y 
+s ú r úw í turmă slugarnică. 
+kedaybolgan adj. înrobit. 
+kedayday adj. servil. 
+kedaylîk s. 1. cerşetorie; cerşit; 
+servilism. 2. iobăgie; şerbie. //
+●k ed a y l î k e tm e k a cerşi. 
+kedaylîktanboşangan adj. dezrobit. 
+kedaylîktanboşanma s. dezrobire. 
+kedege s. (la căruŃă) oblonul din spate. 
+kedege súyegí s. (anat.) osul 
+coxal/iliac. 
+kedem s. (unitate de măsură) picior; 
+pas. 
+kedem-kedem adv. pas cu pas; 
+treptat. 
+keder s. tristeŃe; amărăciune; 
+supărare. 
+kederlendírgen adj. întristător. 
+kederlendírmek v.t. a întrista; a 
+mâhni; a necăji. 
+kederlenme s. întristare. 
+kederlenmek v.i. a se întrista; a se 
+amărî. 
+kederlí adj. trist; amărât; supărat. 
+kedersíz adj. liniştit; fără griji. 
+kefalet s. garanŃie; siguranŃă; 
+asigurare. 
+kefaletlí adj. asigurat; garantat. 
+kefaletname s. act de garanŃie. 
+kefaret s. (relig.) căinŃă; pocăinŃă. 
+kefen s. (la musulmani) giulgiu; 
+linŃoliu. 
+kefíl s. (jur.) garant. // ●k e f í l 
+b o lm a k a garanta. 
+kefíllígíberílgen adj. arvunit. 
+kefíllík s. garanŃie; siguranŃă; 
+asigurare. 
+kefíllíkberúw s. arvunire. 
+kegiy s. 1. spiŃă (la roată). 2. treaptă 
+(la scară). 
+kehanet s. prezicere; previziune; 
+prognoza; pronostic. 
+kehanetlí adj. prezis; prevăzut; 
+prognozat; pronosticat. 
+kehanetşí s. prezicător. 
+kekeş s. (la păsări) creastă; moŃ. 
+kekeşe s. (orn.) pupăză (lat., Up upa 
+epops). 
+kekeşe -boztorgay s. (orn.) ciocârlie 
+pupăză (lat., Alaemon 
+alaudipes). 
+kekeşlí adj. (d. păsări) moŃat. 
+kekeşlí -alak s. (orn.) alcă moŃată 
+(lat., Aethia cristatella). 
+kekeşlí -balîkşî s. (orn.) pecăruş 
+malahit (lat., Al cedo c ristata). 
+kekeşlí -biydayak s. (orn.) lişiŃă 
+moŃată (lat., Fulica cristata). 
+kekeşlí -boztorgay s. (orn.) ciocârlan 
+(lat., Galerida c ristata). 
+kekeşlí -dalgîş s. (orn.) corcodel mare; 
+cufundar mare; bodârlău (lat., 
+Podiceps cristatus).
+netiğelengen adj. terminat; sfârşit; 
+finalizat; încheiat. 
+netiğelenmek v.i. a se termina; a se 
+sfârşi; a se finaliza; a se încheia. 
+netiğelí adj. 1. efectiv; real. 2. 
+rezultat; derivat. 
+netiğesíz adj. 1. fără efect; fără 
+rezultat. 2. neconcretizat; ineficient. 
+netiğesízkayretlenúw s. zădărnicie. 
+netiğesízlík adj. ineficacitate; 
+ineficient. 
+nevale s. alimente. // ●n e v a l e 
+ğ î ym a k a strânge masa. ●n e v a l e 
+t ú zm e k a pune masa. 
+nevazil s. guturai. 
+nevet num. (prsn.) nouăzeci. 
+neviy s. specie; sort; soi; fel; tip. //
+●n e v i y ş a h î s î n a în felul său. 
+●n e v i y ş a h î s î n a m un h a s î r unic 
+în felul său. 
+neviyleşken adj. tipizat. 
+neviyleştírme s. tipizare. 
+neviyleştírmek v.t. a tipiza. 
+neviylí adj. tipizat. 
+neviy-neviy adj. fel de fel. 
+nevmit adj. deznădăjduit; desperat. 
+nevmitl ík s. deznădejde; desperare. 
+nevralğik adj. (med.) nevralgic. 
+nevralğiya s. (med.) nevralgie. 
+nevralğiyagakarşî adj. (med.) 
+antinevralgic. 
+nevralğiyalî adj. (med.) nevralgic. 
+nevroza s. nevroză. 
+newbet s. 1. rând; schimb; serviciu. 2. 
+(mil.) pază; gardă; planton; santinelă; 
+strajă. 3. (med.) febră. 4. (med.) acces; 
+criză. 5. tur; rând; coadă. 6. suită; 
+serie; şir. 7. ordine; aranjare. //
+●n ew b e t t u tm a k a face rând. //
+●e g e ş úw n ew b e t í (med.) criză de 
+nervi. ●k e ş e n e w b e t í schimb de 
+noapte. ●k ún dú z n ew b e t í schimb 
+de zi. ●ş ún d í n ew b e t s í zd e acum 
+este rândul vostru. 
+newbetleme s. înseriere; înşiruire. 
+newbetlemek v.t. a înseria; a înşirui. 
+newbetlengen adj. înseriat; înşiruit. 
+newbetlí adj. în schimburi; în ture; cu 
+rândul. // ●e k í n ew b e t l í în două 
+schimburi; în două ture. 
+newbetş í s. (mil.) paznic; gardian; 
+planton; santinelă; străjer. 
+newbetş ílík s. pază; gardă; strajă. 
+newbettegí adj. următor. 
+newbettekí adj. următor. 
+newne s. (ent.) buburuză; gărgăriŃă; 
+mămăruŃă; paparugă; boul-lui-
+Dumnezeu; vaca-Domnului (lat., 
+Coccinella septempunctata). 
+newnes í, bakşa - s. (ent.) gărgăriŃa-
+prunului; prunar (lat., Rhy nc hites 
+bacchus). 
+newnes í, yeşíl-nog ît- s. (ent.) 
+măzărar; gărgăriŃă (lat., Bruch us 
+pisi). 
+newufal ina s. (chim.) neofalină. 
+newurasten iya s. (med.) neurastenie. 
+newuroloğik adj. (med.) neurologic. 
+newuroloğiya I. adj. (med.) 
+neurologic. II. s. (med.) neurologie. 
+newuroloğiyağî s. (med.) neurolog. 
+newuroloğiyalî adj. (med.) 
+neurologic. 
+newurolok s. (med.) neurolog. 
+newutron s. (fiz.) neutron. 
+newzat s. nou-născut; făt. 
+nezafet s. curăŃenie. 
+nezahet s. cinste; puritate; castitate. 
+nezaket s. amabilitate; gentileŃe; 
+fineŃe; delicateŃe; galanterie; curtoazie. 
+nezaketlí adj. amabil; gentil; fin; 
+delicat; galant; curtenitor. 
+nezaketsíz adj. nepoliticos; 
+necuviincios; dizgraŃios. //
+●n e za k e t s í z k í ş í Ńopârlan. 
+nezaketsízlík s. impoliteŃe; 
+necuviinŃă. 
+nezaret s. 1. supraveghere; observare; 
+control; inspecŃie. 2. (ist.) minister. 3. 
+privelişte; panoramă. // ●n e z a r e t 
+e tm e k a privi. // ●n e z a r e t 
+a s t î nd a sub supraveghere. 
+●n e za r e t t e n g e ş í rm e recenzie. 
+nezaretlí adj. supravegheat; observat; 
+controlat; inspectat. 
+nezaretsíz adj. nesupravegheat; 
+neglijat. 
+nezaretsízlík s. neglijenŃă. 
+nezaretşí s. 1. supraveghetor; 
+observator; controlor; inspector. 2. 
+steward; însoŃitor de bord. 
+nezaretşílík s. supraveghere; 
+observare; control; inspecŃie. 
+nezarettengeş írúw s. recenzie. 
+nezif s. (med.) hemoragie. 
+nezih adj. pur; cinstit; curat; cast. 
+Nezihe s. (antrop. f., arab.) “Cea 
+castă”. 
+nezim s. poezie; poem; versificare. 
+nezimğí s. poet; versificator. 
+nezimğílík s. prozodie. 
+nezimlí adj. în versuri; versificat; 
+poetic. 
+nezir s. jurământ; legământ. //
+●n e z i r e t m e k a făgădui; a promite; 
+a jura. 
+Nezire s. (antrop. f., arab.) 
+"Făgăduiala". 
+nezle s. guturai. 
+nezleotî s. (bot.) piretru (lat., 
+Anacylus pyrethrum). 
+nezretmek v.t. 1. a făgădui; a 
+promite. 2. a jura. 
+nezzet s. gust; savoare. 
+nezzetínekaraw s. degustare. 
+nezzetlí adj. gustos; cu un gust 
+plăcut; delicios; apetisant. 
+nezzetsíz adj. fără gust; searbăd; fad; 
+insipid. 
+nezzetsízlík s. lipsă de gust; 
+insipiditate. 
+nida s. 1. exclamaŃie; exclamare; 
+chemare. // ●n i da i ş a r e t í semnul 
+exclamării. 
+nifak s. discordie; dezbinare; 
+disensiune. 
+nifaklî adj. cu disensiuni; dezbinat; cu 
+discordie. 
+nigen num. (mong.) unu. 
+Niğer s. (topon.) Niger. 
+Niğeriye s. (topon.) Nigeria. 
+niğeriyelí s., adj. nigerian. 
+niğerlí s., adj. niger. 
+Nihat s. (antrop. f., arab.) “Culme”. 
+nihayet I. adv. în sfârşit; în fine; în 
+cele din urmă. II. s. sfârşit; terminare. 
+// ●n i h a y e t t a pm a k a se termina; 
+a se sfârşi. // ●n i h a y e t añ l a ş t î k 
+în sfârşit ne-am înŃeles. 
+nihayetberúw s. finalizare. 
+nihayetlí adj. sfârşit; terminat. 
+nihayetsíz adj. nesfârşit; fără sfârşit; 
+infinit. 
+nihayetsízlík s. infinit; abis; 
+imensitate. 
+nihayettapkan adj. finalizat. 
+nihayiy adj. sfârşit; terminat. 
+nihilism s. (fil.) nihilism. 
+nihilist s., adj. nihilist. 
+Nikaraguwa s. (topon.) Nicaragua. 
+nikaraguwalî s., adj. nicaraguan. 
+nikáa s. cununie; căsătorie. //
+●n i k á a k î ym a k a cununa. //
+●m e d e n i y n i k á a cununie civilă. 
+nikáalamak v.t. a cununa; a căsători. 
+nikáalangan adj. cununat; căsătorit. 
+nikáalanma s. cununie; căsătorie. 
+nikáalanmak v.i. a se cununa; a se 
+căsători. 
+nikáalanuw s. cununie; căsătorie. 
+nikáalaşmak v.i. a se cununa; a se 
+căsători. 
+nikáalî adj. cununat; căsătorit. 
+nikáasîz adj. necununat; necăsătorit. 
+nikáatîşî adj. extraconjugal; 
+extramarital. 
+Nikár/Negár s. (antrop. f., prsn.) “Cea 
+iubită”. 
+nikbet adj. (fiz.) incident. 
+nikb in adj. optimist. 
+nikel s. (chim.) nichel. 
+nikelleme s. nichelare. 
+nikellemek v.t. a nichela. 
+nikellengen adj. nichelat. 
+nikellenmek v.i. a se nichela. 
+nikellí adj. nichelat. 
+Nikobar-kógerşíní s. (orn.) porumbel 
+nicobar (lat., Caloenas 
+nicobarica). 
+nikotina s. nicotină. 
+Nil-aykabag î s. (orn.) lăcar de Nil 
+(lat., Acro cephalus stentoreus). 
+Nil-şîbaw î s. (orn.) lăcar de Nil (lat., 
+Acrocep halus stentoreus). 
+nilúfer, ak- s. (bot.) nufăr-alb; 
+nenufar-alb (lat., Nymphaea 
+alba). 
+nilúfer, sarî - s. (bot.) nufăr-galben; 
+nenufar-galben (lat., Nupha r 
+lutea). 
+nim adj. semi-; demi-. 
+nimet s. 1. bine; binefacere; favoare. 
+2. existenŃă; întreŃinere. 
+Nimet s. (antrop. m., arab.) 
+"Binefacerea" (unul din cele 400 de 
+nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+nimetlí s. binefăcător. 
+nimetşúnas s., adj. binefăcător; 
+filantrop. 
+nimetşúnaslîk s. binefacere; 
+filantropie. 
+Nimetulla(h) s. (antrop. m., arab.) 
+"Binefacerea lui Allah/Dumnezeu". 
+nimfa s. nimfă. 
+nimfaal adj. semiactiv. 
+nimfaaliyet s. semiactivitate. 
+nimmemnun adj. semisatisfăcut. 
+nimmuzlim s. amurg; crepuscul; 
+semiîntuneric. 
+nimresm iy adj. semioficial. 
+nimsaydam adj. (fiz.) translucid; 
+semitransparent. 
+nimsegúder s. penumbră. 
+nimzulmet s. penumbră. 
+ninn iy s. cântec de leagăn. 
+nirengiy s. (topogr.) triangulaŃie. 
+nisan s. (cron.) aprilie. // ●b ú gú n 
+y ed í n i s a n azi este şapte aprilie. 
+●n i s a n a y î n da în luna aprilie. 
+nispet s. 1. proporŃie; raport. 2. 
+legătură; raport; relaŃie. // ●n i s p e t 
+b o lm a k a fi raportat la…; a se 
+compara. ●n i s p e t e tm e k a raporta 
+la…; a compara. // ●g e ş en 
+z em an e g e n i s p e t í m en 
+comparativ cu timpul trecut. ●n i s p e t 
+a lm a ş l î g î (gram.) pronume relativ. 
+●n i s p e t ğúm l e ş í g í (gram.) 
+propoziŃie relativă. ●t e r s n i s p e t l í 
+(mat.) invers proporŃional. 
+nispetlí adj. 1. proporŃionat. 2. cu 
+legătură; cu raport; cu relaŃie. 
+nispetsíz adj. 1. disproporŃionat. 2. 
+fără legătură; fără raport; fără relaŃie.
+şaba s. efort; strădanie. 
+Şabaddin/Şehabadd in/Şehabattin 
+s. (antrop. m., arab.) “Luceafărul 
+credinŃei”. 
+şabalama s. strădanie; osteneală; 
+silinŃă; zbatere. 
+şabalamak v.i. a se strădui; a depune 
+efort. 
+şabalanma s. strădanie; osteneală; 
+silinŃă; zbatere. // ●ğú r e k 
+ş a b a l a nm a s î (med.) palpitaŃie. 
+şabalanmak v.i. a se zbate; a se 
+strădui; a depune efort. 
+şabalanuw s. strădanie; osteneală; 
+silinŃă; zbatere. 
+şabalaw s. strădanie; osteneală; 
+silinŃă; zbatere. 
+şabalît s. 1. castană necomestibilă. 2. 
+(bot.) castan-sălbatic (lat., 
+Aesculus hippocastanum). 
+şabalît, kîrmîzî- s. (bot.) castan-roşu 
+(lat., Aescul us carnea). 
+şabalîtreng í adj. castaniu. 
+Şaban s. (cron.) a 8-a lună a anului 
+conform calendarului musulman. //
+●Ş a b a n ú l-m uw a z z am (cron.) 
+Şaban cel măreŃ. 
+şabîp-atîlgan adj. avântat; lansat. 
+şabîp-atîlma s. avânt; elan; lansare; 
+Ńâşnire; zvâcnire. 
+şabîş s. 1. întrecere; concurs; 
+competiŃie. 2. (sport) partidă; joc; meci. 
+şabîşç î s. concurent; competitor. 
+şabîşkan s. competitor; concurent. 
+şabîşma s. 1. întrecere; concurs; 
+competiŃie. 2. (sport) partidă; joc; meci. 
+// ●ş a b î şm a a t î cal de curse. 
+şabîşmak v.i. a se întrece; a concura. 
+şabîşuw s. 1. întrecere; concurs; 
+competiŃie. 2. (sport) partidă; joc; meci. 
+şablon s. (tehn.) şablon. 
+şabuw s. 1. alergare; fugă; goană. 2. 
+lansare; azvârlire; aruncare; 
+catapultare. 3. galop. 
+şad adj. fericit; vesel. 
+şadara s. sită; ciur. 
+şadaralama s. 1. ciuruire; trecere prin 
+ciur; cernere. 2. (fig.) alegere; 
+selecŃionare. 3. (sport) eliminare. 
+şadaralamak v.t. 1. a ciurui; a trece 
+prin ciur; a cerne. 2. (fig.) a alege; a 
+selecŃiona. 3. (sport) a elimina. 
+şadaralangan adj. 1. ciuruit; trecut 
+prin ciur; cernut. 2. (fig.) ales; 
+selecŃionat. 3. (sport) eliminat. 
+şadaralaw s. 1. ciuruire; trecere prin 
+ciur; cernere. 2. (fig.) alegere; 
+selecŃionare. 3. (sport) eliminare. 
+Şadiy s. (antrop. m., arab.) 
+“CântăreŃul”. 
+Şadiye s. (antrop. f., arab.) 
+“CântăreaŃa”. 
+şadîr I. adj. corturăresc. II. s. iurtă; 
+cort. // ●ş ad î r k u rm a k a instala 
+cortul. ●ş ad î r da y a ş am a k a 
+umbla cu cortul. // ●ş a d î r t í r e g í 
+Ńăruş. ●ş a d î r y a p r a g î / b e z í foaie 
+de cort. ●ş í ñ g e n e ş ad î r î şatră. 
+şadîrğî s. corturar. 
+şadîrşeşegí s. (bot.) bulbuci (lat., 
+Campan ula tracheliu m). 
+şadîrvan s. 1. fântână arteziană. 2. 
+(la musulmani) fântână pentru 
+abluŃiune. 
+şadra s. văl; voal. // ●ş a d r a s î n 
+a tm a k a-şi arunca vălul de pe frunte; 
+a se emancipa. 
+şadraaşmasî s. dezvăluire; divulgare. 
+şadraatuw s. aruncarea vălului; 
+emancipare. 
+şadralî adj. cu văl; cu voal. 
+şadrasînatkan adj. care şi-a aruncat 
+vălul; emancipat. 
+şadrasîz adj. fără văl; fără voal; 
+dezvăluit. 
+şadrataguw s. acoperire cu văl; 
+învăluire. 
+şadratakkan adj. acoperit cu văl; 
+învăluit. 
+şafak s. zori de zi; auroră; aureolă; 
+halo. // ●ş a fa k a tm a k a se revărsa 
+zorile. 
+şafakatuw s. luminare de ziuă. 
+şafiy adj. tămăduitor; vindecător; 
+lecuitor; curativ. 
+Şafiy s. (antrop. m., arab.) 
+"Tămăduitorul" (unul din cele 400 de 
+nume atribuite în Coran Profetului 
+Muhammed Aliyselam). 
+şaga s. prunc; copilaş; sugar; sugaci; 
+nou-născut. // ●ş a ga l a r b a k ş a s î 
+grădiniŃă de copii. 
+şagalîk s. copilărie. 
+şagalîktan adv. din copilărie. 
+şagan adj. 1. alb; albinos. 2. (d. cai) 
+alb; bălan. 
+Şaganay s. (antrop. m.) "Lună albă". 
+şagangaşalar adj. alburiu; albicios. 
+şagangatartar adj. alburiu; albicios. 
+şaganlîk s. albinism. 
+şaganoz s. (zool.) crab (lat., 
+Carcin us maenas). 
+şagas îz adj. fără copii. 
+şagaş îk s. copilaş. 
+şagîlgan I. adj. 1. electric. 2. 
+scăpărat. II. s. 1. (jur.) pârât; 
+reclamat. 2. electricitate. //
+●ş a g î l ga n a g îm / ğ e r i y a n curent 
+electric. ●ş a g î l ga n an a t î k k î ş î 
+priză electrică. ●ş a g î l g an e r k e s í 
+energie electrică. ●ş a g î l g an ğa y î 
+arc electric. ●ş a g î l ga n h a t î linie 
+electrică. ●ş a g î l gan í ş l e tm e s í 
+centrală electrică. ●ş a g î l g an 
+s áá t í / s a y a ş î (electr.) contor 
+electric. ●ş a g î l g an ş eb e k e s í reŃea 
+electrică. ●ş a g î l ga n s o b a s î reşou 
+electric. ●ş a g î l g an t e l í fir electric. 
+●ş a g î l ga n t í r en ş rezistenŃă 
+electrică. ●ş a g î l g an t r a ş 
+m a ş i na s î maşină de ras electrică. 
+şagîlganfeniy adj. electrotehnic. 
+şagîlganfení s. electrotehnică. 
+şagîlganğî s. electrician. 
+şagîlganhaleketí I. adj. (fiz.) 
+electrodinamic. II. s. (fiz.) 
+electrodinamică. 
+şagîlganhaleketlí adj. (fiz.) 
+electrodinamic. 
+şagîlganhaleketsízlígí I. adj. (fiz.) 
+electrostatic. II. s. (fiz.) electrostatică. 
+şagîlganhaleketsízlíklí adj. (fiz.) 
+electrostatic. 
+şagîlgankimiya s. electrochimie. 
+şagîlgankimiyalî adj. electrochimic. 
+şagîlganlama s. electrizare; curentare; 
+electrocutare. 
+şagîlganlamak v.t. a electriza; a 
+curenta; a electrocuta. 
+şagîlganlangan adj. electrizat; 
+curentat; electrocutat. 
+şagîlganlanmak v.i. a se electriza; a 
+se curenta; a se electrocuta. 
+şagîlganlaşkan adj. electrificat. 
+şagîlganlaşma s. electrificare. 
+şagîlganlaşmak v.i. a se electrifica. 
+şagîlganlaştîrmak v.t. a electrifica. 
+şagîlganlaşuw s. electrificare. 
+şagîlganlaw s. electrizare; curentare; 
+electrocutare. 
+şagîlganlî adj. electric. //
+●ş a g î l ga n l î d ew r e circuit electric. 
+●ş a g î l ga n l î ğa r î k lumină 
+electrică. ●ş a g î l ga n l î 
+r ad i y a t o r n î ğ a g î ñ î z ! aprindeŃi 
+radiatorul electric!; ●ş a g î l ga n l î 
+s î p î r g a aspirator electric. 
+●ş a g î l ga n l î t r am v a y (transp.) 
+tramvai electric. ●ş a g î l g an l î t r en 
+(transp.) tren electric. 
+şagîlganlîğúreks îzgasî s. 
+electrocardiogramă; electrocardiografie. 
+şagîlganlîk s. electricitate. 
+şagîlganlîkaálbiys îzga s. 
+electrocardiogramă; electrocardiografie. 
+şagîlganlîkutup s. electrod. 
+şagîlganlîmotor s. electromotor. 
+şagîlganlîtedaviy s. (med.) 
+electroterapie. 
+şagîlganlîterapiya s. (med.) 
+electroterapie. 
+şagîlganlîtírmen s. râşniŃă electrică. 
+şagîlganmîknatîs s. (fiz.) 
+electromagnet. 
+şagîlganmîknatîslî adj. (fiz.) 
+electromagnetic. //
+●ş a g î l ga nm î k n a t î s l î 
+da l g a / du l k un undă 
+electromagnetică. 
+şagîlganólşer s. (electr.) electrometru. 
+şagîlma s. 1. (fiz.) reflectare. 2. 
+(gram.) onomatopee. 3. denunŃ; 
+trădare; pâră; reclamaŃie. 
+şagîlmak v.i. 1. a se scăpăra. 2. (fiz.) 
+a se reflecta. 3. a fi denunŃat; a fi 
+trădat; a fi pârât; a fi reclamat. 
+şagîlmalî adj. onomatopeic. 
+şagîm I. adj. (fiz.) electronic. II. s. 1. 
+fulger; scânteie; scăpărare. 2. (fiz.) 
+electron. 
+şagîmğî adj. scânteietor. 
+şagîmlama s. fulgerare; scânteiere; 
+scăpărare. 
+şagîmlamak v.t. a fulgera; a scânteia; 
+a scăpăra. 
+şagîmlangan adj. fulgerat; scânteiat; 
+scăpărat. 
+şagîmlanmak v.i. a se fulgera; a se 
+scânteia; a se scăpăra. 
+şagîmlaw s. fulgerare; scânteiere; 
+scăpărare. 
+şagîmlawğî adj. fulgerător; 
+scânteietor; scăpărător. 
+şagîmlî adj. (fiz.) electronic. 
+şagînda adv. în epoca; în timpul; pe 
+vremea când. 
+şagîndan adv. din epoca; din timpul; 
+de pe vremea când. 
+şagîr adj. 1. albastru deschis; bleu. 2. 
+(d. ochii unei fiinŃe) ceacâr. 
+şagîr-mandalak s. (bot.) scai-
+albastru; scai-vânăt (lat., Ery n gium 
+planum). 
+şaguw s. 1. scânteiere; scăpărare. 2. 
+înfigere; înŃepare. 3. reclamaŃie; pâră; 
+denunŃ; dare în vileag. 4. înŃelegere; 
+discernământ; dumirire. 5. (fiz.) 
+reflexie. 6. (fiziol.) reflex. 
+şaguwdaş s. (fiz.) reflector. 
+şaguwğî adj. 1. denunŃător; trădător; 
+reclamant. 2. scăpărător. 3. reflectant.
