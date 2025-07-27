@@ -344,7 +344,7 @@ Orthography:
 II. Lexicon (Significant Divergence):
 DT often prefers different (though usually related Turkic) lexical items for common words compared to SCT. This requires a lexical substitution list. PRIORITIZE DT LEXICAL ITEMS FROM EXAMPLES AND DICTIONARY.
 - Replacement of Loanwords: Russian and Ukrainian loanwords common in Standard Crimean Tatar should generally be replaced with appropriate Romanian, Turkish, or natively derived (often Arabic/Persian based) alternatives in Dobrujan Tatar.
-- SCT: kənd (village) -> DT: kóy
+- SCT: köy (village) -> DT: kóy
 - SCT: qayıtmaq (to return) -> DT: kelmek (to come/arrive, implying return)
 - SCT: çoq (much, very) -> DT: kóp
 - SCT: büyük (big) -> DT: balaban
@@ -365,7 +365,7 @@ Comitative (Postposition "with") / Conjunction ("and"):
   - SCT: menimle (with me) -> DT: men men
   - SCT: seninle (with you sg.) -> DT: sen men
   - SCT: biznen (with us) -> DT: bíz men
-  - As conjunction: "et men balîk" (meat and fish), "kola man şips" (cola and chips).
+  - As conjunction: "et men balîk" (meat and fish), "kola man çips" (cola and chips).
 
 Future Tense:
 - SCT -AcAK/-EcEK. DT seems to use -AğaK/-eğeK (intervocalic k->ğ).
@@ -410,8 +410,8 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - SCT: onen (onunla - with him/her/it) -> Crimean Tatar (RO): O men
 - SCT: bizimle (with us) -> Crimean Tatar (RO): Bíz men (Note: "biz" becomes "bíz" before "men" or other suffixes)
 - SCT: siznen (sizinle - with you pl.) -> Crimean Tatar (RO): Síz men (Note: "siz" likely becomes "síz")
-- SCT: olarnen (onlarla - with them) -> Crimean Tatar (RO): Olar men / Onlar men
-- Example: "Ali ile" (with Ali) -> Crimean Tatar (RO): Ali men
+- SCT: olarnen (onlarla - with them) -> Crimean Tatar (RO): Olar man / Onlar man
+- Example: "Ali ile" (with Ali) -> Crimean Tatar (RO): Aliy men
 
 **2. Vowel Reduction/Changes in Roots and Pronouns:**
 - **i -> í in pronouns before suffixes:**
@@ -436,19 +436,19 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - SCT c (letter, sound /dʒ/) -> Crimean Tatar (RO) ğ (letter, sound /dʒ/) (MANDATORY CHANGE)
 - SCT ğ (letter, sound /ɣ/ or /ʁ/) -> Crimean Tatar (RO) g (letter, sound /g/ with variants including /ʁ/-like)
 - SCT Hh:
-    - Often naturalized. Academic "Hava". Naturalized from Arabic "hawā'" -> Crimean Tatar (RO) "Awa".
+    - Often naturalized. Academic "Hava". Naturalized from Arabic "hawā'" -> Crimean Tatar (RO) "Awa" / "Hawa".
 - SCT initial Y- can sometimes become Crimean Tatar (RO) Ğ- in specific words:
     - SCT: Yumurta -> Crimean Tatar (RO) (potential): Ğîmîrta.
 
 **Examples (SCT -> Crimean Tatar (RO)):**
 
-- SCT: Babam kəndimizə qayıttı. (My father returned to our village.)
-  - Crimean Tatar (RO): Babam kendímíze kayîttî.
-  - (kəndimizə: SCT ə->e, SCT i->RO í; qayıttı: SCT q->RO k, SCT ı->RO î)
+- SCT: Babam köyümizge qayıttı. (My father returned to our village.)
+  - Crimean Tatar (RO): Babam kóyímízge kayîttî.
+  - (kóyímízge: SCT ö->ó, SCT i->RO í; qayıttı: SCT q->RO k, SCT ı->RO î)
 
 - SCT: Bu kitabnıñ fiyatı çoq pahalı. (The price of this book is very expensive.)
-  - Crimean Tatar (RO): Bo kítabnîñ píyatî şok pahalî.
-  - (Bu->Bo; kitabnıñ: SCT i->RO í, SCT ı->RO î; fiyatı: SCT f->RO p, SCT i->RO í, SCT ı->RO î; çoq: SCT ç->RO ş, SCT o->RO o, SCT q->RO k; pahalı: SCT ı->RO î)
+  - Crimean Tatar (RO): Bo kitabnîñ píyatî kóp pahalî.
+  - (Bu->Bo; kitabnıñ: SCT i->RO i, SCT ı->RO î; fiyatı: SCT f->RO p, SCT i->RO í, SCT ı->RO î; çoq: SCT çoq->RO kóp; pahalı: SCT ı->RO î)
 
 - SCT: O, Türkiye'den kelgen bir müsafir. (He is a guest who came from Turkey.)
   - Crimean Tatar (RO): O Túrkíye'den kelgen bír músafír.
@@ -479,8 +479,8 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - (Seninle -> Sen men; kim -> kím)
 
 - SCT: Armutnıñ dadı pek yahşı. (The taste of the pear is very good.)
-  - Crimean Tatar (RO): Armîtnîñ tadî pek ğahşî.
-  - (Armutnıñ -> Armîtnîñ (SCT u->RO î in root); dadı -> tadî (SCT ı->RO î); yahşı -> ğahşî (significant lexical difference for "good/well"))
+  - Crimean Tatar (RO): Armîtnîñ dadî pek ğahşî.
+  - (Armutnıñ -> Armîtnîñ (SCT u->RO î in root); dadı -> dadî (SCT ı->RO î); yahşı -> ğahşî (significant lexical difference for "good/well"))
 
 - SCT: Onlar bizge yardım etti. (They helped us.)
   - Crimean Tatar (RO): Onlar bízge ğardîm ettí.
@@ -499,8 +499,8 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - (babalarıman -> babalarî men (SCT ı->RO î); kettiler -> kettíler (SCT i->RO í))
 
 - SCT: Biz muallimimiznen lafettik. (We spoke with our teacher.)
-  - Crimean Tatar (RO): Bíz muallimímíz men lafettík.
-  - (Biz -> Bíz; muallimimiznen -> muallimímíz men (SCT i->RO í in possessive); lafettik -> lafettík (SCT i->RO í))
+  - Crimean Tatar (RO): Bíz muwallímímíz men lafettík.
+  - (Biz -> Bíz; muallimimiznen -> muwallímímíz men (SCT i->RO í in possessive); lafettik -> lafettík (SCT i->RO í))
 
 - SCT: Yumurtanıñ sarısı faydalı. (The yolk of the egg is useful.)
   - Crimean Tatar (RO) (hypothesized): Ğîmîrtanîñ sarîsî paydalî. (Alternative, if the u->î change in 'yumurta' is less certain or does not occur: Ğumurtanîñ sarîsî paydalî)
@@ -716,8 +716,8 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: pa; English: bye; Crimean Tatar (RO): kóríşkenşe
 - Romanian: ce faci?; English: what are you doing? / how are you?; Crimean Tatar (RO): ka-tesíñ?
 - Romanian: cum ești?; English: how are you?; Crimean Tatar (RO): ka-tesíñ?
-- Romanian: sunt bine; English: I am fine / I am well; Crimean Tatar (RO): árúwman
-- Romanian: bine, mulțumesc; English: fine, thank you; Crimean Tatar (RO): árúwman, saw bolîñîz
+- Romanian: sunt bine; English: I am fine / I am well; Crimean Tatar (RO): árúwmen
+- Romanian: bine, mulțumesc; English: fine, thank you; Crimean Tatar (RO): árúwmen, saw bolîñîz
 - Romanian: mulțumesc; English: thank you (polite); Crimean Tatar (RO): saw bolîñîz
 - Romanian: mersi; English: thanks (informal); Crimean Tatar (RO): saw bol
 - Romanian: mulţumesc mult; English: thank you very much; Crimean Tatar (RO): kóp saw bolîñîz
@@ -728,17 +728,17 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: îmi pare rău; English: I am sorry; Crimean Tatar (RO): yazîklar bolsîn
 - Romanian: da; English: yes; Crimean Tatar (RO): e
 - Romanian: nu; English: no; Crimean Tatar (RO): yok
-- Romanian: poate; English: maybe / perhaps; Crimean Tatar (RO): belki
+- Romanian: poate; English: maybe / perhaps; Crimean Tatar (RO): belkí
 - Romanian: desigur; English: of course / surely; Crimean Tatar (RO): elbet
 - Romanian: sigur; English: sure / certain; Crimean Tatar (RO): şúpesíz
 - Romanian: felicitări!; English: congratulations!; Crimean Tatar (RO): hayîrlî bolsîn!
-- Romanian: succes!; English: good luck! / success!; Crimean Tatar (RO): uğurlar bolsîn!
+- Romanian: succes!; English: good luck! / success!; Crimean Tatar (RO): ugurlar bolsîn!
 - Romanian: noroc!; English: good luck!; Crimean Tatar (RO): şans bolsîn!
-- Romanian: sănătate! (la strănut); English: bless you! (after sneeze); Crimean Tatar (RO): Allah rahmet eylesin
+- Romanian: sănătate! (la strănut); English: bless you! (after sneeze); Crimean Tatar (RO): Allah rahmet eylesín
 - Romanian: sănătate! (toast); English: cheers! / to your health!; Crimean Tatar (RO): sawlîgîñîzga!
 - Romanian: poftă bună!; English: enjoy your meal! / bon appétit!; Crimean Tatar (RO): aşîñîz tatlî bolsîn!
 - Romanian: drum bun!; English: have a good trip! / safe journey!; Crimean Tatar (RO): yolîñîz aşîk bolsîn!
-- Romanian: cine?; English: who?; Crimean Tatar (RO): kim?
+- Romanian: cine?; English: who?; Crimean Tatar (RO): kím?
 - Romanian: ce?; English: what?; Crimean Tatar (RO): ne?
 - Romanian: unde?; English: where?; Crimean Tatar (RO): kayda?
 - Romanian: când?; English: when?; Crimean Tatar (RO): kaşan?
@@ -749,15 +749,15 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: cât? (preț); English: how much? (price); Crimean Tatar (RO): kaş para?
 - Romanian: câți?; English: how many?; Crimean Tatar (RO): kaş tane?
 - Romanian: câte?; English: how many?; Crimean Tatar (RO): kaş tane?
-- Romanian: al cui?; English: whose?; Crimean Tatar (RO): kimníñ?
+- Romanian: al cui?; English: whose?; Crimean Tatar (RO): kímníñ?
 - Romanian: cum te cheamă?; English: what is your name?; Crimean Tatar (RO): adîñîz ne?
 - Romanian: cum îl cheamă?; English: what is his/her name?; Crimean Tatar (RO): onîñ adî ne?
-- Romanian: de unde ești?; English: where are you from?; Crimean Tatar (RO): kaydan keleşíñíz?
+- Romanian: de unde ești?; English: where are you from?; Crimean Tatar (RO): kaydan kelesíñíz?
 - Romanian: ce este asta?; English: what is this?; Crimean Tatar (RO): bo ne?
-- Romanian: înțelegi?; English: do you understand?; Crimean Tatar (RO): añlaysîñmî?
-- Romanian: înțelegeți?; English: do you understand? (polite/plural); Crimean Tatar (RO): añlaysîñîzmî?
-- Romanian: vorbiți tătară?; English: do you speak Tatar?; Crimean Tatar (RO): tatarşa bilesíñízmí?
-- Romanian: poți să mă ajuți?; English: can you help me?; Crimean Tatar (RO): maga yardîm ete bilesíñízmí?
+- Romanian: înțelegi?; English: do you understand?; Crimean Tatar (RO): añlaysîñ mî?
+- Romanian: înțelegeți?; English: do you understand? (polite/plural); Crimean Tatar (RO): añlaysîñîz mî?
+- Romanian: vorbiți tătară?; English: do you speak Tatar?; Crimean Tatar (RO): tatarşa bílesíñíz mí?
+- Romanian: poți să mă ajuți?; English: can you help me?; Crimean Tatar (RO): maga yardîm ete bílesíñíz mí?
 - Romanian: unde este toaleta?; English: where is the toilet?; Crimean Tatar (RO): ayakyolî kayda?
 - Romanian: cât e ceasul?; English: what time is it?; Crimean Tatar (RO): sáát kaş?
 - Romanian: om; English: person / man; Crimean Tatar (RO): adam
@@ -803,7 +803,7 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: universitate; English: university; Crimean Tatar (RO): darúlfúnun
 - Romanian: magazin; English: shop / store; Crimean Tatar (RO): dúkân
 - Romanian: piață; English: market; Crimean Tatar (RO): pazar
-- Romanian: spital; English: hospital; Crimean Tatar (RO): hastahane
+- Romanian: spital; English: hospital; Crimean Tatar (RO): kastahane
 - Romanian: geamie; English: mosque; Crimean Tatar (RO): ğamí
 - Romanian: moschee; English: mosque; Crimean Tatar (RO): ğamí
 - Romanian: drum; English: road / way; Crimean Tatar (RO): yol
@@ -838,8 +838,8 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: pâine; English: bread; Crimean Tatar (RO): ótmek
 - Romanian: carne; English: meat; Crimean Tatar (RO): et
 - Romanian: lapte; English: milk; Crimean Tatar (RO): sút
-- Romanian: ou; English: egg; Crimean Tatar (RO): yîmîrta
-- Romanian: fruct; English: fruit; Crimean Tatar (RO): yemiş
+- Romanian: ou; English: egg; Crimean Tatar (RO): ğîmîrta
+- Romanian: fruct; English: fruit; Crimean Tatar (RO): yemíş
 - Romanian: legumă; English: vegetable; Crimean Tatar (RO): sebze
 - Romanian: carte; English: book; Crimean Tatar (RO): kitap
 - Romanian: cărții (dativ); English: to the book (dative); Crimean Tatar (RO): kitapka
@@ -850,7 +850,7 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: haine; English: clothes; Crimean Tatar (RO): urba
 - Romanian: pat; English: bed; Crimean Tatar (RO): tóşek
 - Romanian: masă (mobilă); English: table; Crimean Tatar (RO): masa
-- Romanian: scaun; English: chair; Crimean Tatar (RO): skemle
+- Romanian: scaun; English: chair; Crimean Tatar (RO): ískembe
 - Romanian: ușă; English: door; Crimean Tatar (RO): kapî
 - Romanian: fereastră; English: window; Crimean Tatar (RO): tereze
 - Romanian: copac; English: tree; Crimean Tatar (RO): terek
@@ -863,7 +863,7 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: lună (corp ceresc); English: moon; Crimean Tatar (RO): ay
 - Romanian: stea; English: star; Crimean Tatar (RO): yîldîz
 - Romanian: cer; English: sky; Crimean Tatar (RO): kók
-- Romanian: pământ (planetă/sol); English: earth / soil; Crimean Tatar (RO): yer
+- Romanian: pământ (planetă/sol); English: earth / soil; Crimean Tatar (RO): ğer
 - Romanian: munte; English: mountain; Crimean Tatar (RO): taw
 - Romanian: mare (subst.); English: sea; Crimean Tatar (RO): deñíz
 - Romanian: râu; English: river; Crimean Tatar (RO): ózen
@@ -884,15 +884,15 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: plin; English: full; Crimean Tatar (RO): tolî
 - Romanian: gol; English: empty; Crimean Tatar (RO): boş
 - Romanian: rapid; English: fast / quick; Crimean Tatar (RO): tez
-- Romanian: încet; English: slow; Crimean Tatar (RO): yavaş
+- Romanian: încet; English: slow; Crimean Tatar (RO): yawaş
 - Romanian: mult; English: much / many / a lot; Crimean Tatar (RO): kóp
 - Romanian: puțin; English: little / few / a bit; Crimean Tatar (RO): az
-- Romanian: aici; English: here; Crimean Tatar (RO): mînda
+- Romanian: aici; English: here; Crimean Tatar (RO): mínda
 - Romanian: acolo; English: there; Crimean Tatar (RO): şonda
 - Romanian: foarte; English: very; Crimean Tatar (RO): pek
 - Romanian: aproape; English: near / close; Crimean Tatar (RO): yakîn
 - Romanian: departe; English: far; Crimean Tatar (RO): uzak
-- Romanian: corect; English: correct / right; Crimean Tatar (RO): doğrî
+- Romanian: corect; English: correct / right; Crimean Tatar (RO): dogrî
 - Romanian: greșit; English: wrong / incorrect; Crimean Tatar (RO): yañgîş
 - Romanian: ușor (nu greu); English: easy; Crimean Tatar (RO): kolay
 - Romanian: greu (nu ușor); English: difficult / hard; Crimean Tatar (RO): kîyîn
@@ -1235,6 +1235,7 @@ In Crimean Tatar (Romania) the word "and" can be expressed using "man" or "men",
 - túrúkşe I. adv. turceşte; în limba turcă. II. s. (limba) turcă.
 - kîtayğa I. adv. în limba chineză; chinezeşte. II. s. (limba) chineză.
 - arapşa I. adv. arăbeşte; în limba arabă. II. s. (limba) arabă.
+- kazakşa I. adv. româneşte; în limba română. II. s. (limba) română.
 --- End of Language Names in Crimean Tatar (RO) ---
 
 --- Start of Additional Example Texts ---
