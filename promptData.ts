@@ -336,7 +336,7 @@ Consonant Shifts (Significant & Common):
 - SCT F -> DT P (Authentic): Common for naturalized words. F for academic loans. Ex: SCT: fayda -> DT: payda
 - SCT V -> DT W (Authentic) or B: Common for naturalized words. V for academic loans. Ex: SCT: vatan -> DT: watan; SCT: suv -> DT: suw
 - Initial SCT D- -> DT T- (Specific Lexical Items - Devoicing): Ex: SCT: düşünce -> DT: túşúnğe.
-- Prothetic w- before initial u- (Specific Verbs): Ex: SCT: urmaq -> DT: wurmaq
+- Prothetic w- before initial u- (Specific Verbs): Ex: SCT: urmaq -> DT: wurmak
 
 Orthography:
 - Interrogative Particle mî/mí: Written as a separate word in DT. Ex: SCT: keleceksizmi? -> DT: keleğeksíz mí?
@@ -356,7 +356,7 @@ DT often prefers different (though usually related Turkic) lexical items for com
 - SCT: göl (lake) -> DT: kól
 - SCT: armut (pear) -> DT: armît
 - SCT: yemek (food - as option) -> DT: ğemek
-- SCT: yatmaq (to lie/sleep - for animals) -> DT: ğatmaq
+- SCT: yatmaq (to lie/sleep - for animals) -> DT: ğatmak
 
 III. Grammar & Morphology:
 
@@ -466,7 +466,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - (Üç: SCT Ü->RO Ú, SCT ç->RO ş; balıq: SCT ı->RO î, SCT q->RO k; suvda: SCT v->RO w; yüze: SCT ü->RO ú; edi->edí (SCT i->RO í))
 
 - SCT: Hava bugün pek suvuk. (The weather is very cold today.)
-  - Crimean Tatar (RO): Awa bugún pek suwuk. (SCT Hava -> RO Awa, naturalized)
+  - Crimean Tatar (RO): Hawa bugún pek suwuk. (SCT Hava -> RO Hawa, naturalized)
   - (bugün: SCT ü->RO ú; suvuk: SCT v->RO w)
 
 - SCT: Mektepniñ çetinde büyük bir terek bar. (There is a big tree next to the school.)
@@ -725,7 +725,7 @@ Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşla
 - Romanian: scuză-mă; English: excuse me / sorry; Crimean Tatar (RO): keşíríñíz
 - Romanian: pardon; English: pardon me / sorry; Crimean Tatar (RO): keşíríñíz
 - Romanian: îmi pare rău; English: I am sorry; Crimean Tatar (RO): yazîklar bolsîn
-- Romanian: da; English: yes; Crimean Tatar (RO): e
+- Romanian: da; English: yes; Crimean Tatar (RO): ya
 - Romanian: nu; English: no; Crimean Tatar (RO): yok
 - Romanian: poate; English: maybe / perhaps; Crimean Tatar (RO): belkí
 - Romanian: desigur; English: of course / surely; Crimean Tatar (RO): elbet
@@ -1286,7 +1286,7 @@ Nebatat alanînda uzman bolmagan kíşílerge yardîmğîlîk umutî man, bo kit
 - English: five - Dobrujan Tatar (Crimean Tatar RO): beş
 - English: big - Dobrujan Tatar (Crimean Tatar RO): úyken, balaban
 - English: long - Dobrujan Tatar (Crimean Tatar RO): uzîn
-- English: wide - Dobrujan Tatar (Crimean Tatar RO): keñíş
+- English: wide - Dobrujan Tatar (Crimean Tatar RO): geñíş
 - English: thick - Dobrujan Tatar (Crimean Tatar RO): irí
 - English: heavy - Dobrujan Tatar (Crimean Tatar RO): awîr
 - English: small - Dobrujan Tatar (Crimean Tatar RO): kíşkene
