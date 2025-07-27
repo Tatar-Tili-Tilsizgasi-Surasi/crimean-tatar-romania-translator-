@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Alpha_Z_Crimean Tatar (RO) Translator",
+  "name": "Crimean Tatar (RO) Translator",
   "description": "A web application to translate text between Crimean Tatar (Romania), English, and Romanian using the Gemini API.",
   "requestFramePermissions": [],
   "prompt": ""
