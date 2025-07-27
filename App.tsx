@@ -196,7 +196,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center text-slate-500 mt-10 text-xs sm:text-sm">
-        Powered by Google Gemini API. UI by AI.
+        Tatar Tílí Tílsîzgasî Şurasî<br></br>Powered by Google Gemini API. UI by AI.
       </footer>
     </div>
   );
