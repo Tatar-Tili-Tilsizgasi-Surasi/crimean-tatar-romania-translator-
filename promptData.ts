@@ -1209,7 +1209,9 @@ In Crimean Tatar (Romania) the word "and" can be expressed using "man" or "men",
   - et men balîk (meat and fish)
   - kartiy men kartba (Grandmother and Grandfather)
 - "man" is used with back-vowel words:
-  - kola man şips (cola and chips)
+  - kola man çips (cola and chips)
+  - mîşîk man it (cat and dog)
+  - Osman man Orhan (Osman and Orhan)
 --- End of Conjunctions "man" and "men" ---
 
 --- Start of Abbreviations ---
