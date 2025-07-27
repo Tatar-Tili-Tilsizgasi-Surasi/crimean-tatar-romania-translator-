@@ -339,7 +339,7 @@ Consonant Shifts (Significant & Common):
 - Prothetic w- before initial u- (Specific Verbs): Ex: SCT: urmaq -> DT: wurmaq
 
 Orthography:
-- Interrogative Particle mı/mi/mu/mú/mî/mí: Written as a separate word in DT. Ex: SCT: keleceksizmi? -> DT: keleğeksíz mí?
+- Interrogative Particle mî/mí: Written as a separate word in DT. Ex: SCT: keleceksizmi? -> DT: keleğeksíz mí?
 
 II. Lexicon (Significant Divergence):
 DT often prefers different (though usually related Turkic) lexical items for common words compared to SCT. This requires a lexical substitution list. PRIORITIZE DT LEXICAL ITEMS FROM EXAMPLES AND DICTIONARY.
@@ -425,8 +425,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - SCT i -> Crimean Tatar (RO) í (very common reduction, except in certain loanwords)
   - SCT ı -> Crimean Tatar (RO) î
   - SCT ü -> Crimean Tatar (RO) ú
-  - SCT ö -> Crimean Tatar (RO) ó (or o, Crimean Tatar (RO) lacks ö/ü)
-  - SCT ə (often written as 'e') -> Crimean Tatar (RO) e
+  - SCT ö -> Crimean Tatar (RO) ó (or o, Crimean Tatar (RO) lacks ö/ü) 
 
 **3. Consonant Transformations (SCT -> Crimean Tatar (RO), focusing on "authentic" pronunciation):**
 - SCT q -> Crimean Tatar (RO) k
