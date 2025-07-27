@@ -103,7 +103,7 @@ const App: React.FC = () => {
             Crimean Tatar (RO) Translator
           </h1>
           <p className="text-slate-400 mt-2 text-sm sm:text-base">
-            Translate between Crimean Tatar (Romania), English, and Romanian.
+            Translate between Crimean Tatar (Romania), English, and Romanian. Please note that typographical errors are possible.
           </p>
         </header>
 
