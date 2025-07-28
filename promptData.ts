@@ -822,80 +822,45 @@ Fondul de cuvinte al lucrării este înfăţişat cu următoarele particularită
 
 - nu s-a recurs la sistemul trimiterilor cu excepţia formelor abreviate ele unor cuvinte-titlu.
 
-Nădăjduiesc că această lucrare va stârni, prin informaţiile pe care le deţine, interesul tuturor vorbitorilor de tătară crimeană şi că va putea fi un instrument de lucru util unei mai bune cunoaşteri a limbii şi unei exprimări cât mai corecte în limba tătară crimeană.; Crimean Tatar (RO): Sózbaşî
- 
+Nădăjduiesc că această lucrare va stârni, prin informaţiile pe care le deţine, interesul tuturor vorbitorilor de tătară crimeană şi că va putea fi un instrument de lucru util unei mai bune cunoaşteri a limbii şi unei exprimări cât mai corecte în limba tătară crimeană.; 
+Crimean Tatar (RO): Sózbaşî
+
 Kolîñîzdakî sózlíkníñ múrsellerí kîrîm tatarlarnîñ tewúke, tíl men edebiyat aktaruwğîlarî, terğúmanlar, tílmaşlar, darúlfúnun úyrenğílerí, mektep talebelerí, kîrîm tatarşanî úyreneğek bolganlar man tíl bílíp tílín geñíşletmesín hewesínde tabîlganlardîr.
-
 25.832 başlîksózden ibaret kazakşa kesímíne, kazakşada sîk kullanîlgan bírtakîm látinğe sóz, aytîm man meseller de koştîm.
-
 Ózím kulagîm nogayğaga alîşîk bolmasa da, kîrîm tatarşa kesímíne, teşkergen kitaplarîmda tapkan nogayğa sózlerní de ayîrî tutmadan, onlarnî da koştîm.
-
 Ğalpak kîrîm tatarşanîñ tellafuzunda f, h, men v awazlarî tabîlmaganî úşún, kîrîm tatarşaga borîşka alîngan eğnebiy sózlerníñ yazîlmasîna kelgende, dewamdakîlarnî kózím aldînda tutup íş kórdím:
-
 Arapşa man ağemğeden tartîlîp f, h bír de h awazlarnî íşíndelegen sózlerní, kitapnîñ geñíşlígín sîradan şîgarmamaga, kóbísín sáde muwallímatşa yazîlmasî man geşírdím. Kitapnî aktarganlar, bo sózlerníñ hem bír muwallímatşa tellafuzî, hem ayîrî bír ya bírden fazla ğalpak tatarşa tellafuzî barîn unutmamalîdîr.
-
 Hep arapşa man ağemğeden tartîlîp tílímízde adamkîllî sáde ğalpak tatarşa tellafuzî man yerleşken sózlerní, ğalpak tatarşa yazîlmasî man geşírdím, mesela hazîr sózínden tartîlgan ázír sózní.
-
 Kúnbatar tíllerínden kelmeşík sózlerní sáde muwallîmatşasî man yazdîm.
-
 Sózlíkníñ geñíşlígí músaade etkení kadar, íşíne túrlí-túrlí alanlardan kelamlarnî geşírmege şalîştîm, uzabílímínden de, tîptan da, ómírbílímínden de, tílsîzgasîndan da, riyaziyetten de, felekiyattan da, we sayire. Karîştîrmalar man yañgîş terğúmelerní atlatmak úşún ósímlíkbílímíne, haywanatbílímíne, kuşbílímíne, balîkbílímíne bír de bóğekbílímíne ayîrî bír kóz men karap, bo dallardan sózlerge látinğe atamasîn da tírkeledím. 
-
 Sózlíktekí aytîmlarnî ayîrganda, hem hergún kerekken aytîmlarnî íşíndelemege karadîm, hem uzmanlîk dallardan aytîmlar da koşmaga karadîm. Kerek bolganda, sóz terğúmesí soñîna añlamlî úyrenekler de ekledím.
-
 Kitapnî aktarganda, íşíñízní kolaylaştîrmaga, bo íşlemníñ maksus işaretlerín bílmeñíz kerek:
-
 - bo kitapta dórt túrlí hárf bardîr, aşada aşîklanganday:
-
             1. - kalîn hárfler bolay-típ kullanîldî:
-
 - kazakşa başlîksózler úşún.
-
 - kazakşa sózníñ tílsîzgasî ğergelerín ayîrgan, roman rakamlarî úşún (I., II. we sayire).
-
 - kazakşa sózníñ tílsîzgasî astğergelerín ayîrgan, balaban hárfler úşún (A., B. we sayire).
-
 - kópmanalî kazakşa sózníñ añlamlarîn ayîrgan, arap rakamlarî úşún (1., 2. we sayire).
-
             2. - seğdelí kalîn hárfler şolay-típ şalîştîrîldî:
-
 - kazakşa bírleşken figeller men takîm figellerí úşún.
-
 - kazakşa múrekkep sózler, takîm sîfatlarî, takîm rewúşlerí, aytîmlar man úyreneklerní úşún.
-
             3. - seğdelí hárfler şay-típ íşletíldí:
-
 - tílsîzgasî aşîklamalarî úşún.
-
 - umumiy aşîklamalar úşún.
-
 - ósímlíklerníñ látinğe atamasî úşún, haywanlarnîñ látinğe atamasî úşún, we sayire.
-
             4. - sózlíkníñ tatarğasî bútúnliy sîradan hárfler men yazîldî.
-
 - bo sózlíkte, Búkreşt Darúlfúnununda, Eğnebiy Tíller we Edebiyatlar İhtiyariyesínde tóretílgen tatar elifbesínden paydalandîm. Bazî aydînlar bo elifbení kámil kórmeseler de, sozîkawazlarnîñ sesperdesín ela hálde ifade etkeníne, maga kóre bo elifbe kîrîm tatarşasîna kullanîlgan başka elifbelerden sózsíz-suwalsîz ústúndúr ("Kîrîm tatarğanîñ elifbesí" sayîpasîn da bír kózden geşíríñíz).
-
 - bo kitapta, kazakşa başlîksózler elifbe sîralamasî man kayîtka alînîp, her kazakşa başlîksózníñ artîndan tílsîzgasî ğergesí aşîklanîp, ondan soñra da kîrîm tatarğasî geşíríldí.
-
 - tílsîzgasî aşîklamalar man kullanîm alanlarî kîskartîlîp yazîlgandîr ("Kîskartmalar" sayîpasîn da bír kózden geşíríñíz).
-
 - eşañlamlî terğúmelerníñ arasîna noktalî otîr kondîrîldî (;).
-
 - bútún kîrîm tatar koşîmğalarnîñ aldîna bírer sîzîkşîk sîzîldî (-).
-
 - kitapnîñ kîrîm tatarğasînda, ihtiyariy koşîmğalar tîrnaklarnîñ ( ) arasîna alîndî. Sóz mesela: katîrkulak(lî) hem katîrkulak şekílínde íşler, hem katîrkulaklî şekílínde íşler.
-
 - eşañlamlî atamalarnîñ arasîna kaşay sîzîk (/) kullanîldî. Kaşay sîzîk hem kazakşada, hem kîrîm tatarşada faaliyettedír.  Sóz mesela:  a cădea/intra în păcat hem a cădea în păcat dep okîlîr, hem de a intra în păcat dep okîlîr. Tot astfel: yîllîk/ğîllîk/senelík tasawur hem yîllîk tasawur dep okîlîr, hem ğîllîk tasawur dep okîlîr, hem de senelík tasawur dep okîlîr. Şoga uşap ta, koşîmğa takîmî: -îp/-íp/-up/-úp hem -îp, hem -íp, hem -up, hem de -úp okîlîp dogrî şekílníñ ayîrmasî, sozîkawaz ses uyumuna kóre, tírkeleme wakîtîna kalîr.
-
 - kazakşada, bútún bírleşken figeller men bútún takîm figellerníñ aldîna balaban orta nokta salîndî (●);  bo bírleşken figeller men takîm figellerí bír araga ketíríp bír bólík kuruldî, bólíkníñ aldî da koşak kaşay sîzîk man (//) wurgulandî.
-
 - kazakşada, bútún múrekkep sózler, bútún takîm sîfatlarî, bútún takîm rewúşlerí, bútún aytîmlar man bútún úyreneklerníñ aldîna balaban orta nokta salîndî (●);  bonlarnî da bír araga ketíríp bír bólík kuruldî, bólíkníñ aldî da koşak kaşay sîzîk man (//) wurgulandî.
-
 - sózlíkte kóp sayîda kazakşanîñ uzun mastarlarî man sîfat figellerníñ terğúmesí de geşíríldí.
-
 - kópmanalî sózlerníñ añlamîn karîştîrmamaga, kerek yerlerde sózníñ dogrî manasî añlamdaş sózler men, kullanma alanî man ya da túrlí kerek aşîklamalar man añlaştîrîldî.
-
 - az sayîda kîskartîlgan başlîksózlerníñ tîşînda, sózden-sózge yollamalar kullanîlmadî.
-
 Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşlarîm tíl men tellafuzunda faydalanağaklarîndan umutlanaman.
 
 - English: Gary Beck has spent most of his adult life as a theater director, and as an art dealer when he couldn't make a living in theater. He has 11 published chapbooks. His poetry collections include: Days of Destruction (Skive Press), Expectations (Rogue Scholars Press). Dawn in Cities, Assault on Nature, Songs of a Clerk, Civilized Ways (Winter Goose Publishing). Perceptions and Displays will be published by Winter Goose Publishing. His novels include: Extreme Change (Cogwheel Press) Acts of Defiance (Artema Press). Flawed Connections has been accepted for publication (Black Rose Writing). His short story collection, A Glimpse of Youth (Sweatshoppe Publications). His original plays and translations of Moliere, Aristophanes and Sophocles have been produced Off Broadway. His poetry, fiction and essays have appeared in hundreds of literary magazines. He currently lives in New York City.; Crimean Tatar (RO): Geriy Bek ómír boyî tiyatre yonetmení gibi geşírdí, arada-sîrada para sîgîntîsîn atlatmak úşún sanat eserlerí de alîp-sattî. Túrlí basîm úylerínde onbír tane şiir kitabî yazîp bastîrgandîr, bonlarnîñ arasînda Ğogetúw kúnlerí, Beklentiler, Kalalarda tanlar, Tuwaga huğum, Bír kîzmetşíníň ğîrları, Medeniyy ğollar, Sezímler men Kórílgenler bardîr. Romanlarından Keskin deñíşúw men Korînmak'nî sîralak keregír. His novels include: Extreme Change (Cogwheel Press) Acts of Defiance (Artema Press). Yakînlarda Kusurlî baglantîlar da basîmga alîngandîr. Bastîrgan kîska hikayeler ğîyîntîgîñ atî Ğaşlikka bír nazar'dîr. Óz oyînlarî man Moliyer, Aristofan we Sofokles terğúmelerí Broadway'níñ tîşîndakî saknalarda oynalgandîr. Onîñ şiirlerí we hikayelerí yúzlerğe edebiy meğmuwalarînda yer algandîr. New York'ta yaşaydîr.
