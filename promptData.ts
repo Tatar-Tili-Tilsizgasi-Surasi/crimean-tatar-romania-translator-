@@ -421,6 +421,11 @@ Comitative (Postposition "with") / Conjunction ("and"):
   - SCT: biznen (with us) -> DT: bíz men
   - As conjunction: "et men balîk" (meat and fish), "kola man çips" (cola and chips).
 
+Conjunction ("and")
+- DT also use "we"/"ve" or "man" / "men" (which depends on vowel harmony)
+ - "o we men" (he/she and me), "ğismaniyet we şagîlgan" (physics and electricity)
+ -  - "o man men" (he/she and me), "ğismaniyet men şagîlgan" (physics and electricity)
+ 
 Future Tense:
 - SCT -AcAK/-EcEK. DT seems to use -AğaK/-eğeK (intervocalic k->ğ).
 - For vowel-stem verbs: -Ayağak / -eyeğek. Ex: SCT: başlacek -> DT: başlayağak
