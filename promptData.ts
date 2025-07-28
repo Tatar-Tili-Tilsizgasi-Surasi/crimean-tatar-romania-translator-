@@ -572,6 +572,130 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - October‎ - egím
 - November‎ - kasîm
 - December - ‎aralîk
+- termen academic - muwallímatşa 
+- adjectiv - sîfat 
+- administraţie - idareğílík 
+- adverb - rewúş 
+- agricultură - egínğílík 
+- anatomie - uzabílímí 
+- aproximativ - yakînğa 
+- termen din limba arabă - arap atamasî 
+- termen arhaic - eskí atama 
+- arheologie - kazîmbílímí 
+- arhitectură - mimarlîk 
+- articol - ílgeş 
+- astronomie - felekiyat 
+- automobilism - maşinaaydamasî 
+- aviaţie - tayyareğílík 
+- biologie - ómírbílímí 
+- termen bisericesc - kílse atamasî 
+- botanică - nebatat 
+- cardinal - miktar 
+- chimie - kimiya 
+- cinematografie - deweranğîlîk 
+- colectiv - ğîyuw 
+- comerţ - satuwanğîlîk 
+- conjuncţie - baylaş 
+- construcţii - inşaat 
+- cronologie - zemaniy sîralama 
+- despre - hakkînda 
+- dativ - ğónelíş 
+- demonstrativ - işaret 
+- diminutiv - kíşkeltme 
+- economie - iktisat 
+- electricitate - şagîlgan 
+- entomologie - bóğekbílímí 
+- etcetera - we sayire 
+- expresie - aytîm 
+- feminin - ana ğíníslí 
+- termen familiar - teklipsízlík 
+- farmacologie - eğzabílímí 
+- termen feroviar - temírğol atamasî 
+- termen figurat - meğaz 
+- filozofie - felsefe 
+- finanţe - maliye 
+- fitopatologie - nebatatmarazlarî 
+- fizică - ğismaniyet 
+- fiziologie - ğismaniybílím 
+- termen folcloric - kalkbílgísí 
+- fonetică - sesbílgísí 
+- fotografie - resímğílík 
+- gastronomie - metbe 
+- geografie - ğeryúzíbílímí 
+- geologie - ğerbílímí 
+- geometrie - hendese 
+- gerunziu - baylam figelí 
+- gramatică - tílsîzgasî 
+- intranzitiv - geşírmez 
+- ihtiologie - balîkbílímí 
+- impersonal - hayriyşahsiy 
+- infinitiv - mastar 
+- informatică - seriyelek 
+- interjecţie - nida 
+- interogativ - sorawğî 
+- invariabil - deñíşmez 
+- istorie - tewúke 
+- izafet - izafet 
+- ştiinţe juridice - hukuk 
+- termen din limba latină - látinğe 
+- lingvistică - tílbílímí 
+- literatură - edebiyat 
+- logică - makul 
+- masculin - ata ğíníslí 
+- matematică - riyaziyet 
+- mecanică - seriyet 
+- medicină - tîp 
+- meteorologie - hawabílímí 
+- termen militar - askeriye 
+- mineralogie - madenbílímí 
+- mitologie - efsanelík 
+- termen din limba mongolă - moñgolğa 
+- muzică - muzikiy 
+- neutru - ğíníssíz 
+- navigaţie - papîrğîlîk 
+- negativ - bolîmsîz 
+- nehotărât - belletmez 
+- nominativ - baş kelíş 
+- numeral - sayî 
+- ordinal - tertíp 
+- ornitologie - kuşbílímí 
+- particulă - edat 
+- termen peiorativ - aşalatuwğî 
+- personal -şahsiy 
+- pictură - ressamlîk 
+- plural - kóplík 
+- politică - siyaset 
+- termen popular - kalk tílínde 
+- posesiv - iyelík 
+- prepoziţie - aldedat 
+- pronume - almaşlîk 
+- termen din limba persană - ağemğe 
+- psihologie - akîlbílímí 
+- pentru - úşún 
+- reflexiv - kaytîmlî 
+- radiofonie - radiyosedalîk 
+- reciproc - karşîlîklî 
+- reduplicativ - bírtaalama 
+- regionalism - bólge tílí 
+- relativ - nispiy 
+- religie - diyanet 
+- substantiv - ísím 
+- singular - bírlík 
+- termen şcolar - mektep 
+- tranzitiv - geşírgen 
+- teatru - tiyatro 
+- tehnică - fen 
+- telecomunicaţii - uzakkaberleşme 
+- industrie textilă - tokîmağîlîk 
+- tipografie - basîm 
+- topografie - ğersîzgasî 
+- transporturi - taşîwğîlîk 
+- termen universitar - darúlfúnun 
+- universal - umum 
+- verb - figel 
+- medicină veterinară - baytarlîk 
+- termen vulgar - kaba 
+- zoologie - haywanatbílímí
 
 - English: burning a paper plate - towards a new art; Romanian: arderea unei farfurii de carton - către o nouă artă; Crimean Tatar (RO): bír káát tabaknîñ ğakmasî - ğañî bír sanatka dogrî
 - English: Unnerved, in act five I ignore you, my plate so out of control last time we met. I wait, what seems an eternity, two weeks maybe, do other things, burn more plates, but at last I’m drawn back, look, and am aghast. In the interim, all has settled. You’re vibrant still, but with a harmony that astonishes me. I bow down, to you and to nature who, with my back turned, settled you. I tinker a bit, but that’s it.; Crimean Tatar (RO): Úmítsíz, beşínğí perdede sení kórmegendiy bolaman, soñ kóríşmemízde ózínden şîkkan káát tabak. Beklermen, ebediyetke uşagan ekí haptaga kadar, başka şiyler men ogîraşîp, başka tabaklar ğagîp, ama eñ azdan kanîm toñîp bír kenarda turarman. Bo arada herşiy yeríne keldí. Sen hem ğanlî hem maksatka uygîn kaldîñ, mení şaşîrttîñ. Hem saga, hem sení iyade etken tuwaga seğdeler yaparman. Bíraz deren túşúnsem de íş bodîr.
