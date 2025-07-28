@@ -362,7 +362,7 @@ Vowel System & Reductions (Major Differences):
 - SCT ö -> DT ó (Noktalî O /œ/ or similar mid front/central rounded): Consistent. Ex: SCT: köz -> DT: kóz; SCT: körmek -> DT: kórmek
 - SCT u -> DT î (Specific Cases): Some SCT u sounds, especially in roots or specific contexts, can reduce significantly to î. Ex: SCT: armut -> DT: armît; SCT: oturıp -> DT: otîrîp; SCT: oqumaq -> DT: okîmak; SCT: duygu -> DT: duygî (final -u)
 - SCT e -> DT e / á (Hemzelí A /æ/): 'e' is common. 'á' is for specific loanwords requiring /æ/.
-- Word-Final Vowels: DT often avoids certain plain final vowels that SCT might have. Reduced vowels í, î at word ends are common.
+- At Word-Final DT often avoids "i" that SCT might have. Therefore í, î, -iy at word ends are common.
 
 Consonant Shifts (Significant & Common):
 - SCT C c (representing /dʒ/ sound) -> DT Ğ ğ: The letter 'C c' from SCT, which typically represents the /dʒ/ sound (like 'j' in English 'gem'), corresponds to the letter 'Ğ ğ' in DT. The DT letter 'Ğ ğ' consistently represents this /dʒ/ sound. Ex: SCT: ocaq -> DT: oğak. (Note: some specific lexical items might show SCT C > DT Ş, e.g. SCT: yolcı -> DT: ğolşî, this reflects a sound change of /dʒ/ to /ʃ/ in those specific words). THIS IS A CRITICAL AND MANDATORY CHANGE.
@@ -394,8 +394,8 @@ DT often prefers different (though usually related Turkic) lexical items for com
 - SCT: yanında (next to) -> DT: katînda
 - SCT: göl (lake) -> DT: kól
 - SCT: armut (pear) -> DT: armît
-- SCT: yemek (food - as option) -> DT: ğemek
-- SCT: yatmaq (to lie/sleep - for animals) -> DT: ğatmak
+- SCT: yemek (food ) -> DT: ğemek
+- SCT: yatmaq (to lie/sleep ) -> DT: ğatmak 
 
 III. Grammar & Morphology:
 
