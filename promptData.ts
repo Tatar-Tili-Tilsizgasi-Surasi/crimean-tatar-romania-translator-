@@ -1684,8 +1684,7 @@ Emelíñní gúller basar
 Túşúñ şeşek-şeşek aşar
 Yuwalanîrlar búlbúller
 Atîñ Tatar bolsa eger. 
-         (Kóstenğe, 16 temmuz 2010)
-Great-Mosque-Mahmudiye-Constanta 
+         (Kóstenğe, 16 temmuz 2010) 
 
 Ne
 
@@ -1736,7 +1735,6 @@ Men saga ódemem borjîmnî, nene!
 (10 aralîk 2010)
 
 Ádet túşúm
-Paul Verlaine
 
 
 Kele bere ótken, kuğurday túşúme,
@@ -1776,7 +1774,6 @@ Sesí mesafelí, taşîr hilmiy, ğuwaş,
 (Taner Murat'îñ kaytarmasînda, 2011)
 
 Síftí akşam
-Arthur Rimbaud
 
 - Kalgan edí bek şîpalak,
 Keñ terekler merak, kurnaz,
@@ -1821,7 +1818,6 @@ Kelír edí yakîn, az-az.
 
 
 Sewdalîlar ólímí
-Charles Baudelaire
 
 Ğataklarîmîz ğeñgíl mús kokîr
 
@@ -2011,6 +2007,13 @@ Topragîna kuwulgan
 Atlantîlar awayatîr.
 
 (Kókten sesler, I- ínğí bólím, Temúçinden - kîta)
+
+Kitap hakkînda
+Konîşma asarlar, susma basarlar!
+Kitap hakkînda
+Moñgol niuğa tobğawun ya da Moñgollîktan saklî aralar ulusnamesí mením kolîma túşkende men de, herkez gibí, Moñgol man Tatarlarnîñ tewúkesíne kelgende kabersíz edím, taa dogrîsî ánawuñ-mínawuñ tewúkeğísí uydurgan masallarîna kulak asîp tura edím.
+Moñgollîktan saklî aralar Óktay Hakaannîñ zamanînda, sîğawul senesí, Juliyan yîlsayîmî 1240-ta, Delígún Boltak man Şílgínğek arasînda, Kelúren Múreníñ Kódege Aralînda toplanîp tutulgan Úyken Kurultayînda, kartlarîñ añlatkanlarîndan şîgarîlîp yazîlgandîr.
+Bo ekí kabîñ arasînda  Moñgol man Tatar kardaşlarîmîzîñ tewúkesín deren şaklarîndan alîp Temúçiníñ balalîgî man ğaşlîk şagînaşîk, Temúçin húkúmetke kelgenşík añlatîlmaktadîr. Şahîslarîñ atlarîn we tewúkiy dogrîlîknî kîbîrdatmadan, bazî Orta Asiya memleketlerínde búgúngeşík dayangan eskí şaman ádetlerín de aktarîp ve bazî yerlerín Kodeks Kumanikustan koşîp kelíştírílgendír. Arkasî kîsmetke baglî...
 --- End of Additional Example Texts ---
 
 --- Start of Dobrujan Tatar Swadesh List (from provided images) ---
