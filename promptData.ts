@@ -562,6 +562,12 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - SCT: telekommunikatsiya, fizika, elektrik, astronomiya, topografiya, psihologiya, matematika, informatika (telecommunication, physics, electricity, astronomy, topography, psychology, mathematics, informatics)
  - Crimean Tatar (RO): uzakkaberleşme, ğismaniyet, şagîlgan, felekiyat, ğersîzgasî, akîlbílímí, riyaziyet, seriyelek
 
+- SCT: Film qarayıq! (Let's watch movie!)
+ - Crimean Tatar (RO): Film karayîk!
+
+- SCT: Fizika ögreneyik! (Let's learn physics!)
+ - Crimean Tatar (RO): Ğismaniyet úyreneyík!
+
 --- End of SCT -> Crimean Tatar (RO) Transformation Examples and Rules ---
 
 - The Western Front - Kúnbatar ğephesí
