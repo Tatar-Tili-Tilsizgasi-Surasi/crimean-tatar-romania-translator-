@@ -1,7 +1,6 @@
 // services/promptData.ts
 
 export const CRIMEAN_TATAR_RO_ALPHABET_PRONUNCIATION_GUIDE = `
-Pronunciation
 Latin character	Name	Sound description and pronunciation
 A a	A	This letter represents the low unrounded RTR or hard vowel /ɑ/ as in ana [ɑṉɑ] 'mother'.
 Á á	Hemzelí A	This letter occurring in a limited number of Arabic and Persian loanwords represents the near-low unrounded ATR or soft vowel not belonging to authentic Tatar language /æ/ as in sáát [s̶ææt̶] 'hour', 'clock'.
