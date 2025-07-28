@@ -14998,3 +14998,858 @@ simfonică.
 muzikağî s. muzicant; muzician. 
 muzikalî s. melodic; muzical. 
 muzikasúygen s. meloman.
+çaher num. (prsn.) patru. 
+çaherşenbe s. (cron., prsn.) miercuri. 
+çakîr adj. 1. albastru deschis; bleu. 2. 
+(d. ochii unei fiinŃe) ceacâr. 
+Çakîr s. (antrop. m.) "Ceacârul". 
+çark s. roată; volant; strung. 
+çark-î felek iz.prsn. roata lumii; roata 
+destinului; roata norocului. 
+çarklama s. strunjire. 
+çarklamak v.t. a strunji. 
+çarklangan adj. strunjit. 
+çarklanmak v.i. a se strunji. 
+çarklatmak v.t. a determina să 
+strunjească. 
+çarklî adj. strunjit. 
+çarkşî s. rotar; strungar. 
+çarkşîlîk s. olărit; strungărie. 
+çarm îk s. 1. răstignire; crucificare. 2. 
+cruce; crucifix; semnul crucii. 
+çarm îkkatartîlgan adj. crucificat; 
+răstignit. 
+çarm îkkatartuw s. crucificare; 
+răstignire. 
+çarm îklama s. crucificare; răstignire. 
+çarm îklamak v.t. a crucifica; a 
+răstigni. 
+çarm îklangan adj. crucificat; 
+răstignit. 
+çarm îkşî s. (ist.) cruciat. 
+çarş î s. piaŃă; bazar. 
+çawun s. ceaun. 
+çawuş s. 1. (mil.) comandant de 
+pluton; sergent. 2. conducătorul unui 
+pelegrinaj; conducătorul uenei 
+caravane. 
+Çawuş-Kóy s. (topon.) Ciauşchioi (azi 
+Războieni, prin unire cu satul Alifaca) 
+(jud. Tulcea). 
+çay s. pârâu. 
+çárdah num. (prsn.) paisprezece. 
+çeçen I. adj. înŃelept; chibzuit. II. s. 
+poet; rapsod; bard; trubadur; 
+menestrel; tălmaci. 
+çeçenlík s. înŃelepciune. 
+çedír s. (bot.) cedru (lat., Cedrus). 
+çehar num. (prsn.) patru. 
+çeharşenbe s. (cron., prsn.) miercuri. 
+çehel num. (prsn.) patruzeci. 
+çek s. (fin.) cec. // ●ç e k k a r n e t í 
+carnet de cec. 
+çek s., adj. ceh. 
+Çekiye s. (topon.) Cehia. 
+çekiyelí s., adj. ceh. 
+çekşe I. adv. în limba cehă; ceheşte. 
+II. s. (limba) cehă. 
+Çelebiy/Şelebí s. (antrop. m.) "Cel 
+amabil". 
+çelofan s. celofan. 
+çelt s. celt. 
+çeltlík adj. celtic. 
+çeluloza s. celuloză. 
+çemen s. (bot.) schinduf (lat., 
+Trigo nella f oenu m graecu m). 
+çentigram s. centigram. 
+çentilitre s. centilitru. 
+çentima s. centimă. 
+çentimetre s. centimetru. 
+çentrala s. centrală. // ●e l e k t r i k 
+ç e n t r a l a s î centrală electrică. 
+●t e rm i k ç en t r a l a s î 
+termocentrală; centrală termoelectrică. 
+çentrifuk adj. centrifug. 
+çentripet adj. centripet. 
+çenzor s. cenzor. 
+çenzura s. cenzură. 
+çenzuralî adj. cenzurat. 
+çeram ika s. ceramică. 
+çerkez s., adj. cerchez. 
+çernoziyom s. cernoziom. 
+çertifikat s. certificat. 
+çeşme s. cişmea. 
+çete s. 1. ceată; bandă; clică; şleahtă. 
+2. grup de partizani. 
+çeteğ í s. partizan. 
+çetin adj. 1. (d. oameni) dur; aspru; 
+sever. 2. (d. terenuri) abrupt; 
+prăpăstios. 3. (d. acŃiuni) dificil; greu; 
+anevoios. 
+çetinleşme s. înăsprire; agravare; 
+înrăutăŃire. 
+çetinleşmek v.i. a se înăspri; a se 
+agrava; a se înrăutăŃi. 
+çetinleşúw s. înăsprire; agravare; 
+înrăutăŃire. 
+çetinlík s. gravitate; dificultate. 
+çetona s. (chim.) cetonă. 
+Çetti'níñ -ğelpazekuyrugî s. (orn.) 
+stufărică (lat., Cettia cetti). 
+çevik adj. agil; sprinten; vioi. 
+çeviklík s. agilitate; sprinteneală; 
+vioiciune. 
+çezariyana s. (med.) cezariană. 
+çibernetika I. adj. cibernetic. II. s. 
+cibernetică. 
+çibernetikağ î s. cibernetician. 
+çifre s. cifru; cod. 
+çifreleme s. codificare; cifru. 
+çifrelemek v.t. a cifra. 
+çifrelengen adj. codificat; cifrat. 
+çifrelí adj. cifrat; codificat. 
+çihil num. (prsn.) patruzeci. 
+çiklon s. ciclon. 
+çil s. pistrui. 
+Çile s. (topon.) Chile. 
+çilelí s., adj. chilian. 
+çilindre s. 1. (mat.) cilindru. 2. 
+(constr.) cilindru; compresor (pt. 
+drumuri). 3. joben. 
+çilindrelí adj. cilindric. 
+çilindrik adj. (mat.) cilindric. 
+çiliy s. amestec tradiŃional de 
+condimente; chili mexican. 
+çiliy-búberí s. (bot.) chili (lat., 
+Capsicum f rutescens). 
+çillí adj. pistruiat. 
+çim s. 1. gazon; iarbă. 2. (bot.) 
+muşchi. 
+çimen s. iarbă; verdeaŃă. 
+çimenlík s. pajişte. 
+çiment s. ciment. 
+çimentleşken adj. cimentat. 
+çimentleşme s. cimentare. 
+çimentleşmek v.i. a se cimenta. 
+çimentleştírmek v.t. a cimenta. 
+çimentleşúw s. cimentare. 
+çimentlí adj. cimentat. 
+çimlend írmek v.t. a pune la 
+germinat. 
+çimlengen adj. germinat. 
+çimlenme s. germinare; germinaŃie. 
+çimlenmek v.i. a germina. 
+çimlenúw s. germinare; germinaŃie. 
+çin s., adj. chinez; chinezesc. 
+Çin/Kîtay s. (topon.) China. 
+çinema s. cinematograf. //
+●g e z úw ğ í ç i n em a caravană 
+cinematografică. 
+çinemağî s. cineast. 
+çinemağîlîk s. cinematografie.
+çinemaskop s. cinemascop. 
+çinemasúygen s. cinefil. 
+çinemaşúnas s. cinefil. 
+çinematik adj. (fiz.) cinematic. 
+çinematika s. (fiz.) cinematică. 
+çinematikalî adj. (fiz.) cinematic. 
+çinemaúyí s. cinematecă. 
+çinetik adj. (fiz.) cinetic. 
+çinetika s. (fiz.) cinetică. 
+çinetikalî adj. (fiz.) cinetic. 
+çinğe I. adv. în limba chineză; 
+chinezeşte. II. s. (limba) chineză. 
+çinik adj. cinic. 
+çinism s. cinism. 
+çiniy s. faianŃă; porŃelan. 
+çiniyğílík s. 1. arta de prelucrare a 
+faianŃei. 2. obiecte de faianŃă. 
+çinlí s., adj. chinez; chinezesc. 
+çirk s. circ. 
+çiroza s. (med.) ciroză. //
+●k a r a ğ í g e r ç i r o za s î (med.) 
+ciroză. 
+çisterna s. cisternă. // ●ç i s t e r n a 
+v a g o n î vagon cisternă. 
+çistita s. (med.) cistită. 
+çiş s. (fam.) urină. // ●ç i ş e tm e k 
+(fam.) a urina. 
+çitrik adj. (chim.) citric. // ●ç i t r i k 
+ğ em í ş l e r citrice. 
+çit-sarmaş îgî s. (bot.) cupa-vacii 
+(lat., Convolvu lus sepium; 
+Calystegia sepium). 
+çivil s., adj. civil. 
+çiyanura s. cianură. 
+Çiyat s. (topon.) Ciad. 
+çiyatlî s., adj. ciadian. 
+çizme s. cizmă. // ●ş i zm e s í nd e n 
+y o k a r ga ş î km a k a-şi băga nasul 
+unde nu-i fierbe oala. 
+çít s. 1. gard de nuiele. 2. basma; 
+batic; eşarfă; bandă. 3. bandă sacră; 
+eşarfă sacră. 4. (text.) stambă. 
+çít, yes - s., adj. (ist.) scit; crimean; 
+membru al uniunii celor nouă eşarfe 
+sacre. 
+Çîfît-Kuyusî s. (topon.) Yovkovo 
+(Dobrich, Bulgaria). 
+çoban s. cioban; păstor. 
+çobankîzî s. păstoriŃă. 
+çobanlîk s. ciobănie; păstorit. 
+Çoban-Y îldîzî s. (astr.) Venus; 
+Luceafărul. 
+çokolata s. ciocolată. 
+çokolatalî adj. cu ciocolată. 
+Çolpan s. (astr.) Venus; Luceafărul. 
+çomak s. ciomag; ghioagă. 
+çuma s. (med.) ciumă; pestă. 
+çumalî adj. (med.) ciumat. 
+çuş -çuş interj. ciuş!; 
+çúke s. (iht.) cegă (lat., Acipenser 
+ruthen us). 
+çúnkí conj. pentru că; deoarece. 
+çúyún s. (bot.) săpunariŃă; spumariŃă; 
+odagaci; ciuin (lat., Sapona ria 
+off icinalis).
+da/de/ta/te I. adv. şi; de asemenea; 
+în plus. II. conj. 1. şi. 2. dar; iar. 3. 
+deşi; cu toate că; chiar dacă; în ciuda. 
+// ●b í r d e pe deasupra. ●b í r d e 
+y o k t an din senin. ●b í z ím d e 
+b a rm am î z k e r e k trebuie să 
+mergem şi noi. ●b o d a n e d em e k ? 
+ce mai înseamnă şi asta?; ●b o da 
+n e ? ce mai e şi ăsta?; ●b o r an ga 
+da k a b e r b e r í l e se anunŃă şi 
+furtună. ●h e ş t e nicidecum; deloc; 
+pentru nimic. ●h î z k o l î da b î z î k 
+ş î k t î s-a dovedit defect şi 
+schimbătorul de viteze. ●k a ş b o l s a 
+da oricât. ●k a y da y b o l s a d a în 
+orice caz; orice ar fi; oricare ar fi cauza; 
+cum o fi; indiferent cum. ●k a y e t 
+k o l a y b o l s a da deşi este foarte 
+uşor. ●m a y d a s a l î ñ î z ! puneŃi şi 
+ulei!; ●m u t l a k s e n d e ! exgerezi!; 
+●o b í r y a k t an d a pe de altă parte. 
+●s í z í ñ d e k ó rm eñ í z l á z îm 
+trebuie să vedeŃi şi dumneavoastră. 
+daam s. gust. // ●b a l a l î k t a n 
+ó k s í z l í k n í ñ a ş ş î d aam î n 
+t a t t î din copilărie a gustat 
+amărăciunea de a fi orfan. ●e t n í ñ 
+daam î gustul cărnii. 
+daametken adj. pofticios. 
+daametme s. poftă. 
+daametmek v.t. a pofti (d. mâncare). 
+daamlatîlgan adj. cu mirodenii; 
+condimentat. 
+daamlatîlmak v.i. a se condimenta; a 
+se pune mirodenii; a se da gust. 
+daamlatma s. mirodenie; condiment. 
+daamlatmak v.t. a condimenta; a 
+pune mirodenii; a da gust. 
+daamlatmalî adj. cu mirodenii; 
+condimentat. 
+daamlatmasî, ateş- s. amestec 
+tradiŃional de condimente; chili 
+mexican. 
+daamlatma-sumagî s. (bot.) oŃetar-
+comestibil; sumac-comestibil (lat., 
+Rhus co riaria). 
+daamlatuw s. condimentare. 
+daamlatuwğ î s. mirodenie; 
+condiment. 
+daamlî adj. gustos. 
+daamsîz adj. fără gust; searbăd; fad; 
+insipid. 
+daamsîzlîk s. lipsă de gust; 
+insipiditate. 
+dabara s. ceremonie; solemnitate. 
+dabaralî adj. ceremonios; solemn. 
+daça s. vilă; reşedinŃă de vară. 
+dad s. 1. gust; savoare. 2. plăcere; 
+desfătare. 3. gust dulce; dulceaŃă. //
+●da d î n a lm a k a da de gustul…; a 
+începe să-i placă. ●dad î n 
+k a ş î rm a k a-i strica gustul; a 
+exagera. ●da d î n ş î g a rm a k a 
+savura; a se înfrupta; a-i tihni. 
+●da d î n y e r í n e a k e lm e k a-şi 
+drege gustul. ●dad î na b a rm a k a 
+da de gustul…; a începe să-i placă. 
+●da d î na k a r am a k a-l gusta; a-l 
+degusta. // ●da d t u y uw î (anat.) 
+simŃul gustului. ●d ad î t u z î y o k 
+fără niciun gust. 
+dada s. soră mai mare. 
+dadaluw s. 1. acomodare; obişnuinŃă; 
+deprindere; familiarizare. 2. degustare; 
+savurare. 
+daday s. (dim., fam.) surioară mai 
+mare; tanti. 
+dadberúwğí s. mirodenie; condiment. 
+dadî s. 1. doică. 2. bonă; dădacă. 
+dadîkaşkan adj. 1. (d. alimente, 
+băuturi) trezit; răsuflat. 2. exagerat; 
+excesiv; înflorit. 
+dadînabargan adj. acomodat; 
+obişnuit; deprins; familiarizat. 
+dadînabaruw s. acomodare; 
+obişnuinŃă; deprindere; familiarizare. 
+dadînakaraw s. degustare; savurare. 
+dadînalgan adj. acomodat; obişnuit; 
+deprins; familiarizat. 
+dadlandîrmak v.t. a da gust; a 
+îndulci. 
+dadlî adj. gustos; delicios; apetisant. 
+dadlî-dadlî adj. gustos; delicios; 
+apetisant. 
+dadlîk s. mirodenie; condiment. 
+dadlî-nezzetlí adj. gustos; delicios; 
+apetisant. 
+dadlî-tuzl î adj. gustos; delicios; 
+apetisant. 
+dadsîz adj. insipid; searbăd; fad. 
+dadsîzlîk s. lipsă de gust; insipiditate; 
+neplăcere. 
+dadsîzlîk-tuzsuzluk s. lipsă de gust; 
+insipiditate; neplăcere. 
+dadsîz-tuzsuz adj. insipid; searbăd; 
+fad; fără niciun gust. 
+dadşîgarmasî s. înfruptare. 
+dagaşasî adj. subalpin. 
+dagaşasî-lád iní s. (bot.) brad alpin 
+(lat., Abies lasiocarpa). 
+dagaşasî-narus î s. (bot.) brad alpin 
+(lat., Abies lasiocarpa). 
+dagaşasî-şîrşîs î s. (bot.) brad alpin 
+(lat., Abies lasiocarpa). 
+dagetegí s. (geogr.) poalele munŃilor. 
+dagîlgan adj. 1. dispersat; împrăştiat. 
+2. dezordonat; răvăşit. 3. dizolvat; 
+descompus. 4. confuz. 5. vâlvoi. 6. 
+destrămat; deşirat. 
+dagîlîm s. dizolvare; dispersare; 
+descompunere; disociere; dezagregare; 
+disjungere. 
+dagîlîş s. repartiŃie; dispunere. 
+dagîlma s. 1. dispersare; împrăştiere. 
+2. dizolvare; descompunere. 3. 
+împărŃire; distribuire. 4. dezordine; 
+învălmăşeală. 5. destrămare; deşirare. 
+dagîlmak v.i. 1. a se dispersa; a se 
+împrăştia. 2. a se dizolva; a se 
+descompune. 3. a se împărŃi; a se 
+distribui. 4. a se destrăma; a se deşira. 
+dagîtîmğî I. adj. distributiv. II. s. (d. 
+persoane) difuzor; distribuitor. 
+dagîtma s. 1. dispersare; împrăştiere. 
+2. împărŃire; distribuire. 3. dizolvare; 
+descompunere. 4. destrămare; 
+deşirare. 
+dagîtmak v.t. 1. a dispersa; a 
+împrăştia. 2. a împărŃi; a distribui. 3. 
+a dizolva; a descompune. 4. a 
+destrăma; a deşira. 
+dagîtuwğ î I. adj. 1. distributiv. 2. 
+subversiv. II. s. 1. (d. persoane) 
+difuzor; distribuitor. 2. dizolvant. 
+dagma s. 1. bordei; bojdeucă; colibă. 
+2. cocioabă; coşmelie; magherniŃă. 
+dahil I. adv. 1. înăuntru; în interior; 
+în cadrul. 2. inclusiv. II. s. interior; 
+partea interioară. // ●da h i l 
+b o lm a k a face parte din; a aparŃine.
+// ●ú ğ r e t k e d a h i l inclus în preŃ. 
+dahilen adv. (med.) pe cale bucală. 
+dahiliy adj. intern; interior. //
+●da h i l i y m e k t ú p scrisoare 
+internă. 
+dahiliye s. 1. ministerul afacerilor 
+interne. 2. (med.) boli interne. 3. 
+permis de intrare. 4. introducere. 
+dahillík s. apartenenŃă; includere. 
+dahiy I. adj. genial. II. s. geniu. 
+dahiyane adv. genial; în mod genial. 
+dahiyğe adv. genial; în mod genial. 
+dahiylík s. genialitate. 
+dak I. adj. muntean; muntenesc; dacic. 
+II. s. 1. munte. 2. muntean; dac. //
+●b o da k l a r a r a s î n da b í r k ó y 
+b a r între aceşti munŃi este un sat. 
+●da k b o ga z î pas; defileu; 
+strâmtoare. ●d a k e ş k í s í capră-
+neagră. ●d a k e t eg í poalele 
+muntelui. ●da k k a da r ó pk em 
+b a r am o supărare cât un munte. 
+●da k k î l î ş î creasta muntelui. 
+●da k k ó k í r eg í / y am a ş î versant 
+de munte. ●d a k k ó l í /n aw u r î 
+iezer. ●d a k o t l a g î păşune alpină. 
+●da k o z î ş l a r î (sport) discipline 
+alpine. ●d a k s í l s í l e s í lanŃ de 
+munŃi. ●da k t ó b e s í vârf de munte; 
+culme de munte. ●da k n î ñ 
+y ú k s e k l í g í înălŃimea muntelui. 
+●s î r a d a k l a r lanŃ de munŃi. 
+●y ú k s e k da k munte înalt. 
+Dak, Baba - s. (topon., munte, 
+localitate) ("Muntele Paternal") Babadag 
+(jud. Tulcea). 
+dak-ateşotî s. (bot.) vetricea; piretru 
+(lat., Ch rysanthem um alpin um; 
+Tanacetum alpinu m). 
+dak-bódenesí s. (orn.) prepeliŃă de 
+munte (lat., Oreo rtyx pictus). 
+dakç î I. adj. muntean; muntenesc; 
+dacic. II. s. muntean; dac. 
+Dakçî s. (antrop. m.) Dacian 
+(“Munteanul”); 
+dak-dere adj. muntos. 
+dak-dolaşasî s. (orn.) stăncuŃă alpina 
+(lat., Pyrrhoco rax gracul us). 
+dak-eşkís í s. (zool.) capră-neagră 
+(lat., Rupicapra rupicapra). 
+dak-gúmúştúymesí s. (bot.) vetricea; 
+piretru (lat., Ch rysanthem um 
+alpinum; Ta nacetum alpinu m). 
+dak-ğadîragî s. (orn.) fâsă de munte 
+(lat., Anthus spinoletta). 
+dak-ğawunkuşî s. (orn.) prundăraş de 
+munte (lat., C harad rius 
+morinell us). 
+dak-ğumurankulagî s. (bot.) cornuŃ-
+de-munte (lat., Ce rastium 
+alpinum). 
+dak-ğumuşkasî s. (bot.) bărcoace 
+(lat., Cotoneaster integerrima). 
+dak- îşanî s. (zool.) hamster; hârciog 
+(lat., C ricetus cricetus). 
+dakka s. minut. // ●b í r b u ş u k 
+da k k a un minut şi jumătate. 
+●b í r k a ş d a k k a da a g a r d î în 
+câteva minute a albit. ●k î y î n 
+da k k a l a r minute grele. ●o n b e ş 
+da k k a ew e l k e t t í a plecat acum 
+cincisprezece minute. ●t r en m í n da 
+b í r da k k a t o k t a y trenul stă aici 
+un minut. ●u ş a k o n da k k ad an 
+k o n î p k e l e ğ e k avionul va ateriza 
+peste zece minute. ●y a r îm da k k a o 
+jumătate de minut. 
+dakkada adj. instant; la minut. 
+dak-kad îsî s. (bot.) jep; jneapăn (lat., 
+Pinus m u go). 
+dakkakolî s. (la ceas) minutar. 
+dak-kalampîrî s. (bot.) garofiŃă-de-
+munte (lat., Dianthus 
+compactus). 
+dak-karanf ilí s. (bot.) garofiŃă-de-
+munte (lat., Dianthus 
+compactus). 
+dak-katîrtîrnag î s. (bot.) drob-de-
+munte (lat., Cytisus hi rsutus). 
+dak-kîskamahmutotî s. (bot.) 
+dumbeŃ-de-munte; jugărel-de-munte; 
+spulberătură-de-munte (lat., 
+Teuc rium montanu m). 
+dak-kîzîlkuyrug î s. (orn.) codroş de 
+munte; codroş negru (lat., 
+Phoenicu ru s oc hru ros). 
+dak-korazbaşî s. (bot.) dulcişor; cap-
+de-cocoş (lat., Hedysarum 
+obscurum). 
+dak-korîngas î s. (bot.) dulcişor; cap-
+de-cocoş (lat., Hedysarum 
+obscurum). 
+daklaraşas î adj. subalpin. 
+dak-láles í s. (bot.) dediŃei; adormiŃele 
+(lat., Pulsatilla montana). 
+daklî I. adj. 1. bădăran; necioplit. 2. 
+muntean; muntenesc; dacic. II. s. 1. 
+muntean; dac. 2. rigă (carte de joc). 
+daklîk s. teren muntos. 
+daklîk-derelík s. zonă muntoasă. 
+daklîk-şayîrlîk adj. zonă muntoasă. 
+daklîk-taşlîk s. zonă muntoasă. 
+dak-menewşes í s. (bot.) toporaş; 
+viorea; micşunea-de-munte (lat., 
+Viola alpina). 
+dak-mezeliyesí s. (bot.) micsandră-
+de-munte (lat., Erysim um 
+off icinalis). 
+dak-míñgírleg í s. (orn.) frunzăriŃă de 
+munte (lat., Hippolais languida). 
+dak-muşmulasî s. (bot.) bărcoace 
+(lat., Cotoneaster integerrima). 
+dak-sarîkaşî s. (orn.) pitulice de 
+munte (lat., Phylloscop us 
+bonelli). 
+dak-sod îrgayî s. (orn.) brumăriŃă de 
+stâncă (lat., Prunella colla ris). 
+dak-surkarlîgaşî s. (orn.) drepnea 
+mare (lat., Apus melba; 
+Tachyma rptis melba). 
+dak-suwtorgayî s. (orn.) prundăraş 
+de munte (lat., Charad rius 
+morinell us). 
+dak-şam î s. (bot.) jep; jneapăn (lat., 
+Pinus m u go). 
+dakşañî s. (bot.) genŃiană; ghinŃură 
+(lat., Gentiana sp.). 
+dakşañî, mawî - s. (bot.) genŃiană-
+albastră; ghinŃură-albastră; corovatic; 
+lumânărica-pământului (lat., 
+Gentiana asclepiadea). 
+dakşañî, sarî- s. (bot.) genŃiană-
+galbenă; ghinŃură-galbenă (lat., 
+Gentiana lutea). 
+dakşayî s. (bot.) încheietoare (lat., 
+Sideritis montana). 
+dak-şayîr adj. muntos. 
+dak-şáwkes í s. (orn.) stăncuŃă alpina 
+(lat., Pyrrhoco rax gracul us). 
+dak-şímşígesí s. (orn.) piŃigoi de 
+munte (lat., Parus montanus; 
+Poecile montana). 
+dakş î s. alpinist. 
+dakş îlîk s. alpinism. 
+dak-taş adj. muntos. 
+dak-taşgúlí s. (bot.) mălăoi (lat., 
+Helianthemum alpestre; 
+Helianthemum rupif ragum). 
+dak-tawugî s. (orn.) găiunuşă de alun; 
+ieruncă (lat., Tetrastes bonasia; 
+Bonasia bonasia). 
+daktay adj. cât un munte. //
+●da k t a y b í r k í ş í un munte de 
+om. 
+daktilografiya s. dactilografiere. //
+●da k t i l o g r a f i y a m a ş i n a s î 
+maşină de scris. 
+daktilografiyağî s. dactilografă. 
+daktilografiyalî adj. dactilografiat. 
+dak-tuzlîbalgamotî s. (bot.) vineriŃă; 
+lavrentină (lat., Ajuga reptans). 
+daktúbí s. (geogr.) poalele munŃilor; 
+depresiune. 
+dakyîldîzî s. (bot.) floare-de-colŃ; 
+floarea-reginei; edelvais; albumeală 
+(lat., Leontopodium alpin um). 
+dal I. num. 1. (mong.) şaptezeci. 2. 
+(prsn.) zece. II. s. 1. creangă; cracă; 
+ramură; ram; ciorchine. 2. (fig.) 
+domeniu; branşă. 3. (anat.) membru; 
+organ. 4. sucursală. // ●da l î na 
+b a sm a k a călca pe cineva pe 
+bătătură. ●m í n g e n da l î n 
+k e sm e k a-şi tăia craca de sub 
+picioare. // ●b í r da l da t u rm a z 
+inconstant. ●e r k e k l í k da l î (anat.) 
+penis. ●k u r î da l vreasc. ●n a r u s 
+da l î cetină; creangă de brad. 
+●s an a y e d a l î ramură industrială. 
+dala s. stepă. 
+dalatkan adj. ramificat; derivat. 
+dalatuw s. ramificaŃie; ramificare; 
+derivaŃie; derivare. 
+dalay I. adj. oceanic; imens. II. s. 
+ocean; imensitate. 
+dalayiy adj. oceanic; imens. 
+dalay-láma s. dalai-lama. 
+dalálet s. deviere; abatere. //
+●da l á l e t k e t ú şm e k a devia; a se 
+abate (de la). 
+daldîrgan s. invadator; năvălitor. 
+daldîrîlgan adj. împânzit. 
+daldîrîp-kírílgen adj. ocupat; 
+invadat; cotropit; năpădit. 
+daldîrma s. 1. invazie; invazie; 
+împânzire; năvală; năvălire; năpădire. 
+2. (mil.) ocupaŃie. 
+daldîrmak v.t. 1. a scufunda; a 
+cufunda; a afunda; a imersa. 2. a 
+determina să dea iama; a determina să 
+cotropească; a determina să invadeze; 
+a determina să ocupe. 
+daldîruw s. 1. scufundare; cufundare; 
+afundare; imersiune. 2. cotropire; 
+invadare; ocupare. 
+daldîruwğî s. cotropitor; invadator; 
+ocupant. 
+dalga s. 1. val; talaz. 2. (fiz.) unde. 3. 
+ondulare; ondulaŃie; unduire. //
+●da l ga t a b uw ğ î scală. ●da l ga 
+t í zúw í gamă de unde. ●da l ga 
+u z un l u g î lungime de undă. 
+●k a b a r g an da l ga talaz; val mare. 
+●k a y e t k î s k a d a l g a l a r unde 
+ultrascurte. ●k î s k a da l ga unde 
+scurte. ●o r t a d a l g a unde medii. 
+●p a t l am a da l ga s î suflul 
+exploziei. 
+●ş a g î l ga nm î k n a t î s l î / e l e k t r o
+m a g n e t i k da l ga undă 
+electromagnetică. ●s e s d a l g a l a r î 
+unde sonore. ●u z un d a l g a unde 
+lungi. 
+dalga-dalga adj. ondulat; cu ondulaŃii; 
+cu valuri; valuri-valuri. 
+dalgakesken s. dig. 
+dalgalama s. 1. ondulare; unduire; 
+fluturare. 2. învolburare. 
+dalgalandîrma s. unduire; fluturare. 
+dalgalandîrmak v.t. 1. a învolbura; a 
+stârni valuri. 2. a ondula; a undui; a 
+flutura. 
+dalgalandîruw s. unduire; fluturare. 
+dalgalangan adj. 1. învolburat. 2. 
+ondulat; unduit; fluturat. 
+dalgalanma s. 1. ondulare; unduire; fluturare. 2. învolburare. 3. (nav.) 
+hulă. 
+dalgalanmak v.i. 1. a se învolbura. 2. 
+a se ondula; a se undui; a se flutura. 
+dalgalanuw s. unduire; învolburare; 
+fâlfâit. 
+dalgalaw s. 1. ondulare; unduire; 
+fluturare. 2. învolburare. 
+dalgalî adj. 1. învolburat; cu valuri. 2. 
+ondulat; unduit; fluturat. 3. (fiz.) 
+alternativ. // ●d a l g a l î a g îm 
+(electr.) curent alternativ. ●d eñ í z 
+da l g a l î marea este agitată. 
+dalgan adj. (fig.) absorbit; cufundat. //
+●t ú ş ú n ğ eg e da l ga n cufundat în 
+gânduri. 
+dalgaparlagan s. dig. 
+dalgasîz adj. 1. neondulat; neunduit; 
+fără valuri; neted. 2. (fiz.) continuu. //
+●da l ga s î z ğ e r i y an (electr.) curent 
+continuu. 
+dalgaşîk s. tildă. 
+dalgîn adj. 1. absent; distrat; 
+preocupat; neatent. 2. somnolent; 
+toropit (de somn). 3. gânditor; 
+melancolic; visător. 
+dalgîn-dalg în adv. preocupat; 
+gânditor; melancolic; visător. 
+dalgînlaşkan adj. preocupat; 
+gânditor; melancolic; visător. 
+dalgînlaşmak v.i. a deveni preocupat; 
+a deveni gânditor; a deveni melancolic; 
+a deveni visător. 
+dalgînlîk s. 1. absenŃă; distracŃie; 
+neatenŃie; preocupare. 2. somnolenŃă; 
+toropeală; moleşeală. 3. meditaŃie; 
+melancolie; reverie. 
+dalgîş s. scafandru. 
+dalgîş, ak-tumşuklî- s. (orn.) 
+cufundar cu cioc alb (lat., Gavia 
+adamsii). 
+dalgîş, kalîn-tumşuklî- s. (orn.) 
+corcodel cu cioc gros (lat., 
+Podilymbus podiceps). 
+dalgîş, kara-moyînlî - s. 1. (orn.) 
+cufundar polar (lat., Gavia 
+arctica). 2. (orn.) corcodel cu gât 
+negru (lat., Podiceps nigricollis). 
+dalgîş, kekeşlí- s. (orn.) corcodel 
+mare; cufundar mare; bodârlău (lat., 
+Podiceps cristatus). 
+dalgîş, kíşkene - s. (orn.) corcodel mic 
+(lat., Tachybaptus ruf icollis). 
+dalgîş, kîzîl-moyînlî- s. 1. (orn.) 
+cufundar mic (lat., Gavia 
+stellata). 2. (orn.) corcodel cu gât 
+roşu (lat., Podiceps grisege na). 
+dalgîş, kulaklî- s. (orn.) corcodel de 
+iarnă (lat., Podiceps au ritus). 
+dalgîşî, buz- s. (orn.) cufundar mare 
+(lat., Gavia immer). 
+daliya s. (bot.) dalie; gherghină (lat., 
+Dahlia cultoru m). 
+dalînabas îlgan adj. agasat; sâcâit. 
+dalînabaskan adj. agasant; sâcâitor. 
+dalînabasuw s. agasare; sâcâire. 
+dalkîlîş I. adv. cu sabia ridicată. II. s. 
+sabie scoasă din teacă. 
+dallandîrmak v.t. a ramifica; a 
+bifurca. 
+dallangan adj. ramificat; bifurcat. 
+dallanma s. ramificaŃie; bifurcaŃie. 
+dallanmak v.i. a se ramifica; a se 
+bifurca. 
+dallanuw s. ramificaŃie; bifurcaŃie. 
+dallî adj. 1. rămuros; cu crengi. 2. 
+(fig.) ramificat. 
+dallî-dallî adj. (d. un copac) stufos. 
+dalma s. 1. scufundare; cufundare; 
+afundare; imersiune. 2. cotropire; 
+invadare; ocupare. 
+dalmak v.i. 1. a se scufunda; a se 
+cufunda; a se afunda; a imersa. 2. 
+(fig.) a fi cufundat; a fi absorbit. 3. (d. 
+bolnavi) a-şi pierde cunoştinŃa. 4. a da 
+iama; a cotropi; a invada; a ocupa. //
+●t e f e k k ú r g e da lm a k a cădea pe 
+gânduri. ●t ú ş ún ğ e l e r g e da lm a k 
+a-l fura gândurile. ●y u k u ga 
+da lm a k a-l fura somnul; a adormi; a 
+aŃipi. // ●t aw g a da l d î s-a cufundat 
+în pădure. ●y em e k k e d a l d î l a r au 
+dat iama în mâncare. ●y ú z úm 
+k î r s î z l a r î b a k k a d a l d î l a r hoŃii 
+de struguri au dat iama în vie. 
+Dalmas iye -kortayî s. (orn.) pelican 
+creŃ (lat., Pelecan us c rispus). 
+Dalmas iye -kutanî s. (orn.) pelican 
+creŃ (lat., Pelecan us c rispus). 
+daltonkastalîg î s. daltonism. 
+daluw s. 1. scufundare; cufundare; 
+afundare; imersiune. 2. cotropire; 
+invadare; ocupare. 
+dam s. 1. grajd; staul; saivan. 2. pod 
+(la casă). 
+dama s. damă (carte de joc). // ●dam a 
+o y î n î joc de dame. 
+damalî adj. (d. Ńesături) în carouri. 
+dan s. glorie; onoare; slavă. 
+Danimarka s. (topon.) Danemarka. 
+danimarkalî s., adj. danez. 
+daniş s., adj. danez. 
+danişçe I. adv. în limba daneză. II. s. 
+(limba) daneză. 
+danlî adj. glorios; onorat; slăvit. 
+danlîk s. glorie; onoare; slavă. //
+●a z a t l î k ğ o l î nd a k a y î p 
+b o l gan l a r ga m eñ g í d an l î k ! 
+glorie veşnică celor ce au pierit pentru 
+libertate!; 
+dans s. dans. // ●dan s e tm e k a 
+dansa. // ●da n s m u z i k a s î muzică 
+de dans. ●m en m e n da n s 
+e t e r s í ñ m í ? vrei să dansezi cu 
+mine?; 
+dansş î s. 1. dansator. 2. dansatoare. 
+dantela s. dantelă. 
+dañga s. 1. marcă; semn. 2. fier 
+înroşit; stigmat; danga. 
+dañgalama s. 1. (med.) cauterizare. 2. 
+ardere cu fier înroşit; înfierare; 
+stigmatizare. 
+dañgalamak v.t. 1. a arde cu fier 
+înroşit; a înfiera; a stigmatiza; a pune 
+danga. 2. (med.) a cauteriza. 
+dañgalangan adj. 1. ars cu fier 
+înroşit; înfierat; stigmatizat. 2. (med.) 
+cauterizat. 
+dañgalanmak v.i. 1. (med.) a se 
+cauteriza. 2. a fi ars cu fier înroşit; a fi 
+înfierat; a fi stigmatizat. 
+dañgalaw s. (med.) cauterizare. 
+dañgalî adj. 1. ars cu fier înroşit; 
+înfierat; stigmatizat. 2. cauterizat. 
+dañgas îz adj. nestigmatizat. 
+dañgîrdagan adj. zăngănitor; 
+zdrăngănitor. 
+dañgîrdama s. zăngănit; zdrăngănit. 
+dañgîrdamak v.i. a zăngăni; a 
+zdrăngăni. 
+dañgîr-dañgîr interj. zdrang!; 
+dañgîrdatmak v.t. a determina 
+zăngănitul; a determina zdrăngănitul. 
+dañgîrdaw s. zăngănit; zdrăngănit. 
+dañgîrdawğ î adj. zăngănitor; 
+zdrăngănitor. 
+dañgîr-duñgur interj. zdrang!; 
+dañgîrtî s. zăngănit; zdrăngănit. 
+dara adj. 1. singur. 2. sărac; sărman. 
+daragurt s. (bot.) mărar (lat., 
+Anethum graveolens). 
+daragurtî, ayuw - s. (bot.) brioală; 
+chimen-de-munte; chimenul-ursului; 
+mărarul-ursului (lat., Ligusticum 
+mutellina). 
+daralîk s. sărăcie; calicie. 
+darbe s. 1. lovitură; lovire. 2. percuŃie; 
+pulsaŃie. // ●ğ e r im e d a r b e s í 
+(sport) lovitură de pedeapsă. 
+●h ú k úm e t / d e w l e t da r b e s í (pol.) 
+lovitură de stat. ●s a r a y d a r b e s í 
+(pol.) lovitură de palat. 
+darb-î dewlet iz.prsn. (pol.) lovitură 
+de stat. 
+darb-î ğerime iz.prsn. (sport) lovitură 
+de pedeapsă. 
+darb-î húkúmet iz.prsn. (pol.) 
+lovitură de stat. 
+darb-î mesel iz.prsn. proverb; zicală. 
+darb-î meseliy iz.prsn. proverbial. 
+darb-î saray iz.prsn. (pol.) lovitură de 
+palat. 
+dargîn adj. supărat; amărât. 
+dargînlîk s. supărare; amărăciune. 
+dargînşeşek s. (bot.) mimoză; 
+senzitivă (lat., Mimosa pudica). 
+darîlawuygan adj. supărăcios. 
+darîlawuyma s. arŃag; irascibilitate. 
+darîlgan adj. supărăcios. 
+darîlma s. supărare; iritare. 
+darîlmak v.i. a se supăra; a se necăji. 
+darîltkan adj. supărător; întristător. 
+darîltma s. necăjire; zgândărire; 
+înfuriere. 
+darîltmak v.t. a supăra; a necăji; a 
+amărî. 
+darîltuw s. necăjire; zgândărire; 
+înfuriere. 
+darîltuwğ î adj. supărător. 
+darîluw s. întristare; supărare. 
+darkam s. disjungere; disociere. 
+darkîlgan adj. 1. dizolvat; descompus; 
+disociat; dezagregat; disjuns. 2. 
+împrăştiat; dispersat; risipit; răvăşit; 
+dezordonat; dezorganizat; deranjat; 
+neorânduit. 
+darkîlma s. 1. dizolvare; 
+descompunere; disociere; dezagregare; 
+disjungere. 2. împrăştiere; dispersare; 
+risipire; răvăşire. 
+darkîlmak v.i. 1. a se dizolva; a se 
+descompune; a se disocia; a se 
+dezagrega; a se disjunge. 2. a se 
+împrăştia; a se dispersa; a se risipi; a 
+se răvăşi. 3. a se disocia. 
+darkîluw s. 1. dizolvare; 
+descompunere; disociere; dezagregare; 
+disjungere. 2. împrăştiere; dispersare; 
+risipire; răvăşire. 
+darkîm s. 1. dizolvare; dispersare; 
+descompunere; disociere; dezagregare; 
+disjungere. 2. (fiz.) fisiune. 
+darkîn adj. 1. împrăştiat; dispersat; 
+risipit; răvăşit; dezordonat; 
+dezorganizat; deranjat; neorânduit. 2. 
+dizolvat; descompus; disociat; 
+dezagregat; disjuns. 
+darkîtîlgan adj. (la jocul de cărŃi) 
+servit. 
+darkîtma s. 1. împrăştiere; 
+dispersare; risipire; răvăşire. 2. 
+dizolvare; descompunere. 
+darkîtmak v.t. 1. a împrăştia; a 
+dispersa; a risipi; a răvăşi. 2. a dizolva; 
+a descompune; a disocia; a dezagrega; 
+a disjunge. 
+darkîtuw s. 1. împrăştiere; 
+dispersare; risipire; răvăşire. 2. 
+dizolvare; descompunere. 
+darkîtuwğ î I. adj. subversiv. II. s. 
+dizolvant. 
+darkkan adj. 1. împrăştiat; dispersat; 
+risipit; răvăşit; dezordonat; 
+dezorganizat; deranjat; neorânduit. 2. 
+dizolvat; descompus; disociat; 
+dezagregat; disjuns.
