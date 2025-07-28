@@ -338,6 +338,7 @@ Consonant Shifts (Significant & Common):
 - SCT V -> DT W (Authentic) or B: Common for naturalized words. V for academic loans. Ex: SCT: vatan -> DT: watan; SCT: suv -> DT: suw
 - Initial SCT D- -> DT T- (Specific Lexical Items - Devoicing): Ex: SCT: düşünce -> DT: túşúnğe.
 - Prothetic w- before initial u- (Specific Verbs): Ex: SCT: urmaq -> DT: wurmak
+- In some cases SCT K/Q becomes in DT G, Ex: SCT: keşir, çıqar, keşmek -> DT: geşír, şîgar, geşmek
 
 Orthography:
 - Interrogative Particle mî/mí: Written as a separate word in DT. Ex: SCT: keleceksizmi? -> DT: keleğeksíz mí?
