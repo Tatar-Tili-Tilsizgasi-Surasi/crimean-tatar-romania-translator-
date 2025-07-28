@@ -281,6 +281,7 @@ General Orthographic Principles:
 - The sequence "-iy" (using the standard 'i' as in 'limon') is generally more common than "-íy" or "-îy" for word endings where a /j/ sound (represented by 'y') follows an /i/-like vowel. This is particularly relevant for suffixes or paragogic additions (e.g., 'medeni' becomes 'medeniy'). While specific established words might use 'íy' (e.g., 'ógíy' from the Elifbe) or 'îy' (e.g., 'kîyîş' from the Elifbe) based on their etymology or specific phonetic requirements, the "-iy" form should be preferred in new formations or when ambiguity exists.
 - Language names often use suffixes like -ğa/-ğe or -şa/-şe (e.g., tatarşa, ağemğe, kazakşa, lawğa), avoiding -ça/-çe.
 - For 'China', 'Kîtay' is generally more common than 'Çin'.
+- Loanwords of Arabic and Persian origin and self generated words are more common (e.g. şagîlgan (electricity), agaştaósken (xylophile), adañdúniyalîk (transcendentalism), ğismaniyet (physics), felekiyat (astronomy), uzakkaberleşme (telecommunication) etc.)
 
 Literary Tatar:
 Tatar spoken in Romania has two distinct facets:
