@@ -177,7 +177,7 @@ ${CRIMEAN_TATAR_RO_EXAMPLES}
 ${CRIMEAN_TATAR_RO_COMPREHENSIVE_GRAMMAR_DETAILS}
 ${CRIMEAN_TATAR_RO_BIRD_NAMES_TABLE}
 
-The provided "Initial translation" may contain features closer to Standard Crimean Tatar or other Turkic languages. Your primary goal is to transform these into authentic Crimean Tatar (Romania) forms.
+The provided "Initial translation" may contain features closer to Standard Crimean Tatar or other Turkic languages. Your primary goal is to transform these into Crimean Tatar (Romania) forms.
 Only use characters explicitly listed in the provided Elifbe (Alphabet and Pronunciation Guide).
 `;
     reviewUserPrompt = `Original text in "${sourceLangName}":
@@ -189,7 +189,7 @@ Initial (potentially SCT-like or containing incorrect characters) translation to
 TASK:
 Critically review the "Initial translation". It likely does not fully adhere to Crimean Tatar (Romania) [DT] specifics.
 Your job is to:
-1. Identify ANY features in the "Initial translation" that do not conform to authentic Crimean Tatar (Romania) orthography, grammar, or lexicon, especially if they resemble Standard Crimean Tatar [SCT] or use incorrect characters.
+1. Identify ANY features in the "Initial translation" that do not conform to Crimean Tatar (Romania) orthography, grammar, or lexicon, especially if they resemble Standard Crimean Tatar [SCT] or use incorrect characters.
 2. **Crucial Orthographic Corrections - MANDATORY Search and Replace:** This is not optional. Perform these replacements rigorously if these incorrect characters/patterns are present:
     *   The Dobrujan Tatar alphabet provided in the Elifbe *does not* contain the character 'â'. If 'â' appears, it is an error. Correct it to 'a' or 'á' based on vowel harmony and context, or determine if the word itself is an incorrect borrowing and replace it with an authentic DT word from the provided materials if available.
     *   Replace ALL instances of 'ü' with 'ú'.
