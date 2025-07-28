@@ -412,7 +412,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - SCT: bizimle (with us) -> Crimean Tatar (RO): Bíz men (Note: "biz" becomes "bíz" before "men" or other suffixes)
 - SCT: siznen (sizinle - with you pl.) -> Crimean Tatar (RO): Síz men (Note: "siz" likely becomes "síz")
 - SCT: olarnen (onlarla - with them) -> Crimean Tatar (RO): Olar man / Onlar man
-- Example: "Ali ile" (with Ali) -> Crimean Tatar (RO): Aliy men
+- Example: "Ali ile" (with Ali) -> Crimean Tatar (RO): Aliy men / Alí men
 
 **2. Vowel Reduction/Changes in Roots and Pronouns:**
 - **i -> í in pronouns before suffixes:**
@@ -506,6 +506,14 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - Crimean Tatar (RO) (hypothesized): Ğîmîrtanîñ sarîsî paydalî. (Alternative, if the u->î change in 'yumurta' is less certain or does not occur: Ğumurtanîñ sarîsî paydalî)
   - (Explanation for Ğîmîrtanîñ: Yumurtanıñ -> Ğîmîrtanîñ (SCT Y->RO Ğ, SCT u->RO î); sarısı -> sarîsî (SCT ı->RO î); faydalı -> paydalî (SCT f->RO p, SCT ı->RO î))
 
+- SCT: Banunen çips aşadıq. (We ate chips with Banu)
+ - Crimean Tatar (RO): Banu man çips aşadîk.
+
+- SCT: Keşir, çıqar! (Pass it, take it out!)
+ - Crimean Tatar (RO): Geşír, şîgar!
+
+- SCT: Sütli şokolat (Milk chocolate/Milky chocolate)
+ - Crimean Tatar (RO): Sútlí çokolat/şokolat
 
 --- End of SCT -> Crimean Tatar (RO) Transformation Examples and Rules ---
 
