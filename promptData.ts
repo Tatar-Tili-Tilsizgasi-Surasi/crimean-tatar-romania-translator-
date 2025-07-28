@@ -296,7 +296,7 @@ This is the process of shifting academic speech sounds to authentic sounds. Crim
 Examples (detailed in the Alphabet and Pronunciation Guide and Phonetic Changes section):
   - f > p (e.g., fayda > payda)
   - v > w or b (e.g., vuğut > wuğut)
-  - h may be skipped or changed (e.g., hafta > apta)
+  - h may be skipped or changed with k (e.g., hafta > apta, hasta > kasta), Most often, in authentic reading, when it reproduces the Arabic or Persian ه it is a silent letter or, if it is located at the beginning or end of the word, the sound is usually naturalized and the letter reads as letter k. When it reproduces ح or خ the sound is usually naturalized as k.
   - ç > ş (e.g., çanak > şanak)
 
 Key Orthographic Rules (derived from common patterns and the Alphabet and Pronunciation Guide):
