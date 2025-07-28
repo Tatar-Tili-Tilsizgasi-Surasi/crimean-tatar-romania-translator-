@@ -408,7 +408,7 @@ The following examples and rules illustrate common transformations when adapting
 Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - SCT: menimle (with me) -> Crimean Tatar (RO): men men (pronoun "men" + postposition "men")
 - SCT: seninle (with you sg.) -> Crimean Tatar (RO): Sen men
-- SCT: onen (onunla - with him/her/it) -> Crimean Tatar (RO): O men
+- SCT: onen (onunla - with him/her/it) -> Crimean Tatar (RO): O man
 - SCT: bizimle (with us) -> Crimean Tatar (RO): Bíz men (Note: "biz" becomes "bíz" before "men" or other suffixes)
 - SCT: siznen (sizinle - with you pl.) -> Crimean Tatar (RO): Síz men (Note: "siz" likely becomes "síz")
 - SCT: olarnen (onlarla - with them) -> Crimean Tatar (RO): Olar man / Onlar man
