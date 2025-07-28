@@ -15853,3 +15853,146 @@ risipit; răvăşit; dezordonat;
 dezorganizat; deranjat; neorânduit. 2. 
 dizolvat; descompus; disociat; 
 dezagregat; disjuns.
+- Monday - Pazartesí
+- Tuesday - Salî
+- Wednesday - Şarşembí
+- Thursday - Perşembí
+- Friday - Ğuma
+- Saturday - Ğumartesí
+- Sunday - Pazar
+- January - oşak
+- February‎ - şubat
+- March‎ - mart
+- April - ‎nisan
+- May - ‎mayîs
+- June - ‎haziran
+- July - ‎temmuz
+- August‎ - awustos
+- September‎ - ewlíl
+- October‎ - egím
+- November‎ - kasîm
+- December - ‎aralîk
+- termen academic - muwallímatşa 
+- adjectiv - sîfat 
+- administraţie - idareğílík 
+- adverb - rewúş 
+- agricultură - egínğílík 
+- anatomie - uzabílímí 
+- aproximativ - yakînğa 
+- termen din limba arabă - arap atamasî 
+- termen arhaic - eskí atama 
+- arheologie - kazîmbílímí 
+- arhitectură - mimarlîk 
+- articol - ílgeş 
+- astronomie - felekiyat 
+- automobilism - maşinaaydamasî 
+- aviaţie - tayyareğílík 
+- biologie - ómírbílímí 
+- termen bisericesc - kílse atamasî 
+- botanică - nebatat 
+- cardinal - miktar 
+- chimie - kimiya 
+- cinematografie - deweranğîlîk 
+- colectiv - ğîyuw 
+- comerţ - satuwanğîlîk 
+- conjuncţie - baylaş 
+- construcţii - inşaat 
+- cronologie - zemaniy sîralama 
+- despre - hakkînda 
+- dativ - ğónelíş 
+- demonstrativ - işaret 
+- diminutiv - kíşkeltme 
+- economie - iktisat 
+- electricitate - şagîlgan 
+- entomologie - bóğekbílímí 
+- etcetera - we sayire 
+- expresie - aytîm 
+- feminin - ana ğíníslí 
+- termen familiar - teklipsízlík 
+- farmacologie - eğzabílímí 
+- termen feroviar - temírğol atamasî 
+- termen figurat - meğaz 
+- filozofie - felsefe 
+- finanţe - maliye 
+- fitopatologie - nebatatmarazlarî 
+- fizică - ğismaniyet 
+- fiziologie - ğismaniybílím 
+- termen folcloric - kalkbílgísí 
+- fonetică - sesbílgísí 
+- fotografie - resímğílík 
+- gastronomie - metbe 
+- geografie - ğeryúzíbílímí 
+- geologie - ğerbílímí 
+- geometrie - hendese 
+- gerunziu - baylam figelí 
+- gramatică - tílsîzgasî 
+- intranzitiv - geşírmez 
+- ihtiologie - balîkbílímí 
+- impersonal - hayriyşahsiy 
+- infinitiv - mastar 
+- informatică - seriyelek 
+- interjecţie - nida 
+- interogativ - sorawğî 
+- invariabil - deñíşmez 
+- istorie - tewúke 
+- izafet - izafet 
+- ştiinţe juridice - hukuk 
+- termen din limba latină - látinğe 
+- lingvistică - tílbílímí 
+- literatură - edebiyat 
+- logică - makul 
+- masculin - ata ğíníslí 
+- matematică - riyaziyet 
+- mecanică - seriyet 
+- medicină - tîp 
+- meteorologie - hawabílímí 
+- termen militar - askeriye 
+- mineralogie - madenbílímí 
+- mitologie - efsanelík 
+- termen din limba mongolă - moñgolğa 
+- muzică - muzikiy 
+- neutru - ğíníssíz 
+- navigaţie - papîrğîlîk 
+- negativ - bolîmsîz 
+- nehotărât - belletmez 
+- nominativ - baş kelíş 
+- numeral - sayî 
+- ordinal - tertíp 
+- ornitologie - kuşbílímí 
+- particulă - edat 
+- termen peiorativ - aşalatuwğî 
+- personal -şahsiy 
+- pictură - ressamlîk 
+- plural - kóplík 
+- politică - siyaset 
+- termen popular - kalk tílínde 
+- posesiv - iyelík 
+- prepoziţie - aldedat 
+- pronume - almaşlîk 
+- termen din limba persană - ağemğe 
+- psihologie - akîlbílímí 
+- pentru - úşún 
+- reflexiv - kaytîmlî 
+- radiofonie - radiyosedalîk 
+- reciproc - karşîlîklî 
+- reduplicativ - bírtaalama 
+- regionalism - bólge tílí 
+- relativ - nispiy 
+- religie - diyanet 
+- substantiv - ísím 
+- singular - bírlík 
+- termen şcolar - mektep 
+- tranzitiv - geşírgen 
+- teatru - tiyatro 
+- tehnică - fen 
+- telecomunicaţii - uzakkaberleşme 
+- industrie textilă - tokîmağîlîk 
+- tipografie - basîm 
+- topografie - ğersîzgasî 
+- transporturi - taşîwğîlîk 
+- termen universitar - darúlfúnun 
+- universal - umum 
+- verb - figel 
+- medicină veterinară - baytarlîk 
+- termen vulgar - kaba 
+- zoologie - haywanatbílímí
