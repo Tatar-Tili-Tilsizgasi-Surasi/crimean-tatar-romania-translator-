@@ -441,7 +441,7 @@ Future Tense:
 
 Definite Accusative Case:
 - SCT uses -nI. DT also uses -nI (e.g., yemekní, itní).
-- DT also shows evidence of -tI / -dI after certain stems (especially those ending in voiceless consonants or specific nouns). This is a significant Kipchak feature. Ex: DT: ğemektí (food-ACC); ittí (dog-ACC)
+- DT also shows evidence of -tí/tî / -dí/dî after certain stems (especially those ending in voiceless consonants or specific nouns). This is a significant Kipchak feature. Ex: DT: ğemektí (food-ACC); ittí (dog-ACC)
 
 Possessive Suffixes: Show internal vowel harmony and reduction.
 - SCT: üyümizniñ -> DT: úyímízníñ
@@ -5000,15 +5000,6 @@ export const CRIMEAN_TATAR_RO_COMPREHENSIVE_GRAMMAR_DETAILS = `
 --- Start of Comprehensive Crimean Tatar (RO) Grammar Details ---
 The grammar of Crimean Tatar, like all Turkic languages, is agglutinating, with the exclusive use of suffixing to express grammatical categories. Generally, suffixes are attached to the ends of word stems, although derivational morphology makes uses of compounding as well. Overall, the grammatical structure of the language is similar to that of other Kipchak varieties. Crimean Tatar is a pro-drop language with a generally SOV word order.
 
-Morphophonology
-
-Crimean Tatar, like most Turkic languages, features pervasive vowel harmony, which results in sound changes when suffixes are added to verb or noun stems. Essentially, the vowel in a suffix undergoes assimilation to agree in certain categories with the vowel in the stem. The two main types of assimilation that characterize this agreement in Crimean Tatar morphophonology are backness harmony and rounding harmony.
-
-Non-high vowels undergoing backness harmony vary between a and e, and are represented as A. High vowels that undergo both backness and rounding harmony alternate between í, ú, î and u and are represented as I. High vowels in suffixes that are never rounded and alternate between Í and Î are represented as Y, whereas high vowels in suffixes that are always round and alternate between U and Ú are represented as U.
-
-Some consonants undergo similar harmonizing changes depending on whether the preceding segment is voiced or voiceless, or whether the segment demonstrates backness harmony. Consonants that alternate between  [k] and [g] as G/K, alternating [t] and [d] by D, and alternating [ʃ] (ş) and [dʒ] (ğ) as Ş.
-
-Thus, the suffix -şAr could be rendered as "şar" or "şer" depending on the vowel in the morpheme preceding it.
 
 Verbs
 
@@ -5168,7 +5159,7 @@ Marker  Meaning                 Example                 Gloss
 -kír    association/inclination íşkír ("hard worker")   work-SUF
 -lIK    abstraction             dostlîk ("friendship")  friend-SUF
 -şînas  performer of act        tílşînas ("linguist")  tongue-SUF
--ŞI     performer of act        arabaşî ("driver")      car-SUF
+-ŞI     performer of act        arabağî ("driver")      car-SUF
 -ŞYK    diminutive              buzşîk ("piece of ice") ice-SUF
  
 Deverbal
@@ -5256,10 +5247,6 @@ keskín (cut-suf) "sharp"
 kúndekí (day-suf) "daily"
 Kîrîmlî (Crimea-suf) "Crimean"
 
-The comparative and superlative forms of adjectives are expressed, respectively, by the suffix -ŞA and the particle eñ, as in the following examples:
-
-uzunğîr "hotter" (Note: source might be SCT, DT might prefer 'taa uzun')
-eñ balaban "biggest"
 
 An idiomatic superlative form using hepísí ("all") in the ablative case is also possible.
 
@@ -5275,7 +5262,7 @@ Postposition  English      Case
 kadar       until        DAT
 taban       towards      DAT
 zarpînda    during       GEN
-man/men     with, and    GEN (Critical DT feature. Used for comitative "with" and conjunction "and". Follows vowel harmony: \`men\` for front-vowel stems, \`man\` for back-vowel stems. e.g. 'men men' for 'with me', 'kola man şips' for 'cola and chips')
+man/men     with, and    GEN (Critical DT feature. Used for comitative "with" and conjunction "and". Follows vowel harmony: \`men\` for front-vowel stems, \`man\` for back-vowel stems. e.g. 'men men' for 'with me', 'kola man çips' for 'cola and chips')
 úşún        for          GEN
 soñ         after        ABL
 sebep       due to       ABL
