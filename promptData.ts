@@ -1496,10 +1496,10 @@ Aşîp ğol yîldîzlîkka
 
 --- Start of Conjunctions "man" and "men" ---
 In Crimean Tatar (Romania) the word "and" can be expressed using "man" or "men", which also functions as the postposition "with". The choice depends on the vowel harmony of the preceding word.
-- "men" is used with front-vowel words:
+- "MEN" is used with FRONT-VOWEL WORDS:
   - et men balîk (meat and fish)
   - kartiy men kartba (Grandmother and Grandfather)
-- "man" is used with back-vowel words:
+- "MAN" is used with BACK-VOWEL WORDS:
   - kola man çips (cola and chips)
   - mîşîk man it (cat and dog)
   - Osman man Orhan (Osman and Orhan)
