@@ -281,7 +281,7 @@ General Orthographic Principles:
 - The sequence "-iy" (using the standard 'i' as in 'limon') is generally more common than "-íy" or "-îy" for word endings where a /j/ sound (represented by 'y') follows an /i/-like vowel. This is particularly relevant for suffixes or paragogic additions (e.g., 'medeni' becomes 'medeniy'). While specific established words might use 'íy' (e.g., 'ógíy' from the Elifbe) or 'îy' (e.g., 'kîyîş' from the Elifbe) based on their etymology or specific phonetic requirements, the "-iy" form should be preferred in new formations or when ambiguity exists.
 - Language names often use suffixes like -ğa/-ğe or -şa/-şe (e.g., tatarşa, ağemğe, kazakşa, lawğa), avoiding -ça/-çe.
 - For 'China', 'Kîtay' is generally more common than 'Çin'.
-- USE MOSTLY LOANWORDS OF ARABIC OR PERSIAN ORIGIN AND SELF GENERATED WORDS (e.g. şagîlgan (electricity), agaştaósken (xylophile), adañdúniyalîk (transcendentalism), ğismaniyet (physics), felekiyat (astronomy), uzakkaberleşme (telecommunication) etc.)
+- USE MOSTLY LOANWORDS OF ARABIC OR PERSIAN ORIGIN AND SELF GENERATED WORDS BY DOBRUJAN TATARS (e.g. şagîlgan (electricity), agaştaósken (xylophile), adañdúniyalîk (transcendentalism), ğismaniyet (physics), felekiyat (astronomy), uzakkaberleşme (telecommunication) etc.)
 
 Literary Tatar:
 Tatar spoken in Romania has two distinct facets:
@@ -954,23 +954,23 @@ Aşîp ğol yîldîzlîkka
 - Romanian: mulțumesc; English: thank you (polite); Crimean Tatar (RO): saw bolîñîz
 - Romanian: mersi; English: thanks (informal); Crimean Tatar (RO): saw bol
 - Romanian: mulţumesc mult; English: thank you very much; Crimean Tatar (RO): kóp saw bolîñîz
-- Romanian: cu plăcere; English: you're welcome / my pleasure; Crimean Tatar (RO): buyîrîñîz
-- Romanian: te rog; English: please; Crimean Tatar (RO): ğalbaraman
-- Romanian: scuză-mă; English: excuse me / sorry; Crimean Tatar (RO): keşíríñíz
-- Romanian: pardon; English: pardon me / sorry; Crimean Tatar (RO): keşíríñíz
-- Romanian: îmi pare rău; English: I am sorry; Crimean Tatar (RO): yazîklar bolsîn
-- Romanian: da; English: yes; Crimean Tatar (RO): ya
+- Romanian: cu plăcere; English: you're welcome / my pleasure; Crimean Tatar (RO): memnunluk man 
+- Romanian: te rog; English: please; Crimean Tatar (RO): lútfen
+- Romanian: scuză-mă; English: excuse me / sorry; Crimean Tatar (RO): pardon / mení bagîşla(ñîz) 
+- Romanian: pardon; English: pardon me / sorry; Crimean Tatar (RO): pardon / mení bagîşla(ñîz) 
+- Romanian: îmi pare rău; English: I am sorry; Crimean Tatar (RO): affuw/tarziye et(íñíz) / ózír/mazeret tíleymen
+- Romanian: da; English: yes; Crimean Tatar (RO): ya/ebet
 - Romanian: nu; English: no; Crimean Tatar (RO): yok
 - Romanian: poate; English: maybe / perhaps; Crimean Tatar (RO): belkí
 - Romanian: desigur; English: of course / surely; Crimean Tatar (RO): elbet
 - Romanian: sigur; English: sure / certain; Crimean Tatar (RO): şúpesíz
-- Romanian: felicitări!; English: congratulations!; Crimean Tatar (RO): hayîrlî bolsîn!
-- Romanian: succes!; English: good luck! / success!; Crimean Tatar (RO): ugurlar bolsîn!
-- Romanian: noroc!; English: good luck!; Crimean Tatar (RO): şans bolsîn!
+- Romanian: felicitări!; English: congratulations!; Crimean Tatar (RO): kayîrlî bolsîn!
+- Romanian: succes!; English: good luck! / success!; Crimean Tatar (RO): kîsmetíñ yakşî bolsîn!
+- Romanian: noroc!; English: good luck!; Crimean Tatar (RO): kîsmetíñ yakşî bolsîn!
 - Romanian: sănătate! (la strănut); English: bless you! (after sneeze); Crimean Tatar (RO): Allah rahmet eylesín
 - Romanian: sănătate! (toast); English: cheers! / to your health!; Crimean Tatar (RO): sawlîgîñîzga!
 - Romanian: poftă bună!; English: enjoy your meal! / bon appétit!; Crimean Tatar (RO): aşîñîz tatlî bolsîn!
-- Romanian: drum bun!; English: have a good trip! / safe journey!; Crimean Tatar (RO): yolîñîz aşîk bolsîn!
+- Romanian: drum bun!; English: have a good trip! / safe journey!; Crimean Tatar (RO): yolîñîz/ğolîñîz aşîk bolsîn!
 - Romanian: cine?; English: who?; Crimean Tatar (RO): kím?
 - Romanian: ce?; English: what?; Crimean Tatar (RO): ne?
 - Romanian: unde?; English: where?; Crimean Tatar (RO): kayda?
@@ -983,9 +983,9 @@ Aşîp ğol yîldîzlîkka
 - Romanian: câți?; English: how many?; Crimean Tatar (RO): kaş tane?
 - Romanian: câte?; English: how many?; Crimean Tatar (RO): kaş tane?
 - Romanian: al cui?; English: whose?; Crimean Tatar (RO): kímníñ?
-- Romanian: cum te cheamă?; English: what is your name?; Crimean Tatar (RO): adîñîz ne?
+- Romanian: cum te cheamă?; English: what is your name? (polite/plural); Crimean Tatar (RO): adîñîz ne?
 - Romanian: cum îl cheamă?; English: what is his/her name?; Crimean Tatar (RO): onîñ adî ne?
-- Romanian: de unde ești?; English: where are you from?; Crimean Tatar (RO): kaydan kelesíñíz?
+- Romanian: de unde ești?; English: where are you from? (polite/plural); Crimean Tatar (RO): kaydan kelesíñíz?
 - Romanian: ce este asta?; English: what is this?; Crimean Tatar (RO): bo ne?
 - Romanian: înțelegi?; English: do you understand?; Crimean Tatar (RO): añlaysîñ mî?
 - Romanian: înțelegeți?; English: do you understand? (polite/plural); Crimean Tatar (RO): añlaysîñîz mî?
@@ -995,8 +995,8 @@ Aşîp ğol yîldîzlîkka
 - Romanian: cât e ceasul?; English: what time is it?; Crimean Tatar (RO): sáát kaş?
 - Romanian: om; English: person / man; Crimean Tatar (RO): adam
 - Romanian: oameni; English: people; Crimean Tatar (RO): adamlar
-- Romanian: persoană; English: person; Crimean Tatar (RO): keşe
-- Romanian: persoane; English: persons / people; Crimean Tatar (RO): keşeler
+- Romanian: persoană; English: person; Crimean Tatar (RO): kíşí
+- Romanian: persoane; English: persons / people; Crimean Tatar (RO): kíşíler
 - Romanian: familie; English: family; Crimean Tatar (RO): koranta
 - Romanian: mamă; English: mother; Crimean Tatar (RO): ana
 - Romanian: mamei; English: to mother (dative); Crimean Tatar (RO): anaga
@@ -1005,7 +1005,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: tatălui; English: to father (dative); Crimean Tatar (RO): babaga
 - Romanian: al tatălui; English: of father (genitive); Crimean Tatar (RO): babanîñ
 - Romanian: copil; English: child; Crimean Tatar (RO): bala
-- Romanian: copii; English: children; Crimean Tatar (RO): balalar
+- Romanian: copii; English: children; Crimean Tatar (RO): ballar
 - Romanian: copilului; English: to child (dative); Crimean Tatar (RO): balaga
 - Romanian: al copilului; English: of child (genitive); Crimean Tatar (RO): balanîñ
 - Romanian: fiu; English: son; Crimean Tatar (RO): uwîl
@@ -1018,10 +1018,10 @@ Aşîp ğol yîldîzlîkka
 - Romanian: bunică (din partea mamei); English: grandmother (maternal); Crimean Tatar (RO): tay ana
 - Romanian: soț; English: husband; Crimean Tatar (RO): er
 - Romanian: soție; English: wife; Crimean Tatar (RO): katîn
-- Romanian: prieten; English: friend; Crimean Tatar (RO): dos
-- Romanian: prietenului; English: to friend (dative); Crimean Tatar (RO): doska
-- Romanian: al prietenului; English: of friend (genitive); Crimean Tatar (RO): dosnîñ
-- Romanian: vecin; English: neighbor; Crimean Tatar (RO): konşî
+- Romanian: prieten; English: friend; Crimean Tatar (RO): dost
+- Romanian: prietenului; English: to friend (dative); Crimean Tatar (RO): dostka
+- Romanian: al prietenului; English: of friend (genitive); Crimean Tatar (RO): dostnîñ
+- Romanian: vecin; English: neighbor; Crimean Tatar (RO): komşî
 - Romanian: casă; English: house; Crimean Tatar (RO): úy
 - Romanian: acasă; English: to home / at home; Crimean Tatar (RO): úyge
 - Romanian: în casă; English: in the house; Crimean Tatar (RO): úyde
@@ -1048,7 +1048,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: secundă; English: second; Crimean Tatar (RO): saniye
 - Romanian: zi; English: day; Crimean Tatar (RO): kún
 - Romanian: zile; English: days; Crimean Tatar (RO): kúnler
-- Romanian: săptămână; English: week; Crimean Tatar (RO): afta
+- Romanian: săptămână; English: week; Crimean Tatar (RO): afta/apta/hafta/hapta
 - Romanian: lună (calendaristică); English: month; Crimean Tatar (RO): ay
 - Romanian: an; English: year; Crimean Tatar (RO): yîl
 - Romanian: azi; English: today; Crimean Tatar (RO): búgún
@@ -1072,7 +1072,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: carne; English: meat; Crimean Tatar (RO): et
 - Romanian: lapte; English: milk; Crimean Tatar (RO): sút
 - Romanian: ou; English: egg; Crimean Tatar (RO): ğîmîrta
-- Romanian: fruct; English: fruit; Crimean Tatar (RO): yemíş
+- Romanian: fruct; English: fruit; Crimean Tatar (RO): yemíş/ğemíş
 - Romanian: legumă; English: vegetable; Crimean Tatar (RO): sebze
 - Romanian: carte; English: book; Crimean Tatar (RO): kitap
 - Romanian: cărții (dativ); English: to the book (dative); Crimean Tatar (RO): kitapka
@@ -1101,7 +1101,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: mare (subst.); English: sea; Crimean Tatar (RO): deñíz
 - Romanian: râu; English: river; Crimean Tatar (RO): ózen
 - Romanian: foc; English: fire; Crimean Tatar (RO): ateş
-- Romanian: vânt; English: wind; Crimean Tatar (RO): yel
+- Romanian: vânt; English: wind; Crimean Tatar (RO): yel/ğel
 - Romanian: ploaie; English: rain; Crimean Tatar (RO): ğawun
 - Romanian: zăpadă; English: snow; Crimean Tatar (RO): kar
 - Romanian: bun; English: good; Crimean Tatar (RO): árúw
@@ -1135,19 +1135,19 @@ Aşîp ğol yîldîzlîkka
 - Romanian: trist; English: sad; Crimean Tatar (RO): kaygîlî
 - Romanian: obosit; English: tired; Crimean Tatar (RO): arîgan
 - Romanian: a fi; English: to be; Crimean Tatar (RO): bolmak
-- Romanian: sunt; English: I am; Crimean Tatar (RO): (predicate)-man
-- Romanian: ești; English: you are (sg.); Crimean Tatar (RO): (predicate)-sañ
-- Romanian: este; English: he/she/it is; Crimean Tatar (RO): (predicate)-dîr
-- Romanian: suntem; English: we are; Crimean Tatar (RO): (predicate)-mîz
-- Romanian: sunteți; English: you are (pl./polite); Crimean Tatar (RO): (predicate)-sîñîz
-- Romanian: sunt (ei/ele); English: they are; Crimean Tatar (RO): (predicate)-dîrlar
+- Romanian: sunt; English: I am; Crimean Tatar (RO): (predicate)-man/men
+- Romanian: ești; English: you are (sg.); Crimean Tatar (RO): (predicate)-sañ/señ
+- Romanian: este; English: he/she/it is; Crimean Tatar (RO): (predicate)
+- Romanian: suntem; English: we are; Crimean Tatar (RO): (predicate)-mîz/míz
+- Romanian: sunteți; English: you are (pl./polite); Crimean Tatar (RO): (predicate)-sîñîz/síñíz
+- Romanian: sunt (ei/ele); English: they are; Crimean Tatar (RO): (predicate)-lar
 - Romanian: a avea; English: to have (lit. my ... exists); Crimean Tatar (RO): bar
-- Romanian: am; English: I have; Crimean Tatar (RO): mením bar
-- Romanian: ai; English: you have (sg.); Crimean Tatar (RO): seníñ bar
-- Romanian: are; English: he/she/it has; Crimean Tatar (RO): onîñ bar
-- Romanian: avem; English: we have; Crimean Tatar (RO): bízím bar
-- Romanian: aveți; English: you have (pl./polite); Crimean Tatar (RO): sízíñ bar
-- Romanian: au; English: they have; Crimean Tatar (RO): olarnîñ bar
+- Romanian: am; English: I have; Crimean Tatar (RO): mením ... bar
+- Romanian: ai; English: you have (sg.); Crimean Tatar (RO): seníñ ... bar
+- Romanian: are; English: he/she/it has; Crimean Tatar (RO): onîñ ... bar
+- Romanian: avem; English: we have; Crimean Tatar (RO): bízím ... bar
+- Romanian: aveți; English: you have (pl./polite); Crimean Tatar (RO): sízíñ ... bar
+- Romanian: au; English: they have; Crimean Tatar (RO): olarnîñ ... bar
 - Romanian: a merge; English: to go; Crimean Tatar (RO): barmak
 - Romanian: merg; English: I go; Crimean Tatar (RO): baraman
 - Romanian: mergi; English: you go (sg.); Crimean Tatar (RO): barasîñ
