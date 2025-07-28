@@ -397,7 +397,8 @@ Orthography:
 
 II. Lexicon (Significant Divergence):
 DT often prefers different (though usually related Turkic) lexical items for common words compared to SCT. This requires a lexical substitution list. PRIORITIZE DT LEXICAL ITEMS FROM EXAMPLES AND DICTIONARY.
-- Replacement of Loanwords: Russian and Ukrainian loanwords common in Standard Crimean Tatar should generally be replaced with appropriate or natively derived (often Arabic/Persian based) alternatives in Dobrujan Tatar.
+- Replacement of Loanwords: Russian and Ukrainian loanwords common in Standard Crimean Tatar should generally be replaced with appropriate Romanian or Turkish, or natively derived (often Arabic/Persian based) alternatives in Dobrujan Tatar.
+  - DT USES MOSTLY NATIVELY DERIVED (OFTEN ARABIC/PERSIAN BASED) ALTERNATIVES
 - SCT: köy (village) -> DT: kóy
 - SCT: qayıtmaq (to return) -> DT: kelmek (to come/arrive, implying return)
 - SCT: çoq (much, very) -> DT: kóp
