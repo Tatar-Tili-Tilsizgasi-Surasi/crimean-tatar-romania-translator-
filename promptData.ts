@@ -282,6 +282,7 @@ General Orthographic Principles:
 - Language names often use suffixes like -ğa/-ğe or -şa/-şe (e.g., tatarşa, ağemğe, kazakşa, lawğa), avoiding -ça/-çe.
 - For 'China', 'Kîtay' is generally more common than 'Çin'.
 - USE MOSTLY LOANWORDS OF ARABIC OR PERSIAN ORIGIN AND SELF GENERATED WORDS BY DOBRUJAN TATARS (e.g. şagîlgan (electricity), agaştaósken (xylophile), adañdúniyalîk (transcendentalism), ğismaniyet (physics), felekiyat (astronomy), uzakkaberleşme (telecommunication) etc.)
+- Avoid loanwords from European languages, use native instead
 
 Literary Tatar:
 Tatar spoken in Romania has two distinct facets:
@@ -956,8 +957,8 @@ Aşîp ğol yîldîzlîkka
 - Romanian: mulţumesc mult; English: thank you very much; Crimean Tatar (RO): kóp saw bolîñîz
 - Romanian: cu plăcere; English: you're welcome / my pleasure; Crimean Tatar (RO): memnunluk man 
 - Romanian: te rog; English: please; Crimean Tatar (RO): lútfen
-- Romanian: scuză-mă; English: excuse me / sorry; Crimean Tatar (RO): pardon / mení bagîşla(ñîz) 
-- Romanian: pardon; English: pardon me / sorry; Crimean Tatar (RO): pardon / mení bagîşla(ñîz) 
+- Romanian: scuză-mă; English: excuse me / sorry; Crimean Tatar (RO): pardon  
+- Romanian: pardon; English: pardon me / sorry; Crimean Tatar (RO): pardon
 - Romanian: îmi pare rău; English: I am sorry; Crimean Tatar (RO): affuw/tarziye et(íñíz) / ózír/mazeret tíleymen
 - Romanian: da; English: yes; Crimean Tatar (RO): ya/ebet
 - Romanian: nu; English: no; Crimean Tatar (RO): yok
@@ -1187,6 +1188,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: vorbesc; English: I speak/talk; Crimean Tatar (RO): aytaman
 - Romanian: a lua; English: to take; Crimean Tatar (RO): almak
 - Romanian: iau; English: I take; Crimean Tatar (RO): alaman
+- Romanian: electricitate; English: electricity; Crimean Tatar (RO): şagîlgan
 
 --- Start of Botanical and Common Name Examples ---
 - Latin: Abelmoschus esculentus; English: Okra; Romanian: Bame; Crimean Tatar (RO): bamiye, kelínparmagî
