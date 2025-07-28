@@ -409,7 +409,8 @@ Comitative (Postposition "with") / Conjunction ("and"):
 Conjunction ("and")
 - DT also use "we"/"ve" or "man" / "men" (which depends on vowel harmony)
  - "o we men" (he/she and me), "ğismaniyet we şagîlgan" (physics and electricity)
- -  - "o man men" (he/she and me), "ğismaniyet men şagîlgan" (physics and electricity)
+ - "o man men" (he/she and me), "ğismaniyet men şagîlgan" (physics and electricity)
+ - Don't use "men" / "man" as initial word of a sentence, use "we" instead
  
 Future Tense:
 - SCT -AcAK/-EcEK. DT seems to use -AğaK/-eğeK (intervocalic k->ğ).
@@ -4309,7 +4310,7 @@ Topraklar eşílílíp şîkkanda túrbeler.
 - English: when - Dobrujan Tatar (Crimean Tatar RO): kanşa
 - English: how - Dobrujan Tatar (Crimean Tatar RO): kanday
 - English: not - Dobrujan Tatar (Crimean Tatar RO): tuwîl
-- English: all - Dobrujan Tatar (Crimean Tatar RO): barlîgî
+- English: all - Dobrujan Tatar (Crimean Tatar RO): bútún
 - English: many - Dobrujan Tatar (Crimean Tatar RO): kóp
 - English: some - Dobrujan Tatar (Crimean Tatar RO): bír tiy
 - English: few - Dobrujan Tatar (Crimean Tatar RO): bír kaş
@@ -4332,7 +4333,7 @@ Topraklar eşílílíp şîkkanda túrbeler.
 - English: man (adult male) - Dobrujan Tatar (Crimean Tatar RO): kísí, adam, er, erkek
 - English: man (human being) - Dobrujan Tatar (Crimean Tatar RO): insan
 - English: child - Dobrujan Tatar (Crimean Tatar RO): bala, şaga, sabiy
-- English: wife - Dobrujan Tatar (Crimean Tatar RO): bíke
+- English: wife - Dobrujan Tatar (Crimean Tatar RO): biyke
 - English: husband - Dobrujan Tatar (Crimean Tatar RO): erkek
 - English: mother - Dobrujan Tatar (Crimean Tatar RO): neney
 - English: father - Dobrujan Tatar (Crimean Tatar RO): babay
@@ -4448,7 +4449,7 @@ Topraklar eşílílíp şîkkanda túrbeler.
 - English: lake - Dobrujan Tatar (Crimean Tatar RO): kól
 - English: sea - Dobrujan Tatar (Crimean Tatar RO): deñíz
 - English: salt - Dobrujan Tatar (Crimean Tatar RO): tuz
-- English: stone - Dobrujan Tatar (Crimean Tatar RO): taş, tas
+- English: stone - Dobrujan Tatar (Crimean Tatar RO): taş
 - English: sand - Dobrujan Tatar (Crimean Tatar RO): kum
 - English: dust - Dobrujan Tatar (Crimean Tatar RO): toz
 - English: earth - Dobrujan Tatar (Crimean Tatar RO): ğer
@@ -4465,7 +4466,7 @@ Topraklar eşílílíp şîkkanda túrbeler.
 - English: road - Dobrujan Tatar (Crimean Tatar RO): ğol
 - English: mountain - Dobrujan Tatar (Crimean Tatar RO): taw
 - English: red - Dobrujan Tatar (Crimean Tatar RO): kîzîl
-- English: green - Dobrujan Tatar (Crimean Tatar RO): ğeşíl
+- English: green - Dobrujan Tatar (Crimean Tatar RO): yeşíl
 - English: yellow - Dobrujan Tatar (Crimean Tatar RO): sarî
 - English: white - Dobrujan Tatar (Crimean Tatar RO): beyaz, ak
 - English: black - Dobrujan Tatar (Crimean Tatar RO): kara
@@ -4488,15 +4489,15 @@ Topraklar eşílílíp şîkkanda túrbeler.
 - English: smooth - Dobrujan Tatar (Crimean Tatar RO): tegíz
 - English: wet - Dobrujan Tatar (Crimean Tatar RO): ğaş
 - English: dry - Dobrujan Tatar (Crimean Tatar RO): kurî
-- English: correct - Dobrujan Tatar (Crimean Tatar RO): tuwrî
+- English: correct - Dobrujan Tatar (Crimean Tatar RO): tuwrî / dogrî
 - English: near - Dobrujan Tatar (Crimean Tatar RO): ğakîn
 - English: far - Dobrujan Tatar (Crimean Tatar RO): uzak
 - English: right - Dobrujan Tatar (Crimean Tatar RO): oñ
 - English: left - Dobrujan Tatar (Crimean Tatar RO): sol
 - English: at - Dobrujan Tatar (Crimean Tatar RO): -da, -de, -ta, -te
 - English: in - Dobrujan Tatar (Crimean Tatar RO): -da, -de, -ta, -te
-- English: with - Dobrujan Tatar (Crimean Tatar RO): man, men, bílen
-- English: and - Dobrujan Tatar (Crimean Tatar RO): bírde, we
+- English: with - Dobrujan Tatar (Crimean Tatar RO): man / men
+- English: and - Dobrujan Tatar (Crimean Tatar RO): bírde / we
 - English: if - Dobrujan Tatar (Crimean Tatar RO): eger
 - English: because - Dobrujan Tatar (Crimean Tatar RO): şúnkí
 - English: name - Dobrujan Tatar (Crimean Tatar RO): at, nam
