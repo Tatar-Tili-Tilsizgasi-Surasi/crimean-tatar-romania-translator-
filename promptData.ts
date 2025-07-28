@@ -5138,7 +5138,7 @@ Copula (Present Tense)
     Singular    Plural
 1st Person  -mAn        -mIz
 2nd Person  -sIñ        -sIñIz
-3rd Person  (-dIr)      (-dIr)
+3rd Person        
 
 Men hoğaman. (I teacher-cop.1sg) "I am a teacher."
 Men hoğa edím. (I teacher cop.past.1sg) "I was a teacher."
@@ -5168,7 +5168,7 @@ Marker  Meaning                 Example                 Gloss
 -kír    association/inclination íşkír ("hard worker")   work-SUF
 -lIK    abstraction             dostlîk ("friendship")  friend-SUF
 -şînas  performer of act        tílşînas ("linguist")  tongue-SUF
--ŞI     performer of act        arabaşı ("driver")      cart-SUF
+-ŞI     performer of act        arabaşî ("driver")      car-SUF
 -ŞYK    diminutive              buzşîk ("piece of ice") ice-SUF
  
 Deverbal
