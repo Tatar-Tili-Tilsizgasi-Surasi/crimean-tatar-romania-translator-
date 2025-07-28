@@ -1,6 +1,57 @@
 // services/promptData.ts
 
 export const CRIMEAN_TATAR_RO_ALPHABET_PRONUNCIATION_GUIDE = `
+Pronunciation
+Latin character	Name	Sound description and pronunciation
+A a	A	This letter represents the low unrounded RTR or hard vowel /ɑ/ as in ana [ɑṉɑ] 'mother'.
+Á á	Hemzelí A	This letter occurring in a limited number of Arabic and Persian loanwords represents the near-low unrounded ATR or soft vowel not belonging to authentic Tatar language /æ/ as in sáát [s̶ææt̶] 'hour', 'clock'.
+B b	Be	This letter represents two distinctive consonantal sounds: the hard voiced bilabial stop /ḇ/ as in bal [ḇaḻ] 'honey' and the soft voiced bilabial stop /b̶/ as in bel [b̶el̶] 'waist'.
+Ç ç	Çe	This letter represents two distinctive consonantal sounds: the hard voiceless palato-alveolar affricate /ṯ͡ʃ̱/ as in ça-ça [ṯ͡ʃ̱ɑṯ͡ʃ̱ɑ] 'cha-cha' and the soft voiceless palato-alveolar affricate /t̶͡ʃ̶/ as in çeçen [t̶͡ʃ̶et̶͡ʃ̶en̶] 'chechen'.
+
+Common to Turkic languages, these sounds are quasi non-existent in Tatar spoken in Dobruja where they have shifted from «Ç» to «Ş». Therefore, although authentic, these sounds could be equally treated as academic.
+
+
+D d	De	This letter represents two distinctive consonantal sounds: hard voiced dental stop /ḏ/ as in dal [ḏɑḻ] 'branch' and the soft voiced dental stop/d̶/ as in deren [d̶er̶en̶] 'deep'.
+E e	E	This letter represents the mid unrounded ATR or soft vowel /e/ as in sen [s̶en̶] 'you'.
+F f	Fe	This letter occurs only in loanwords for it represents sounds that do not belong to authentic Tatar language. In authentic reading the foreign sound is naturalized and the letter reads as letter «P». In academic reading it represents two distinctive consonantal sounds: the hard voiceless labio-dental fricative [f̱] as in fal [f̱ɑḻ] 'destiny' and the soft voiceless labio-dental fricative [f̶] as in fen [f̶en̶] 'technics'.
+G g	Ge	This letter represents the soft voiced palatal stop [ɟ̱] as in gene [ɟ̱en̶e] 'again', 'still' with its allophone the soft voiced velar stop /g/ as in gúl [gu̶l̶] 'flower', 'rose'. It also represents the hard voiced uvular fricative /ʁ/ as in gam [ʁɑm] 'grief'.
+Ğ ğ	Ğe	The letter represents two distinctive consonantal sounds: the hard voiced palato-alveolar affricate/ḏ͡ʒ̱/ as in ğar [ḏ͡ʒ̱ɑṟ] 'abyss' and the soft voiced palato-alveolar affricate/d̶͡ʒ̶/ as in ğer [d̶͡ʒ̶er̶] 'place', 'ground'.
+H h	He	Representing sounds that do not belong to authentic Tatar language this letter occurs only in loanwords. Most often, in authentic reading, when it reproduces the Arabic or Persian ه‍ it is a silent letter or, if it is located at the beginning or end of the word, the sound is usually naturalized and the letter reads as letter «K». When it reproduces ح or خ the sound is usually naturalized as /q/. In academic reading it represents two distinctive consonantal sounds: the hard voiceless glottal fricative /h/ as in taht [ṯɑhṯ] 'throne' and the soft voiceless uvular fricative /χ/ as in heşt [χeʃ̶t̶] 'eight'.
+I i	I	The letter represents the hight unrounded ATR or soft vowel /i/ as in biñ [b̶iŋ] 'thousand'.
+Í í	Hemzelí I, Kîska I, Zayîf I	This letter represents the hight unrounded half-advanced ATR or soft vowel /ɨ/ as in bír [b̶ɨr̶] 'one' is specific to Tatar.
+
+At the end of the word it is pronounced with half open mouth undergoing dilatation "Keñiytúw" and becoming mid unrounded half-advanced ATR or soft /ə/, also known as schwa, as in tílí [t̶ɨl̶ə] 'his tongue'.
+
+
+Î î	Kalpaklî I, Tartuwlî I	This letter represents the hight unrounded RTR or hard vowel /ɯ/ as in îşan [ɯʃ̱ɑṉ] 'mouse'.
+
+At the end of the word it is pronounced with half open mouth shifting through dilatation "Keñiytúw" to mid unrounded RTR or hard /ɤ/, close to schwa, as in şîlapşî [ʃ̱ɯḻɑp̱ʃ̱ɤ] 'trough'.
+
+
+J j	Je	This letter represents two distinctive consonantal sounds: the hard voiced palato-alveolar affricate /ʒ̱/ as in taj [ṯɑʒ̱] 'crown' and the soft voiced palato-alveolar affricate /ʒ̶/ as in bej [b̶eʒ̶] 'beige'.
+K k	Ke	This letter represents the soft voiceless palatal stop /c/ as in kel [cel̶] 'come!' and its allophone the soft voiceless velar stop /k/ as in kól [kɵl̶] 'lake'. It also represents the hard voiceless uvular stop /q/ as in kal [qɑḻ] 'stay!'.
+L l	Le	This letter represents two distinctive consonantal sounds: the hard alveolar lateral approximant /ḻ/ as in bal [ḇɑḻ] 'honey' and the soft alveolar lateral approximant /l̶/ as in bel [b̶el̶] 'waist'.
+M m	Me	This letter represents two distinctive consonantal sounds: the hard bilabial nasal /m̱/ as in maga [m̱ɑʁɑ] 'to me' and the soft bilabial nasal /m̶/ as in men [m̶en̶] 'I'.
+N n	Ne	This letter represents two distinctive consonantal sounds: the hard dental nasal /ṉ/ as in ana [ɑṉɑ] 'mother' and the soft dental nasal /n̶/ as in ne [n̶e] 'what'.
+Ñ ñ	Eñ, Dalgalî Ne	This letter represents two distinctive consonantal sounds: the hard uvular nasal /ɴ/ as in añ [ɑɴ] 'conscience' and the soft velar nasal /ŋ/ as in eñ [eŋ] 'most'.
+O o	O	This letter represents the mid rounded RTR or hard vowel /o/ as in bo [ḇo] 'this'.
+Ó ó	Noktalî O	This letter represents the mid rounded half-advanced ATR or soft vowel /ɵ/ as in tór [t̶ɵr̶] 'background'.
+P p	Pe	This letter represents two distinctive consonantal sounds: the hard voiceless bilabial stap /p̱/ as in ğap [ḏ͡ʒ̱ɑp̱] 'close!' and the soft voiceless bilabial stop /p̶/ as in ğep [d̶͡ʒ̶ep̶] 'pocket'.
+R r	Re	This letter represents two distinctive consonantal sounds: the hard alveolar trill /ṟ/ as in tar [ṯɑṟ] 'narrow' and the soft alveolar trill /r̶/ as in ter [t̶er̶] 'sweat'.
+S s	Se	This letter represents two distinctive consonantal sounds: the hard voiceless alveolar fricative /s̱/ as in sal [s̱ɑḻ] 'raft' and the soft voiceless alveolar fricative /s̶/ as in sel [s̶el̶] 'flood'.
+Ş ş	Şe	This letter represents two distinctive consonantal sounds: the hard voiceless palato-alveolar fricative /ʃ̱/ as in şaş [ʃ̱ɑʃ̱] 'spread!' and the soft voiceless palato-alveolar fricative /ʃ̶/ as in şeş [ʃ̶eʃ̶] 'untie'.
+T t	Te	This letter represents two distinctive consonantal sounds: the hard voiceless dental stop /ṯ/ as in tar [ṯɑṟ] 'tight', 'narrow' and the soft voiceless dental stop /t̶/ as in ter [t̶er̶] 'sweat'.
+U u	U	This letter represents the hight rounded RTR or hard vowel /u/ as in un [uṉ] 'flour'.
+Ú ú	Noktalî U	This letter represents the hight rounded half-advanced ATR or soft vowel /ʉ/ as in sút [s̶ʉt̶] 'milk'.
+
+In the vicinity of semivowel y, which occurs rarely, its articulation shifts to high rounded ATR or soft /y/, close to Turkish pronunciation, as in súymek [s̶ym̶ec] 'to love'.
+
+
+V v	Ve	This letter occurs only in loanwords for it represents sounds that do not belong to authentic Tatar spoken in Romania. In authentic reading the foreign sound is naturalized and the letter reads sometimes as «W», sometimes as «B». In academic it represents two distinctive consonantal sounds: the hard voiced labio-dental fricative /v̱/ as in vals [v̱ɑḻs̱] 'waltz' and the soft voiced labio-dental fricative /v̶/ as in ve [v̶e] 'and'.
+W w	We	This letter represents two distinctive consonantal sounds: the hard labio-velar semivowel /w̱/ as in taw [ṯɑw̱] 'forest', 'mountain' and the soft labio-velar semivowel /w̶/ as in tew [t̶ew̶] 'central', 'fundamental'.
+Y y	Ye	This letter represents two distinctive consonantal sounds: the hard palatal semivowel /j̠/ as in tay [ṯɑj̠] 'foal' and the soft palatal semivowel /j̶/ as in yer [j̶er̶] 'place', 'ground'.
+Z z	Ze	This letter represents two distinctive consonantal sounds: the hard voiced alveolar fricative /ẕ/ as in taz [ṯɑẕ] 'bald' and the soft voiced alveolar fricative /z̶/ as in tez [t̶ez̶] 'quick'.
+
 Kîrîm Tatarşasî - Elifbe
 Búkreşt Darúlfúnunuñ Eğnebiy Tíller we Edebiyatlar Ihtiyariyesíñ tóretílmesínde
 Tomrîğa (Scythia Minor) Kîrîm Tatarşasîñ elifbesí
