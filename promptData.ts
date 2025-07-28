@@ -517,6 +517,9 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - SCT: Sütli şokolat (Milk chocolate/Milky chocolate)
  - Crimean Tatar (RO): Sútlí çokolat/şokolat
 
+- SCT: telekommunikatsiya, fizika, elektrik, astronomiya, topografiya, psihologiya, matematika, informatika (telecommunication, physics, electricity, astronomy, topography, psychology, mathematics, informatics)
+ - Crimean Tatar (RO): uzakkaberleşme, ğismaniyet, şagîlgan, felekiyat, ğersîzgasî, akîlbílímí, riyaziyet, seriyelek
+
 --- End of SCT -> Crimean Tatar (RO) Transformation Examples and Rules ---
 
 - The Western Front - Kúnbatar ğephesí
