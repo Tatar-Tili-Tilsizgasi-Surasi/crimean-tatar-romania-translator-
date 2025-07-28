@@ -347,7 +347,7 @@ Orthography:
 
 II. Lexicon (Significant Divergence):
 DT often prefers different (though usually related Turkic) lexical items for common words compared to SCT. This requires a lexical substitution list. PRIORITIZE DT LEXICAL ITEMS FROM EXAMPLES AND DICTIONARY.
-- Replacement of Loanwords: Russian and Ukrainian loanwords common in Standard Crimean Tatar should generally be replaced with appropriate Romanian, Turkish, or natively derived (often Arabic/Persian based) alternatives in Dobrujan Tatar.
+- Replacement of Loanwords: Russian and Ukrainian loanwords common in Standard Crimean Tatar should generally be replaced with appropriate or natively derived (often Arabic/Persian based) alternatives in Dobrujan Tatar.
 - SCT: köy (village) -> DT: kóy
 - SCT: qayıtmaq (to return) -> DT: kelmek (to come/arrive, implying return)
 - SCT: çoq (much, very) -> DT: kóp
@@ -381,7 +381,7 @@ Future Tense:
 - Attached to future stem: keteğek + men -> keteğekmen.
 
 1st Person Plural Suffix (e.g., with bolmaq):
-- DT uses -Amîz / -emîz (with vowel reduction). Ex: DT: bolamîz
+- DT uses -Amîz / -emíz (with vowel reduction). Ex: DT: bolamîz
 
 Definite Accusative Case:
 - SCT uses -nI. DT also uses -nI (e.g., yemekní, itní).
