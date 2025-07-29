@@ -1,4 +1,4 @@
-# Run and deploy your the app
+# Run and deploy the app
 
 This contains everything you need to run the app locally.
 
