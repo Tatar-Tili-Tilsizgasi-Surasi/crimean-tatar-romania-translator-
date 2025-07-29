@@ -1,12 +1,12 @@
+
 import React, { useState, useCallback, useEffect } from 'react';
 import LanguageSelector from './components/LanguageSelector';
 import TextAreaInput from './components/TextAreaInput';
 import IconButton from './components/IconButton';
-import { SwapIcon, TranslateIcon, ClearIcon, LoadingSpinner } from './components/Icons';
+import { SwapIcon, ClearIcon, LoadingSpinner } from './components/Icons';
 import { LanguageOption } from './types';
 import { LANGUAGES, DEFAULT_SOURCE_LANG, DEFAULT_TARGET_LANG } from './constants';
 import { translateText } from './services/translationService';
-import { initializeAppData } from './dictionaryData';
 
 const App: React.FC = () => {
   const [sourceLang, setSourceLang] = useState<string>(DEFAULT_SOURCE_LANG);
@@ -14,20 +14,7 @@ const App: React.FC = () => {
   const [sourceText, setSourceText] = useState<string>('');
   const [translatedText, setTranslatedText] = useState<string>('');
   const [isLoading, setIsLoading] = useState<boolean>(false);
-  const [isDictionaryLoading, setIsDictionaryLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
-  const [dictionaryError, setDictionaryError] = useState<string | null>(null);
-
-  useEffect(() => {
-    initializeAppData()
-      .then(() => {
-        setIsDictionaryLoading(false);
-      })
-      .catch((err) => {
-        setDictionaryError(err.message || 'Dictionary could not be loaded. Lookup is disabled.');
-        setIsDictionaryLoading(false);
-      });
-  }, []);
 
   const getLangName = useCallback((code: string): string => {
     return LANGUAGES.find(lang => lang.code === code)?.name || code;
@@ -85,25 +72,17 @@ const App: React.FC = () => {
     setSourcePlaceholder(`Enter text in ${getLangName(sourceLang)}...`);
   }, [sourceLang, getLangName]);
 
-  const isAppBusy = isLoading || isDictionaryLoading;
+  const isAppBusy = isLoading;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-gray-900 text-slate-200 p-4 sm:p-8 flex flex-col items-center font-['Inter'] relative">
-      {isDictionaryLoading && (
-        <div className="absolute inset-0 bg-slate-900/80 backdrop-blur-sm flex items-center justify-center z-50">
-          <div className="flex items-center text-sky-300">
-            <LoadingSpinner className="w-6 h-6 mr-3" />
-            <span className="text-lg">Loading dictionary...</span>
-          </div>
-        </div>
-      )}
       <main className="container mx-auto max-w-3xl w-full bg-slate-800/70 backdrop-blur-lg shadow-2xl rounded-xl p-6 sm:p-10">
         <header className="mb-8 text-center">
           <h1 className="text-3xl sm:text-4xl font-bold text-sky-400 tracking-tight">
             Crimean Tatar (RO) Translator
           </h1>
           <p className="text-slate-400 mt-2 text-sm sm:text-base">
-            Translate between Crimean Tatar (Romania), English, and Romanian.
+            Translate between Crimean Tatar and Crimean Tatar (Romania).
           </p>
         </header>
 
@@ -144,9 +123,7 @@ const App: React.FC = () => {
             >
               {isLoading ? (
                 <LoadingSpinner className="w-5 h-5 sm:w-6 sm:h-6 mr-2" />
-              ) : (
-                <TranslateIcon className="w-5 h-5 sm:w-6 sm:h-6 mr-2" />
-              )}
+              ) : null}
               <span className="text-sm sm:text-base">{isLoading ? 'Translating...' : 'Translate'}</span>
             </button>
             <IconButton
@@ -178,11 +155,6 @@ const App: React.FC = () => {
             />
           </div>
 
-          {dictionaryError && (
-             <div className="mt-4 p-3.5 bg-yellow-500/20 text-yellow-300 border border-yellow-500/30 rounded-md text-sm text-center shadow">
-              <strong>Warning:</strong> {dictionaryError}
-            </div>
-          )}
           {error && (
             <div className="mt-4 p-3.5 bg-red-500/20 text-red-300 border border-red-500/30 rounded-md text-sm text-center shadow">
               <strong>Error:</strong> {error}
@@ -196,7 +168,8 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center text-slate-500 mt-10 text-xs sm:text-sm">
-        Powered by Google Gemini API. UI by AI.
+        <p>A project of Tatar Tílí Tílsîzgasî Şurasî</p>
+        <p className="mt-1">Powered by Google Gemini API. UI by AI.</p>
       </footer>
     </div>
   );

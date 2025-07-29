@@ -1,6 +1,6 @@
 {
   "name": "Crimean Tatar (RO) Translator",
-  "description": "A web application to translate text between Crimean Tatar (Romania), English, and Romanian using the Gemini API.",
+  "description": "Translate between Crimean Tatar and Crimean Tatar (Romania). A project of Tatar Tílí Tílsîzgasî Şurasî.",
   "requestFramePermissions": [],
   "prompt": ""
 }

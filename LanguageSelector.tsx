@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { LanguageOption } from '../types';
+import { LanguageOption } from './types';
 
 interface LanguageSelectorProps {
   id: string;
