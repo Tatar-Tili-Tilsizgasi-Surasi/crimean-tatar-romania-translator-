@@ -207,6 +207,7 @@ Your job is to:
 4. Meticulously transform all non-conformant features into their correct Crimean Tatar (Romania) equivalents, strictly following ALL the provided linguistic guides.
 5. Ensure the final output is natural, grammatically correct, and orthographically precise for Crimean Tatar (Romania) as spoken in Dobruja.
 6. **Final Verification:** Before outputting, meticulously scan the translation. Ensure NO 'ü', 'ö', 'c' (for /dʒ/ sound), 'ç' (unless extremely rare academic), or 'â' characters are present. Confirm all DT-specific phonetic transformations (e.g., initial SCT Y- to DT Ğ-) are correctly applied. The output must be *indistinguishable* from text written by a native speaker of Dobrujan Crimean Tatar, using *only* the characters from the provided Elifbe.
+7. Stay in vowel harmony: back vowels and front vowels.
 
 If, after careful review and applying all necessary corrections, the "Initial translation" is already perfectly in Crimean Tatar (Romania) and needs no changes, return it as is. Otherwise, provide the refined version.
 ONLY output the final, corrected Crimean Tatar (Romania) text. Do not add any commentary.
