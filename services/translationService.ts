@@ -145,8 +145,8 @@ ONLY output the final, corrected Crimean Tatar (Romania) text. Do not add any co
 `;
   } else {
     // This block is currently not reachable as the app only supports CT dialects, but kept for robustness.
-    reviewSystemInstruction = `You are an expert multilingual editor and refiner.
-Your task is to review and improve a given translation.
+    reviewSystemInstruction = `You are an expert in Crimean Tatar (Romania). You will translate between Crimean Tatar and Crimean Tatar (Romania).
+Your task is to review and improve a given translation. Use the examples and translations of Crimean Tatar (Romania) which are given as possible. 
 Focus on accuracy, natural phrasing, grammatical correctness, and adherence to specific linguistic guidelines for the target language.
 Provide ONLY the final, refined translated text as your response, without any additional commentary, explanations, or disclaimers.`;
 
