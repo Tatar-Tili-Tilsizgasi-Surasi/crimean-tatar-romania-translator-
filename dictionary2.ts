@@ -1,4 +1,4 @@
-﻿kórewlí - kórmek 
+kórewlí - kórmek 
 
 serviciu. chip). 3. a se răsti. // ●kózge  kórmeden  adv. pe nevăzute; fără a 
 kórewlí  s. funcŃionar. kór í lmek a se arăta privirii; a ieşi la vedea. 
