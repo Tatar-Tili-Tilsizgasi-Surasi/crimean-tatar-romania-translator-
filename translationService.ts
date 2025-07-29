@@ -202,6 +202,7 @@ Your job is to:
     *   Replace ALL instances of 'ç' with 'ş', unless it is an extremely rare, explicitly justified academic term where 'ç' is intentionally preserved (this is highly uncommon in authentic DT). (e.g., 'için' MUST become 'úşún', 'çay' MUST become 'şay').
     *   Carefully check the usage of 'i', 'í', and 'î' according to the detailed "Orthography Info" and "Alphabet Guide". Ensure SCT 'ı' is consistently DT 'î', and SCT 'i' is often DT 'í' (especially in suffixes and unstressed positions).
     *   Apply naturalization rules (e.g., f > p, v > w/b, h-dropping/changes) where appropriate for authentic DT.
+    *   The letters b, d, g, ğ, i, ó, u, ú, v can't occur at the end, as a last letter of the word (exception: "ald" and "dad"). Also the letter ñ can't occur as an initial letter of a word.
 3. **Lexical Choice:** Scrutinize every word. If a word appears to be a Standard Crimean Tatar (SCT) form and a distinct Dobrujan Tatar (DT) equivalent is provided in the dictionary, examples, or SCT-DT summary, YOU MUST USE THE DT EQUIVALENT. Prefer authentic DT vocabulary over direct transliteration from SCT.
 4. Meticulously transform all non-conformant features into their correct Crimean Tatar (Romania) equivalents, strictly following ALL the provided linguistic guides.
 5. Ensure the final output is natural, grammatically correct, and orthographically precise for Crimean Tatar (Romania) as spoken in Dobruja.
