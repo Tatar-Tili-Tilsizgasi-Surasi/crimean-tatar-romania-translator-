@@ -121,7 +121,7 @@ When "Crimean Tatar (Romania)" is the target language, it is CRUCIAL that your t
 Authentic Crimean Tatar (Romania) as spoken in Dobruja DOES NOT USE the letters 'ü', 'ö', 'c' (for the /dʒ/ sound). The character 'â' is also NOT part of the Dobrujan Tatar alphabet (though 'á' is).
 Instead, use their correct equivalents: 'ü' -> 'ú', 'ö' -> 'ó', 'c' -> 'ğ', 'ç' -> 'ş'. Correct any instances of 'â' based on context, likely to 'a' or 'á', or re-evaluate word choice if it's an incorrect borrowing.
 AVOID Standard Crimean Tatar forms unless they are explicitly identical to Crimean Tatar (Romania) forms. The goal is literary Crimean Tatar (Romania).
-DON'T USE RUSSIAN OR UKRAINIAN LOANWORDS!
+DON'T USE RUSSIAN OR UKRAINIAN LOANWORDS.
 `;
     }
   }
@@ -167,7 +167,7 @@ DON'T USE RUSSIAN OR UKRAINIAN LOANWORDS!
   if (targetLangName === 'Crimean Tatar (Romania)') {
     reviewSystemInstruction = `You are an expert linguist specializing *exclusively* in Dobrujan Crimean Tatar (Crimean Tatar - Romania). 
 Your SOLE purpose is to ensure the provided text is 100% compliant with the specific orthography, grammar, and lexicon of this dialect as spoken in Dobruja, Romania.
-ANY deviation from the provided linguistic guides (Elifbe, Orthography, SCT-DT Summary, Grammar, Examples) is an error.
+ANY deviation from the provided linguistic guides (Elifbe, Orthography, SCT-DT Summary, Grammar, Examples) is an error. Only use the words and translations that are given as possible.
 Provide ONLY the final, perfectly corrected Crimean Tatar (Romania) text. NO commentary.
 
 The following detailed linguistic information for Crimean Tatar (Romania) MUST be strictly adhered to:
