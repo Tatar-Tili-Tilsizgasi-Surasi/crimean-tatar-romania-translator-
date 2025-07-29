@@ -8692,6 +8692,4465 @@ Sylvia atricapilla; kara-başlî-ğeleşe, karabaş; Silvie cu cap negru; Eurasi
 Turdus merula; kara-sayrak, karatawuk; Mierlă; Common Blackbird
 Tyto alba guttata; ambar-baykuşî, taska; Strigă; Barn Owl
 Upupa epops; kekeşe, bebişek; Pupăză; Eurasian Hoopoe
+KÎRÎM TATARĞA ÁLEM-Í TAYYARAT<
+Aviarium Scythicum ad scientiam conformatus
+
+        <dt>Acanthis cannabina</dt>
+        <dd>•ketenkuşî</dd>
+        <dd>•kînapkuşî</dd>
+        <dd>•kendírkuşî</dd>
+
+        <dt>Acanthis flammea</dt>
+        <dd>•şekíldek</dd>
+        <dd>•sîrt-ketenkuşî</dd>
+
+        <dt>Acanthis flavirostris</dt>
+        <dd>•sarî-gágáalî-şekíldek</dd>
+        <dd>•sarî-gágáalî-ketenkuşî</dd>
+
+        <dt>Accipiter brevipes</dt>
+        <dd>•kîska-ayaklî-atmağa</dd>
+        <dd>•aw-atmağasî</dd>
+
+        <dt>Accipiter gentilis</dt>
+        <dd>•kógerşín-atmağasî</dd>
+        <dd>•balaban-atmağa</dd>
+        <dd>•şaylak</dd>
+
+        <dt>Accipiter nisus</dt>
+        <dd>•torgay-atmağasî</dd>
+        <dd>•kíşkene-atmağa</dd>
+        <dd>•boz-dogan</dd>
+        <dd>•şunkar</dd>
+
+        <dt>Acridotheres cristatellus</dt>
+        <dd>•kekeşlí-şegertkíğí</dd>
+        <dd>•Kîtay-şegertkíğísí</dd>
+
+        <dt>Acridotheres gingianus</dt>
+        <dd>•boz-şegertkíğí</dd>
+
+        <dt>Acridotheres tristis</dt>
+        <dd>•şegertkíğí</dd>
+
+        <dt>Acrocephalus aedon</dt>
+        <dd>•kalîn-tumşuklî-aykabak</dd>
+        <dd>•kalîn-gágáalî-şîbaw</dd>
+
+        <dt>Acrocephalus agricola</dt>
+        <dd>•tarla-aykabagî</dd>
+        <dd>•tarla-şîbawî</dd>
+
+        <dt>Acrocephalus arundinaceus</dt>
+        <dd>•balaban-kamîş-aykabagî</dd>
+        <dd>•balaban-kamîş-şîbawî</dd>
+
+        <dt>Acrocephalus dumetorum</dt>
+        <dd>•sîrt-kamîş-aykabagî</dd>
+        <dd>•sîrt-kamîş-şîbawî</dd>
+
+        <dt>Acrocephalus griseldis</dt>
+        <dd>•Ağem-aykabagî</dd>
+        <dd>•Ağem-şîbawî</dd>
+
+        <dt>Acrocephalus melanopogon</dt>
+        <dd>•mîyîklî-kamîş-aykabagî</dd>
+        <dd>•mîyîklî-kamîş-şîbawî</dd>
+
+        <dt>Acrocephalus paludicola</dt>
+        <dd>•sîzîklî-kamîş-aykabagî</dd>
+        <dd>•suw-aykabagî</dd>
+        <dd>•sîzîklî-kamîş-şîbawî</dd>
+        <dd>•suw-şîbawî</dd>
+
+        <dt>Acrocephalus palustris</dt>
+        <dd>•bataklîk-aykabagî</dd>
+        <dd>•bataklîk-şîbawî</dd>
+
+        <dt>Acrocephalus schoenobaenus</dt>
+        <dd>•dere-aykabagî</dd>
+        <dd>•dere-şîbawî</dd>
+
+        <dt>Acrocephalus scirpaceus</dt>
+        <dd>•kamîş-aykabagî</dd>
+        <dd>•kamîş-şîbawî</dd>
+
+        <dt>Acrocephalus stentoreus</dt>
+        <dd>•Nil-aykabagî</dd>
+        <dd>•Nil-şîbawî</dd>
+
+        <dt>Actitis hypoleucos</dt>
+        <dd>•şayîr-palşîkşîsî</dd>
+
+        <dt>Actitis macularius</dt>
+        <dd>•meneklí-palşîkşî</dd>
+
+        <dt>Aegithalos caudatus</dt>
+        <dd>•uzun-kuyruklî-boykuş</dd>
+
+        <dt>Aegolius funereus</dt>
+        <dd>•şimaliy-baykuş</dd>
+        <dd>•şîpalak-ayaklî-baykuş</dd>
+
+        <dt>Aegypius monachus</dt>
+        <dd>•tazkara</dd>
+        <dd>•kara-kartşagay</dd>
+
+        <dt>Aethia cristatella</dt>
+        <dd>•kekeşlí-alak</dd>
+
+        <dt>Aethia psittacula</dt>
+        <dd>•dudukuş-tumşuklî-alak</dd>
+
+        <dt>Agapornis personata</dt>
+        <dd>•sarî-yakalî-sewdakuşî</dd>
+        <dd>•sarî-yakalî-sewda</dd>
+
+        <dt>Agapornis pullarius</dt>
+        <dd>•kîzîl-yúzlí-sewdakuşî</dd>
+        <dd>•kîzîl-yúzlí-sewda</dd>
+
+        <dt>Agapornis roseicollis</dt>
+        <dd>•gúl-yúzlí-sewdakuşî</dd>
+        <dd>•gúl-yúzlí-sewda</dd>
+
+        <dt>Agelaius phoeniceus</dt>
+        <dd>•al-kanatlî-karatawuk</dd>
+
+        <dt>Aix galericulata</dt>
+        <dd>•Kîtay-añgîrî</dd>
+
+        <dt>Aix sponsa</dt>
+        <dd>•orman-añgîrî</dd>
+
+        <dt>Ajaja ajaja</dt>
+        <dd>•pembe-kaşîkşî</dd>
+
+        <dt>Alaemon alaudipes</dt>
+        <dd>•kekeşe-boztorgay</dd>
+
+        <dt>Alauda arvensis</dt>
+        <dd>•balşmîr</dd>
+        <dd>•boztorgay</dd>
+        <dd>•tarla-torgayî</dd>
+        <dd>•kergen</dd>
+
+        <dt>Alauda gulgula</dt>
+        <dd>•kíşkene-boztorgay</dd>
+
+        <dt>Alauda razae</dt>
+        <dd>•Razo-boztorgayî</dd>
+
+        <dt>Alca torda</dt>
+        <dd>•usturalî-alak</dd>
+        <dd>•usturagágáa</dd>
+
+        <dt>Alcedo atthis</dt>
+        <dd>•kók-balîkşî</dd>
+
+        <dt>Alcedo cristata</dt>
+        <dd>•kekeşlí-balîkşî</dd>
+
+        <dt>Alectoris barbara</dt>
+        <dd>•berber-kírkígí</dd>
+        <dd>•berber-keklígí</dd>
+
+        <dt>Alectoris chukar</dt>
+        <dd>•kînalî-kírkík</dd>
+        <dd>•kînalî-keklík</dd>
+
+        <dt>Alectoris graeca</dt>
+        <dd>•taş-kírkígí</dd>
+        <dd>•taş-keklígí</dd>
+
+        <dt>Alectoris melanocephala</dt>
+        <dd>•kara-tepelí-kírkík</dd>
+        <dd>•Arap-kírkígí</dd>
+        <dd>•kara-tepelí-keklík</dd>
+        <dd>•Arap-keklígí</dd>
+
+        <dt>Alectoris philby</dt>
+        <dd>•kara-moyînlî-kírkík</dd>
+        <dd>•kara-moyînlî-keklík</dd>
+
+        <dt>Alectoris rufa</dt>
+        <dd>•kîzîl-kírkík</dd>
+        <dd>•kîzîl-keklík</dd>
+
+        <dt>Alle alle</dt>
+        <dd>•kíşkene-alak</dd>
+
+        <dt>Alopochen aegypticus</dt>
+        <dd>•Mîsîr-kazî</dd>
+
+        <dt>Amandava amandava</dt>
+        <dd>•kîrmîzî-mumgágáa</dd>
+
+        <dt>Amandava subflava</dt>
+        <dd>•sîzîklî-mumgágáa</dd>
+        <dd>•altîn-kókíreklí-mumgágáa</dd>
+
+        <dt>Amaurornis phoenicurus</dt>
+        <dd>•ak-karînlî-biydayak</dd>
+
+        <dt>Amazon aestiva</dt>
+        <dd>•mawî-mañlaylî-dudukuş</dd>
+
+        <dt>Amazonetta brasiliensis</dt>
+        <dd>•Amazon-órdegí</dd>
+
+        <dt>Ammomanes cincturus</dt>
+        <dd>•kíşkene-şól-boztorgayî</dd>
+
+        <dt>Ammomanes deserti</dt>
+        <dd>•şól-boztorgayî</dd>
+
+        <dt>Ammoperdix griseogularis</dt>
+        <dd>•kum-kírkígí</dd>
+        <dd>•şól-kírkígí</dd>
+        <dd>•kum-keklígí</dd>
+        <dd>•şól-keklígí</dd>
+
+        <dt>Ammoperdix heyi</dt>
+        <dd>•kum-Arap-kírkígí</dd>
+        <dd>•kum-Arap-keklígí</dd>
+
+        <dt>Anaplectes rubriceps</dt>
+        <dd>•al-başlî-tokîmağî</dd>
+
+        <dt>Anas acuta</dt>
+        <dd>•kîlkuyruk-órdek</dd>
+        <dd>•kîlkuyruk</dd>
+
+        <dt>Anas americana</dt>
+        <dd>•şîjgîruwğî-Amerika-órdegí</dd>
+
+        <dt>Anas bahamensis</dt>
+        <dd>•ak-yúzlí-kîl-kuyruklî-órdek</dd>
+        <dd>•ak-yúzlí-kîlkuyruk</dd>
+
+        <dt>Anas capensis</dt>
+        <dd>•Afrika-Murunî-órdegí</dd>
+
+        <dt>Anas casarca</dt>
+        <dd>•pasrenklí-añkut</dd>
+
+        <dt>Anas castanea</dt>
+        <dd>•kestanerengí-órdek</dd>
+
+        <dt>Anas clypeata</dt>
+        <dd>•kúrekşí-órdek</dd>
+        <dd>•kúrekşí</dd>
+
+        <dt>Anas crecca</dt>
+        <dd>•kíşkene-órdek</dd>
+
+        <dt>Anas crecca carolinensis</dt>
+        <dd>•yeşíl-kanatlî-Amerika-órdegí</dd>
+
+        <dt>Anas cyanoptera</dt>
+        <dd>•tolarengí-órdek</dd>
+
+        <dt>Anas discors</dt>
+        <dd>•mawî-kanatlî-órdek</dd>
+
+        <dt>Anas erythrorhyncha</dt>
+        <dd>•kîrmîzî-gágáalî-órdek</dd>
+
+        <dt>Anas falcata</dt>
+        <dd>•oraklî-órdek</dd>
+
+        <dt>Anas flavirostris</dt>
+        <dd>•alaşa-órdek</dd>
+
+        <dt>Anas formosa</dt>
+        <dd>•Baykal-órdegí</dd>
+
+        <dt>Anas georgica</dt>
+        <dd>•sarî-gágáalî-kîlkuyruk</dd>
+
+        <dt>Anas luzonica</dt>
+        <dd>•Filipin-órdegí</dd>
+
+        <dt>Anas penelope</dt>
+        <dd>•şîjgîruwğî-órdek</dd>
+
+        <dt>Anas platalea</dt>
+        <dd>•kîzîl-kúrekşí-órdek</dd>
+        <dd>•kîzîl-kúrekşí</dd>
+
+        <dt>Anas platyrhynchos</dt>
+        <dd>•yeşílbaş-órdek</dd>
+        <dd>•yeşílbaş</dd>
+
+        <dt>Anas platyrhynchos domesticus</dt>
+        <dd>•órdek</dd>
+        <dd>•badiy</dd>
+        <dd>•papiy</dd>
+
+        <dt>Anas puna</dt>
+        <dd>•puna-Amazon-órdegí</dd>
+
+        <dt>Anas querquedula</dt>
+        <dd>•kuruldawğî-órdek</dd>
+
+        <dt>Anas rhynchotis</dt>
+        <dd>•kúrekşí-Awustraliye-órdegí</dd>
+
+        <dt>Anas rubripes</dt>
+        <dd>•kawerengí-órdek</dd>
+
+        <dt>Anser anser</dt>
+        <dd>•ak-kaz</dd>
+        <dd>•boz-kaz</dd>
+
+        <dt>Anser anser domesticus</dt>
+        <dd>•kaz</dd>
+
+        <dt>Anser brachyrhynchus</dt>
+        <dd>•pembe-ayaklî-kaz</dd>
+        <dd>•kíşkene-tarla-kazî</dd>
+
+        <dt>Anser caerulescens</dt>
+        <dd>•kar-kazî</dd>
+
+        <dt>Anser canagicus</dt>
+        <dd>•şah-kaz</dd>
+
+        <dt>Anser cygnoides</dt>
+        <dd>•kuw-kazî</dd>
+        <dd>•Kîtay-kazî</dd>
+
+        <dt>Anser erythropus</dt>
+        <dd>•kíşkene-ak-mañlaylî-kaz</dd>
+
+        <dt>Anser fabalis</dt>
+        <dd>•pakla-kazî</dd>
+        <dd>•tarla-kazî</dd>
+
+        <dt>Anser indicus</dt>
+        <dd>•Hint-kazî</dd>
+
+        <dt>Anser rossii</dt>
+        <dd>•Ross'nîñ-kazî</dd>
+        <dd>•kíşkene-kar-kazî</dd>
+
+        <dt>Anthreptes metalicus</dt>
+        <dd>•Mîsîr-balkuşî</dd>
+
+        <dt>Anthreptes platurus</dt>
+        <dd>•kíşkene-balkuşî</dd>
+
+        <dt>Anthropoides virgo</dt>
+        <dd>•kelín-turnasî</dd>
+
+        <dt>Anthus</dt>
+        <dd>•ğadîrak</dd>
+
+        <dt>Anthus berthelotii</dt>
+        <dd>•Kanariya-Adasî-ğadîragî</dd>
+
+        <dt>Anthus campestris</dt>
+        <dd>•kîr-ğadîragî</dd>
+
+        <dt>Anthus cervinus</dt>
+        <dd>•kîzîl-ğadîrak</dd>
+
+        <dt>Anthus godlewskii</dt>
+        <dd>•moñgol-ğadîragî</dd>
+
+        <dt>Anthus hodgsoni</dt>
+        <dd>•yeşíl-sîrtlî-ğadîrak</dd>
+
+        <dt>Anthus novaeseelandiae</dt>
+        <dd>•Awustraliye-ğadîragî</dd>
+
+        <dt>Anthus petrosus</dt>
+        <dd>•kaya-ğadîragî</dd>
+
+        <dt>Anthus pratensis</dt>
+        <dd>•şayîr-ğadîragî</dd>
+
+        <dt>Anthus richardi</dt>
+        <dd>•Awustraliye-ğadîragî</dd>
+
+        <dt>Anthus rubescens</dt>
+        <dd>•Paçifik-ğadîragî</dd>
+
+        <dt>Anthus similis</dt>
+        <dd>•uzun-gágáalî-ğadîrak</dd>
+
+        <dt>Anthus spinoletta</dt>
+        <dd>•dak-ğadîragî</dd>
+
+        <dt>Anthus trivialis</dt>
+        <dd>•terek-ğadîragî</dd>
+
+        <dt>Apteryx australis</dt>
+        <dd>•kawerengí-kiwiykuşî</dd>
+
+        <dt>Apus affinis</dt>
+        <dd>•kíşkene-surkarlîgaş</dd>
+
+        <dt>Apus alexandri</dt>
+        <dd>•Iskender-surkarlîgaşî</dd>
+
+        <dt>Apus apus</dt>
+        <dd>•kara-surkarlîgaş</dd>
+
+        <dt>Apus caffer</dt>
+        <dd>•ak-ğayalî-surkarlîgaş</dd>
+
+        <dt>Apus horus</dt>
+        <dd>•Horus-surkarlîgaşî</dd>
+
+        <dt>Apus melba</dt>
+        <dd>•dak-surkarlîgaşî</dd>
+        <dd>•ak-karînlî-surkarlîgaş</dd>
+
+        <dt>Apus pacificus</dt>
+        <dd>•şatal-kuyruk-surkarlîgaş</dd>
+
+        <dt>Apus pallidus</dt>
+        <dd>•boz-surkarlîgaş</dd>
+
+        <dt>Apus unicolor</dt>
+        <dd>•tarla-surkarlîgaşî</dd>
+
+        <dt>Aquila adalberti</dt>
+        <dd>•Iberiya-şah-şoñgîrî</dd>
+
+        <dt>Aquila chrysaetos</dt>
+        <dd>•altîn-şoñgîr</dd>
+        <dd>•kaya-şoñgîrî</dd>
+        <dd>•kral-şoñgîr</dd>
+
+        <dt>Aquila clanga</dt>
+        <dd>•balaban-orman-şoñgîrî</dd>
+
+        <dt>Aquila fasciatus</dt>
+        <dd>•koyan-şoñgîrî</dd>
+
+        <dt>Aquila heliaca</dt>
+        <dd>•şah-şoñgîr</dd>
+
+        <dt>Aquila nipalensis</dt>
+        <dd>•bozkîr-şoñgîrî</dd>
+
+        <dt>Aquila pennatus</dt>
+        <dd>•kíşkene-şoñgîr</dd>
+        <dd>•tonlî-şoñgîr</dd>
+
+        <dt>Aquila pomarina</dt>
+        <dd>•kíşkene-orman-şoñgîrî</dd>
+
+        <dt>Aquila rapax</dt>
+        <dd>•kulan-bozkîr-búrkútí</dd>
+
+        <dt>Aquila verreauxi</dt>
+        <dd>•kara-şoñgîr</dd>
+
+        <dt>Ara macao</dt>
+        <dd>•al-makaw-dudukuşî</dd>
+
+        <dt>Aratinga acuticaudata</dt>
+        <dd>•mawî-tajlî-aratinga-dudukuşî</dd>
+
+        <dt>Aratinga erythrogenys</dt>
+        <dd>•kîrmîzî-ğaşmaklî-aratinga-dudukuşî</dd>
+
+        <dt>Arborophila atrogularis</dt>
+        <dd>•akanak</dd>
+        <dd>•ak-yúzlí-kîrkík</dd>
+        <dd>•ak-yúzlí-keklík</dd>
+
+        <dt>Ardea alba</dt>
+        <dd>•balaban-ak-karkara</dd>
+        <dd>•balaban-ak-şapur</dd>
+
+        <dt>Ardea cinerea</dt>
+        <dd>•kúlrengí-karkara</dd>
+        <dd>•kúlrengí-şapur</dd>
+
+        <dt>Ardea goliath</dt>
+        <dd>•azam-karkara</dd>
+        <dd>•azam-şapur</dd>
+
+        <dt>Ardea herodias</dt>
+        <dd>•mawî-Amerika-karkarasî</dd>
+        <dd>•mawî-Amerika-şapurî</dd>
+
+        <dt>Ardea melanocephala</dt>
+        <dd>•kara-başlî-karkara</dd>
+        <dd>•kara-başlî-şapur</dd>
+
+        <dt>Ardea purpurea</dt>
+        <dd>•kîzîlğa-karkara</dd>
+        <dd>•kîzîlğa-şapur</dd>
+
+        <dt>Ardeola bacchus</dt>
+        <dd>•alağa-Kîtay-karkarasî</dd>
+        <dd>•alağa-Kîtay-şapurî</dd>
+
+        <dt>Ardeola grayii</dt>
+        <dd>•alağa-Hint-karkarasî</dd>
+        <dd>•alağa-Hint-şapurî</dd>
+
+        <dt>Ardeola ralloides</dt>
+        <dd>•sarîğa-karkara</dd>
+        <dd>•sarîğa-şapur</dd>
+
+        <dt>Ardeotis arabs</dt>
+        <dd>•Arap-toykuşî</dd>
+
+        <dt>Arenaria interpres</dt>
+        <dd>•kîzîlğa-taşkaytargan</dd>
+
+        <dt>Argusianus argus</dt>
+        <dd>•Argus-kîrkawulî</dd>
+        <dd>•Argus-súlgúní</dd>
+
+        <dt>Argusianus bipunctatus</dt>
+        <dd>•ekí-sîzîklî-Argus-kîrkawulî</dd>
+        <dd>•ekí-sîzîklî-Argus-súlgúní</dd>
+
+        <dt>Asio capensis</dt>
+        <dd>•bataklîk-baykuşî</dd>
+
+        <dt>Asio flammeus</dt>
+        <dd>•kîska-kulaklî-baykuş</dd>
+
+        <dt>Asio otus</dt>
+        <dd>•uzun-kulaklî-baykuş</dd>
+
+        <dt>Astur palumbarius</dt>
+        <dd>•kógerşín-atmağasî</dd>
+        <dd>•balaban-atmağa</dd>
+        <dd>•şaylak</dd>
+
+        <dt>Athena brama</dt>
+        <dd>•alaşa-yapalak</dd>
+        <dd>•Hint-yapalagî</dd>
+
+        <dt>Athene noctua</dt>
+        <dd>•kíşkene-baykuş</dd>
+        <dd>•yapalak</dd>
+
+        <dt>Aythya affinis</dt>
+        <dd>•morbaş-şomar</dd>
+
+        <dt>Aythya americana</dt>
+        <dd>•Amerika-elmabaş-şomarî</dd>
+
+        <dt>Aythya baeri</dt>
+        <dd>•ak-kózlí-şomar</dd>
+
+        <dt>Aythya collaris</dt>
+        <dd>•yakalî-şomar</dd>
+
+        <dt>Aythya ferina</dt>
+        <dd>•elmabaş-şomar</dd>
+
+        <dt>Aythya fuligula</dt>
+        <dd>•kekeşlí-şomar</dd>
+
+        <dt>Aythya marila</dt>
+        <dd>•balaban-karabaş-şomar</dd>
+
+        <dt>Aythya novaeseelandiae</dt>
+        <dd>•Kenğe-Zelant-şomarî</dd>
+
+        <dt>Aythya nyroca</dt>
+        <dd>•pasbaş-şomar</dd>
+
+        <dt>Aythya vallisneria</dt>
+        <dd>•balaban-elmabaş-şomar</dd>
+
+        <dt>Balearica pavonina</dt>
+        <dd>•tajlî-kara-turna</dd>
+
+        <dt>Balearica regulorum</dt>
+        <dd>•tajlî-boz-turna</dd>
+
+        <dt>Bartramia longicauda</dt>
+        <dd>•uzun-kuyruklî-palşîkşî</dd>
+
+        <dt>Bombycilla cedrorum</dt>
+        <dd>•sedír-múyúzbaşî</dd>
+        <dd>•sedír-samîrî</dd>
+        <dd>•sedír-yúpekkuyrugî</dd>
+
+        <dt>Bombycilla garrulus</dt>
+        <dd>•múyúzbaş</dd>
+        <dd>•samîr</dd>
+        <dd>•yúpekkuyruk</dd>
+
+        <dt>Bombycilla japonica</dt>
+        <dd>•Japon-múyúzbaşî</dd>
+        <dd>•Japon-samîrî</dd>
+        <dd>•Japon-yúpekkuyrugî</dd>
+
+        <dt>Bonasia bonasia</dt>
+        <dd>•dak-tawugî</dd>
+        <dd>•karîk</dd>
+        <dd>•boztawuk</dd>
+
+        <dt>Botaurus lentiginosus</dt>
+        <dd>•Amerika-suwbugasî</dd>
+
+        <dt>Botaurus stellaris</dt>
+        <dd>•suwbuga</dd>
+
+        <dt>Brachyramphus marmoratus</dt>
+        <dd>•mermer-alak</dd>
+
+        <dt>Brachyramphus perdix</dt>
+        <dd>•uzun-gágáalî-alak</dd>
+
+        <dt>Branta bernicla bernicla</dt>
+        <dd>•kara-gerdanlî-kaz</dd>
+        <dd>•Sebír-yas-kazî</dd>
+
+        <dt>Branta bernicla hrota</dt>
+        <dd>•ak-karînlî-yas-kazî</dd>
+
+        <dt>Branta bernicla nigricans</dt>
+        <dd>•kara-karînli-yas-kazî</dd>
+
+        <dt>Branta canadensis</dt>
+        <dd>•Kanada-kazî</dd>
+
+        <dt>Branta hutchinsii</dt>
+        <dd>•kakîldagan-kaz</dd>
+
+        <dt>Branta leucopsis</dt>
+        <dd>•ak-yúzlí-kaz</dd>
+
+        <dt>Branta ruficollis</dt>
+        <dd>•kîzîl-moyînlî-kaz</dd>
+        <dd>•al-bawurlî-kaz</dd>
+        <dd>•Sebír-kazî</dd>
+
+        <dt>Bubo africanus</dt>
+        <dd>•kíşkene-Afrika-baykuşî</dd>
+
+        <dt>Bubo bubo</dt>
+        <dd>•baykuş</dd>
+
+        <dt>Bubo maximus</dt>
+        <dd>•balaban-kulaklî-baykuş</dd>
+
+        <dt>Bubo scandiacus</dt>
+        <dd>•ak-yapalak</dd>
+        <dd>•kar-yapalagî</dd>
+
+        <dt>Bubo virginianus</dt>
+        <dd>•balaban-múyúzlí-baykuş</dd>
+
+        <dt>Bubulcus ibis</dt>
+        <dd>•sîyîr-karkarasî</dd>
+        <dd>•sîyîr-şapurî</dd>
+
+        <dt>Bucanetes githagineus</dt>
+        <dd>•kíşkene-kumtorgay</dd>
+
+        <dt>Bucanetes mongolicus</dt>
+        <dd>•Moñgol-kumtorgayî</dd>
+
+        <dt>Bucephala albeola</dt>
+        <dd>•ak-yúzlí-órdek</dd>
+
+        <dt>Bucephala clangula</dt>
+        <dd>•altînkóz-órdek</dd>
+        <dd>•altînkóz</dd>
+
+        <dt>Bucephala islandica</dt>
+        <dd>•Islant-altînkóz-órdegí</dd>
+        <dd>•Islant-altînkózí</dd>
+
+        <dt>Bucorvus abyssinicus</dt>
+        <dd>•múyúzgágáa</dd>
+        <dd>•óreñgekuş</dd>
+
+        <dt>Bulweria bulweria</dt>
+        <dd>•uzunkuyruklî-boraganğî</dd>
+
+        <dt>Bulweria fallax</dt>
+        <dd>•Arap-boraganğîsî</dd>
+
+        <dt>Burhinus oedicnemus</dt>
+        <dd>•taşlîk-kerwankuşî</dd>
+
+        <dt>Burhinus senegalensis</dt>
+        <dd>•Senegal-kerwankuşî</dd>
+
+        <dt>Burhinus superciliaris</dt>
+        <dd>•Peruw-kerwankuşî</dd>
+
+        <dt>Butastur teesa</dt>
+        <dd>•ak-kózlí-sar</dd>
+        <dd>•ak-kózlí-toynak</dd>
+
+        <dt>Buteo buteo</dt>
+        <dd>•sar</dd>
+        <dd>•yaman-sar</dd>
+        <dd>•toynak</dd>
+        <dd>•yaman-toynak</dd>
+
+        <dt>Buteo hemilasius</dt>
+        <dd>•bayîr-sarî</dd>
+        <dd>•Moñgol-sarî</dd>
+        <dd>•bayîr-toynagî</dd>
+        <dd>•Moñgol-toynagî</dd>
+
+        <dt>Buteo jamaicensis</dt>
+        <dd>•kîzîl-kuyruklî-sar</dd>
+        <dd>•kîzîl-kuyruklî-toynak</dd>
+
+        <dt>Buteo lagopus</dt>
+        <dd>•ayna-kanatlî-sar</dd>
+        <dd>•ayna-kanatlî-toynak</dd>
+
+        <dt>Buteo lineatus</dt>
+        <dd>•kîzîl-omîzlî-sar</dd>
+        <dd>•kîzîl-omîzlî-toynak</dd>
+
+        <dt>Buteo rufinus</dt>
+        <dd>•kîzîl-sar</dd>
+        <dd>•uzun-bağaklî-sar</dd>
+        <dd>•kîzîl-toynak</dd>
+        <dd>•uzun-bağaklî-toynak</dd>
+
+        <dt>Buteo swainsoni</dt>
+        <dd>•Swainson'nîñ-sarî</dd>
+        <dd>•kîr-sarî</dd>
+        <dd>•Swainson'nîñ-toynagî</dd>
+        <dd>•kîr-toynagî</dd>
+
+        <dt>Buteo ventralis</dt>
+        <dd>•pas-kuyruklî-sar</dd>
+        <dd>•pas-kuyruklî-toynak</dd>
+
+        <dt>Butorides striatus</dt>
+        <dd>•yeşíl-sîrtlî-karkara</dd>
+        <dd>•yeşíl-sîrtlî-şapur</dd>
+
+        <dt>Butorides virescens</dt>
+        <dd>•yeşíl-karkara</dd>
+        <dd>•yeşíl-şapur</dd>
+
+        <dt>Cacatua alba</dt>
+        <dd>•biyaz-kakatuw-dudukuşî</dd>
+
+        <dt>Cacatua galerita</dt>
+        <dd>•sarî-kekeşlí-kakatuw-dudukuşî</dd>
+
+        <dt>Cairina moschata</dt>
+        <dd>•Amerika-órdegí</dd>
+
+        <dt>Calandrella acutirostris</dt>
+        <dd>•Tibet-boztorgayî</dd>
+
+        <dt>Calandrella brachydactyla</dt>
+        <dd>•kîska-parmaklî-boztorgay</dd>
+
+        <dt>Calandrella cheleensis</dt>
+        <dd>•Asiye-kíşkene-kîska-parmaklî-boztorgayî</dd>
+        <dd>•tuz-boztorgayî</dd>
+
+        <dt>Calandrella cinerea</dt>
+        <dd>•al-takîyalî-boztorgay</dd>
+        <dd>•bozkîr-boztorgayî</dd>
+
+        <dt>Calandrella raytal</dt>
+        <dd>•akşa-boztorgay</dd>
+        <dd>•kum-boztorgayî</dd>
+
+        <dt>Calandrell rufescens</dt>
+        <dd>•kíşkene-kîska-parmaklî-boztorgay</dd>
+
+        <dt>Calcarius lapponicus</dt>
+        <dd>•yastorgay</dd>
+
+        <dt>Calidris acuminata</dt>
+        <dd>•kîl-kuyruklî-kumtawuk</dd>
+
+        <dt>Calidris alba</dt>
+        <dd>•ak-kumtawuk</dd>
+
+        <dt>Calidris alpina</dt>
+        <dd>•kara-karînlî-kumtawuk</dd>
+
+        <dt>Calidris bairdii</dt>
+        <dd>•uzun-kanatlî-kumtawuk</dd>
+
+        <dt>Calidris canutus</dt>
+        <dd>•balaban-kumtawuk</dd>
+
+        <dt>Calidris ferruginea</dt>
+        <dd>•pasrenklí-kumtawuk</dd>
+
+        <dt>Calidris fuscicollis</dt>
+        <dd>•ak-ğayalî-kumtawuk</dd>
+
+        <dt>Calidris himantopus</dt>
+        <dd>•uzun-bağaklî-kumtawuk</dd>
+
+        <dt>Calidris maritimus</dt>
+        <dd>•mor-kumtawuk</dd>
+
+        <dt>Calidris mauri</dt>
+        <dd>•Alaska-kumtawugî</dd>
+
+        <dt>Calidris melanotos</dt>
+        <dd>•sîzîklî-kumtawuk</dd>
+
+        <dt>Calidris minuta</dt>
+        <dd>•kíşkene-kumtawuk</dd>
+
+        <dt>Calidris minutilla</dt>
+        <dd>•ufak-kumtawuk</dd>
+
+        <dt>Calidris pusilla</dt>
+        <dd>•perdelí-kumtawuk</dd>
+
+        <dt>Calidris ruficollis</dt>
+        <dd>•kîzîl-moyînlî-kumtawuk</dd>
+
+        <dt>Calidris subminuta</dt>
+        <dd>•uzun-parmaklî-kumtawuk</dd>
+
+        <dt>Calidris temminckii</dt>
+        <dd>•Temmink'níñ-kumtawugî</dd>
+
+        <dt>Calidris tenuirostris</dt>
+        <dd>•alaşa-kumtawuk</dd>
+
+        <dt>Callipepla californica</dt>
+        <dd>•Kaliforniye-bódenesí</dd>
+
+        <dt>Callonetta leucophrys</dt>
+        <dd>•kîzîl-sîrtlî-órdek</dd>
+
+        <dt>Caloenas nicobarica</dt>
+        <dd>•Nikobar-kógerşíní</dd>
+
+        <dt>Calonectris diomedea</dt>
+        <dd>•boz-ğelkuwgan</dd>
+
+        <dt>Calonectris edwardsii</dt>
+        <dd>•Yeşíl-Murun-ğelkuwganî</dd>
+
+        <dt>Calonectris leucomelas</dt>
+        <dd>•ak-yúzlí-ğelkuwgan</dd>
+
+        <dt>Capella delicata</dt>
+        <dd>•şulluk</dd>
+        <dd>•alaşa-şulluk</dd>
+
+        <dt>Caprimulgus aegyptius</dt>
+        <dd>•şól-tentekkuşî</dd>
+        <dd>•şól-eşkísawarî</dd>
+
+        <dt>Caprimulgus asiaticus</dt>
+        <dd>•kîzîl-eñselí-tentekkuş</dd>
+        <dd>•kîzîl-eñselí-eşkísawar</dd>
+
+        <dt>Caprimulgus europaeus</dt>
+        <dd>•tentekkuş</dd>
+        <dd>•eşkísawar</dd>
+
+        <dt>Caprimulgus eximius</dt>
+        <dd>•sarî-tentekkuş</dd>
+        <dd>•sarî-eşkísawar</dd>
+
+        <dt>Caprimulgus inornatus</dt>
+        <dd>•boz-başlî-tentekkuş</dd>
+        <dd>•tarla-tentekkuşî</dd>
+        <dd>•boz-başlî-eşkísawar</dd>
+        <dd>•tarla-eşkísawarî</dd>
+
+        <dt>Caprimulgus mahrattensis</dt>
+        <dd>•Sykes'níñ-tentekkuşî</dd>
+        <dd>•Sykes'níñ-eşkísawarî</dd>
+
+        <dt>Caprimulgus nubicus</dt>
+        <dd>•Kîzîl-Deñíz-tentekkuşî</dd>
+        <dd>•Kîzîl-Deñíz-eşkísawarî</dd>
+
+        <dt>Caprimulgus ruficollis</dt>
+        <dd>•kîzîl-moyînlî-tentekkuş</dd>
+        <dd>•kîzîl-moyînlî-eşkísawar</dd>
+
+        <dt>Caracara cheriway</dt>
+        <dd>•tepelí-karakara-doganî</dd>
+
+        <dt>Cardinalis cardinalis</dt>
+        <dd>•kardinalkuşî</dd>
+        <dd>•kîzîlpapaz</dd>
+
+        <dt>Carduelis cabaret</dt>
+        <dd>•kíşkene-şekíldek</dd>
+        <dd>•kíşkene-ketenkuşî</dd>
+
+        <dt>Carduelis cannabina</dt>
+        <dd>•ketenkuşî</dd>
+        <dd>•kînapkuşî</dd>
+        <dd>•kendírkuşî</dd>
+
+        <dt>Carduelis carduelis</dt>
+        <dd>•kankalkuşî</dd>
+        <dd>•altîn-şîmşîk</dd>
+
+        <dt>Carduelis chloris</dt>
+        <dd>•yeşíl-şîmşîk</dd>
+
+        <dt>Carduelis flammea</dt>
+        <dd>•şekíldek</dd>
+        <dd>•sîrt-ketenkuşî</dd>
+
+        <dt>Carduelis flavirostris</dt>
+        <dd>•sarî-gágáalî-şekíldek</dd>
+        <dd>•sarî-gágáalî-ketenkuşî</dd>
+
+        <dt>Carduelis hornemanni</dt>
+        <dd>•kutup-şekíldegí</dd>
+        <dd>•kutup-ketenkuşî</dd>
+
+        <dt>Carduelis pinus</dt>
+        <dd>•narus-şîmşîgî</dd>
+
+        <dt>Carduelis spinus</dt>
+        <dd>•sarîğakuşî</dd>
+        <dd>•alakanat</dd>
+        <dd>•kara-başlî-şîmşîk</dd>
+
+        <dt>Carduelis tristis</dt>
+        <dd>•Amerika-altîn-şîmşîgî</dd>
+
+        <dt>Carduelis yemenensis</dt>
+        <dd>•Yemen-ketenkuşî</dd>
+
+        <dt>Carpodacus erythrinus</dt>
+        <dd>•al-kuralay</dd>
+
+        <dt>Carpodacus roseus</dt>
+        <dd>•gúl-kuralayî</dd>
+
+        <dt>Carpodacus rubicilla</dt>
+        <dd>•úyken-kuralay</dd>
+
+        <dt>Carpodacus synoicus</dt>
+        <dd>•Sinay-kuralayî</dd>
+
+        <dt>Carpospiza brachydactyla</dt>
+        <dd>•boz-kaya-torgayî</dd>
+        <dd>•Kawkaz-kaya-torgayî</dd>
+
+        <dt>Casarca ferruginea</dt>
+        <dd>•pasrenklí-añkut</dd>
+
+        <dt>Catharacta skua</dt>
+        <dd>•balaban-martî</dd>
+
+        <dt>Cathartes aura</dt>
+        <dd>•kúrke-şoñgîrî</dd>
+
+        <dt>Catharus fuscescens</dt>
+        <dd>•esmer-sayrak</dd>
+
+        <dt>Catharus guttatus</dt>
+        <dd>•múnzeviy-sayrak</dd>
+
+        <dt>Catharus minimus</dt>
+        <dd>•şal-yúzlí-sayrak</dd>
+
+        <dt>Catharus ustulatus</dt>
+        <dd>•búlbúl-sayragî</dd>
+        <dd>•Swainson'nîñ-sayragî</dd>
+
+        <dt>Catoptrophorus semipalmatus</dt>
+        <dd>•boz-palşîkşî</dd>
+
+        <dt>Cecropis daurica</dt>
+        <dd>•kîzîl-ğayalî-karlîgaş</dd>
+
+        <dt>Centropus senegalensis</dt>
+        <dd>•Senegal-kukalî</dd>
+
+        <dt>Centropus superciliosus</dt>
+        <dd>•ak-kaşlî-kukal</dd>
+
+        <dt>Cepphus grylle</dt>
+        <dd>•kara-alak</dd>
+
+        <dt>Cercomela familiaris</dt>
+        <dd>•paskuyruk</dd>
+
+        <dt>Cercomela melanura</dt>
+        <dd>•karakuyruk</dd>
+
+        <dt>Cercotrichas galactotes</dt>
+        <dd>•kîzîl-koraylîk-búlbúlí</dd>
+
+        <dt>Cercotrichas podobe</dt>
+        <dd>•kara-koraylîk-búlbúlí</dd>
+
+        <dt>Certhia brachydactyla</dt>
+        <dd>•kîska-parmaklî-tîrmaşîkkuşî</dd>
+        <dd>•bakşa-tîrmaşîkkuşî</dd>
+        <dd>•kîska-parmaklî-şîkîldak</dd>
+        <dd>•bakşa-şîkîldagî</dd>
+
+        <dt>Certhia familiaris</dt>
+        <dd>•taw-tîrmaşîkkuşî</dd>
+        <dd>•taw-şîkîldagî</dd>
+
+        <dt>Ceryle alcyon</dt>
+        <dd>•kuşaklî-balîkşî</dd>
+
+        <dt>Ceryle rudis</dt>
+        <dd>•alaşa-balîkşî</dd>
+
+        <dt>Cettia cetti</dt>
+        <dd>•Çetti'níñ-ğelpazekuyrugî</dd>
+        <dd>•kamîş-ğelpazekuyrugî</dd>
+
+        <dt>Chaetura pelagica</dt>
+        <dd>•şîgarak-surkarlîgaşî</dd>
+
+        <dt>Chaimarrornis leucocephalus</dt>
+        <dd>•ak-eñselí-kîzîlkuyruk</dd>
+
+        <dt>Chalcomitra senegalensis</dt>
+        <dd>•pas-karînlî-balkuşî</dd>
+
+        <dt>Charadrius alexandrinus</dt>
+        <dd>•akşa-suwtorgay</dd>
+        <dd>•akşa-ğawunkuşî</dd>
+
+        <dt>Charadrius asiaticus</dt>
+        <dd>•Asiye-suwtorgayî</dd>
+        <dd>•Asiye-ğawunkuşî</dd>
+
+        <dt>Charadrius dubius</dt>
+        <dd>•kíşkene-yakalî-suwtorgay</dd>
+        <dd>•kíşkene-yakalî-ğawunkuşî</dd>
+
+        <dt>Charadrius forbesi</dt>
+        <dd>•Forbes'níñ-suwtorgayî</dd>
+        <dd>•Forbes'níñ-ğawunkuşî</dd>
+
+        <dt>Charadrius hiaticula</dt>
+        <dd>•balaban-yakalî-suwtorgay</dd>
+        <dd>•balaban-yakalî-ğawunkuşî</dd>
+
+        <dt>Charadrius leschenaultii</dt>
+        <dd>•balaban-kum-suwtorgayî</dd>
+        <dd>•balaban-kum-ğawunkuşî</dd>
+
+        <dt>Charadrius mongolus</dt>
+        <dd>•kíşkene-kum-suwtorgayî</dd>
+        <dd>•Moñgol-suwtorgayî</dd>
+        <dd>•kíşkene-kum-ğawunkuşî</dd>
+        <dd>•Moñgol-ğawunkuşî</dd>
+
+        <dt>Charadrius morinellus</dt>
+        <dd>•dak-suwtorgayî</dd>
+        <dd>•tamgalî-suwtorgay</dd>
+        <dd>•dak-ğawunkuşî</dd>
+        <dd>•tamgalî-ğawunkuşî</dd>
+
+        <dt>Charadrius pallidus</dt>
+        <dd>•kawerengí-yakalî-suwtorgay</dd>
+        <dd>•kawerengí-yakalî-ğawunkuşî</dd>
+
+        <dt>Charadrius pecuarius</dt>
+        <dd>•Kittlitz'níñ-suwtorgayî</dd>
+        <dd>•Kittlitz'níñ-ğawunkuşî</dd>
+
+        <dt>Charadrius pluvialis</dt>
+        <dd>•suwtorgay</dd>
+        <dd>•ğawunkuşî</dd>
+
+        <dt>Charadrius semipalmatus</dt>
+        <dd>•perdelí-suwtorgay</dd>
+        <dd>•perdelí-ğawunkuşî</dd>
+
+        <dt>Charadrius tricollaris</dt>
+        <dd>•úş-yakalî-suwtorgay</dd>
+        <dd>•úş-yakalî-ğawunkuşî</dd>
+
+        <dt>Charadrius vociferus</dt>
+        <dd>•şayîr-suwtorgayî</dd>
+        <dd>•şayîr-ğawunkuşî</dd>
+
+        <dt>Chelictinia riocourii</dt>
+        <dd>•şatal-kuyruklî-şaylak</dd>
+        <dd>•şatal-kuyruklî-keren</dd>
+        <dd>•şatal-kuyruklî-koğalak</dd>
+
+        <dt>Chen caerulescens</dt>
+        <dd>•kar-kazî</dd>
+
+        <dt>Chen canagica</dt>
+        <dd>•şah-kaz</dd>
+
+        <dt>Chen rossii</dt>
+        <dd>•Ross'nîñ-kazî</dd>
+        <dd>•kíşkene-kar-kazî</dd>
+
+        <dt>Chenonetta jubata</dt>
+        <dd>•Awustraliye-taw-kazî</dd>
+
+        <dt>Chersophilus duponti</dt>
+        <dd>•Dupont'nîñ-boztorgayî</dd>
+
+        <dt>Chettusia gregaria</dt>
+        <dd>•súrmelí-tarakay</dd>
+
+        <dt>Chettusia leucura</dt>
+        <dd>•ak-kuyruklî-tarakay</dd>
+
+        <dt>Chlamydotis macqueenii</dt>
+        <dd>•MacQueen'níñ-toykuşî</dd>
+
+        <dt>Chlamydotis undulata</dt>
+        <dd>•yakalî-toykuşî</dd>
+
+        <dt>Chlidonias hybridus</dt>
+        <dd>•ak-yúzlí-karkîldak</dd>
+
+        <dt>Chlidonias leucopterus</dt>
+        <dd>•ak-kanatlî-karkîldak</dd>
+
+        <dt>Chlidonias niger</dt>
+        <dd>•kara-karkîldak</dd>
+
+        <dt>Chloephaga picta</dt>
+        <dd>•Falklant-kazî</dd>
+
+        <dt>Chloris chloris</dt>
+        <dd>•yeşíl-şîmşîk</dd>
+
+        <dt>Chondestes grammacus</dt>
+        <dd>•súlekeş-torgay</dd>
+
+        <dt>Chordeiles minor</dt>
+        <dd>•Amerika-tentekkuşî</dd>
+        <dd>•Amerika-eşkísawarî</dd>
+
+        <dt>Choriotis arabs</dt>
+        <dd>•Arap-toykuşî</dd>
+
+        <dt>Chroicocephalus genei</dt>
+        <dd>•inğe-tumşuklî-şaklay</dd>
+        <dd>•inğe-tumşuklî-kagay</dd>
+
+        <dt>Chroicocephalus philadelphia</dt>
+        <dd>•Bonapart'nîñ-şaklayî</dd>
+        <dd>•Bonapart'nîñ-kagayî</dd>
+
+        <dt>Chroicocephalus ridibundus</dt>
+        <dd>•kara-başlî-kúlgen-şaklay</dd>
+        <dd>•kara-başlî-kúlgen-kagay</dd>
+
+        <dt>Chrysococcyx caprius</dt>
+        <dd>•yeşíl-kukuk</dd>
+        <dd>•yeşíl-kukuw</dd>
+
+        <dt>Chrysococcyx klaas</dt>
+        <dd>•kíşkene-yeşíl-kukuk</dd>
+        <dd>•kíşkene-yeşíl-kukuw</dd>
+
+        <dt>Chrysolophus amherstiae</dt>
+        <dd>•kelín-kîrkawulî</dd>
+        <dd>•kelín-súlgúní</dd>
+
+        <dt>Chrysolophus pictus</dt>
+        <dd>•altîn-kîrkawul</dd>
+        <dd>•altîn-súlgún</dd>
+
+        <dt>Chrysomus icterocephalus</dt>
+        <dd>•sarî-şemberlí-karatawuk</dd>
+
+        <dt>Ciconia abdimii</dt>
+        <dd>•kíşkene-kara-legelek</dd>
+        <dd>•Abdim'níñ-legelegí</dd>
+
+        <dt>Ciconia ciconia</dt>
+        <dd>•ak-legelek</dd>
+
+        <dt>Ciconia episcopus</dt>
+        <dd>•ak-moyînlî-legelek</dd>
+
+        <dt>Ciconia nigra</dt>
+        <dd>•hağí-legelek</dd>
+        <dd>•kara-legelek</dd>
+
+        <dt>Cinclus cinclus</dt>
+        <dd>•suw-karatawugî</dd>
+
+        <dt>Cinnyricinclus leucogaster</dt>
+        <dd>•ak-karînlî-sîyîrşîk</dd>
+        <dd>•ak-karînlî-şegertkíğí</dd>
+
+        <dt>Cinnyris venustus</dt>
+        <dd>•sarî-karînlî-balkuşî</dd>
+
+        <dt>Circaetus gallicus</dt>
+        <dd>•ğîlan-búrkútí</dd>
+
+        <dt>Circus aeruginosus</dt>
+        <dd>•saz-toygînî</dd>
+
+        <dt>Circus cyaneus</dt>
+        <dd>•kók-toygîn</dd>
+
+        <dt>Circus macrourus</dt>
+        <dd>•akşa-toygîn</dd>
+        <dd>•bozkîr-toygînî</dd>
+
+        <dt>Circus pygargus</dt>
+        <dd>•kíşkene-toygîn</dd>
+        <dd>•şayîr-toygînî</dd>
+
+        <dt>Cisticola juncidis</dt>
+        <dd>•ğelpazekuyruk</dd>
+
+        <dt>Clamator glandarius</dt>
+        <dd>•kekeşlí-kukuk</dd>
+        <dd>•kekeşlí-kukuw</dd>
+
+        <dt>Clamator jacobinus</dt>
+        <dd>•alaşa-kukuk</dd>
+        <dd>•alaşa-kukuw</dd>
+
+        <dt>Clangula hyemalis</dt>
+        <dd>•tel-kuyruklî-órdek</dd>
+        <dd>•telkuyruk</dd>
+
+        <dt>Coccothraustes coccothraustes</dt>
+        <dd>•kalîntumşuk</dd>
+        <dd>•şakrak</dd>
+
+        <dt>Coccyzus americanus</dt>
+        <dd>•sarî-tumşuklî-kukuk</dd>
+        <dd>•sarî-tumşuklî-kukuw</dd>
+
+        <dt>Coccyzus erythropthalmus</dt>
+        <dd>•kara-tumşuklî-kukuk</dd>
+        <dd>•kara-tumşuklî-kukuw</dd>
+
+        <dt>Colaptes auratus</dt>
+        <dd>•altîn-tokîldak</dd>
+
+        <dt>Colinius virginianus</dt>
+        <dd>•Virjiniye-bódenesí</dd>
+
+        <dt>Columba bollii</dt>
+        <dd>•kíşkene-defne-kógerşíní</dd>
+
+        <dt>Columba domestica</dt>
+        <dd>•kógerşín</dd>
+        <dd>•kepter</dd>
+
+        <dt>Columba eversmanni</dt>
+        <dd>•Túrkmen-kógerşíní</dd>
+
+        <dt>Columba guinea</dt>
+        <dd>•tamgalî-kógerşín</dd>
+
+        <dt>Columba livia</dt>
+        <dd>•kók-kepter</dd>
+
+        <dt>Columba oenas</dt>
+        <dd>•şól-kepterí</dd>
+        <dd>•şayîr-kógerşíní</dd>
+
+        <dt>Columba palumbus</dt>
+        <dd>•yakalî-kógerşín</dd>
+
+        <dt>Columba trocaz</dt>
+        <dd>•uzun-parmaklî-kógerşín</dd>
+
+        <dt>Coracias abyssinicus</dt>
+        <dd>•tel-kuyruklî-kók-ker</dd>
+        <dd>•tel-kuyruklî-kók-kuzgun</dd>
+        <dd>•tel-kuyruklî-kók-zakşa</dd>
+
+        <dt>Coracias benghalensis</dt>
+        <dd>•Hint-kók-kerí</dd>
+        <dd>•Hint-kók-kuzgunî</dd>
+        <dd>•Hint-kók-zakşasî</dd>
+
+        <dt>Coracias caudata</dt>
+        <dd>•pembe-karînlî-kók-ker</dd>
+        <dd>•pembe-karînlî-kók-kuzgun</dd>
+        <dd>•pembe-karînlî-kók-zakşa</dd>
+
+        <dt>Coracias garrulus</dt>
+        <dd>•kara-karga</dd>
+        <dd>•kók-kuzgun</dd>
+        <dd>•kók-ker</dd>
+        <dd>•kók-zakşa</dd>
+
+        <dt>Coracias naevia</dt>
+        <dd>•kîzîl-ker</dd>
+        <dd>•kîzîl-kuzgun</dd>
+        <dd>•kîzîl-zakşa</dd>
+
+        <dt>Coragyps atratus</dt>
+        <dd>•karakuş</dd>
+        <dd>•kara-búrkút</dd>
+
+        <dt>Corvus albicollis</dt>
+        <dd>•yakalî-ker</dd>
+        <dd>•yakalî-kuzgun</dd>
+        <dd>•yakalî-zakşa</dd>
+
+        <dt>Corvus albus</dt>
+        <dd>•kólekselí-karga</dd>
+
+        <dt>Corvus corax</dt>
+        <dd>•ker</dd>
+        <dd>•kuzgun</dd>
+        <dd>•kuzgî</dd>
+        <dd>•zakşa</dd>
+
+        <dt>Corvus corone</dt>
+        <dd>•leş-kargasî</dd>
+
+        <dt>Corvus dauuricus</dt>
+        <dd>•kíşkene-dolaşa</dd>
+        <dd>•kíşkene-şáwke</dd>
+
+        <dt>Corvus frugilegus</dt>
+        <dd>•egín-kargasî</dd>
+        <dd>•tokîm-kargasî</dd>
+
+        <dt>Corvus macrorhynchos</dt>
+        <dd>•írí-tumşuklî-karga</dd>
+
+        <dt>Corvus monedula</dt>
+        <dd>•dolaşa</dd>
+        <dd>•şáwke</dd>
+
+        <dt>Corvus rhipidurus</dt>
+        <dd>•kîska-kuyruklî-ker</dd>
+        <dd>•kîska-kuyruklî-kuzgun</dd>
+        <dd>•kîska-kuyruklî-zakşa</dd>
+
+        <dt>Corvus ruficollis</dt>
+        <dd>•şól-kerí</dd>
+        <dd>•şól-kuzgunî</dd>
+        <dd>•şól-zakşasî</dd>
+
+        <dt>Corvus splendens</dt>
+        <dd>•Hint-kargasî</dd>
+
+        <dt>Coscoroba coscoroba</dt>
+        <dd>•koskorba-kuwî</dd>
+
+        <dt>Coturnix coturnix</dt>
+        <dd>•bódene</dd>
+        <dd>•bîldîrğîn</dd>
+
+        <dt>Coturnix delegorguei</dt>
+        <dd>•kîzîl-bódene</dd>
+
+        <dt>Coturnix japonica</dt>
+        <dd>•Japon-bódenesí</dd>
+
+        <dt>Creatophora cinerea</dt>
+        <dd>•sakallî-sîyîrşîk</dd>
+        <dd>•sakallî-şegertkíğí</dd>
+
+        <dt>Crex crex</dt>
+        <dd>•tarla-tartarî</dd>
+
+        <dt>Crithagra mozambica</dt>
+        <dd>•sarî-mañlaylî-kanariya</dd>
+
+        <dt>Crossoptilon auritum</dt>
+        <dd>•mawî-kulaklî-kîrkawul</dd>
+        <dd>•mawî-kulaklî-súlgún</dd>
+
+        <dt>Cuculus canorus</dt>
+        <dd>•kukuk</dd>
+        <dd>•kukuw</dd>
+
+        <dt>Cuculus saturatus</dt>
+        <dd>•tayga-kukugî</dd>
+        <dd>•tayga-kukuwî</dd>
+
+        <dt>Cursorius cursor</dt>
+        <dd>•ğuwuruwğî</dd>
+
+        <dt>Cursorius temminckii</dt>
+        <dd>•Temmink'níñ-ğuwuruwğusî</dd>
+
+        <dt>Cyanistes caeruleus</dt>
+        <dd>•mawî-şímşíge</dd>
+
+        <dt>Cyanochen cyanoptera</dt>
+        <dd>•mawî-kanatlî-kaz</dd>
+
+        <dt>Cyanocitta cristata</dt>
+        <dd>•mawî-soyga</dd>
+
+        <dt>Cyanoliseus patagonus</dt>
+        <dd>•yuwalagan-dudukuş</dd>
+
+        <dt>Cyanopica cyanus</dt>
+        <dd>•mawî-kanatlî-sawuskan</dd>
+
+        <dt>Cyanoptila cyanomelana</dt>
+        <dd>•ak-mawî-şîbînğî</dd>
+
+        <dt>Cyanoramphus novaezelandiae</dt>
+        <dd>•kîzîl-tajlî-dudukuş</dd>
+
+        <dt>Cyclorrhynchus psittacula</dt>
+        <dd>•dudukuş-tumşuklî-alak</dd>
+
+        <dt>Cygnus atratus</dt>
+        <dd>•koñgîr-kaz</dd>
+        <dd>•kara-kuw</dd>
+
+        <dt>Cygnus bewickii</dt>
+        <dd>•kíşkene-kuw</dd>
+
+        <dt>Cygnus buccinator</dt>
+        <dd>•borazan-kuw</dd>
+
+        <dt>Cygnus columbianus</dt>
+        <dd>•kíşkene-kuw</dd>
+
+        <dt>Cygnus columbianus bewickii</dt>
+        <dd>•kíşkene-kuw</dd>
+
+        <dt>Cygnus cygnus</dt>
+        <dd>•ótken-kuw</dd>
+
+        <dt>Cygnus melanocoryphus</dt>
+        <dd>•kara-moyînlî-kuw</dd>
+
+        <dt>Cygnus olor</dt>
+        <dd>•kuw</dd>
+        <dd>•ak-kuw</dd>
+
+        <dt>Cypsiurus parvus</dt>
+        <dd>•palmiyer-surkarlîgaşî</dd>
+
+        <dt>Daption capense</dt>
+        <dd>•alaşa-boraganğî</dd>
+
+        <dt>Delichon urbicum</dt>
+        <dd>•kalaw-karlîgaşî</dd>
+
+        <dt>Dendrocopos assimilis</dt>
+        <dd>•ğîlgîn-tokîldagî</dd>
+        <dd>•ğîlgîn-terekkakkanî</dd>
+        <dd>•ğîlgîn-kúrtesí</dd>
+
+        <dt>Dendrocopos dorae</dt>
+        <dd>•Arap-tokîldagî</dd>
+        <dd>•Arap-terekkakkanî</dd>
+        <dd>•Arap-kúrtesí</dd>
+
+        <dt>Dendrocopos leucopterus</dt>
+        <dd>•ak-kanatlî-tokîldak</dd>
+        <dd>•ak-kanatlî-terekkakkan</dd>
+        <dd>•ak-kanatlî-kúrte</dd>
+
+        <dt>Dendrocopos leucotos</dt>
+        <dd>•ak-sîrtî-tokîldak</dd>
+        <dd>•ak-sîrtlî-terekkakkan</dd>
+        <dd>•ak-sîrtlî-kúrte</dd>
+
+        <dt>Dendrocopos major</dt>
+        <dd>•balaban-alaşa-tokîldak</dd>
+        <dd>•balaban-alaşa-terekkakkan</dd>
+        <dd>•balaban-alaşa-kúrte</dd>
+
+        <dt>Dendrocopos medius</dt>
+        <dd>•ortanğa-alaşa-tokîldak</dd>
+        <dd>•ortanğa-alaşa-terekkakkan</dd>
+        <dd>•ortanğa-alaşa-kúrte</dd>
+
+        <dt>Dendrocopos minor</dt>
+        <dd>•kíşkene-alaşa-tokîldak</dd>
+        <dd>•kíşkene-alaşa-terekkakkan</dd>
+        <dd>•kíşkene-alaşa-kúrte</dd>
+
+        <dt>Dendrocopos syriacus</dt>
+        <dd>•Súriye-tokîldagî</dd>
+        <dd>•bakşa-tokîldagî</dd>
+        <dd>•Súriye-terekkakkanî</dd>
+        <dd>•bakşa-terekkakkanî</dd>
+        <dd>•Súriye-kúrtesí</dd>
+        <dd>•bakşa-kúrtesí</dd>
+
+        <dt>Dendrocygna bicolor</dt>
+        <dd>•sarî-şîjgîruwğî-añgîr</dd>
+
+        <dt>Dendrocygna javanica</dt>
+        <dd>•kíşkene-şîjgîruwğî-añgîr</dd>
+
+        <dt>Dendrocygna viduata</dt>
+        <dd>•ak-yúzlí-şîjgîruwğî-añgîr</dd>
+
+        <dt>Dendroica castanea</dt>
+        <dd>•koñgîr-karînlî-ótlegen</dd>
+
+        <dt>Dendroica coronata</dt>
+        <dd>•tajlî-ótlegen</dd>
+
+        <dt>Dendroica fusca</dt>
+        <dd>•altîn-moyînlî-ótlegen</dd>
+
+        <dt>Dendroica magnolia</dt>
+        <dd>•magnoliya-ótlegení</dd>
+
+        <dt>Dendroica palmarum</dt>
+        <dd>•palmiyer-ótlegení</dd>
+
+        <dt>Dendroica pensylvanica</dt>
+        <dd>•sarî-kekeşlí-ótlegen</dd>
+
+        <dt>Dendroica petechia</dt>
+        <dd>•sarî-ótlegen</dd>
+
+        <dt>Dendroica striata</dt>
+        <dd>•ak-yúzlí-ótlegen</dd>
+
+        <dt>Dendroica tigrina</dt>
+        <dd>•kaplan-ótlegen</dd>
+
+        <dt>Dendroica virens</dt>
+        <dd>•yeşíl-sîrtlî-ótlegen</dd>
+
+        <dt>Diomedea exulans</dt>
+        <dd>•gezgen-ğayka</dd>
+        <dd>•gezgen-albatros</dd>
+
+        <dt>Diomedea melanophrys</dt>
+        <dd>•kara-kaşlî-ğayka</dd>
+        <dd>•kara-kaşlî-albatros</dd>
+
+        <dt>Diomedea cauta</dt>
+        <dd>•ak-kekeşlí-ğayka</dd>
+        <dd>•ak-kekeşlí-albatros</dd>
+
+        <dt>Diomedea chlororhyncos</dt>
+        <dd>•sarî-murunlî-ğayka</dd>
+        <dd>•sarî-murunlî-albatros</dd>
+
+        <dt>Diomedea chlorostoma</dt>
+        <dd>•şal-başlî-ğayka</dd>
+        <dd>•şal-başlî-albatros</dd>
+
+        <dt>Diomedea epomephora</dt>
+        <dd>•kral-ğayka</dd>
+        <dd>•kral-albatros</dd>
+
+        <dt>Diuca diuca</dt>
+        <dd>•diyúka-ğawrawugî</dd>
+
+        <dt>Dolichonyx oryzivorus</dt>
+        <dd>•kara-sarîğeket</dd>
+        <dd>•kara-sîgîrga</dd>
+
+        <dt>Dromas ardeola</dt>
+        <dd>•yenşek-tarakayî</dd>
+
+        <dt>Dromiceius novaehollandiae</dt>
+        <dd>•eme-dewekuşî</dd>
+        <dd>•eme-túyekuşî</dd>
+
+        <dt>Dryocopus martius</dt>
+        <dd>•kara-tokîldak</dd>
+        <dd>•kara-terekkakkan</dd>
+        <dd>•kara-kúrte</dd>
+
+        <dt>Dumetella carolinensis</dt>
+        <dd>•boz-mîşîkkuşî</dd>
+
+        <dt>Ectopistes migratorius</dt>
+        <dd>•ğaz-kógerşíní</dd>
+
+        <dt>Egretta alba</dt>
+        <dd>•egreta</dd>
+        <dd>•ak-karkara</dd>
+        <dd>•ak-şapur</dd>
+
+        <dt>Egretta ardesiaca</dt>
+        <dd>•kara-karkara</dd>
+        <dd>•kara-şapur</dd>
+
+        <dt>Egretta caerulea</dt>
+        <dd>•mawî-karkara</dd>
+        <dd>•mawî-şapur</dd>
+
+        <dt>Egretta garzetta</dt>
+        <dd>•kíşkene-ak-karkara</dd>
+        <dd>•kíşkene-ak-şapur</dd>
+
+        <dt>Egretta gularis</dt>
+        <dd>•ğaga-karkarasî</dd>
+        <dd>•ğaga-şapurî</dd>
+
+        <dt>Egretta intermedia</dt>
+        <dd>•ortanğa-karkara</dd>
+        <dd>•ortanğa-şapur</dd>
+
+        <dt>Egretta thula</dt>
+        <dd>•karbiyazî-karkara</dd>
+        <dd>•karbiyazî-şapur</dd>
+
+        <dt>Emberiza aureola</dt>
+        <dd>•sarî-karînlî-súlekeş</dd>
+        <dd>•sarî-karînlî-tenek</dd>
+        <dd>•sarî-karînlî-kirazkuşî</dd>
+
+        <dt>Emberiza bruniceps</dt>
+        <dd>•kîzîl-başlî-súlekeş</dd>
+        <dd>•kîzîl-başlî-tenek</dd>
+        <dd>•kîzîl-başlî-kirazkuşî</dd>
+
+        <dt>Emberiza buchahani</dt>
+        <dd>•boz-moyînlî-súlekeş</dd>
+        <dd>•boz-moyînlî-tenek</dd>
+        <dd>•boz-moyînlî-kirazkuşî</dd>
+
+        <dt>Emberiza caesia</dt>
+        <dd>•pasrenklí-súlekeş</dd>
+        <dd>•pasrenklí-tenek</dd>
+        <dd>•pasrenklí-kirazkuşî</dd>
+
+        <dt>Emberiza calandra</dt>
+        <dd>•tarla-súlekeşí</dd>
+        <dd>•tarla-tenegí</dd>
+        <dd>•tarla-kirazkuşî</dd>
+
+        <dt>Emberiza chrysophrys</dt>
+        <dd>•sarî-kaşlî-súlekeş</dd>
+        <dd>•sarî-kaşlî-tenek</dd>
+        <dd>•sarî-kaşlî-kirazkuşî</dd>
+
+        <dt>Emberiza cia</dt>
+        <dd>•kaya-súlekeşí</dd>
+        <dd>•kaya-tenegí</dd>
+        <dd>•kaya-kirazkuşî</dd>
+
+        <dt>Emberiza cinera</dt>
+        <dd>•boz-súlekeş</dd>
+        <dd>•boz-tenek</dd>
+        <dd>•boz-kirazkuşî</dd>
+
+        <dt>Emberiza cioides</dt>
+        <dd>•şayîr-súlekeşí</dd>
+        <dd>•şayîr-tenegí</dd>
+        <dd>•şayîr-kirazkuşî</dd>
+
+        <dt>Emberiza cirlus</dt>
+        <dd>•bakşa-súlekeşí</dd>
+        <dd>•bakşa-tenegí</dd>
+        <dd>•bakşa-kirazkuşî</dd>
+
+        <dt>Emberiza citrinella</dt>
+        <dd>•sarî-súlekeş</dd>
+        <dd>•sarî-tenek</dd>
+        <dd>•sarî-kirazkuşî</dd>
+
+        <dt>Emberiza fucata</dt>
+        <dd>•kawerengí-kulaklî-súlekeş</dd>
+        <dd>•kawerengí-kulaklî-tenek</dd>
+        <dd>•kawerengí-kulaklî-kirazkuşî</dd>
+
+        <dt>Emberiza hortulana</dt>
+        <dd>•şeşek-súlekeşí</dd>
+        <dd>•şeşek-tenegí</dd>
+        <dd>•şeşek-kirazkuşî</dd>
+
+        <dt>Emberiza leucocephala</dt>
+        <dd>•ak-başlî-súlekeş</dd>
+        <dd>•ak-başlî-tenek</dd>
+        <dd>•ak-başlî-kirazkuşî</dd>
+
+        <dt>Emberiza melanocephala</dt>
+        <dd>•kara-başlî-súlekeş</dd>
+        <dd>•kara-başlî-tenek</dd>
+        <dd>•kara-başlî-kirazkuşî</dd>
+
+        <dt>Emberiza pallasi</dt>
+        <dd>•kíşkene-saz-súlekeşí</dd>
+        <dd>•kíşkene-saz-tenegí</dd>
+        <dd>•kíşkene-saz-kirazkuşî</dd>
+
+        <dt>Emberiza pusilla</dt>
+        <dd>•kíşkene-súlekeş</dd>
+        <dd>•kíşkene-tenek</dd>
+        <dd>•kíşkene-kirazkuşî</dd>
+
+        <dt>Emberiza rustica</dt>
+        <dd>•ak-kaşlî-súlekeş</dd>
+        <dd>•ak-kaşlî-tenek</dd>
+        <dd>•ak-kaşlî-kirazkuşî</dd>
+
+        <dt>Emberiza rutila</dt>
+        <dd>•kulan-súlekeş</dd>
+        <dd>•kulan-tenek</dd>
+        <dd>•kulan-kirazkuşî</dd>
+
+        <dt>Emberiza schoeniclus</dt>
+        <dd>•kîzîl-başlî-súlekeş</dd>
+        <dd>•kîzîl-başlî-tenek</dd>
+        <dd>•kîzîl-başlî-kirazkuşî</dd>
+
+        <dt>Emberiza sp.</dt>
+        <dd>•súlekeş</dd>
+        <dd>•tenek</dd>
+        <dd>•kirazkuşî</dd>
+
+        <dt>Emberiza spodocephala</dt>
+        <dd>•kara-suratlî-súlekeş</dd>
+        <dd>•kara-suratlî-tenek</dd>
+        <dd>•kara-suratlî-kirazkuşî</dd>
+
+        <dt>Emberiza stewarti</dt>
+        <dd>•kulan-karînlî-súlekeş</dd>
+        <dd>•kulan-karînlî-tenek</dd>
+        <dd>•kulan-karînlî-kirazkuşî</dd>
+
+        <dt>Emberiza striolata</dt>
+        <dd>•boz-başlî-súlekeş</dd>
+        <dd>•boz-başlî-tenek</dd>
+        <dd>•boz-başlî-kirazkuşî</dd>
+
+        <dt>Emberiza tahapisi</dt>
+        <dd>•Afrika-kaya-súlekeşí</dd>
+        <dd>•Afrika-kaya-tenegí</dd>
+        <dd>•Afrika-kaya-kirazkuşî</dd>
+
+        <dt>Emberzina elegans</dt>
+        <dd>•sarî-moyînlî-súlekeş</dd>
+        <dd>•sarî-moyînlî-tenek</dd>
+        <dd>•sarî-moyînlî-kirazkuşî</dd>
+
+        <dt>Empidonax virescens</dt>
+        <dd>•yeşíl-şîbînğî</dd>
+
+        <dt>Eophona migratoria</dt>
+        <dd>•sarî-tumşuklî-kalîntumşuk</dd>
+        <dd>•sarî-tumşuklî-şakrak</dd>
+
+        <dt>Eophona personata</dt>
+        <dd>•ğaşmaklî-kalîntumşuk</dd>
+        <dd>•ğaşmaklî-şakrak</dd>
+
+        <dt>Eremalauda dunni</dt>
+        <dd>•Dunn'nuñ-boztorgayî</dd>
+        <dd>•Arap-boztorgayî</dd>
+
+        <dt>Eremophila alpestris</dt>
+        <dd>•kulaklî-boztorgay</dd>
+
+        <dt>Eremophila bilopha</dt>
+        <dd>•Temminck'níñ-boztorgayî</dd>
+        <dd>•kulaklî-şól-boztorgayî</dd>
+
+        <dt>Eremopterix nigriceps</dt>
+        <dd>•kara-tajlî-boztorgay</dd>
+
+        <dt>Eremopterix signata</dt>
+        <dd>•boyalî-boztorgay</dd>
+
+        <dt>Eremopterix verticalis</dt>
+        <dd>•ak-eñselí-boztorgay</dd>
+
+        <dt>Erithacus rubecula</dt>
+        <dd>•albawur</dd>
+        <dd>•birebit</dd>
+
+        <dt>Estrilda astrild</dt>
+        <dd>•mumgágáa</dd>
+
+        <dt>Estrilda caerulescens</dt>
+        <dd>•kók-mumgágáa</dd>
+
+        <dt>Estrilda melpoda</dt>
+        <dd>•altîn-yúzlí-mumgágáa</dd>
+
+        <dt>Estrilda rhodopyga</dt>
+        <dd>•pas-ğayalî-mumgágáa</dd>
+
+        <dt>Estrilda rufibarba</dt>
+        <dd>•Arap-mumgágáasî</dd>
+        <dd>•kîzîl-sakallî-mumgágáa</dd>
+
+        <dt>Estrilda troglodytes</dt>
+        <dd>•kîzîl-kulaklî-mumgágáa</dd>
+
+        <dt>Eudocimus ruber</dt>
+        <dd>•al-aynak</dd>
+        <dd>•al-ibis</dd>
+
+        <dt>Eudynamys scolopacea</dt>
+        <dd>•kara-kukal</dd>
+
+        <dt>Euphagus carolinus</dt>
+        <dd>•paslî-karatawuk</dd>
+
+        <dt>Euplectes albonotatus</dt>
+        <dd>•ak-kanatlî-tultokîmağî</dd>
+
+        <dt>Euplectes diademat</dt>
+        <dd>•ateş-mañlaylî-tultokîmağî</dd>
+
+        <dt>Euplectes hordeaceus</dt>
+        <dd>•kara-kanatlî-tultokîmağî</dd>
+
+        <dt>Euplectes orix</dt>
+        <dd>•kîzîl-tultokîmağî</dd>
+
+        <dt>Euplectes progne</dt>
+        <dd>•uzun-kuyruklî-tultokîmağî</dd>
+
+        <dt>Eurystomus glaucurus</dt>
+        <dd>•kalîn-tumşuklî-ker</dd>
+        <dd>•kalîn-tumşuklî-kuzgun</dd>
+        <dd>•kalîn-tumşuklî-zakşa</dd>
+
+        <dt>Falco amurensis</dt>
+        <dd>•Amur-doganî</dd>
+        <dd>•Amur-toganî</dd>
+
+        <dt>Falco biarmicus</dt>
+        <dd>•mîyîklî-dogan</dd>
+        <dd>•mîyîklî-togan</dd>
+
+        <dt>Falco cherrug</dt>
+        <dd>•balaban-dogan</dd>
+        <dd>•balaban-togan</dd>
+
+        <dt>Falco chicquera</dt>
+        <dd>•turumtay</dd>
+        <dd>•kîzîl-başlî-dogan</dd>
+        <dd>•kîzîl-başlî-togan</dd>
+
+        <dt>Falco columbarius</dt>
+        <dd>•kerkínşek</dd>
+        <dd>•boz-dogan</dd>
+        <dd>•boz-togan</dd>
+
+        <dt>Falco concolor</dt>
+        <dd>•kúlrengí-dogan</dd>
+        <dd>•kúlrengí-togan</dd>
+
+        <dt>Falco eleonorae</dt>
+        <dd>•kara-dogan</dd>
+        <dd>•kara-togan</dd>
+
+        <dt>Falco gyrfalcon</dt>
+        <dd>•ak-dogan</dd>
+        <dd>•ak-togan</dd>
+
+        <dt>Falco mexicanus</dt>
+        <dd>•Meksika-doganî</dd>
+        <dd>•Meksika-toganî</dd>
+
+        <dt>Falco naumanni</dt>
+        <dd>•kíşkene-kóykenek</dd>
+        <dd>•kîzîl-kóykenek</dd>
+
+        <dt>Falco pelegrinoides</dt>
+        <dd>•kîzîl-eñselí-dogan</dd>
+        <dd>•kîzîl-eñselí-togan</dd>
+
+        <dt>Falco peregrinus</dt>
+        <dd>•balaban</dd>
+        <dd>•dogan</dd>
+        <dd>•togan</dd>
+        <dd>•kîrgay</dd>
+        <dd>•kulta</dd>
+        <dd>•şahin</dd>
+        <dd>•láşin</dd>
+        <dd>•laşîn</dd>
+
+        <dt>Falco rusticolus</dt>
+        <dd>•ak-dogan</dd>
+        <dd>•ak-togan</dd>
+
+        <dt>Falco sparverius</dt>
+        <dd>•Amerika-kóykenegí</dd>
+
+        <dt>Falco subbuteo</dt>
+        <dd>•ğagîlbay</dd>
+        <dd>•sarî-dogan</dd>
+        <dd>•sarî-togan</dd>
+
+        <dt>Falco tinnunculus</dt>
+        <dd>•kóykenek</dd>
+        <dd>•alaşa-dogan</dd>
+        <dd>•alaşa-togan</dd>
+
+        <dt>Falco vespertinus</dt>
+        <dd>•kîzîl-ayaklî-kóykenek</dd>
+        <dd>•kîzîl-ayaklî-dogan</dd>
+        <dd>•kîzîl-ayaklî-togan</dd>
+
+        <dt>Ficedula albicilla</dt>
+        <dd>•tayga-şîbînğîsî</dd>
+
+        <dt>Ficedula albicollis</dt>
+        <dd>•yakalî-şîbînğî</dd>
+
+        <dt>Ficedula hypoleuca</dt>
+        <dd>•alaşa-şîbînğî</dd>
+
+        <dt>Ficedula parva</dt>
+        <dd>•kíşkene-şîbînğî</dd>
+
+        <dt>Ficedula semitorquata</dt>
+        <dd>•yarîm-yakalî-şîbînğî</dd>
+
+        <dt>Ficedula strophiata</dt>
+        <dd>•kîzîl-moyînlî-şîbînğî</dd>
+
+        <dt>Francolinus bicalcaratus</dt>
+        <dd>•koşak-şîganaklî-şíl</dd>
+
+        <dt>Francolinus erckelii</dt>
+        <dd>•Erkel'níñ-şílí</dd>
+
+        <dt>Francolinus francolinus</dt>
+        <dd>•kara-şíl</dd>
+
+        <dt>Fratercula arctica</dt>
+        <dd>•deñízdudukuşî</dd>
+
+        <dt>Fregata aquila</dt>
+        <dd>•şoñgîr-boraganğî</dd>
+
+        <dt>Fregata grallaria</dt>
+        <dd>•ak-karînlî-boraganğî</dd>
+
+        <dt>Fregata magnificens</dt>
+        <dd>•úyken-boraganğî</dd>
+
+        <dt>Fregata tropica</dt>
+        <dd>•kara-karînlî-boraganğî</dd>
+
+        <dt>Fringilla coelebs</dt>
+        <dd>•ğawrawuk</dd>
+        <dd>•alaşîray</dd>
+
+        <dt>Fringilla domestica</dt>
+        <dd>•torgay</dd>
+        <dd>•úy-torgayî</dd>
+        <dd>•şîmşîk</dd>
+        <dd>•serşe</dd>
+
+        <dt>Fringilla montifringilla</dt>
+        <dd>•taw-ğawrawugî</dd>
+
+        <dt>Fringilla teydea</dt>
+        <dd>•mawî-ğawrawuk</dd>
+
+        <dt>Fulica americana</dt>
+        <dd>•Amerika-biydayagî</dd>
+
+        <dt>Fulica atra</dt>
+        <dd>•biydayak</dd>
+
+        <dt>Fulica cristata</dt>
+        <dd>•kekeşlí-biydayak</dd>
+
+        <dt>Galerida cristata</dt>
+        <dd>•kekeşlí-boztorgay</dd>
+
+        <dt>Galerida thekla</dt>
+        <dd>•Thekla-boztorgayî</dd>
+
+        <dt>Gallinago delicata</dt>
+        <dd>•şulluk</dd>
+        <dd>•alaşa-şulluk</dd>
+
+        <dt>Gallinago gallinago</dt>
+        <dd>•suw-şullugî</dd>
+
+        <dt>Gallinago media</dt>
+        <dd>•balaban-şulluk</dd>
+
+        <dt>Gallinago megala</dt>
+        <dd>•Baykal-suw-şullugî</dd>
+
+        <dt>Gallinago solitaria</dt>
+        <dd>•óksíz-şulluk</dd>
+
+        <dt>Gallinago stenura</dt>
+        <dd>•Sebír-suw-şullugî</dd>
+
+        <dt>Gallinula chloropus</dt>
+        <dd>•ğuwgak</dd>
+        <dd>•kîzîl-mañlaylî-suw-tartarî</dd>
+
+        <dt>Gallus gallus</dt>
+        <dd>•Kîtay-tawugî</dd>
+
+        <dt>Gallus gallus domesticus</dt>
+        <dd>•tawuk</dd>
+        <dd>•tawkîya</dd>
+
+        <dt>Garrulus glandarius</dt>
+        <dd>•ala-karga</dd>
+        <dd>•soyga</dd>
+
+        <dt>Gavia adamsii</dt>
+        <dd>•ak-tumşuklî-dalgîş</dd>
+
+        <dt>Gavia arctica</dt>
+        <dd>•kara-moyînlî-dalgîş</dd>
+
+        <dt>Gavia immer</dt>
+        <dd>•buz-dalgîşî</dd>
+
+        <dt>Gavia stellata</dt>
+        <dd>•kîzîl-moyînlî-dalgîş</dd>
+
+        <dt>Gelochelidon nilotica</dt>
+        <dd>•kúlgen-karkîldak</dd>
+
+        <dt>Geopelia cuneata</dt>
+        <dd>•elmaz-kurkur</dd>
+
+        <dt>Geopelia striata</dt>
+        <dd>•zebír-kurkur</dd>
+
+        <dt>Geothlypis trichas</dt>
+        <dd>•sarîbawur</dd>
+
+        <dt>Geronticus eremita</dt>
+        <dd>•taz-aynak</dd>
+        <dd>•taz-ibis</dd>
+
+        <dt>Glareola maldivarum</dt>
+        <dd>•kîska-kuyruklî-şatalkuyruk</dd>
+        <dd>•kîska-kuyruklî-bataklîkkarlîgaşî</dd>
+
+        <dt>Glareola nordmanni</dt>
+        <dd>•kara-kanatlî-şatalkuyruk</dd>
+        <dd>•kara-kanatlî-bataklîkkarlîgaşî</dd>
+
+        <dt>Glareola pratincola</dt>
+        <dd>•pasrenklí-şatalkuyruk</dd>
+        <dd>•pasrenklí-bataklîkkarlîgaşî</dd>
+
+        <dt>Glaucidium passerinum</dt>
+        <dd>•úgúle</dd>
+        <dd>•torgay-yapalagî</dd>
+
+        <dt>Gracula religiosa</dt>
+        <dd>•bayîr-şegertkíğísí</dd>
+
+        <dt>Grus americana</dt>
+        <dd>•ótken-turna</dd>
+        <dd>•ótken-tokîrawun</dd>
+
+        <dt>Grus antigone</dt>
+        <dd>•kîzîl-başlî-turna</dd>
+        <dd>•kîzîl-başlî-tokîrawun</dd>
+
+        <dt>Grus canadensis</dt>
+        <dd>•Kanada-turnasî</dd>
+        <dd>•Kanada-tokîrawunî</dd>
+
+        <dt>Grus cinerea</dt>
+        <dd>•turna</dd>
+        <dd>•tokîrawun</dd>
+
+        <dt>Grus grus</dt>
+        <dd>•turna</dd>
+        <dd>•tokîrawun</dd>
+
+        <dt>Grus leucogeranus</dt>
+        <dd>•ak-turna</dd>
+        <dd>•ak-tokîrawun</dd>
+
+        <dt>Grus virgo</dt>
+        <dd>•kelín-turnasî</dd>
+
+        <dt>Guiraca caerula</dt>
+        <dd>•mawî-kalîntumşuk</dd>
+        <dd>•mawî-şakrak</dd>
+
+        <dt>Gypaetus barbatus</dt>
+        <dd>•sakaltay</dd>
+        <dd>•sakallî-kartakay</dd>
+        <dd>•zagan</dd>
+
+        <dt>Gyps africanus</dt>
+        <dd>•boz-sîrtlî-Afrika-kartşagayî</dd>
+
+        <dt>Gyps bengalensis</dt>
+        <dd>•boz-sîrtlî-Hint-kartşagayî</dd>
+
+        <dt>Gyps fulvus</dt>
+        <dd>•kîzîl-akbaba</dd>
+        <dd>•kîzîl-ak-baş-kartakay</dd>
+
+        <dt>Gyps himalayensis</dt>
+        <dd>•ak-baş-kartakay</dd>
+
+        <dt>Gyps rueppellii</dt>
+        <dd>•meneklí-kartakay</dd>
+
+        <dt>Haematopus meadewaldoi</dt>
+        <dd>•Kanariya-Adalarî-kara-karzakşîsî</dd>
+
+        <dt>Haematopus moquini</dt>
+        <dd>•Afrika-kara-karzakşîsî</dd>
+
+        <dt>Haematopus ostralegus</dt>
+        <dd>•karzakşî</dd>
+        <dd>•karzakkuşî</dd>
+
+        <dt>Halcyon chloris</dt>
+        <dd>•ak-yakalî-balîkşî</dd>
+
+        <dt>Halcyon leucocephala</dt>
+        <dd>•boz-başlî-balîkşî</dd>
+
+        <dt>Halcyon smyrnensis</dt>
+        <dd>•ak-moyînlî-balîkşî</dd>
+
+        <dt>Haliaeetus albicilla</dt>
+        <dd>•ak-kuyruklî-suwbúrkút</dd>
+
+        <dt>Haliaeetus leucocephalus</dt>
+        <dd>•ak-baş-ak-kuyruklî-suwbúrkút</dd>
+
+        <dt>Haliaeetus leucoryphus</dt>
+        <dd>•sîzîk-kuyruklî-suwbúrkút</dd>
+
+        <dt>Haliaeetus pelagicus</dt>
+        <dd>•ak-omîzlî-suwbúrkút</dd>
+
+        <dt>Haliaeetus vocifer</dt>
+        <dd>•ak-kuyruklî-Afrika-suwbúrkútí</dd>
+        <dd>•ótken-ak-kuyruklî-suwbúrkút</dd>
+
+        <dt>Hesperiphona vespertina</dt>
+        <dd>•akşam-kalîntumşugî</dd>
+        <dd>•akşam-şakragî</dd>
+
+        <dt>Heteronetta atricapilla</dt>
+        <dd>•kara-başlî-órdek</dd>
+
+        <dt>Heteroscelus brevipes</dt>
+        <dd>•boz-kuyruklî-palşîkşî</dd>
+
+        <dt>Hieraaetus fasciatus</dt>
+        <dd>•koyan-şoñgîrî</dd>
+
+        <dt>Hieraaetus pennatus</dt>
+        <dd>•kíşkene-şoñgîr</dd>
+        <dd>•tonlî-şoñgîr</dd>
+
+        <dt>Himantopus himantopus</dt>
+        <dd>•uzunbağak</dd>
+
+        <dt>Hippolais caligata</dt>
+        <dd>•kíşkene-míñgírlek</dd>
+
+        <dt>Hippolais icterina</dt>
+        <dd>•sarî-míñgírlek</dd>
+
+        <dt>Hippolais languida</dt>
+        <dd>•dak-míñgírlegí</dd>
+        <dd>•Upcher'níñ-míñgírlegí</dd>
+
+        <dt>Hippolais olivetorum</dt>
+        <dd>•ziytín-míñgírlegí</dd>
+
+        <dt>Hippolais pallida</dt>
+        <dd>•boz-míñgírlek</dd>
+
+        <dt>Hippolais polyglotta</dt>
+        <dd>•şalgîğî-míñgírlek</dd>
+
+        <dt>Hippolais rama</dt>
+        <dd>•Sykes'níñ-míñgírlegí</dd>
+
+        <dt>Hirundapus caudacutus</dt>
+        <dd>•tel-kuyruklî-surkarlîgaş</dd>
+
+        <dt>Hirundo aethiopica</dt>
+        <dd>•Etiyopiye-karlîgaşî</dd>
+
+        <dt>Hirundo daurica</dt>
+        <dd>•kîzîl-ğayalî-karlîgaş</dd>
+
+        <dt>Hirundo pyrrhonota</dt>
+        <dd>•ak-mañlaylî-karlîgaş</dd>
+
+        <dt>Hirundo rupestris</dt>
+        <dd>•kaya-karlîgaşî</dd>
+
+        <dt>Hirundo rustica</dt>
+        <dd>•karlîgaş</dd>
+        <dd>•karîlgaş</dd>
+
+        <dt>Hirundo smithii</dt>
+        <dd>•tel-kuyruklî-karlîgaş</dd>
+
+        <dt>Histrionicus histrionicus</dt>
+        <dd>•şakabaz-órdek</dd>
+
+        <dt>Hoplopterus indicus</dt>
+        <dd>•Hint-tarakayî</dd>
+        <dd>•balaban-tarakay</dd>
+
+        <dt>Hoplopterus spinosus</dt>
+        <dd>•şîganaklî-tarakay</dd>
+
+        <dt>Hoplopterus tectus</dt>
+        <dd>•kara-kekeşlí-tarakay</dd>
+
+        <dt>Hydrobates pelagicus</dt>
+        <dd>•boraganğî</dd>
+        <dd>•boragan-karlîgaşî</dd>
+
+        <dt>Hydrocoloeus minutus</dt>
+        <dd>•kíşkene-şaklay</dd>
+        <dd>•kíşkene-kagay</dd>
+
+        <dt>Hydrophasianus chirurgus</dt>
+        <dd>•kîrkawul-kuyruklî-jakana</dd>
+
+        <dt>Hydroprogne caspia</dt>
+        <dd>•balaban-karkîldak</dd>
+        <dd>•Kazar-karkîldagî</dd>
+
+        <dt>Hylocichla mustelina</dt>
+        <dd>•taw-sayragî</dd>
+
+        <dt>Hypocolius ampelinus</dt>
+        <dd>•tîrtîlğî</dd>
+
+        <dt>Icterus galbula</dt>
+        <dd>•Amerika-sarîğeketí</dd>
+        <dd>•Amerika-sîgîrgasî</dd>
+
+        <dt>Icterus wagleri</dt>
+        <dd>•kara-bawurlî-sarîğeketí</dd>
+        <dd>•kara-bawurlî-sîgîrgasî</dd>
+
+        <dt>Irania gutturalis</dt>
+        <dd>•ak-moyînlî-búlbúl</dd>
+
+        <dt>Ixobrychus eurhythmus</dt>
+        <dd>•kíşkene-Kîtay-suwbugasî</dd>
+
+        <dt>Ixobrychus exilis</dt>
+        <dd>•kíşkene-Amerika-suwbugasî</dd>
+
+        <dt>Ixobrychus minutus</dt>
+        <dd>•kíşkene-suwbuga</dd>
+
+        <dt>Ixobrychus sinensis</dt>
+        <dd>•Kîtay-suwbugasî</dd>
+        <dd>•sarî-suwbuga</dd>
+
+        <dt>Ixobrychus sturmii</dt>
+        <dd>•kúl-sîrtlî-suwbuga</dd>
+
+        <dt>Ixoreus naevius</dt>
+        <dd>•memişiy-sayrak</dd>
+
+        <dt>Junco hyemalis</dt>
+        <dd>•kara-kózlí-ğawrawuk</dd>
+
+        <dt>Jynx torquilla</dt>
+        <dd>•kaytkanbaş</dd>
+        <dd>•dúpíldek</dd>
+
+        <dt>Ketupa zeylonensis</dt>
+        <dd>•kawerengí-balîkşî-baykuş</dd>
+
+        <dt>Lagonosticta senegala</dt>
+        <dd>•Senegal-ateş-şîmşîgî</dd>
+
+        <dt>Lagopus lagopus scoticus</dt>
+        <dd>•kîzîl-taştawugî</dd>
+
+        <dt>Lagopus mutus</dt>
+        <dd>•ak-taştawugî</dd>
+
+        <dt>Lamprotornis chalybaeus</dt>
+        <dd>•balaban-mawî-sîyîrşîk</dd>
+        <dd>•balaban-mawî-şegertkíğí</dd>
+
+        <dt>Lamprotornis purpureus</dt>
+        <dd>•mor-sîyîrşîk</dd>
+        <dd>•mor-şegertkíğí</dd>
+
+        <dt>Lamprotornis superbus</dt>
+        <dd>•enfes-sîyîrşîk</dd>
+        <dd>•enfes-şegertkíğí</dd>
+
+        <dt>Lanius collurio</dt>
+        <dd>•kîzîl-sîrtlî-itelge</dd>
+        <dd>•kîzîl-sîrtlî-taganak</dd>
+
+        <dt>Lanius cristatus</dt>
+        <dd>•kawerengí-itelge</dd>
+        <dd>•kawerengí-taganak</dd>
+
+        <dt>Lanius excubitor</dt>
+        <dd>•balaban-boz-itelge</dd>
+        <dd>•balaban-boz-taganak</dd>
+
+        <dt>Lanius isabellinus</dt>
+        <dd>•altîn-itelge</dd>
+        <dd>•altîn-taganak</dd>
+
+        <dt>Lanius meridionalis</dt>
+        <dd>•ğenubiy-boz-itelge</dd>
+        <dd>•ğenubiy-boz-taganak</dd>
+
+        <dt>Lanius minor</dt>
+        <dd>•kara-mañlaylî-itelge</dd>
+        <dd>•kara-mañlaylî-taganak</dd>
+
+        <dt>Lanius nubicus</dt>
+        <dd>•ğaşmaklî-itelge</dd>
+        <dd>•ğaşmaklî-taganak</dd>
+
+        <dt>Lanius schach</dt>
+        <dd>•uzun-kuyruklî-itelge</dd>
+        <dd>•uzun-kuyruklî-taganak</dd>
+
+        <dt>Lanius senator</dt>
+        <dd>•kîzîl-başlî-itelge</dd>
+        <dd>•kîzîl-başlî-taganak</dd>
+
+        <dt>Lanius vittatus</dt>
+        <dd>•kawerengí-sîrtlî-itelge</dd>
+        <dd>•kawerengí-sîrtlî-taganak</dd>
+
+        <dt>Larus argentatus</dt>
+        <dd>•gúmúş-şaklay</dd>
+        <dd>•gúmúş-kagay</dd>
+
+        <dt>Larus armenicus</dt>
+        <dd>•Kawkaz-şaklayî</dd>
+        <dd>•Kawkaz-kagayî</dd>
+
+        <dt>Larus articilla</dt>
+        <dd>•kúlgen-şaklay</dd>
+        <dd>•kúlgen-kagay</dd>
+
+        <dt>Larus audouinii</dt>
+        <dd>•Audouin'níñ-şaklayî</dd>
+        <dd>•Audouin'níñ-kagayî</dd>
+
+        <dt>Larus brunnnicephalus</dt>
+        <dd>•kawerengí-başlî-şaklay</dd>
+        <dd>•kawerengí-başlî-kagay</dd>
+
+        <dt>Larus cachinnans</dt>
+        <dd>•sarî-ayaklî-gúmúş-şaklay</dd>
+        <dd>•sarî-ayaklî-gúmúş-kagay</dd>
+
+        <dt>Larus canus</dt>
+        <dd>•boz-şaklay</dd>
+        <dd>•boz-kagay</dd>
+
+        <dt>Larus cirrocephalus</dt>
+        <dd>•boz-başlî-şaklay</dd>
+        <dd>•boz-başlî-kagay</dd>
+
+        <dt>Larus delawarensis</dt>
+        <dd>•halka-tumşuklî-şaklay</dd>
+        <dd>•halka-tumşuklî-kagay</dd>
+
+        <dt>Larus fuscus</dt>
+        <dd>•kara-sîrtlî-şaklay</dd>
+        <dd>•kara-sîrtlî-kagay</dd>
+
+        <dt>Larus genei</dt>
+        <dd>•inğe-tumşuklî-şaklay</dd>
+        <dd>•inğe-tumşuklî-kagay</dd>
+
+        <dt>Larus glaucescens</dt>
+        <dd>•boz-kanatlî-şaklay</dd>
+        <dd>•boz-kanatlî-kagay</dd>
+
+        <dt>Larus glaucoides</dt>
+        <dd>•boz-kanatlî-Islant-şaklayî</dd>
+        <dd>•boz-kanatlî-Islant-kagayî</dd>
+
+        <dt>Larus hemprichii</dt>
+        <dd>•kúyelí-şaklay</dd>
+        <dd>•Arap-şaklayî</dd>
+        <dd>•kúyelí-kagay</dd>
+        <dd>•Arap-kagayî</dd>
+
+        <dt>Larus heuglini</dt>
+        <dd>•Heuglin'níñ-şaklayî</dd>
+        <dd>•Heuglin'níñ-kagayî</dd>
+
+        <dt>Larus hyperboreus</dt>
+        <dd>•kutup-şaklayî</dd>
+        <dd>•kutup-kagayî</dd>
+
+        <dt>Larus ichthyaetus</dt>
+        <dd>•balaban-kara-başlî-şaklay</dd>
+        <dd>•balaban-kara-başlî-kagay</dd>
+
+        <dt>Larus leucophthalmus</dt>
+        <dd>•ak-kózlí-şaklay</dd>
+        <dd>•ak-kózlí-kagay</dd>
+
+        <dt>Larus marinus</dt>
+        <dd>•balaban-kara-sîrtlî-şaklay</dd>
+        <dd>•balaban-kara-sîrtlî-kagay</dd>
+
+        <dt>Larus melanocephalus</dt>
+        <dd>•kara-başlî-şaklay</dd>
+        <dd>•Ak-Deñíz-şaklayî</dd>
+        <dd>•kara-başlî-kagay</dd>
+        <dd>•Ak-Deñíz-kagayî</dd>
+
+        <dt>Larus michahellis</dt>
+        <dd>•sarî-ayaklî-şaklay</dd>
+        <dd>•sarî-ayaklî-kagay</dd>
+
+        <dt>Larus minutus</dt>
+        <dd>•kíşkene-şaklay</dd>
+        <dd>•kíşkene-kagay</dd>
+
+        <dt>Larus philadelphia</dt>
+        <dd>•Bonapart'nîñ-şaklayî</dd>
+        <dd>•Bonapart'nîñ-kagayî</dd>
+
+        <dt>Larus pipixcan</dt>
+        <dd>•ğaşmaklî-şaklay</dd>
+        <dd>•Franklin'níñ-şaklayî</dd>
+        <dd>•ğaşmaklî-kagay</dd>
+        <dd>•Franklin'níñ-kagayî</dd>
+
+        <dt>Larus ridibundus</dt>
+        <dd>•kara-başlî-kúlgen-şaklay</dd>
+        <dd>•kara-başlî-kúlgen-kagay</dd>
+
+        <dt>Larus sabini</dt>
+        <dd>•şatal-kuyruklî-şaklay</dd>
+        <dd>•Sabin'níñ-şaklayî</dd>
+        <dd>•şatal-kuyruklî-kagay</dd>
+        <dd>•Sabin'níñ-kagayî</dd>
+
+        <dt>Larus smithsonianus</dt>
+        <dd>•Amerika-siyenek-şaklayî</dd>
+        <dd>•Amerika-siyenek-kagayî</dd>
+
+        <dt>Leptoptilus crumeniferus</dt>
+        <dd>•marabuw</dd>
+
+        <dt>Lerwa lerwa</dt>
+        <dd>•kar-akanagî</dd>
+        <dd>•kar-kírkígí</dd>
+        <dd>•kar-keklígí</dd>
+
+        <dt>Limicola falcinellus</dt>
+        <dd>•palşîk-kumtawugî</dd>
+        <dd>•kalîn-tumşuklî-palşîkşî</dd>
+
+        <dt>Limnocorax flavirostra</dt>
+        <dd>•kara-suw-tartarî</dd>
+
+        <dt>Limnodromus griseus</dt>
+        <dd>•kîska-tumşuklî-şulluk</dd>
+
+        <dt>Limnodromus scolopaceus</dt>
+        <dd>•uzun-tumşuklî-şulluk</dd>
+
+        <dt>Limosa haemastica</dt>
+        <dd>•Hudson-karakuyrugî</dd>
+
+        <dt>Limosa lapponica</dt>
+        <dd>•kutup-karakuyrugî</dd>
+
+        <dt>Limosa limosa</dt>
+        <dd>•karakuyruk</dd>
+
+        <dt>Locustella certhiola</dt>
+        <dd>•gúzel-kuyruklî-şîrîldak</dd>
+        <dd>•Pallas'nîñ-şîrîldagî</dd>
+
+        <dt>Locustella fasciolata</dt>
+        <dd>•orman-şîrîldagî</dd>
+
+        <dt>Locustella fluviatilis</dt>
+        <dd>•ğîlga-şîrîldagî</dd>
+
+        <dt>Locustella lanceolata</dt>
+        <dd>•sîzîklî-şîrîldak</dd>
+
+        <dt>Locustella luscinioides</dt>
+        <dd>•bataklîk-şîrîldagî</dd>
+        <dd>•Savi'níñ-şîrîldagî</dd>
+
+        <dt>Locustella naevia</dt>
+        <dd>•şegertkí-şîrîldagî</dd>
+        <dd>•meneklí-şîrîldak</dd>
+
+        <dt>Lonchura cantans</dt>
+        <dd>•Afrika-gúmúşgágáasî</dd>
+
+        <dt>Lonchura maja</dt>
+        <dd>•ak-başlî-gúmúşgágáa</dd>
+
+        <dt>Lonchura malabarica</dt>
+        <dd>•Hint-gúmúşgágáasî</dd>
+
+        <dt>Lonchura malacca</dt>
+        <dd>•kara-başlî-gúmúşgágáa</dd>
+
+        <dt>Lonchura punctulata</dt>
+        <dd>•pullî-karînlî-gúmúşgágáa</dd>
+
+        <dt>Lonchura striata</dt>
+        <dd>•ak-ğayalî-gúmúşgágáa</dd>
+
+        <dt>Lophodytes cucullatus</dt>
+        <dd>•kalpaklî-pîşkî-órdek</dd>
+        <dd>•kalpaklî-tarkat</dd>
+
+        <dt>Lophophanes cristatus</dt>
+        <dd>•kekeşlí-şímşíge</dd>
+
+        <dt>Lophura nycthemera</dt>
+        <dd>•gúmúş-kîrkawul</dd>
+        <dd>•gúmúş-súlgún</dd>
+
+        <dt>Loxia curvirostra</dt>
+        <dd>•kîyîşawuz</dd>
+        <dd>•şam-dudukuşî</dd>
+
+        <dt>Loxia leucoptera</dt>
+        <dd>•ak-kanatlî-kîyîşawuz</dd>
+
+        <dt>Loxia pytyopsittacus</dt>
+        <dd>•koğa-başlî-kîyîşawuz</dd>
+
+        <dt>Loxia scotica</dt>
+        <dd>•Skosiye-kîyîşawuzî</dd>
+
+        <dt>Lullula arborea</dt>
+        <dd>•taw-boztorgayî</dd>
+
+        <dt>Lunda cirrhata</dt>
+        <dd>•kulaklî-deñízdudukuşî</dd>
+
+        <dt>Luscinia calliope</dt>
+        <dd>•kîzîl-sakallî-búlbúl</dd>
+
+        <dt>Luscinia cyane</dt>
+        <dd>•kók-búlbúl</dd>
+        <dd>•Sebír-búlbúlí</dd>
+
+        <dt>Luscinia luscinia</dt>
+        <dd>•alaşa-búlbúl</dd>
+
+        <dt>Luscinia megarhynchos</dt>
+        <dd>•búlbúl</dd>
+
+        <dt>Luscinia sibilans</dt>
+        <dd>•kîzîl-kuyruklî-búlbúl</dd>
+
+        <dt>Luscinia svecica</dt>
+        <dd>•kókbawur</dd>
+
+        <dt>Lymnocryptes minimus</dt>
+        <dd>•kíşkene-suw-şullugî</dd>
+
+        <dt>Lyrurus tetrix</dt>
+        <dd>•karabawur</dd>
+        <dd>•kur</dd>
+
+        <dt>Macronectes halli</dt>
+        <dd>•şimaliy-dew-boraganğî</dd>
+
+        <dt>Macronectes giganteus</dt>
+        <dd>•ğenubiy-dew-boraganğî</dd>
+
+        <dt>Marmaronetta angustirostris</dt>
+        <dd>•ğaz-órdegí</dd>
+
+        <dt>Megaceryle alcyon</dt>
+        <dd>•kuşaklî-balîkşî</dd>
+
+        <dt>Melanitta fusca</dt>
+        <dd>•kadife-órdek</dd>
+
+        <dt>Melanitta nigra</dt>
+        <dd>•kara-órdek</dd>
+
+        <dt>Melanitta nigra americana</dt>
+        <dd>•kara-Amerika-órdegí</dd>
+
+        <dt>Melanitta perspicillata</dt>
+        <dd>•ğamawlî-órdek</dd>
+
+        <dt>Melanocorypha bimaculata</dt>
+        <dd>•kíşkene-ekí-tamgalî-boztorgay</dd>
+
+        <dt>Melanocorypha calandra</dt>
+        <dd>•balaban-ekí-tamgalî-boztorgay</dd>
+
+        <dt>Melanocorypha leucoptera</dt>
+        <dd>•ak-kanatlî-boztorgay</dd>
+
+        <dt>Melanocorypha yeltoniensis</dt>
+        <dd>•kara-boztorgay</dd>
+
+        <dt>Meleagris gallopavo</dt>
+        <dd>•pepiy</dd>
+        <dd>•kúrke</dd>
+
+        <dt>Mierax metabates</dt>
+        <dd>•ótken-esmer-atmağa</dd>
+
+        <dt>Melopsittacus undulatus</dt>
+        <dd>•muhabbetkuşî</dd>
+
+        <dt>Melospiza melodia</dt>
+        <dd>•ótken-torgay</dd>
+
+        <dt>Mergus albellus</dt>
+        <dd>•ak-pîşkî-órdek</dd>
+        <dd>•ak-tarkat</dd>
+
+        <dt>Mergus cucullatus</dt>
+        <dd>•kalpaklî-pîşkî-órdek</dd>
+        <dd>•kalpaklî-tarkat</dd>
+
+        <dt>Mergus merganser</dt>
+        <dd>•pîşkî-órdek</dd>
+        <dd>•tarkat</dd>
+
+        <dt>Mergus serrator</dt>
+        <dd>•kekeşlí-pîşkî-órdek</dd>
+        <dd>•kekeşlí-tarkat</dd>
+
+        <dt>Merops albicollis</dt>
+        <dd>•alaşa-balşîbînğî</dd>
+        <dd>•alaşa-kîzlarkuşî</dd>
+
+        <dt>Merops apiaster</dt>
+        <dd>•balşîbînğî</dd>
+        <dd>•kîzlarkuşî</dd>
+
+        <dt>Merops bullockoides</dt>
+        <dd>•ak-mañlaylî-balşîbînğî</dd>
+        <dd>•ak-mañlaylî-kîzlarkuşî</dd>
+
+        <dt>Merops nubicus</dt>
+        <dd>•ateş-balşîbînğî</dd>
+        <dd>•ateş-kîzlarkuşî</dd>
+
+        <dt>Merops orientalis</dt>
+        <dd>•kíşkene-yeşíl-balşîbînğî</dd>
+        <dd>•kíşkene-yeşíl-kîzlarkuşî</dd>
+
+        <dt>Merops persicus</dt>
+        <dd>•mawî-yúzlí-balşîbînğî</dd>
+        <dd>•mawî-yúzlí-kîzlarkuşî</dd>
+
+        <dt>Merops superciliosus</dt>
+        <dd>•mawî-yúzlí-balşîbînğî</dd>
+        <dd>•mawî-yúzlí-kîzlarkuşî</dd>
+
+        <dt>Micronisus gabar</dt>
+        <dd>•ótken-Gabar-atmağasî</dd>
+
+        <dt>Micropalama himantopus</dt>
+        <dd>•uzun-bağaklî-kumtawuk</dd>
+
+        <dt>Miliaria calandra</dt>
+        <dd>•tarla-súlekeşí</dd>
+        <dd>•tarla-tenegí</dd>
+        <dd>•tarla-kirazkuşî</dd>
+
+        <dt>Milvus migrans</dt>
+        <dd>•kara-şaylak</dd>
+        <dd>•kara-keren</dd>
+        <dd>•kara-koğalak</dd>
+
+        <dt>Milvus milvus</dt>
+        <dd>•kîzîl-şaylak</dd>
+        <dd>•kîzîl-keren</dd>
+        <dd>•kîzîl-koğalak</dd>
+
+        <dt>Mimus polyglottos</dt>
+        <dd>•şimaliy-erkelewğí</dd>
+
+        <dt>Mirafa cordofanica</dt>
+        <dd>•pasrenklí-şalî-boztorgayî</dd>
+
+        <dt>Mirafra cantillans</dt>
+        <dd>•ótken-şalî-boztorgayî</dd>
+
+        <dt>Mirafra cordofanica</dt>
+        <dd>•Kordofan-boztorgayî</dd>
+
+        <dt>Mniotilta varia</dt>
+        <dd>•ak-kara-ótlegen</dd>
+
+        <dt>Molothrus ater</dt>
+        <dd>•kawerengí-başlî-tanakuşî</dd>
+
+        <dt>Monticola rufocinerea</dt>
+        <dd>•kíşkene-taş-sayragî</dd>
+
+        <dt>Monticola saxatilis</dt>
+        <dd>•taş-sayragî</dd>
+        <dd>•kîzîl-kuyruklî-taş-sayragî</dd>
+
+        <dt>Monticola solitarius</dt>
+        <dd>•mawî-taş-sayragî</dd>
+
+        <dt>Montifringilla nivalis</dt>
+        <dd>•kar-ğawrawugî</dd>
+
+        <dt>Morus bassanus</dt>
+        <dd>•delíkaz</dd>
+
+        <dt>Motacilla</dt>
+        <dd>•şakşakay</dd>
+        <dd>•kuyruksallar</dd>
+
+        <dt>Motacilla aguimp</dt>
+        <dd>•alaşa-şakşakay</dd>
+        <dd>•alaşa-kuyruksallar</dd>
+
+        <dt>Motacilla alba</dt>
+        <dd>•ak-şakşakay</dd>
+        <dd>•ak-kuyruksallar</dd>
+
+        <dt>Motacilla cinerea</dt>
+        <dd>•boz-şakşakay</dd>
+        <dd>•boz-kuyruksallar</dd>
+
+        <dt>Motacilla citreola</dt>
+        <dd>•sarî-baş-şakşakay</dd>
+        <dd>•sarî-baş-kuyruksallar</dd>
+
+        <dt>Motacilla flava</dt>
+        <dd>•sarî-şakşakay</dd>
+        <dd>•sarî-kuyruksallar</dd>
+
+        <dt>Muscicapa dauurica</dt>
+        <dd>•esmer-şîbînğî</dd>
+
+        <dt>Muscicapa gambagae</dt>
+        <dd>•akasiya-şîbînğîsî</dd>
+
+        <dt>Muscicapa latirostris</dt>
+        <dd>•esmer-şîbînğî</dd>
+
+        <dt>Muscicapa sibirica</dt>
+        <dd>•Sebír-şîbînğîsí</dd>
+
+        <dt>Muscicapa striata</dt>
+        <dd>•meneklí-şîbînğî</dd>
+
+        <dt>Mycerobas carnipes</dt>
+        <dd>•sarî-karînlî-kalîntumşuk</dd>
+        <dd>•sarî-karînlî-şakrak</dd>
+
+        <dt>Mycteria ibis</dt>
+        <dd>•taw-aynagî</dd>
+        <dd>•sarî-tumşuklî-legelek</dd>
+
+        <dt>Myiopsitta monachus</dt>
+        <dd>•rahip-dudukuş</dd>
+
+        <dt>Myrmecocichla aethiops</dt>
+        <dd>•kîmîrska-búlbúlí</dd>
+
+        <dt>Nandayus nenday</dt>
+        <dd>•Nanday-dudukuşî</dd>
+
+        <dt>Necrosyrtes monachus</dt>
+        <dd>•kalpaklî-kartşagay</dd>
+
+        <dt>Nectarinia asiatica</dt>
+        <dd>•mor-balkuşî</dd>
+
+        <dt>Nectarinia habessinica</dt>
+        <dd>•al-karînlî-balkuşî</dd>
+
+        <dt>Nectarinia osea</dt>
+        <dd>•filistin-balkuşî</dd>
+
+        <dt>Neochen jubata</dt>
+        <dd>•Orinoko-kazî</dd>
+
+        <dt>Neophron percnopterus</dt>
+        <dd>•kíşkene-şoñgîr</dd>
+        <dd>•Mîsîr-şoñgîrî</dd>
+        <dd>•leş-şoñgîrî</dd>
+
+        <dt>Neotis denhami</dt>
+        <dd>•kîzîl-eñselí-toykuşî</dd>
+
+        <dt>Neotis nuba</dt>
+        <dd>•Nubiye-toykuşî</dd>
+
+        <dt>Netta peposaca</dt>
+        <dd>•pembe-tumşuklî-şomar</dd>
+
+        <dt>Netta rufina</dt>
+        <dd>•pasrengí-şomar</dd>
+
+        <dt>Nettapus coromandelianus</dt>
+        <dd>•pamuk-órdek</dd>
+
+        <dt>Nucifraga caryocatactes</dt>
+        <dd>•ğewezkuşî</dd>
+
+        <dt>Numenius arquata</dt>
+        <dd>•kerwankuşî</dd>
+
+        <dt>Numenius borealis</dt>
+        <dd>•şimaliy-kerwankuşî</dd>
+
+        <dt>Numenius minutus</dt>
+        <dd>•kíşkene-kerwankuşî</dd>
+
+        <dt>Numenius phaeopus</dt>
+        <dd>•kíşkene-súrmelí-kerwankuşî</dd>
+
+        <dt>Numenius tenuirostris</dt>
+        <dd>•inğe-tumşuklî-kerwankuşî</dd>
+
+        <dt>Numida meleagris</dt>
+        <dd>•Hint-tawugî</dd>
+
+        <dt>Nyctea scandiaca</dt>
+        <dd>•ak-yapalak</dd>
+        <dd>•kar-yapalagî</dd>
+
+        <dt>Nycticorax nycticorax</dt>
+        <dd>•keşe-karabaşî</dd>
+
+        <dt>Nymphicus hollandicus</dt>
+        <dd>•periy-dudukuşî</dd>
+
+        <dt>Oceanites oceanicus</dt>
+        <dd>•sarî-ayaklî-boraganğî</dd>
+
+        <dt>Oceanodroma castro</dt>
+        <dd>•Madiyre-boraganğîsî</dd>
+
+        <dt>Oceanodroma leucorhoa</dt>
+        <dd>•şatal-kuyruklî-boraganğî</dd>
+        <dd>•Leach'nîñ-boraganğîsî</dd>
+
+        <dt>Oceanodroma monorhis</dt>
+        <dd>•boz-boraganğî</dd>
+        <dd>•Swinhoe'nîñ-boraganğîsî</dd>
+
+        <dt>Ocyphaps lophotes</dt>
+        <dd>•kekeşlí-kógerşín</dd>
+
+        <dt>Oena capensis</dt>
+        <dd>•Afrika-ğaşmaklî-kurkurî</dd>
+
+        <dt>Oenanthe alboniger</dt>
+        <dd>•kara-başlî-delítaş</dd>
+
+        <dt>Oenanthe bottae</dt>
+        <dd>•kîzîl-bawurlî-delítaş</dd>
+        <dd>•Botta'nîñ-delítaşî</dd>
+
+        <dt>Oenanthe cypriaca</dt>
+        <dd>•Kîbrîs-delítaşî</dd>
+
+        <dt>Oenanthe deserti</dt>
+        <dd>•şól-delítaşî</dd>
+
+        <dt>Oenanthe finschii</dt>
+        <dd>•ak-sîrtlî-delítaş</dd>
+        <dd>•Finsch'niñ-delítaşî</dd>
+
+        <dt>Oenanthe hispanica</dt>
+        <dd>•kara-kulaklî-delítaş</dd>
+
+        <dt>Oenanthe isabellina</dt>
+        <dd>•altîn-delítaş</dd>
+
+        <dt>Oenanthe leucopyga</dt>
+        <dd>•ak-tepelí-delítaş</dd>
+
+        <dt>Oenanthe leucura</dt>
+        <dd>•kara-delítaş</dd>
+
+        <dt>Oenanthe lugens</dt>
+        <dd>•kara-sîrtlî-delítaş</dd>
+
+        <dt>Oenanthe lugentoides</dt>
+        <dd>•Arap-delítaşî</dd>
+
+        <dt>Oenanthe moesta</dt>
+        <dd>•kîzîl-ğayalî-delítaş</dd>
+
+        <dt>Oenanthe monacha</dt>
+        <dd>•ak-başlîklî-delítaş</dd>
+
+        <dt>Oenanthe oenanthe</dt>
+        <dd>•boz-delítaş</dd>
+
+        <dt>Oenanthe picata</dt>
+        <dd>•kúntuwar-alaşa-delítaşî</dd>
+
+        <dt>Oenanthe pleschanka</dt>
+        <dd>•alaşa-delítaş</dd>
+
+        <dt>Oenanthe xanthoprymna</dt>
+        <dd>•kîzîl-kuyruklî-delítaş</dd>
+
+        <dt>Onychognathus tristramii</dt>
+        <dd>•Arap-kîzîkanatî</dd>
+
+        <dt>Onychoprion aleuticus</dt>
+        <dd>•Alewút-karkîldagî</dd>
+
+        <dt>Onychoprion anaethetus</dt>
+        <dd>•súrmelí-karkîldak</dd>
+
+        <dt>Onychoprion fuscatus</dt>
+        <dd>•kara-sîrtlî-karkîldak</dd>
+
+        <dt>Oreortyx pictus</dt>
+        <dd>•dak-bódenesí</dd>
+
+        <dt>Oriolus auratus</dt>
+        <dd>•Afrika-altîn-sarîğeketí</dd>
+        <dd>•Afrika-altîn-sîgîrgasî</dd>
+
+        <dt>Oriolus chinensis</dt>
+        <dd>•kara-eñselí-Kîtay-sarîğeketí</dd>
+        <dd>•kara-eñselí-Kîtay-sîgîrgasî</dd>
+
+        <dt>Oriolus oriolus</dt>
+        <dd>•sarîğeket</dd>
+        <dd>•sîgîrga</dd>
+
+        <dt>Otis tarda</dt>
+        <dd>•toykuşî</dd>
+
+        <dt>Otis tetrax</dt>
+        <dd>•sîpîrgağî</dd>
+        <dd>•kíşkene-toykuşî</dd>
+
+        <dt>Otus bakkamoena</dt>
+        <dd>•yakalî-yapalak</dd>
+
+        <dt>Otus brucei</dt>
+        <dd>•şal-sîzîklî-yapalak</dd>
+
+        <dt>Otus scops</dt>
+        <dd>•maw-baş-yapalak</dd>
+
+        <dt>Oxyura jamaicensis</dt>
+        <dd>•koñgîr-órdek</dd>
+
+        <dt>Oxyura leucocephala</dt>
+        <dd>•ak-başlî-órdek</dd>
+
+        <dt>Pagophila eburnea</dt>
+        <dd>•ap-ak-şaklay</dd>
+        <dd>•ap-ak-kagay</dd>
+
+        <dt>Pandion haliaetus</dt>
+        <dd>•balîkşî-búrkút</dd>
+
+        <dt>Panurus biarmicus</dt>
+        <dd>•mîyîklî-şímşíge</dd>
+
+        <dt>Paradisaea apoda</dt>
+        <dd>•ğennetkuşî</dd>
+
+        <dt>Parisoma buryi</dt>
+        <dd>•Yemen-ğeleşesí</dd>
+
+        <dt>Paroaria coronata</dt>
+        <dd>•kîzîl-kekeşlí-kardinalkuşî</dd>
+        <dd>•kîzîl-kekeşlí-kîzîlpapaz</dd>
+
+        <dt>Parula americana</dt>
+        <dd>•şimaliy-ótlegen</dd>
+
+        <dt>Parus ater</dt>
+        <dd>•narus-şímşígesí</dd>
+
+        <dt>Parus bokharensis</dt>
+        <dd>•Túrkústan-şímşígesí</dd>
+
+        <dt>Parus caeruleus</dt>
+        <dd>•mawî-şímşíge</dd>
+
+        <dt>Parus cinctus</dt>
+        <dd>•Sebír-şímşígesí</dd>
+
+        <dt>Parus cristatus</dt>
+        <dd>•kekeşlí-şímşíge</dd>
+
+        <dt>Parus cyanus</dt>
+        <dd>•akşa-şímşíge</dd>
+
+        <dt>Parus lugubris</dt>
+        <dd>•Túrúk-şímşígesí</dd>
+
+        <dt>Parus major</dt>
+        <dd>•balaban-şímşíge</dd>
+
+        <dt>Parus montanus</dt>
+        <dd>•dak-şímşígesí</dd>
+
+        <dt>Parus palustris</dt>
+        <dd>•bataklîk-şímşígesí</dd>
+
+        <dt>Parus sp.</dt>
+        <dd>•şímşíge</dd>
+
+        <dt>Passer ammodendri</dt>
+        <dd>•kara-mañlaylî-torgay</dd>
+
+        <dt>Passer castanopterus</dt>
+        <dd>•Somaliye-torgayî</dd>
+
+        <dt>Passer domesticus</dt>
+        <dd>•torgay</dd>
+        <dd>•úy-torgayî</dd>
+        <dd>•şîmşîk</dd>
+        <dd>•serşe</dd>
+
+        <dt>Passer euchlorus</dt>
+        <dd>•altîn-Arap-torgayî</dd>
+
+        <dt>Passer hispaniolensis</dt>
+        <dd>•bataklîk-torgayî</dd>
+
+        <dt>Passer luteus</dt>
+        <dd>•altîn-Sudan-torgayî</dd>
+
+        <dt>Passer moabiticus</dt>
+        <dd>•kíşkene-torgay</dd>
+
+        <dt>Passer montanus</dt>
+        <dd>•terek-torgayî</dd>
+
+        <dt>Passer pyrrhonotus</dt>
+        <dd>•ğîlgîn-torgayî</dd>
+
+        <dt>Passer simplex</dt>
+        <dd>•şól-torgayî</dd>
+
+        <dt>Passerculus sandwichensis</dt>
+        <dd>•bozkîr-torgayî</dd>
+
+        <dt>Passerella iliaca</dt>
+        <dd>•kîzîl-kuyruk-torgay</dd>
+
+        <dt>Passerina amoena</dt>
+        <dd>•mawî-súlekeş</dd>
+        <dd>•mawî-tenek</dd>
+        <dd>•mawî-kirazkuşî</dd>
+
+        <dt>Passerina ciris</dt>
+        <dd>•boyalî-súlekeş</dd>
+        <dd>•boyalî-tenek</dd>
+        <dd>•boyalî-kirazkuşî</dd>
+
+        <dt>Passerina cyanea</dt>
+        <dd>•láğiwert-súlekeş</dd>
+        <dd>•láğiwert-tenek</dd>
+        <dd>•láğiwert-kirazkuşî</dd>
+
+        <dt>Passerina leclancherii</dt>
+        <dd>•altîn-karînlî-súlekeş</dd>
+        <dd>•altîn-karînlî-tenek</dd>
+        <dd>•altîn-karînlî-kirazkuşî</dd>
+
+        <dt>Passerina versicolor</dt>
+        <dd>•yeşíl-súlekeş</dd>
+        <dd>•yeşíl-tenek</dd>
+        <dd>•yeşíl-kirazkuşî</dd>
+
+        <dt>Pernis apivorus</dt>
+        <dd>•balşîbîn-sarî</dd>
+        <dd>•balşîbîn-toynagî</dd>
+
+        <dt>Pernis ptilorhynchus</dt>
+        <dd>•kúntuwar-balşîbîn-sarî</dd>
+        <dd>•kúntuwar-balşîbîn-toynagî</dd>
+
+        <dt>Petrochelidon pyrrhonota</dt>
+        <dd>•Amerika-kaya-karlîgaşî</dd>
+
+        <dt>Petronia brachydactyla</dt>
+        <dd>•boz-kaya-torgayî</dd>
+        <dd>•Kawkaz-kaya-torgayî</dd>
+
+        <dt>Petronia brachydactyla</dt>
+        <dd>•şal-taştorgay</dd>
+
+        <dt>Petronia dentata</dt>
+        <dd>•koraylîk-taştorgayî</dd>
+
+        <dt>Petronia petronia</dt>
+        <dd>•taştorgay</dd>
+
+        <dt>Petronia xanthocollis</dt>
+        <dd>•sarî-bogazlî-taştorgay</dd>
+
+        <dt>Phaethon aethereus</dt>
+        <dd>•kîzîl-tumşuklî-paytonğî</dd>
+
+        <dt>Phaethon lepturus</dt>
+        <dd>•ak-kuyruklî-paytonğî</dd>
+
+        <dt>Phalacrocorax africanus</dt>
+        <dd>•uzun-kuyruklî-karabatak</dd>
+
+        <dt>Phalacrocorax aristotelis</dt>
+        <dd>•kekeşlí-karabatak</dd>
+
+        <dt>Phalacrocorax auritus</dt>
+        <dd>•kulaklî-karabatak</dd>
+
+        <dt>Phalacrocorax carbo</dt>
+        <dd>•karabatak</dd>
+        <dd>•balîkşî</dd>
+
+        <dt>Phalacrocorax nigrogularis</dt>
+        <dd>•Sokotra-karabatagî</dd>
+
+        <dt>Phalacrocorax pygmaeus</dt>
+        <dd>•kíşkene-karabatak</dd>
+
+        <dt>Phalaropus fulicarius</dt>
+        <dd>•al-kumtawuk</dd>
+
+        <dt>Phalaropus lobatus</dt>
+        <dd>•kîzîl-moyînlî-kumtawuk</dd>
+
+        <dt>Phalaropus tricolor</dt>
+        <dd>•úş-renklí-kumtawuk</dd>
+
+        <dt>Phasianus cochicus tenebrotus</dt>
+        <dd>•kara-kîrkawul</dd>
+        <dd>•kara-súlgún</dd>
+
+        <dt>Phasianus colchicus</dt>
+        <dd>•kîrkawul</dd>
+        <dd>•súlgún</dd>
+
+        <dt>Phasianus nycthemerus</dt>
+        <dd>•gúmúş-kîrkawul</dd>
+        <dd>•gúmúş-súlgún</dd>
+
+        <dt>Phasianus versicolor</dt>
+        <dd>•yeşíl-kîrkawul</dd>
+        <dd>•yeşíl-súlgún</dd>
+
+        <dt>Pheucticus ludovicianus</dt>
+        <dd>•al-karînlî-kalîntumşuk</dd>
+        <dd>•al-karînlî-şakrak</dd>
+
+        <dt>Pheucticus melanocephalus</dt>
+        <dd>•kara-başlî-kalîntumşuk</dd>
+        <dd>•kara-başlî-şakrak</dd>
+
+        <dt>Philomachus pugnax</dt>
+        <dd>•tóbeleşkenkuş</dd>
+
+        <dt>Phoeniconaias minor</dt>
+        <dd>•kíşkene-kînalîturna</dd>
+        <dd>•kíşkene-pembeturna</dd>
+
+        <dt>Phoenicopterus roseus</dt>
+        <dd>•balaban-kînalîturna</dd>
+        <dd>•balaban-pembeturna</dd>
+
+        <dt>Phoenicopterus ruber</dt>
+        <dd>•kíşkene-kînalîturna</dd>
+        <dd>•kíşkene-pembeturna</dd>
+
+        <dt>Phoenicurus aureus</dt>
+        <dd>•altîn-kîzîlkuyruk</dd>
+
+        <dt>Phoenicurus erythrogaster</dt>
+        <dd>•ak-kanatlî-kîzîlkuyruk</dd>
+        <dd>•Gúldenstádt'níñ-kîzîlkuyrugî</dd>
+
+        <dt>Phoenicurus erythronotus</dt>
+        <dd>•kîzîl-sîrtlî-kîzîlkuyruk</dd>
+        <dd>•Eversmann'nîñ-kîzîlkuyrugî</dd>
+
+        <dt>Phoenicurus moussieri</dt>
+        <dd>•tajlî-kîzîlkuyruk</dd>
+        <dd>•Moussier'níñ-kîzîlkuyrugî</dd>
+
+        <dt>Phoenicurus ochruros</dt>
+        <dd>•kara-kîzîlkuyruk</dd>
+        <dd>•dak-kîzîlkuyrugî</dd>
+
+        <dt>Phoenicurus phoenicurus</dt>
+        <dd>•kîzîlkuyruk</dd>
+
+        <dt>Phylloscopus bonelli</dt>
+        <dd>•dak-sarîkaşî</dd>
+        <dd>•Bonelli'níñ-sarîkaşî</dd>
+
+        <dt>Phylloscopus borealis</dt>
+        <dd>•kutup-sarîkaşî</dd>
+
+        <dt>Phylloscopus collybita</dt>
+        <dd>•sarîkaş</dd>
+        <dd>•ğelbege</dd>
+
+        <dt>Phylloscopus coronatus</dt>
+        <dd>•tajlî-sarîkaş</dd>
+        <dd>•tajlî-ğelbege</dd>
+
+        <dt>Phylloscopus fuscatus</dt>
+        <dd>•esmer-sarîkaş</dd>
+        <dd>•esmer-ğelbege</dd>
+
+        <dt>Phylloscopus humei</dt>
+        <dd>•yaprak-sarîkaşî</dd>
+        <dd>•yaprak-ğelbegesí</dd>
+        <dd>•Hume'níñ-sarîkaşî</dd>
+        <dd>•Hume'níñ-ğelbegesí</dd>
+
+        <dt>Phylloscopus ibericus</dt>
+        <dd>•Iberiye-sarîkaşî</dd>
+        <dd>•Iberiye-ğelbegesí</dd>
+
+        <dt>Phylloscopus inornatus</dt>
+        <dd>•kíşkene-sarîkaş</dd>
+        <dd>•kíşkene-ğelbege</dd>
+
+        <dt>Phylloscopus neglectus</dt>
+        <dd>•tarla-yaprak-sarîkaşî</dd>
+        <dd>•tarla-yaprak-ğelbegesí</dd>
+
+        <dt>Phylloscopus nitidus</dt>
+        <dd>•yeşíl-sarîkaş</dd>
+        <dd>•yeşíl-ğelbege</dd>
+
+        <dt>Phylloscopus orientalis</dt>
+        <dd>•kúntuwar-sarîkaşî</dd>
+        <dd>•kúntuwar-ğelbegesí</dd>
+
+        <dt>Phylloscopus proregulus</dt>
+        <dd>•Pallas'nîñ-sarîkaşî</dd>
+        <dd>•Pallas'nîñ-ğelbegesí</dd>
+
+        <dt>Phylloscopus schwarzi</dt>
+        <dd>•Radde'níñ-sarîkaşî</dd>
+        <dd>•koğa-başlî-sarîkaş</dd>
+        <dd>•Radde'níñ-ğelbegesí</dd>
+        <dd>•koğa-başlî-ğelbege</dd>
+
+        <dt>Phylloscopus sibilatrix</dt>
+        <dd>•orman-sarîkaşî</dd>
+        <dd>•orman-ğelbegesí</dd>
+
+        <dt>Phylloscopus sindianus lorenzii</dt>
+        <dd>•Kawkaz-sarîkaşî</dd>
+        <dd>•Kawkaz-ğelbegesí</dd>
+
+        <dt>Phylloscopus subviridis</dt>
+        <dd>•Brook'nîñ-yaprak-sarîkaşî</dd>
+        <dd>•Brook'nîñ-yaprak-ğelbegesí</dd>
+
+        <dt>Phylloscopus trochiloides</dt>
+        <dd>•kíşkene-yeşíl-sarîkaş</dd>
+        <dd>•kíşkene-yeşíl-ğelbege</dd>
+
+        <dt>Phylloscopus trochilus</dt>
+        <dd>•sewet-sarîkaşî</dd>
+        <dd>•sewet-ğelbegesí</dd>
+
+        <dt>Pica pica</dt>
+        <dd>•sawuskan</dd>
+
+        <dt>Picoides tridactylus</dt>
+        <dd>•úş-parmaklî-tokîldak</dd>
+        <dd>•úş-parmaklî-terekkakkan</dd>
+        <dd>•úş-parmaklî-kúrte</dd>
+
+        <dt>Picus canus</dt>
+        <dd>•boz-tokîldak</dd>
+        <dd>•boz-terekkakkan</dd>
+        <dd>•boz-kúrte</dd>
+
+        <dt>Picus squamatus</dt>
+        <dd>•pullî-tokîldak</dd>
+        <dd>•pullî-terekkakkan</dd>
+        <dd>•pullî-kúrte</dd>
+
+        <dt>Picus vailantii</dt>
+        <dd>•Atlas-tokîldagî</dd>
+        <dd>•Levaillant'nîñ-tokîldagî</dd>
+        <dd>•Atlas-terekkakkanî</dd>
+        <dd>•Levaillant'nîñ-terekkakkanî</dd>
+        <dd>•Atlas-kúrtesí</dd>
+        <dd>•Levaillant'nîñ-kúrtesí</dd>
+
+        <dt>Picus viridis</dt>
+        <dd>•yeşíl-tokîldak</dd>
+        <dd>•yeşíl-terekkakkan</dd>
+        <dd>•yeşíl-kúrte</dd>
+
+        <dt>Pinicola enucleator</dt>
+        <dd>•tayga-kalîntumşugî</dd>
+        <dd>•tayga-şakragî</dd>
+
+        <dt>Piranga olivacea</dt>
+        <dd>•al-tangara</dd>
+
+        <dt>Piranga rubra</dt>
+        <dd>•ğaz-tangarasî</dd>
+
+        <dt>Platalea alba</dt>
+        <dd>•Afrika-kaşîkşîsî</dd>
+
+        <dt>Platalea leucorodia</dt>
+        <dd>•kaşîkşî</dd>
+
+        <dt>Platycercus adscitus</dt>
+        <dd>•ak-yúzlí-Rosella-dudukuşî</dd>
+
+        <dt>Platycercus elegans</dt>
+        <dd>•kîzîl-Rosella-dudukuşî</dd>
+
+        <dt>Plegadis falcinellus</dt>
+        <dd>•kara-şulluk</dd>
+        <dd>•kara-aynak</dd>
+
+        <dt>Plegadis ridgwayi</dt>
+        <dd>•puna-şullugî</dd>
+        <dd>•puna-aynagî</dd>
+
+        <dt>Ploceus castaneiceps</dt>
+        <dd>•altîn-tokîmağî</dd>
+
+        <dt>Ploceus cucullatus</dt>
+        <dd>•bakşa-tokîmağîsî</dd>
+
+        <dt>Ploceus galbula</dt>
+        <dd>•kara-suratlî-tokîmağî</dd>
+
+        <dt>Ploceus manyar</dt>
+        <dd>•sîzîklî-tokîmağî</dd>
+
+        <dt>Ploceus melanocephalus</dt>
+        <dd>•kara-başlî-tokîmağî</dd>
+
+        <dt>Ploceus vitellinus</dt>
+        <dd>•ğaşmaklî-tokîmağî</dd>
+
+        <dt>Pluvialis apricaria</dt>
+        <dd>•altîn-suwtorgay</dd>
+        <dd>•altîn-ğawunkuşî</dd>
+
+        <dt>Pluvialis dominica</dt>
+        <dd>•Amerika-altîn-suwtorgayî</dd>
+        <dd>•Amerika-altîn-ğawunkuşî</dd>
+
+        <dt>Pluvialis fulva</dt>
+        <dd>•Paçifik-altîn-suwtorgayî</dd>
+        <dd>•Paçifik-altîn-ğawunkuşî</dd>
+
+        <dt>Pluvialis squatarola</dt>
+        <dd>•gúmúş-suwtorgay</dd>
+        <dd>•gúmúş-ğawunkuşî</dd>
+
+        <dt>Pluvianus aegyptius</dt>
+        <dd>•Mîsîr-suwtorgayî</dd>
+        <dd>•Mîsîr-ğawunkuşî</dd>
+
+        <dt>Podiceps auritus</dt>
+        <dd>•kulaklî-dalgîş</dd>
+        <dd>•kulaklî-gagara</dd>
+
+        <dt>Podiceps cristatus</dt>
+        <dd>•kekeşlí-dalgîş</dd>
+        <dd>•kekeşlí-gagara</dd>
+
+        <dt>Podiceps grisegena</dt>
+        <dd>•kîzîl-moyînlî-dalgîş</dd>
+        <dd>•kîzîl-moyînlî-gagara</dd>
+
+        <dt>Podilymbus podiceps</dt>
+        <dd>•kalîn-tumşuklî-dalgîş</dd>
+        <dd>•kalîn-tumşuklî-gagara</dd>
+
+        <dt>Poicephalus senegalus</dt>
+        <dd>•Senegal-dudukuşî</dd>
+
+        <dt>Polyplectron bicalcaratum</dt>
+        <dd>•boz-kîrkawul</dd>
+
+        <dt>Polysticta stelleri</dt>
+        <dd>•kara-kózlí-deñíz-órdegí</dd>
+
+        <dt>Porphyrio alleni</dt>
+        <dd>•kíşkene-saz-tartarî</dd>
+
+        <dt>Porphyrio martinica</dt>
+        <dd>•Amerika-kók-saz-tartarî</dd>
+
+        <dt>Porphyrio porphyrio</dt>
+        <dd>•kók-saz-tartarî</dd>
+
+        <dt>Porzana carolina</dt>
+        <dd>•Amerika-suw-tartarî</dd>
+
+        <dt>Porzana marginalis</dt>
+        <dd>•boz-suw-tartarî</dd>
+
+        <dt>Porzana parva</dt>
+        <dd>•kíşkene-suw-tartarî</dd>
+
+        <dt>Porzana porzana</dt>
+        <dd>•meneklí-suw-tartarî</dd>
+
+        <dt>Porzana pusilla</dt>
+        <dd>•Baillon'nîñ-suw-tartarî</dd>
+
+        <dt>Prinia gracilis</dt>
+        <dd>•ğuka-sarîkaş</dd>
+        <dd>•ğuka-ğelbege</dd>
+
+        <dt>Progne subis</dt>
+        <dd>•kók-kaya-karlîgaşî</dd>
+
+        <dt>Prunella atrogularis</dt>
+        <dd>•kara-moyînlî-sodîrgay</dd>
+
+        <dt>Prunella collaris</dt>
+        <dd>•dak-sodîrgayî</dd>
+
+        <dt>Prunella fagani</dt>
+        <dd>•Arap-sodîrgayî</dd>
+
+        <dt>Prunella modularis</dt>
+        <dd>•orman-sodîrgayî</dd>
+        <dd>•ğana</dd>
+
+        <dt>Prunella montanella</dt>
+        <dd>•Sebír-sodîrgayî</dd>
+
+        <dt>Prunella ocularis</dt>
+        <dd>•súrmelí-sodîrgay</dd>
+
+        <dt>Psittacula alexandri</dt>
+        <dd>•sakallî-Iskender-dudukuşî</dd>
+
+        <dt>Psittacula cyanocephala</dt>
+        <dd>•erík-başlî-dudukuş</dd>
+
+        <dt>Psittacula eupatria</dt>
+        <dd>•balaban-yeşíl-dudukuş</dd>
+
+        <dt>Psittacula krameri</dt>
+        <dd>•yakalî-yeşíl-dudukuş</dd>
+
+        <dt>Psittacus erithacus</dt>
+        <dd>•boz-dudukuş</dd>
+
+        <dt>Pterocles alchata</dt>
+        <dd>•tel-kuyruklî-naktura</dd>
+        <dd>•tel-kuyruklî-bagîrtlak</dd>
+
+        <dt>Pterocles exustus</dt>
+        <dd>•kawerengí-bawurlî-naktura</dd>
+        <dd>•kawerengí-bawurlî-bagîrtlak</dd>
+
+        <dt>Pterocles indicus</dt>
+        <dd>•boyalî-naktura</dd>
+        <dd>•boyalî-bagîrtlak</dd>
+
+        <dt>Pterocles lichtensteinii</dt>
+        <dd>•kíşkene-naktura</dd>
+        <dd>•kíşkene-bagîrtlak</dd>
+
+        <dt>Pterocles orientalis</dt>
+        <dd>•kara-bawurlî-naktura</dd>
+        <dd>•kara-bawurlî-bagîrtlak</dd>
+
+        <dt>Pterocles senegallus</dt>
+        <dd>•meneklí-naktura</dd>
+        <dd>•meneklí-bagîrtlak</dd>
+
+        <dt>Pterodroma feae</dt>
+        <dd>•Yeşíl-Murun-boraganğîsî</dd>
+
+        <dt>Pterodroma hasitata</dt>
+        <dd>•kara-kalpaklî-boraganğî</dd>
+
+        <dt>Pterodroma incerta</dt>
+        <dd>•Atlantik-boraganğîsî</dd>
+
+        <dt>Pterodroma leucoptera</dt>
+        <dd>•ak-kanatlî-boraganğî</dd>
+
+        <dt>Pterodroma mollis</dt>
+        <dd>•katife-boraganğî</dd>
+
+        <dt>Pterodroma neglecta</dt>
+        <dd>•Kermadek-Adalarî-boraganğîsî</dd>
+
+        <dt>Ptyonoprogne fuligula</dt>
+        <dd>•kíşkene-kaya-karlîgaşî</dd>
+
+        <dt>Ptyonoprogne obsoleta</dt>
+        <dd>•tússúz-kaya-karlîgaşî</dd>
+
+        <dt>Ptyonoprogne rupestris</dt>
+        <dd>•kaya-karlîgaşî</dd>
+
+        <dt>Puffinus assimilis</dt>
+        <dd>•kíşkene-ğelkuwgan</dd>
+
+        <dt>Puffinus carneipes</dt>
+        <dd>•pembe-ayaklî-ğelkuwgan</dd>
+
+        <dt>Puffinus gravis</dt>
+        <dd>•balaban-ğelkuwgan</dd>
+
+        <dt>Puffinus griseus</dt>
+        <dd>•kúlrengí-ğelkuwgan</dd>
+
+        <dt>Puffinus lherminieri</dt>
+        <dd>•yoda-ğelkuwganî</dd>
+
+        <dt>Puffinus mauretanicus</dt>
+        <dd>•Balear-ğelkuwganî</dd>
+
+        <dt>Puffinus pacificus</dt>
+        <dd>•kama-kuyruklî-ğelkuwgan</dd>
+
+        <dt>Puffinus persicus</dt>
+        <dd>•Ağem-ğelkuwganî</dd>
+
+        <dt>Puffinus puffinus</dt>
+        <dd>•kara-tumşuklî-ğelkuwgan</dd>
+
+        <dt>Puffinus yelkouan</dt>
+        <dd>•kúntuwar-ğelkuwganî</dd>
+
+        <dt>Pycnonotus aurigaster</dt>
+        <dd>•kara-başlî-sayrawğî</dd>
+
+        <dt>Pycnonotus barbatus</dt>
+        <dd>•boz-sayrawğî</dd>
+
+        <dt>Pycnonotus cafer</dt>
+        <dd>•kîzîl-Arap-sayrawğîsî</dd>
+
+        <dt>Pycnonotus jocosus</dt>
+        <dd>•Ağem-sayrawğîsî</dd>
+
+        <dt>Pycnonotus leucogenys</dt>
+        <dd>•ak-kulaklî-sayrawğî</dd>
+
+        <dt>Pycnonotus sinensis</dt>
+        <dd>•Kîtay-sayrawğîsî</dd>
+
+        <dt>Pycnonotus xanthopygos</dt>
+        <dd>•sarî-ğayalî-Arap-sayrawğîsî</dd>
+
+        <dt>Pyrrhocorax graculus</dt>
+        <dd>•dak-dolaşasî</dd>
+        <dd>•dak-şáwkesí</dd>
+
+        <dt>Pyrrhocorax pyrrhocorax</dt>
+        <dd>•kîzîl-tumşuklî-dolaşa</dd>
+        <dd>•kîzîl-tumşuklî-şáwke</dd>
+
+        <dt>Pyrrhula murina</dt>
+        <dd>•Azor-şakragî</dd>
+
+        <dt>Pyrrhula pyrr</dt>
+        <dd>•şakrak</dd>
+
+        <dt>Quelea quelea</dt>
+        <dd>•kîzîl-tumşuklî-kúyela-tokîmağîsî</dd>
+
+        <dt>Quiscalus quiscula</dt>
+        <dd>•mor-sayrak</dd>
+        <dd>•mor-karatawuk</dd>
+
+        <dt>Rallus aquaticus</dt>
+        <dd>•suw-tartarî</dd>
+        <dd>•kîjgî</dd>
+
+        <dt>Ramphastos toco</dt>
+        <dd>•tukan</dd>
+
+        <dt>Ramphastos vitellinus</dt>
+        <dd>•oyalî-tumşuklî-tukan</dd>
+
+        <dt>Ramphocoris clotbey</dt>
+        <dd>•kalîn-tumşuklî-boztorgay</dd>
+
+        <dt>Recurvirostra avosetta</dt>
+        <dd>•ğañgaş</dd>
+        <dd>•kîyîşakgágáa</dd>
+        <dd>•kîyîşgágáa</dd>
+
+        <dt>Regulus calendula</dt>
+        <dd>•kózíldíríklí-tartalak</dd>
+
+        <dt>Regulus ignicapillus</dt>
+        <dd>•súrmelí-tartalak</dd>
+
+        <dt>Regulus regulus</dt>
+        <dd>•altîn-mañlaylî-tartalak</dd>
+
+        <dt>Regulus saprata</dt>
+        <dd>•altîn-tajlî-tartalak</dd>
+
+        <dt>Regulus teneriffae</dt>
+        <dd>•Kanariya-Adasî-tartalagî</dd>
+
+        <dt>Remiz pendulinus</dt>
+        <dd>•kurkultay</dd>
+
+        <dt>Rhodopechys githaginea</dt>
+        <dd>•kíşkene-kumtorgay</dd>
+
+        <dt>Rhodopechys mongolicus</dt>
+        <dd>•Moñgol-kumtorgayî</dd>
+
+        <dt>Rhodopechys sanguinea</dt>
+        <dd>•kîzîl-kanatlî-şîmşîk</dd>
+
+        <dt>Rhodophoneus cruentus</dt>
+        <dd>•kîzîl-karînlî-itelge</dd>
+        <dd>•kîzîl-karînlî-taganak</dd>
+
+        <dt>Rhodospiza obsoleta</dt>
+        <dd>•şól-şîmşîgî</dd>
+
+        <dt>Rhodostethia rosea</dt>
+        <dd>•gúl-şaklay</dd>
+        <dd>•Ross'nîñ-şaklayî</dd>
+        <dd>•gúl-kagay</dd>
+        <dd>•Ross'nîñ-kagayî</dd>
+
+        <dt>Rhynchostruthus socotranus</dt>
+        <dd>•altîn-kanatlî-kalîntumşuk</dd>
+        <dd>•Sokotra-kalîntumşugî</dd>
+        <dd>•altîn-kanatlî-şakrak</dd>
+        <dd>•Sokotra-şakragî</dd>
+
+        <dt>Riparia paludicola</dt>
+        <dd>•esmer-kum-karlîgaşî</dd>
+
+        <dt>Riparia riparia</dt>
+        <dd>•kum-karlîgaşî</dd>
+
+        <dt>Rissa tridactyla</dt>
+        <dd>•kara-ayaklî-şaklay</dd>
+        <dd>•kara-ayaklî-kagay</dd>
+
+        <dt>Rostratula benghalensis</dt>
+        <dd>•boyalî-şulluk</dd>
+
+        <dt>Rostrhamus sociabilis</dt>
+        <dd>•ğílbíz-şaylagî</dd>
+        <dd>•ğílbíz-kerení</dd>
+        <dd>•ğílbíz-koğalagî</dd>
+
+        <dt>Rynchops albicollis</dt>
+        <dd>•Hint-makasgágáasî</dd>
+
+        <dt>Rynchops flavirostris</dt>
+        <dd>•Afrika-makasgágáasî</dd>
+
+        <dt>Sarcoramphus papa</dt>
+        <dd>•şah-kartşagay</dd>
+
+        <dt>Sarkidiornis sylvicola</dt>
+        <dd>•tarak-órdek</dd>
+
+        <dt>Saxicola caprata</dt>
+        <dd>•alaşa-taşkuşî</dd>
+
+        <dt>Saxicola dacotiae</dt>
+        <dd>•Kanariya-Adasî-taşkuşî</dd>
+
+        <dt>Saxicola maura</dt>
+        <dd>•Sebír-taşkuşî</dd>
+
+        <dt>Saxicola rubetra</dt>
+        <dd>•şakalakşî</dd>
+        <dd>•şayîr-taşkuşî</dd>
+
+        <dt>Saxicola rubicola</dt>
+        <dd>•kara-taşkuşî</dd>
+
+        <dt>Saxicola torquata torquata</dt>
+        <dd>•taşkuşî</dd>
+        <dd>•somaran</dd>
+
+        <dt>Sayornis phoebe</dt>
+        <dd>•kúntuwar-şîbînğîsî</dd>
+
+        <dt>Scolopax rusticola</dt>
+        <dd>•koñgîr-şulluk</dd>
+
+        <dt>Scotocerca inquieta</dt>
+        <dd>•súrmelí-ğelpazekuyruk</dd>
+
+        <dt>Seiurus aurocapillus</dt>
+        <dd>•kîzîl-tajlî-suw-sayragî</dd>
+
+        <dt>Seiurus motacilla</dt>
+        <dd>•suw-sayragî</dd>
+
+        <dt>Seiurus noveboracensis</dt>
+        <dd>•şimal-suw-sayragî</dd>
+
+        <dt>Serinus canaria</dt>
+        <dd>•sarî-búlbúl</dd>
+        <dd>•kanariya</dd>
+
+        <dt>Serinus canaria serinus</dt>
+        <dd>•yeşíl-ketenkuşî</dd>
+        <dd>•yeşíl-kanariya</dd>
+
+        <dt>Serinus citrinella</dt>
+        <dd>•limon-kanariyasî</dd>
+
+        <dt>Serinus corsicanus</dt>
+        <dd>•Korsika-kanariyasî</dd>
+
+        <dt>Serinus flavivertex</dt>
+        <dd>•sarî-tajlî-kanariya</dd>
+
+        <dt>Serinus menachensis</dt>
+        <dd>•Yemen-kanariyasî</dd>
+
+        <dt>Serinus pusillus</dt>
+        <dd>•kîzîl-mañlaylî-kanariya</dd>
+
+        <dt>Serinus rothschildi</dt>
+        <dd>•boz-ğayalî-kanariya</dd>
+
+        <dt>Serinus serinus</dt>
+        <dd>•kíşkene-kanariya</dd>
+
+        <dt>Serinus syriacus</dt>
+        <dd>•sedír-kanariyasî</dd>
+        <dd>•Súriye-kanariyasî</dd>
+
+        <dt>Setophaga ruticilla</dt>
+        <dd>•Amerika-kîzîlkuyrugî</dd>
+
+        <dt>Sicalis flaveola</dt>
+        <dd>•zeferan-kanariyasî</dd>
+
+        <dt>Sitta canadensis</dt>
+        <dd>•Kanada-kúrteşígí</dd>
+
+        <dt>Sitta europaea</dt>
+        <dd>•kúrteşík</dd>
+
+        <dt>Sitta krueperi</dt>
+        <dd>•kíşkene-kúrteşík</dd>
+        <dd>•Krúper'níñ-kúrteşígí</dd>
+
+        <dt>Sitta ledanti</dt>
+        <dd>•Ğezayir-kúrteşígí</dd>
+
+        <dt>Sitta neumayer</dt>
+        <dd>•kaya-kúrteşígí</dd>
+
+        <dt>Sitta tephronota</dt>
+        <dd>•Ağem-kúrteşígí</dd>
+
+        <dt>Sitta whiteheadi</dt>
+        <dd>•Korsika-kúrteşígí</dd>
+
+        <dt>Somateria fischeri</dt>
+        <dd>•kózíldíríklí-deñíz-órdegí</dd>
+
+        <dt>Somateria mollissima</dt>
+        <dd>•sîradan-deñíz-órdegí</dd>
+
+        <dt>Somateria spectabilis</dt>
+        <dd>•kral-deñíz-órdegí</dd>
+
+        <dt>Spatula clypeata</dt>
+        <dd>•kúrekşí-órdek</dd>
+        <dd>•kúrekşí</dd>
+
+        <dt>Spheniscidae sp.</dt>
+        <dd>•pingúyin</dd>
+
+        <dt>Sphyrapicus varius</dt>
+        <dd>•sarî-karînlî-tokîldak</dd>
+        <dd>•sarî-karînlî-terekkakkan</dd>
+        <dd>•sarî-karînlî-kúrte</dd>
+
+        <dt>Spiloptila clamans</dt>
+        <dd>•şegertkíğí-ğelpazekuyruk</dd>
+
+        <dt>Spiza americana</dt>
+        <dd>•sarîlî-şîmşîk</dd>
+
+        <dt>Spizela arborea</dt>
+        <dd>•Amerika-terek-şîmşîgî</dd>
+
+        <dt>Spizela passerina</dt>
+        <dd>•şakîltaş-şîmşîgî</dd>
+
+        <dt>Spizella pusilla</dt>
+        <dd>•tarla-şîmşîgî</dd>
+
+        <dt>Spodiopsar sericeus</dt>
+        <dd>•kîzîl-tumşuklî-sîyîrşîk</dd>
+        <dd>•kîzîl-tumşuklî-şegertkíğí</dd>
+
+        <dt>Steganopus tricolor</dt>
+        <dd>•úş-renklí-kumtawuk</dd>
+
+        <dt>Stercorarius longicaudus</dt>
+        <dd>•uzun-kuyruklî-martî</dd>
+
+        <dt>Stercorarius maccormickii</dt>
+        <dd>•ğenup-kutubî-martîsî</dd>
+
+        <dt>Stercorarius parasiticus</dt>
+        <dd>•kutup-martîsî</dd>
+
+        <dt>Stercorarius pomarinus</dt>
+        <dd>•gezúwğí-martî</dd>
+
+        <dt>Stercorarius skua</dt>
+        <dd>•balaban-martî</dd>
+
+        <dt>Sterna albifrons</dt>
+        <dd>•kíşkene-karkîldak</dd>
+
+        <dt>Sterna anaethetus</dt>
+        <dd>•súrmelí-karkîldak</dd>
+
+        <dt>Sterna antillarum</dt>
+        <dd>•Antil-karkîldagî</dd>
+
+        <dt>Sterna balaenarum</dt>
+        <dd>•Damara-karkîldagî</dd>
+
+        <dt>Sterna bengalensis</dt>
+        <dd>•kíşkene-kekeşlí-karkîldak</dd>
+
+        <dt>Sterna bergii</dt>
+        <dd>•balaban-kekeşlí-karkîldak</dd>
+
+        <dt>Sterna caspia</dt>
+        <dd>•balaban-karkîldak</dd>
+        <dd>•Kazar-karkîldagî</dd>
+
+        <dt>Sterna dougallii</dt>
+        <dd>•pembe-karkîldak</dd>
+
+        <dt>Sterna elegans</dt>
+        <dd>•şîk-karkîldak</dd>
+
+        <dt>Sterna forsteri</dt>
+        <dd>•ğaşmaklî-karkîldak</dd>
+        <dd>•Forster'níñ-karkîldagî</dd>
+
+        <dt>Sterna fuscata</dt>
+        <dd>•kara-sîrtlî-karkîldak</dd>
+
+        <dt>Sterna hirundo</dt>
+        <dd>•sîradan-karkîldak</dd>
+
+        <dt>Sterna maxima</dt>
+        <dd>•kral-karkîldak</dd>
+
+        <dt>Sterna nilotica</dt>
+        <dd>•kúlgen-karkîldak</dd>
+
+        <dt>Sterna paradisaea</dt>
+        <dd>•kutup-karkîldagî</dd>
+
+        <dt>Sterna repressa</dt>
+        <dd>•Arap-karkîldagî</dd>
+        <dd>•ak-yúzlí-karkîldak</dd>
+
+        <dt>Sterna sandvicensis</dt>
+        <dd>•Sandwiç-karkîldagî</dd>
+        <dd>•kara-tumşuklî-karkîldak</dd>
+
+        <dt>Sterna saundersi</dt>
+        <dd>•kíşkene-Hint-karkîldagî</dd>
+        <dd>•Saunder'níñ-karkîldagî</dd>
+
+        <dt>Streptopelia decaocto</dt>
+        <dd>•yakalî-kurkur</dd>
+
+        <dt>Streptopelia lugens</dt>
+        <dd>•karağa-kurkur</dd>
+
+        <dt>Streptopelia orientalis</dt>
+        <dd>•balaban-kurkur</dd>
+        <dd>•şarkiy-kurkur</dd>
+
+        <dt>Streptopelia risoria</dt>
+        <dd>•kafes-kurkurî</dd>
+
+        <dt>Streptopelia roseogrisea</dt>
+        <dd>•Afrika-pembe-kurkurî</dd>
+
+        <dt>Streptopelia semitorquata</dt>
+        <dd>•kîzîl-kózlí-kurkur</dd>
+
+        <dt>Streptopelia senegalensis</dt>
+        <dd>•Senegal-kurkurî</dd>
+
+        <dt>Streptopelia tranquebarica</dt>
+        <dd>•kîzîl-kurkur</dd>
+
+        <dt>Streptopelia turtur</dt>
+        <dd>•boz-kógerşín</dd>
+        <dd>•kumrîkuş</dd>
+        <dd>•kurkur</dd>
+
+        <dt>Strix aluco</dt>
+        <dd>•kulaksîz-yapalak</dd>
+        <dd>•kîzîlğa-úgúle</dd>
+
+        <dt>Strix butleri</dt>
+        <dd>•şól-yapalagî</dd>
+
+        <dt>Strix nebulosa</dt>
+        <dd>•sakallî-yapalak</dd>
+
+        <dt>Strix passerina</dt>
+        <dd>•úgúle</dd>
+        <dd>•torgay-yapalagî</dd>
+
+        <dt>Strix ulula</dt>
+        <dd>•atmağa-yapalagî</dd>
+
+        <dt>Strix uralensis</dt>
+        <dd>•Ğayîk-yapalagî</dd>
+        <dd>•uzun-kuyruklî-taw-yapalagî</dd>
+
+        <dt>Strix varia</dt>
+        <dd>•sîzîklî-yapalak</dd>
+
+        <dt>Struthio camelus</dt>
+        <dd>•dewekuşî</dd>
+        <dd>•túyekuşî</dd>
+
+        <dt>Sturnella magna</dt>
+        <dd>•tarla-sîyîrşîgî</dd>
+
+        <dt>Sturnus cineraceus</dt>
+        <dd>•ak-yúzlí-sîyîrşîk</dd>
+        <dd>•ak-yúzlí-şegertkíğí</dd>
+
+        <dt>Sturnus contra</dt>
+        <dd>•alaşa-sîyîrşîk</dd>
+        <dd>•alaşa-şegertkíğí</dd>
+
+        <dt>Sturnus pagodarum</dt>
+        <dd>•pagot-sîyîrşîgî</dd>
+        <dd>•pagot-şegertkíğísí</dd>
+
+        <dt>Sturnus roseus</dt>
+        <dd>•pembe-sîyîrşîk</dd>
+        <dd>•pembe-şegertkíğí</dd>
+
+        <dt>Sturnus sericeus</dt>
+        <dd>•kîzîl-tumşuklî-sîyîrşîk</dd>
+        <dd>•kîzîl-tumşuklî-şegertkíğí</dd>
+
+        <dt>Sturnus sinensis</dt>
+        <dd>•ak-omîzlî-sîyîrşîk</dd>
+        <dd>•Kîtay-sîyîrşîgî</dd>
+        <dd>•ak-omîzlî-şegertkíğí</dd>
+        <dd>•Kîtay-şegertkíğísí</dd>
+
+        <dt>Sturnus sturninus</dt>
+        <dd>•Sebír-sîyîrşîgî</dd>
+        <dd>•Sebír-şegertkíğísí</dd>
+
+        <dt>Sturnus unicolor</dt>
+        <dd>•kara-sîyîrşîk</dd>
+        <dd>•kara-şegertkíğí</dd>
+
+        <dt>Sturnus vulgaris</dt>
+        <dd>•sîradan-şîyîrşîk</dd>
+        <dd>•sîradan-şegertkíğí</dd>
+
+        <dt>Sula bassana</dt>
+        <dd>•delíkaz</dd>
+
+        <dt>Sula dactylatra</dt>
+        <dd>•ğaşmaklî-delíkaz</dd>
+
+        <dt>Sula leucogaster</dt>
+        <dd>•kara-delíkaz</dd>
+
+        <dt>Sula nebouxii</dt>
+        <dd>•mawî-ayaklî-delíkaz</dd>
+
+        <dt>Sula sula</dt>
+        <dd>•kîzîl-ayaklî-delíkaz</dd>
+
+        <dt>Surnia ulula</dt>
+        <dd>•atmağa-yapalagî</dd>
+
+        <dt>Sylvia atricapilla</dt>
+        <dd>•kara-başlî-ğeleşe</dd>
+        <dd>•karabaş</dd>
+
+        <dt>Sylvia borin</dt>
+        <dd>•boz-ğeleşe</dd>
+
+        <dt>Sylvia buryi</dt>
+        <dd>•Yemen-ğeleşesí</dd>
+
+        <dt>Sylvia cantillans</dt>
+        <dd>•mîyîklî-ğeleşe</dd>
+
+        <dt>Sylvia communis</dt>
+        <dd>•ak-kerdanlî-ğeleşe</dd>
+
+        <dt>Sylvia conspicillata</dt>
+        <dd>•kózíldíríklí-ğeleşe</dd>
+
+        <dt>Sylvia crassirostris</dt>
+        <dd>•kúntuwar-bakşa-ğeleşesí</dd>
+
+        <dt>Sylvia curruca</dt>
+        <dd>•kíşkene-ğeleşe</dd>
+
+        <dt>Sylvia hortensis</dt>
+        <dd>•bakşa-ğeleşesí</dd>
+
+        <dt>Sylvia leucomelaena</dt>
+        <dd>•Arap-ğeleşesí</dd>
+
+        <dt>Sylvia melanocephala</dt>
+        <dd>•kíşkene-kara-başlî-ğeleşe</dd>
+        <dd>•kíşkene-karabaş</dd>
+
+        <dt>Sylvia melanothorax</dt>
+        <dd>•Kîbrîs-ğeleşesí</dd>
+
+        <dt>Sylvia mystacea</dt>
+        <dd>•pembe-karînlî-ğeleşe</dd>
+        <dd>•Menetries'níñ-ğeleşesí</dd>
+
+        <dt>Sylvia nana</dt>
+        <dd>•şól-ğeleşesí</dd>
+
+        <dt>Sylvia nisoria</dt>
+        <dd>•sîzîklî-ğeleşe</dd>
+
+        <dt>Sylvia rueppelli</dt>
+        <dd>•kara-moyînlî-ğeleşe</dd>
+        <dd>•Rúppell'níñ-ğeleşesí</dd>
+
+        <dt>Sylvia sarda</dt>
+        <dd>•Sardiniye-ğeleşesí</dd>
+
+        <dt>Sylvia undata</dt>
+        <dd>•koraylîk-ğeleşesí</dd>
+        <dd>•Dartford'nîñ-ğeleşesí</dd>
+
+        <dt>Synthliboramphus antiquus</dt>
+        <dd>•antika-alak</dd>
+        <dd>•ak-şáşlí-alak</dd>
+
+        <dt>Syrmaticus reevesii</dt>
+        <dd>•kral-kîrkawul</dd>
+        <dd>•kral-súlgún</dd>
+
+        <dt>Syrrhaptes paradoxus</dt>
+        <dd>•naktura</dd>
+        <dd>•bagîrtlak</dd>
+
+        <dt>Tachybaptus ruficollis</dt>
+        <dd>•kíşkene-dalgîş</dd>
+        <dd>•kíşkene-gagara</dd>
+
+        <dt>Tachycineta bicolor</dt>
+        <dd>•terek-karlîgaşî</dd>
+
+        <dt>Tachymarptis melba</dt>
+        <dd>•dak-surkarlîgaşî</dd>
+        <dd>•ak-karînlî-surkarlîgaş</dd>
+
+        <dt>Tadorna cana</dt>
+        <dd>•boz-başlî-añkut</dd>
+
+        <dt>Tadorna ferruginea</dt>
+        <dd>•pasrenklí-añkut</dd>
+
+        <dt>Tadorna radjah</dt>
+        <dd>•şah-añkut</dd>
+
+        <dt>Tadorna tadorna</dt>
+        <dd>•kestanerengí-kuşaklî-añkut</dd>
+
+        <dt>Tadorna tadornoides</dt>
+        <dd>•Awustraliye-añkutî</dd>
+
+        <dt>Tadorna variegata</dt>
+        <dd>•ğennet-añkutî</dd>
+        <dd>•Kenğe-Zelant-ăñkutî</dd>
+
+        <dt>Taeniopygia guttata</dt>
+        <dd>•zebír-şîmşîgî</dd>
+
+        <dt>Tarsiger cyanurus</dt>
+        <dd>•mawî-kuyruklî-búlbúl</dd>
+
+        <dt>Tchagra senegala</dt>
+        <dd>•Senegal-itelgesí</dd>
+        <dd>•Senegal-taganagî</dd>
+
+        <dt>Terathopius ecaudatus</dt>
+        <dd>•kuyruksuz-búrkút</dd>
+
+        <dt>Terpsiphone viridis</dt>
+        <dd>•Afrika-ğennet-şîbînğîsî</dd>
+
+        <dt>Tetrao mlokoiewiczi</dt>
+        <dd>•Kawkaz-karabawurî</dd>
+        <dd>•Kawkaz-kurî</dd>
+
+        <dt>Tetrao tetrix</dt>
+        <dd>•karabawur</dd>
+        <dd>•kur</dd>
+
+        <dt>Tetrao urogallus</dt>
+        <dd>•kemerlek</dd>
+        <dd>•tarkan</dd>
+        <dd>•tatar</dd>
+
+        <dt>Tetraogallus altaicus</dt>
+        <dd>•Altay-ularî</dd>
+
+        <dt>Tetraogallus caspius</dt>
+        <dd>•Kazar-ularî</dd>
+
+        <dt>Tetraogallus caucasicus</dt>
+        <dd>•Kawkaz-ularî</dd>
+
+        <dt>Tetrastes bonasia</dt>
+        <dd>•dak-tawugî</dd>
+        <dd>•karîk</dd>
+        <dd>•boztawuk</dd>
+
+        <dt>Tetrax tetrax</dt>
+        <dd>•sîpîrgağî</dd>
+        <dd>•kíşkene-toykuşî</dd>
+
+        <dt>Thalassarche melanophrys</dt>
+        <dd>•kara-kaşlî-ğayka</dd>
+        <dd>•kara-kaşlî-albatros</dd>
+
+        <dt>Theristicus caudatus</dt>
+        <dd>•ógíz-moyînlî-aynak</dd>
+        <dd>•Amazon-aynagî</dd>
+        <dd>•ógíz-moyînlî-ibis</dd>
+        <dd>•Amazon-ibisí</dd>
+
+        <dt>Threskiornis aethiopica</dt>
+        <dd>•veliy-aynak</dd>
+        <dd>•veliy-ibis</dd>
+
+        <dt>Threskiornis spinicollis</dt>
+        <dd>•Awustraliye-aynagî</dd>
+        <dd>•Awustraliye-ibisí</dd>
+
+        <dt>Tichodroma muraria</dt>
+        <dd>•ğarkuş</dd>
+        <dd>•duwar-tîrmaşîkkuşî</dd>
+
+        <dt>Tinnunculus alaudarius</dt>
+        <dd>•kóykenek</dd>
+        <dd>•alaşa-dogan</dd>
+        <dd>•alaşa-togan</dd>
+
+        <dt>Tmetothylacus tenellus</dt>
+        <dd>•altîn-ğadîrak</dd>
+
+        <dt>Tockus nasutus</dt>
+        <dd>•boz-múyúzgágáa</dd>
+        <dd>•boz-óreñgekuş</dd>
+
+        <dt>Torgos negevensis</dt>
+        <dd>•kîrîşîk-yúzlî-Arap-kartşagayî</dd>
+
+        <dt>Torgos tracheliotos</dt>
+        <dd>•kîrîşîk-yúzlî-Afrika-kartşagayî</dd>
+
+        <dt>Toxostoma rufum</dt>
+        <dd>•kawerengí-erkelewğí</dd>
+
+        <dt>Tringa breviceps</dt>
+        <dd>•boz-kuyruklî-palşîkşî</dd>
+
+        <dt>Tringa cinerea</dt>
+        <dd>•sarî-bağaklî-palşîkşî</dd>
+
+        <dt>Tringa erythropus</dt>
+        <dd>•alaşa-kîzîl-bağaklî-palşîkşî</dd>
+
+        <dt>Tringa flavipes</dt>
+        <dd>•kíşkene-sarî-bağaklî-palşîkşî</dd>
+
+        <dt>Tringa glareola</dt>
+        <dd>•taw-palşîkşîsî</dd>
+
+        <dt>Tringa hypoleucos</dt>
+        <dd>•şayîr-palşîkşîsî</dd>
+
+        <dt>Tringa melanoleuca</dt>
+        <dd>•balaban-sarî-bağaklî-palşîkşî</dd>
+
+        <dt>Tringa nebularia</dt>
+        <dd>•yeşíl-bağaklî-palşîkşî</dd>
+
+        <dt>Tringa ochropus</dt>
+        <dd>•uzun-bağaklî-yeşíl-palşîkşî</dd>
+
+        <dt>Tringa semipalmata</dt>
+        <dd>•boz-palşîkşî</dd>
+
+        <dt>Tringa solitaria</dt>
+        <dd>•esmer-palşîkşî</dd>
+
+        <dt>Tringa stagnatilis</dt>
+        <dd>•bataklîk-palşîkşîsî</dd>
+
+        <dt>Tringa totanus</dt>
+        <dd>•kîzîl-bağaklî-palşîkşî</dd>
+
+        <dt>Trochilus</dt>
+        <dd>•kolibriy</dd>
+        <dd>•şîbînkuş</dd>
+
+        <dt>Troglodytes troglodytes</dt>
+        <dd>•şalîkuşî</dd>
+
+        <dt>Turdoides altirostris</dt>
+        <dd>•Irak-lakîrdagî</dd>
+
+        <dt>Turdoides caudaus</dt>
+        <dd>•sîradan-lakîrdak</dd>
+
+        <dt>Turdoides fulvus</dt>
+        <dd>•sarîğa-lakîrdak</dd>
+
+        <dt>Turdoides squamiceps</dt>
+        <dd>•Arap-lakîrdagî</dd>
+
+        <dt>Turdus atrogularis</dt>
+        <dd>•kara-moyînlî-sayrak</dd>
+
+        <dt>Turdus dissimillis</dt>
+        <dd>•kara-karînlî-sayrak</dd>
+
+        <dt>Turdus iliacus</dt>
+        <dd>•kîzîl-kanatlî-sayrak</dd>
+
+        <dt>Turdus kessleri</dt>
+        <dd>•ak-sîrtlî-sayrak</dd>
+        <dd>•Kessler'níñ-sayragî</dd>
+
+        <dt>Turdus menachensis</dt>
+        <dd>•Yemen-sayragî</dd>
+
+        <dt>Turdus merula</dt>
+        <dd>•kara-sayrak</dd>
+        <dd>•karatawuk</dd>
+
+        <dt>Turdus migratorius</dt>
+        <dd>•Amerika-sayrakî</dd>
+
+        <dt>Turdus naumanni eunomus</dt>
+        <dd>•karağa-sayrak</dd>
+
+        <dt>Turdus obscurus</dt>
+        <dd>•ak-kaşlî-sayrak</dd>
+
+        <dt>Turdus pallidus</dt>
+        <dd>•boz-sayrak</dd>
+
+        <dt>Turdus philomelos</dt>
+        <dd>•ótken-sayrak</dd>
+
+        <dt>Turdus pilaris</dt>
+        <dd>•tarla-sayragî</dd>
+        <dd>•ardîşkuşî</dd>
+        <dd>•arğakuşî</dd>
+        <dd>•arşakuşî</dd>
+        <dd>•bozbakkal</dd>
+
+        <dt>Turdus ruficollis</dt>
+        <dd>•kîzîl-moyînlî-sayrak</dd>
+
+        <dt>Turdus torquatus</dt>
+        <dd>•yakalî-sayrak</dd>
+        <dd>•boztawuk</dd>
+
+        <dt>Turdus unicolor</dt>
+        <dd>•şal-sayrak</dd>
+        <dd>•Tickell'níñ-sayragî</dd>
+
+        <dt>Turdus viscivorus</dt>
+        <dd>•ókseotî-sayragî</dd>
+
+        <dt>Turnix sylvatica</dt>
+        <dd>•kíşkene-taw-bódenesí</dd>
+
+        <dt>Tyto alba guttata</dt>
+        <dd>•ambar-baykuşî</dd>
+        <dd>•taska</dd>
+
+        <dt>Upupa epops</dt>
+        <dd>•kekeşe</dd>
+        <dd>•bebişek</dd>
+
+        <dt>Uraeginthus bengalus</dt>
+        <dd>•mawî-mumgágáa</dd>
+
+        <dt>Uragus sibiricus</dt>
+        <dd>•uzun-kuyruklî-kuralay</dd>
+
+        <dt>Uria aalge</dt>
+        <dd>•sîradan-alak</dd>
+
+        <dt>Uria lomvia</dt>
+        <dd>•kalîn-gágáalî-alak</dd>
+
+        <dt>Urocissa erythrorhyncha</dt>
+        <dd>•kîzîl-tumşuklî-mawî-sawuskan</dd>
+
+        <dt>Urocolius macrourus</dt>
+        <dd>•mawî-eñselí-îşankuşî</dd>
+
+        <dt>Vanellus armatus</dt>
+        <dd>•temírğí-tarakay</dd>
+
+        <dt>Vanellus gregarius</dt>
+        <dd>•súrmelí-tarakay</dd>
+
+        <dt>Vanellus indicus</dt>
+        <dd>•Hint-tarakayî</dd>
+        <dd>•balaban-tarakay</dd>
+
+        <dt>Vanellus leucurus</dt>
+        <dd>•ak-kuyruklî-tarakay</dd>
+
+        <dt>Vanellus spinosus</dt>
+        <dd>•şîganaklî-tarakay</dd>
+
+        <dt>Vanellus vanellus</dt>
+        <dd>•tarakay</dd>
+
+        <dt>Vermivora chrysoptera</dt>
+        <dd>•altîn-kanatlî-tîrtîlğî</dd>
+
+        <dt>Vermivora peregrina</dt>
+        <dd>•Tennesse-tîrtîlğîsî</dd>
+
+        <dt>Vultur monachus</dt>
+        <dd>•tazkara</dd>
+        <dd>•kara-kartşagay</dd>
+
+        <dt>Wilsonia canadensis</dt>
+        <dd>•Kanada-ótlegení</dd>
+
+        <dt>Wilsonia citrina</dt>
+        <dd>•sarî-yúzlí-ótlegen</dd>
+
+        <dt>Wilsonia pusilla</dt>
+        <dd>•takîyalî-ótlegen</dd>
+        <dd>•Wilson'nîñ-ótlegení</dd>
+
+        <dt>Xanthocephalus xanthocephalus</dt>
+        <dd>•sarî-başlî-karatawuk</dd>
+
+        <dt>Xema sabini</dt>
+        <dd>•şatal-kuyruklî-şaklay</dd>
+        <dd>•Sabin'níñ-şaklayî</dd>
+        <dd>•şatal-kuyruklî-kagay</dd>
+        <dd>•Sabin'níñ-kagayî</dd>
+
+        <dt>Xenus cinereus</dt>
+        <dd>•sarî-bağaklî-palşîkşî</dd>
+
+        <dt>Zenaida macroura</dt>
+        <dd>•uzun-kuyruklî-kurkur</dd>
+
+        <dt>Zonotrichia albicollis</dt>
+        <dd>•ak-moyînlî-torgay</dd>
+
+        <dt>Zonotrichia capensis</dt>
+        <dd>•kîzîl-yakalî-torgay</dd>
+
+        <dt>Zonotrichia georgiana</dt>
+        <dd>•bataklîk-torgayî</dd>
+
+        <dt>Zonotrichia leucophrys</dt>
+        <dd>•ak-tajlî-torgay</dd>
+
+        <dt>Zoothera dauma</dt>
+        <dd>•altîn-sayrak</dd>
+        <dd>•White'níñ-sayragî</dd>
+
+        <dt>Zoothera naevia</dt>
+        <dd>•memişiy-sayrak</dd>
+
+        <dt>Zoothera sibirica</dt>
+        <dd>•Sebír-sayragî</dd>
+
+        <dt>Zosterops abyssinica</dt>
+        <dd>•ak-karînlî-akkózlík</dd>
+
+        <dt>Zosterops erythropleurus</dt>
+        <dd>•kulan-kanatlî-akkózlík</dd>
+
+        <dt>Zosterops japonicus</dt>
+        <dd>•Japon-akkózlígí</dd>
+
+        <dt>Zosterops palpebrosus</dt>
+        <dd>•şarkiy-akkózlík</dd>
 --- End of Crimean Tatar (RO) Bird Names Table ---
 `;
 
