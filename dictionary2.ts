@@ -1,3 +1,4 @@
+export const RAW_DICTIONARY_ENTRIES = `
 kórewlí - kórmek 
 
 serviciu. chip). 3. a se răsti. // ●kózge  kórmeden  adv. pe nevăzute; fără a 
