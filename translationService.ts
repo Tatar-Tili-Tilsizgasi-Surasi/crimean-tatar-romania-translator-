@@ -2,10 +2,6 @@
 import { GoogleGenAI, GenerateContentResponse } from "@google/genai";
 import { GEMINI_MODEL_NAME } from '../constants';
 import { PARSED_DICTIONARY_ENTRIES } from '../dictionaryData';
-import { DICTIONARY1_ENTRIES } from '../dictionary1.txt';
-import { DICTIONARY2_ENTRIES } from '../dictionary2.txt';
-import { TRANSLATIONS1_ENTRIES } from '../translations1.txt';
-import { TRANSLATIONS2_ENTRIES } from '../translations2.txt';
 import { 
     CRIMEAN_TATAR_RO_ALPHABET_PRONUNCIATION_GUIDE, 
     CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO, 
