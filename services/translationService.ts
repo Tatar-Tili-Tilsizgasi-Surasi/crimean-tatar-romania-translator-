@@ -54,7 +54,7 @@ Before Transliteration from SCT it's better to look up in the sources, may there
 When "Crimean Tatar (Romania)" is the target language, it is CRUCIAL that your translation STRICTLY adheres to its specific orthography, grammar, and lexical choices as detailed in the provided documents (Elifbe, Orthography, SCT-DT Summary, Grammar, Examples).
 Authentic Crimean Tatar (Romania) as spoken in Dobruja DOES NOT USE the letters 'ü', 'ö', 'c' (for the /dʒ/ sound), or typically 'ç' (for the /tʃ/ sound, which is usually 'ş'). The character 'â' is also NOT part of the Dobrujan Tatar alphabet (though 'á' is).
 Instead, use their correct equivalents: 'ü' -> 'ú', 'ö' -> 'ó', 'c' -> 'ğ', 'ç' -> 'ş'. Correct any instances of 'â' based on context, likely to 'a' or 'á', or re-evaluate word choice if it's an incorrect borrowing.
-AVOID Standard Crimean Tatar forms unless they are explicitly identical to Crimean Tatar (Romania) forms. The goal is authentic Crimean Tatar (Romania).
+AVOID Standard Crimean Tatar forms unless they are explicitly identical to Crimean Tatar (Romania) forms. The goal is literary Crimean Tatar (Romania).
 `;
     }
   }
