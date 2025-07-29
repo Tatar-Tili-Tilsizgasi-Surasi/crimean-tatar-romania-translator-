@@ -40,262 +40,71 @@ Búkreşt Darúlfúnunuñ Eğnebiy Tíller we Edebiyatlar Ihtiyariyesíñ tóret
 Tomrîğa (Scythia Minor) Kîrîm Tatarşasîñ elifbesí
 kazakşa-limba română
 
-Hárf
+Hárf | Atî |Okîlmasî
 
-Atî
+A, a | a | - sózníñ heryerínde makbul, awuzartî, erínsíz, geñíş okîlgan bír sozîkawazdîr (at, ana, kalmak, tatarlar, ramazan, bayram, kazakşa)
 
-Okîlmasî
+Á, á | á |- sózníñ heryerínde makbul, awuzaldî, erínsíz, geñíş okîlgan bír sozîkawazdîr. Tellafuzî úş tarzda: 1. bazî sózlerde temíz awuzaldî okîlîr (şáş, lále). 2. bazî sózlerde ya yokarda aşîklanganday, ya da ya gibí okîlîr (káát, Kázim, Kániye). 3. bazîlarî yarîmawuzaldî okîlîr (árúw, ádet, sáát, mápís). Koşak hárfler aá man áa ekí awaz ímlemez, koşaknîñ bírínğí hárfí okîlîp ses uyumî koşaknîñ ekínğí hárfíne kóre uydurulağagîn añlamîn taşîr. Mesela, kaár (kaygî) sózí tîpkî kar sózíndiy okîlîr amma ekí sózníñ şîgîş kelíşí ayîrîdîr, kaárden men kardan.
 
-A, a
+B, b | be |- sózníñ soñînda kayriymakbul, kapalî, ótken, koşakerínlí okîlgan bír tartîkawazdîr (babay, bel, bílmek, búber, kurban, bayram).
 
-a
+Ç, ç | çe |- sózníñ heryerínde makbul, yarîkapalî, ótmegen, tañlayaldî okîlgan bír tartîkawazdîr (íşçí, çetin, kardaşça). Ğalpak kîrîm tatarşasînda ç awaznîñ yeríne kóbísí ş awazî kullanîlîr. Mesela túrúkşeníñ çanak man çengel sózlerí kîrîm tatarşasînda şanak man şengel píşímín alîr.
 
-- sózníñ heryerínde makbul, awuzartî, erínsíz, geñíş okîlgan bír sozîkawazdîr (at, ana, kalmak, tatarlar, ramazan, bayram, kazakşa)
+D, d | de | - ald man dad sózlerníñ tîşînda sózníñ soñînda kayriymakbul, kapalî, ótken, tíşten okîlgan bír tartîkawazdîr (ders, dargîn, dak, kóydeş, dúlber, kîdîrlez).
 
-Á, á
+E, e | e |- sózníñ heryerínde makbul, awuzaldî, erínsíz, geñíş okîlgan bír sozîkawazdîr (men, nene, sene, kelmek , teneke).
 
-á
+F, f |fe/pe |- arapşa man ağemğeden kelmeşíktír. 1. muwallímatşa tellafuzunda, sózníñ heryerínde makbul, kîsîk, ótmegen, tíşten-erínden okîlgan bír tartîkawazdîr (fayda, laf, afet, figel). 2. ğalpak tatarşasîñ tellafuzunda, f yeríne p okîlîr (fayda sózí payda okîlîr, laf sózí lap okîlîr, afet sózí apet okîlîr, figel sózí pigel okîlîr).
 
-- sózníñ heryerínde makbul, awuzaldî, erínsíz, geñíş okîlgan bír sozîkawazdîr. Tellafuzî úş tarzda:
+G, g | ge | - tabîlgan eğíkníñ sozîkawazîna kóre okîlîr: 1. awuzaldî e, i sozîkawazlarnîñ eğíklerínde tabîlganda ya da y yarîtartîkawaznîñ aldînda tabîlganda, ğîmşak ge atîn taşîp kapalî, ótken, tañlaydan okîlgan bír tartîkawazdîr (şíñgen, gezmek, gizem, nergis, gyúm). 2. awuzaldî á, í, ó, ú sozîkawazlarnîñ eğíklerínde tabîlganda, kattî ge atîn taşîp kapalî, ótken, tílşíkten okîlgan bír tartîkawazdîr (gázáta, tegíz, gómelek, gúl, sózlígí). 3. awuzartî a, î, o, u sozîkawazlarnîñ eğíklerínde tabîlganda, kas-kattî ge atîn taşîp kîsîk, ótken, kekírdekbaşî okîlgan bír tartîkawazdîr, tîpkî arapşanîñ gayîn غ hárfíndiy (agaş, kagîşma, moñgol, daragurt). Sózníñ soñînda kayriymakbul bír tartîkawazdîr.
 
-1. bazî sózlerde temíz awuzaldî okîlîr (şáş, lále).
+Ğ, ğ | ğe |- sózníñ soñînda kayriymakbul, yarîkapalî, ótken, tañlayaldî okîlgan bír tartîkawazdîr (tatarğa, ağem, ağun, ğúrek, ğamí). Kîrîm tatarşasîñ Ğ, ğ hárfí túrúkşeníñ C, c hárfníñ koşagîdîr, túrúkşeníñ okîlmagan "yumuşak g" ğ hárfí men karîştîrmamalîdîr.
 
-2. bazî sózlerde ya yokarda aşîklanganday, ya da ya gibí okîlîr (káát, Kázim, Kániye).
+H, h |he |- arapşa man ağemğeden kelmeşík bír hárf bolganîna, ekí túrlí kullanîlîr: 1. muwallímatşa tellafuzunda, kas-kattî he atîn taşîp sózníñ heryerínde makbul, kîsîk, ótmegen, kekírdekbaşî okîlgan bír tartîkawazdîr, tîpkî arapşa man farsşada (hafta, his, tarih). 2. ğalpak kîrîm tatarşasîñ tellafuzunda okîlmaz. Bazîlarî, başka altay tíllerínde h awazlî tellafuzlî sózler, mesela túrúkşeníñ hasta, halk, yahşî sózlerí, kîrîm tatarşada k awazlîdîr, kasta, kalk, yakşî şekílínde.
 
-3. bazîlarî yarîmawuzaldî okîlîr (árúw, ádet, sáát, mápís).
+I, i |i |- sózníñ soñînda kayriymakbul, awuzaldî, erínsíz, tar okîlgan bír sozîkawazdîr (it, insan, biñ).
 
-Koşak hárfler aá man áa ekí awaz ímlemez, koşaknîñ bírínğí hárfí okîlîp ses uyumî koşaknîñ ekínğí hárfíne kóre uydurulağagîn añlamîn taşîr. Mesela, kaár (kaygî) sózí tîpkî kar sózíndiy okîlîr amma ekí sózníñ şîgîş kelíşí ayîrîdîr, kaárden men kardan.
+Í, í |í |- sózníñ heryerínde makbul, kîrîm tatarşaga mensup, i men î arasînda, awuzaldî, erínsíz, tar okîlgan bír sozîkawazdîr (íş , kírpí, bílmek, tíl, ğamí, sózlík).
 
-B, b
+Î, î | î |- sózníñ heryerínde makbul, awuzartî, erínsíz, tar okîlgan bír sozîkawazdîr (îşan, sîzîklî, tîpîrtî, bîzîk, kîrîm).
 
-be
+J, j |je |- sózníñ heryerínde makbul, kîsîk, ótken, tañlayaldî okîlgan bír tartîkawazdîr (jagun, borj, taj, láj, mújde).
 
-- sózníñ soñînda kayriymakbul, kapalî, ótken, koşakerínlí okîlgan bír tartîkawazdîr (babay, bel, bílmek, búber, kurban, bayram).
+K, k | ke |- tabîlgan eğíkníñ sozîkawazîna kóre okîlîr: 1. awuzaldî e, i sozîkawazlarnîñ eğíklerínde ya da y yarîtartîkawaznîñ aldînda tabîlganda, ğîmşak ke atîn taşîp kapalî, ótmegen, tañlaydan okîlgan bír tartîkawazdîr (ker, kelmek, kitap, erkin, kyor). 2. awuzaldî á, í, ó, ú sozîkawazlarnîñ eğíklerínde tabîlganda, kattî ke atîn taşîp kapalî, ótmegen, tílşíkten okîlgan bír tartîkawazdîr (kámil, kírpík, kók, túk). 3. awuzartî a, î, o, u sozîkawazlarnîñ eğíklerínde tabîlganda, kas-kattî ke atîn taşîp kapalî, ótmegen, kekírdekbaşî okîlgan bír tartîkawazdîr, tîpkî arapşanîñ kaf ق hárfíndiy (kîrîm , kîdîrlez, sakal, koraz, kuyruk, kurban, kazak, kurultay). Sózníñ heryerínde makbul bír tartîkawazdîr. Búgún Kîrîmda kullanîlgan elifbede kas-kattî ke awazî úşún Q, q hárfí kullanîlîr.
 
-Ç, ç
+L, l | le |- tabîlgan eğíkníñ sozîkawazîna kóre ya aldîndakî eğíkníñ sozîkawazîna kóre okîlîr: 1. ğîmşak le atîn taşîp tílkanatî, yuwaktan okîlgan ğîmşak bír tartîkawazdîr: a) awuzaldî á, e, i, í, ó, ú sozîkawazlarnîñ eğíklerínde tabîlganda (lále, sílmek, bólmek, kúlúş, sózlíkler). b) awuzartî sozîkawazlarnîñ eğíklerínde tabîlîp aldîndakî eğík awuzaldî sozîkawazlî bolsa (bela, fanila, illa, súlale, tellafuz). 2. hem ózí tabîlgan eğík hem aldîndakî eğík awuzartî a, î, o, u sozîkawazlî bolsa, kattî le atîn taşîp tílkanatî, yuwaktan okîlgan kattî bír tartîkawazdîr (kalabalîk, akîl, loksa, kul, tatarlar, toplantî). Sózníñ heryerínde makbul bír tartîkawazdîr.
 
-çe
+M, m | me | - sózníñ heryerínde makbul, geñízden, koşakerínlí okîlgan bír tartîkawazdîr (maraz, memleket, limon, píşím, múren, kîtîm, músúlman, tatarman, ramazan, bayram, namaz, murat)
 
-- sózníñ heryerínde makbul, yarîkapalî, ótmegen, tañlayaldî okîlgan bír tartîkawazdîr (íşçí, çetin, kardaşça).
+N, n | ne | - sózníñ heryerínde makbul, geñízden, tíşten okîlgan bír tartîkawazdîr (nakîş, nane, níşan, kanun, şaganoz, tatarman, ramazan, namaz).
 
-Ğalpak kîrîm tatarşasînda ç awaznîñ yeríne kóbísí ş awazî kullanîlîr. Mesela túrúkşeníñ çanak man çengel sózlerí kîrîm tatarşasînda şanak man şengel píşímín alîr.
+Ñ, ñ | eñ |- sózníñ başînda kayriymakbul, kîrîm tatarşaga mensup, geñízden, kekírdekbaşî okîlgan bír tartîkawazdîr (mañlay, şoñgîr, soñ, ğeñmek).
 
-D, d
+O, o | o | - sózníñ heryerínde makbul, awuzartî, erínlí, geñíş okîlgan bír sozîkawazdîr (ortak, kol, toprak, moşak, palto, toplantî).
 
-de
+Ó, ó | ó | - kîrîm tatarşaga mensup, sózníñ soñînda kayriymakbul, o man túrúkşeníñ ö arasînda, awuzaldî, erínlí, geñíş okîlgan bír sozîkawazdîr (ógíz, órdek, kóz, tóle, sózlík).
 
-- ald man dad sózlerníñ tîşînda sózníñ soñînda kayriymakbul, kapalî, ótken, tíşten okîlgan bír tartîkawazdîr (ders, dargîn, dak, kóydeş, dúlber, kîdîrlez).
+P, p | pe | - sózníñ heryerínde makbul, kapalî, ótmegen, koşakerínlí okîlgan bír tartîkawazdîr (papîr, kepek, pepiy, pogaşa, túp, toplantî).
 
-E, e
+R, r |re | - sózníñ heryerínde makbul, tíríldewğí, tíşten okîlgan bír tartîkawazdîr (renk, tór, erík, makoron, dúrúst, kîrîm, tatarlîk, kurban, ramazan bayramî, murat).
 
-e
+S, s |se | - sózníñ heryerínde makbul, kîsîk, ótmegen, yuwaktan okîlgan bír tartîkawazdîr (sasîk, ses, eksík, sogan, sút, músúlman, sózlík).
 
-- sózníñ heryerínde makbul, awuzaldî, erínsíz, geñíş okîlgan bír sozîkawazdîr (men, nene, sene, kelmek , teneke).
+Ş, ş | şe | - sózníñ heryerínde makbul, kîsîk, ótmegen, tañlayaldî okîlgan bír tartîkawazdîr (tatarşa, şapa, beş, şeşmek, şómíş, kazakşa).
 
-F, f
+T, t | te | - sózníñ heryerínde makbul, kapalî, ótmegen, tíşten okîlgan bír tartîkawazdîr (tatar, tatlî, bet, torgay, tot, ústún, toplantî, murat).
 
-fe/pe
+U, u | u | - sózníñ soñînda kayriymakbul, awuzartî, erínlí, tar okîlgan bír sozîkawazdîr (urba, uğuz, buyuruk, suw, kurban, kurultay, murat).
 
-- arapşa man ağemğeden kelmeşíktír.
+Ú, ú | ú | - ekí tarzda okîlîr: 1. u man túrúkşeníñ ü arasînda, awuzaldî, erínlí, tar okîlîr (úşúnğí, úgúle, súrúw, túz, kúl, músúlman). 2. bazîlarî, y yarîtartîkawaznîñ katînda tabîlganda, taa awuzaldî, taa erínlí, túrúkşedekí ü gibí okîlîr (úy, úyeñ, súyúw, múyúz). Sózníñ soñînda kayriymakbuldur.
 
-1. muwallímatşa tellafuzunda, sózníñ heryerínde makbul, kîsîk, ótmegen, tíşten-erínden okîlgan bír tartîkawazdîr (fayda, laf, afet, figel).
+V, v | ve/we |- kelmeşíktír, ekí túrlí kullanîlîr: 1. muwallímat kîrîm tatarşasî tellafuzunda, sózníñ soñînda kayriymakbul, kîsîk, ótken, tíşten-erínden okîlgan bír tartîkawazdîr (vuğut, vazife, enver, vakîf). 2. ğalpak kîrîm tatarşasîñ tellafuzunda, v yeríne w okîlîr (vuğut sózí wuğut okîlîr, vazife sózí wazipe okîlîr, enver sózí enwer okîlîr, vakîf sózí wakîp okîlîr).
 
-2. ğalpak tatarşasîñ tellafuzunda, f yeríne p okîlîr (fayda sózí payda okîlîr, laf sózí lap okîlîr, afet sózí apet okîlîr, figel sózí pigel okîlîr).
+W, w | we | - sózníñ heryerínde makbul, koşakerínlí okîlgan bír yarîtartîkawazdîr (wuruw, saw, mawî, ğewez).
 
-G, g
+Y, y | ye | - sózníñ heryerínde makbul, tañlayaldî okîlgan bír yarîtartîkawazdîr (yalan, kîyîş, tay, neniy, ógíy, bayram, kurultay).
 
-ge
-
-- tabîlgan eğíkníñ sozîkawazîna kóre okîlîr:
-
-1. awuzaldî e, i sozîkawazlarnîñ eğíklerínde tabîlganda ya da y yarîtartîkawaznîñ aldînda tabîlganda, ğîmşak ge atîn taşîp kapalî, ótken, tañlaydan okîlgan bír tartîkawazdîr (şíñgen, gezmek, gizem, nergis, gyúm).
-
-2. awuzaldî á, í, ó, ú sozîkawazlarnîñ eğíklerínde tabîlganda, kattî ge atîn taşîp kapalî, ótken, tílşíkten okîlgan bír tartîkawazdîr (gázáta, tegíz, gómelek, gúl, sózlígí).
-
-3. awuzartî a, î, o, u sozîkawazlarnîñ eğíklerínde tabîlganda, kas-kattî ge atîn taşîp kîsîk, ótken, kekírdekbaşî okîlgan bír tartîkawazdîr, tîpkî arapşanîñ gayîn غ hárfíndiy (agaş, kagîşma, moñgol, daragurt).
-
-Sózníñ soñînda kayriymakbul bír tartîkawazdîr.
-
-Ğ, ğ
-
-ğe
-
-- sózníñ soñînda kayriymakbul, yarîkapalî, ótken, tañlayaldî okîlgan bír tartîkawazdîr (tatarğa, ağem, ağun, ğúrek, ğamí).
-
-Kîrîm tatarşasîñ Ğ, ğ hárfí túrúkşeníñ C, c hárfníñ koşagîdîr, túrúkşeníñ okîlmagan "yumuşak g" ğ hárfí men karîştîrmamalîdîr.
-
-H, h
-
-he
-
-- arapşa man ağemğeden kelmeşík bír hárf bolganîna, ekí túrlí kullanîlîr:
-
-1. muwallímatşa tellafuzunda, kas-kattî he atîn taşîp sózníñ heryerínde makbul, kîsîk, ótmegen, kekírdekbaşî okîlgan bír tartîkawazdîr, tîpkî arapşa man farsşada (hafta, his, tarih).
-
-2. ğalpak kîrîm tatarşasîñ tellafuzunda okîlmaz.
-
-Bazîlarî, başka altay tíllerínde h awazlî tellafuzlî sózler, mesela túrúkşeníñ hasta, halk, yahşî sózlerí, kîrîm tatarşada k awazlîdîr, kasta, kalk, yakşî şekílínde.
-
-I, i
-
-i
-
-- sózníñ soñînda kayriymakbul, awuzaldî, erínsíz, tar okîlgan bír sozîkawazdîr (it, insan, biñ).
-
-Í, í
-
-í
-
-- sózníñ heryerínde makbul, kîrîm tatarşaga mensup, i men î arasînda, awuzaldî, erínsíz, tar okîlgan bír sozîkawazdîr (íş , kírpí, bílmek, tíl, ğamí, sózlík).
-
-Î, î
-
-î
-
-- sózníñ heryerínde makbul, awuzartî, erínsíz, tar okîlgan bír sozîkawazdîr (îşan, sîzîklî, tîpîrtî, bîzîk, kîrîm).
-
-J, j
-
-je
-
-- sózníñ heryerínde makbul, kîsîk, ótken, tañlayaldî okîlgan bír tartîkawazdîr (jagun, borj, taj, láj, mújde).
-
-K, k
-
-ke
-
-- tabîlgan eğíkníñ sozîkawazîna kóre okîlîr:
-
-1. awuzaldî e, i sozîkawazlarnîñ eğíklerínde ya da y yarîtartîkawaznîñ aldînda tabîlganda, ğîmşak ke atîn taşîp kapalî, ótmegen, tañlaydan okîlgan bír tartîkawazdîr (ker, kelmek, kitap, erkin, kyor).
-
-2. awuzaldî á, í, ó, ú sozîkawazlarnîñ eğíklerínde tabîlganda, kattî ke atîn taşîp kapalî, ótmegen, tílşíkten okîlgan bír tartîkawazdîr (kámil, kírpík, kók, túk).
-
-3. awuzartî a, î, o, u sozîkawazlarnîñ eğíklerínde tabîlganda, kas-kattî ke atîn taşîp kapalî, ótmegen, kekírdekbaşî okîlgan bír tartîkawazdîr, tîpkî arapşanîñ kaf ق hárfíndiy (kîrîm , kîdîrlez, sakal, koraz, kuyruk, kurban, kazak, kurultay).
-
-Sózníñ heryerínde makbul bír tartîkawazdîr.
-
-Búgún Kîrîmda kullanîlgan elifbede kas-kattî ke awazî úşún Q, q hárfí kullanîlîr.
-
-L, l
-
-le
-
-- tabîlgan eğíkníñ sozîkawazîna kóre ya aldîndakî eğíkníñ sozîkawazîna kóre okîlîr:
-
-1. ğîmşak le atîn taşîp tílkanatî, yuwaktan okîlgan ğîmşak bír tartîkawazdîr:
-
-a) awuzaldî á, e, i, í, ó, ú sozîkawazlarnîñ eğíklerínde tabîlganda (lále, sílmek, bólmek, kúlúş, sózlíkler).
-
-b) awuzartî sozîkawazlarnîñ eğíklerínde tabîlîp aldîndakî eğík awuzaldî sozîkawazlî bolsa (bela, fanila, illa, súlale, tellafuz).
-
-2. hem ózí tabîlgan eğík hem aldîndakî eğík awuzartî a, î, o, u sozîkawazlî bolsa, kattî le atîn taşîp tílkanatî, yuwaktan okîlgan kattî bír tartîkawazdîr (kalabalîk, akîl, loksa, kul, tatarlar, toplantî).
-
-Sózníñ heryerínde makbul bír tartîkawazdîr.
-
-M, m
-
-me
-
-- sózníñ heryerínde makbul, geñízden, koşakerínlí okîlgan bír tartîkawazdîr (maraz, memleket, limon, píşím, múren, kîtîm, músúlman, tatarman, ramazan, bayram, namaz, murat)
-
-N, n
-
-ne
-
-- sózníñ heryerínde makbul, geñízden, tíşten okîlgan bír tartîkawazdîr (nakîş, nane, níşan, kanun, şaganoz, tatarman, ramazan, namaz).
-
-Ñ, ñ
-
-eñ
-
-- sózníñ başînda kayriymakbul, kîrîm tatarşaga mensup, geñízden, kekírdekbaşî okîlgan bír tartîkawazdîr (mañlay, şoñgîr, soñ, ğeñmek).
-
-O, o
-
-o
-
-- sózníñ heryerínde makbul, awuzartî, erínlí, geñíş okîlgan bír sozîkawazdîr (ortak, kol, toprak, moşak, palto, toplantî).
-
-Ó, ó
-
-ó
-
-- kîrîm tatarşaga mensup, sózníñ soñînda kayriymakbul, o man túrúkşeníñ ö arasînda, awuzaldî, erínlí, geñíş okîlgan bír sozîkawazdîr (ógíz, órdek, kóz, tóle, sózlík).
-
-P, p
-
-pe
-
-- sózníñ heryerínde makbul, kapalî, ótmegen, koşakerínlí okîlgan bír tartîkawazdîr (papîr, kepek, pepiy, pogaşa, túp, toplantî).
-
-R, r
-
-re
-
-- sózníñ heryerínde makbul, tíríldewğí, tíşten okîlgan bír tartîkawazdîr (renk, tór, erík, makoron, dúrúst, kîrîm, tatarlîk, kurban, ramazan bayramî, murat).
-
-S, s
-
-se
-
-- sózníñ heryerínde makbul, kîsîk, ótmegen, yuwaktan okîlgan bír tartîkawazdîr (sasîk, ses, eksík, sogan, sút, músúlman, sózlík).
-
-Ş, ş
-
-şe
-
-- sózníñ heryerínde makbul, kîsîk, ótmegen, tañlayaldî okîlgan bír tartîkawazdîr (tatarşa, şapa, beş, şeşmek, şómíş, kazakşa).
-
-T, t
-
-te
-
-- sózníñ heryerínde makbul, kapalî, ótmegen, tíşten okîlgan bír tartîkawazdîr (tatar, tatlî, bet, torgay, tot, ústún, toplantî, murat).
-
-U, u
-
-u
-
-- sózníñ soñînda kayriymakbul, awuzartî, erínlí, tar okîlgan bír sozîkawazdîr (urba, uğuz, buyuruk, suw, kurban, kurultay, murat).
-
-Ú, ú
-
-ú
-
-- ekí tarzda okîlîr:
-1. u man túrúkşeníñ ü arasînda, awuzaldî, erínlí, tar okîlîr (úşúnğí, úgúle, súrúw, túz, kúl, músúlman).
-
-2. bazîlarî, y yarîtartîkawaznîñ katînda tabîlganda, taa awuzaldî, taa erínlí, túrúkşedekí ü gibí okîlîr (úy, úyeñ, súyúw, múyúz).
-
-Sózníñ soñînda kayriymakbuldur.
-
-V, v
-
-ve/we
-
-- kelmeşíktír, ekí túrlí kullanîlîr:
-
-1. muwallímat kîrîm tatarşasî tellafuzunda, sózníñ soñînda kayriymakbul, kîsîk, ótken, tíşten-erínden okîlgan bír tartîkawazdîr (vuğut, vazife, enver, vakîf).
-
-2. ğalpak kîrîm tatarşasîñ tellafuzunda, v yeríne w okîlîr (vuğut sózí wuğut okîlîr, vazife sózí wazipe okîlîr, enver sózí enwer okîlîr, vakîf sózí wakîp okîlîr).
-
-W, w
-
-we
-
-- sózníñ heryerínde makbul, koşakerínlí okîlgan bír yarîtartîkawazdîr (wuruw, saw, mawî, ğewez).
-
-Y, y
-
-ye
-
-- sózníñ heryerínde makbul, tañlayaldî okîlgan bír yarîtartîkawazdîr (yalan, kîyîş, tay, neniy, ógíy, bayram, kurultay).
-
-Z, z
-
-ze
-
-- sózníñ heryerínde makbul, kîsîk, ótken, yuwaktan okîlgan bír tartîkawazdîr (zararsîz, zelzele, toz, zírkír, ziyan, kîdîrlez, ramazan, kazakşa,  sózlík, namaz).
+Z, z | ze | - sózníñ heryerínde makbul, kîsîk, ótken, yuwaktan okîlgan bír tartîkawazdîr (zararsîz, zelzele, toz, zírkír, ziyan, kîdîrlez, ramazan, kazakşa,  sózlík, namaz).
 `;
 
 export const CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO = `
