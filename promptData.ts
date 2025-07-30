@@ -568,6 +568,9 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - imposibil; irealizabil; nefezabil - namúmkin
 - empiric - teğrúbiy
 - Nauru - Nawuruw
+- mijloc de transport - vesayit-í nakliye
+- descotorosit - yakasînkutargan
+- rea-credinţă; rea-voinţă - yamankaálplík
 - nu am nicio relaţie cu el - mením o man heşbír alîp-bereğegím yok
 
 - English: burning a paper plate - towards a new art; Romanian: arderea unei farfurii de carton - către o nouă artă; Crimean Tatar (RO): bír káát tabaknîñ ğakmasî - ğañî bír sanatka dogrî
