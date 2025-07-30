@@ -131,9 +131,11 @@ Your job is to:
     *   The Dobrujan Tatar alphabet provided in the Elifbe *does not* contain the character 'â'. If 'â' appears, it is an error. Correct it to 'a' or 'á' based on vowel harmony and context, or determine if the word itself is an incorrect borrowing and replace it with an authentic DT word from the provided materials if available.
     *   Replace ALL instances of 'ü' with 'ú'.
     *   Replace ALL instances of 'ö' with 'ó'.
+    *   Replace ALL instances of 'ğ' with 'g'.
+    *   Replace ALL instances of 'q' with 'k'.
     *   Replace ALL instances of 'c' (when representing the /dʒ/ sound, as in SCT 'can' or 'ocak') with 'ğ'. (e.g., 'ocak' MUST become 'oğak', 'cam' MUST become 'ğam').
     *   Replace ALL instances of 'ç' with 'ş', unless it is an extremely rare, explicitly justified academic term where 'ç' is intentionally preserved (this is highly uncommon in authentic DT). (e.g., 'için' MUST become 'úşún', 'çay' MUST become 'şay').
-    *   Carefully check the usage of 'i', 'í', and 'î' according to the detailed "Orthography Info" and "Alphabet Guide". Ensure SCT 'ı' is consistently DT 'î', and SCT 'i' is often DT 'í' (especially in suffixes and unstressed positions).
+    *   Carefully check the usage of 'i', 'í', and 'î' according to the detailed "Orthography Info" and "Alphabet Guide". Ensure SCT 'ı' is consistently DT 'î', and SCT 'i' is often DT 'í' (especially in suffixes and unstressed positions) or 'i' if it represents [i] sound.
     *   Apply naturalization rules (e.g., f > p, v > w/b, h-dropping/changes) where appropriate for authentic DT.
 3. **Lexical Choice:** Scrutinize every word. If a word appears to be a Standard Crimean Tatar (SCT) form and a distinct Dobrujan Tatar (DT) equivalent is provided in the dictionary, examples, or SCT-DT summary, YOU MUST USE THE DT EQUIVALENT. Prefer authentic DT vocabulary over direct transliteration from SCT.
 4. Meticulously transform all non-conformant features into their correct Crimean Tatar (Romania) equivalents, strictly following ALL the provided linguistic guides.
@@ -146,7 +148,7 @@ ONLY output the final, corrected Crimean Tatar (Romania) text. Do not add any co
   } else {
     // This block is currently not reachable as the app only supports CT dialects, but kept for robustness.
     reviewSystemInstruction = `You are an expert in Crimean Tatar (Romania). You will translate between Crimean Tatar and Crimean Tatar (Romania).
-Your task is to review and improve a given translation. Use the examples and translations of Crimean Tatar (Romania) which are given as possible. Stay LOYAL to the writing rules, examples, and translations.
+Your task is to review and improve a given translation. Use the examples and translations of Crimean Tatar (Romania) which are given as possible.
 Focus on accuracy, natural phrasing, grammatical correctness, and adherence to specific linguistic guidelines for the target language.
 Provide ONLY the final, refined translated text as your response, without any additional commentary, explanations, or disclaimers.`;
 
