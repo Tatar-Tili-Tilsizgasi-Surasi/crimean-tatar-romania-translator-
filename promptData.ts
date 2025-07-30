@@ -248,6 +248,751 @@ IV. General Tendencies:
 - Preference for Kipchak-type features: The -tI/-dI accusative, the comitative with "men", some lexical choices, and potentially some phonetic shifts point towards a stronger Kipchak influence or preservation of older Kipchak features compared to SCT (which has Oguz influences).
 - Naturalization of Loans: Strong tendency to adapt loans phonetically (F->P, V->W) and sometimes replace them with established Turkic/regional words.
 --- End of Summary of Key Differences ---
+Examples:
+
+Bo kitapnî Látinğeden Kîrîm Tatarğasîna ya da Kîrîm Tatarğasîndan Látinğege ósímlíkler álemínden yapîlgan terğúmelerní kolaylaştîrmak maksatî man yazdîm.  Geşen sene bastîrgan álem-í tayyarat kitabîñ hem bír tekmíllemesí, hem bír dewamîdîr.
+
+Şalîşmanîñ ekí bólímí bardîr. Bírínğí bólím Látinğe-Kîrîm Tatarğa sózlígí, 1080 başlîksózden ibarettír. Kîrîm Tatarğa-Látinğe sózlígí ekínğí bólímíne kelgende, bo kesím bíraz taa geñíş, íşínde 1433 başlîksóz tabîlîr.
+
+Kitapnî ázírlegende ósímlíkler úşún geşen kitabîmda kuşlar úşún de kullangan kóstergení uygun kórdím. Uzman şalîşmalarînda her ósímlík óz korantasîna otîrtîlganî úşún, bo sîralamanîñ kullanmasî nebatat konîsînda uzman bolmagan kíşílerge zorlîklar yaratîr. Onîştan elifbe sîralî bír memba kamuwga taa kolaylî bolîr dep túşúndúm.
+
+Ewelkí yazîlarîmda da yer algan kurallardan ayîrîlmadan, bo sefer "otî" sózín aldînda bolgan sózí men bírleştíríp yazdîm. Sóz mesela tóşekotî, buwmaotî, ayakotî, karlîgaşotî we sayire. Boga uşap "teregí" sózín de aldînda bolgan sózí men bírleştíríp yazdîm, sóz mesela peygamberteregí, akîlteregí, kíyíkteregí, barutteregí we sayire. "Şeşegí" sózíne de kelgende hep şolay-típ yazîldî, mesela şobanşeşegí, ğelşeşegí, kasîrşeşegí, sefaşeşegí we sayire. Ğañî, ayîrî bír añlam yaratkan ekí sózní de gene bírleştíríp yazdîm, mesela ğumurankulagî, karlîgaşkuyrugî, şobantorbasî, kírpítîrnagî we sayire.
+
+Ósímlíkleríñ túrlí-túrlí ózlíklerín de sîzîkşîk man ayîrdîm, mesela sarî-salkîm, dak-taşgúlí, tamgalî-kelínşekşeşegí, maşaklî-sabînotî we sayire. Látinğe-Kîrîm Tatarğa bólímínde ósímlíkleríñ Tatarğasî normal sîralî yazîldî, mesela sakallî-şañşeşegí, dolmalîk-búber, sîpîrga-ğawşanî, sarî-katîrtîrnagî we sayire. Kîrîm Tatarğa-Látinğe bólímíne kelgende sózlíkní aktarganlarîñ yardîmîna kelíp, sîralama ósímlíkleríñ ózlíkleríne kóre tuwul da temel añlamîna kóre yapîldî, mesela añdîzotî, búrşe-; kaşkîrbuwgan, sarî-; altînotî, taw-; peşmek, biyaz-şapkelí-; we sayire.
+
+Bír ósímlígíñ ekí ya da ekíden fazla atî bolganî turumlar da karşîmîzga şîgağaktîr. Bo turumlar başka tíllerde ósímlígíñ fazla atîndan bírísí "bírínğí at" dep ayîrîla. Men "bírínğí at" ayîrmasîn bízím Kîrîm Tatarğamîzda dogrî bolmaganîn fikirínde tabîlîp, ósímlígíñ bútún atlarîn bírdiy tutup, hepísín sîraladîm. Bo fazla atlarnî bírdiy tutkanîm da, Látinğe-Kîrîm Tatarğa kesímínde bír balaban orta nokta man • işaretlep, Kîrîm Tatarğa-Látinğe kesímínde de bír eşañlamlîk man ↔ işaretledím.
+
+Nebatat alanînda uzman bolmagan kíşílerge yardîmğîlîk umutî man, bo kitabîñ bazî yerlerínde mutlak tabîlağak mínlerínden saygîlî okuwğular mení bagîşlasînlar.
+
+Uyan Tatar, uyan keday!
+Uyan Tatar, uyan keday,
+
+Eskí defter hesap karay,
+Inanma ğat hesabîna, 
+Ózíñ bólíp, ózíñ topla!
+
+Uyan Tatar, borjîñ óde!
+Atañ eğel tóşegínde
+Aytîp brakkan edí saga
+Kol at endí, dúniyaga! 
+
+Uyan Tatar, íşní beğer!
+Kómílmegen ğenazeler
+Kabírstanîñ kapîsînda
+Beklep buktî, mewta-mewta. 
+
+Uyan Tatar, kalma ğatay,
+Tur ayakka, Kîrîm-Nogay,
+Altay tílíñ-medeniyet,
+Şatlak awazlarnî ğok et! 
+
+Uyan Tatar, sesíñ kóter,
+Ğîydîñ bogazîña, yeter!
+Seníñ hakkîñ bo memleket
+Ke Baysîñ sen, Tokîz Millet.
+          (Kóstenğe, 12 mayîs 2010)
+
+Kîrîm kaynay
+Karadeñíz şala mújde,
+Ğatma endí, kuwan sen de,
+Şîk mezardan, kór kartbabay!
+Kîrîm kaynay, Kîrîm kaynay… 
+
+Kayttî kalkîm memleketke
+Ses uyumî hoşka kete
+Uyan Tatar, tur Dokîzbay!
+Kîrîm kaynay, Kîrîm kaynay… 
+
+Bír mús kele esken ğelden
+Erkin sesler de deñízden
+Dúniyalar şaşîp karay
+Kîrîm kaynay, Kîrîm kaynay…
+
+Felek toldî ğúregíme
+Enver dewlet kîsmetíme
+Ónder Tatar tílím yaşay
+Úyken-Kíşke-Kîrîm kaynay…
+          (Kóstenğe, 14 oşak 2010)
+
+Bolsa eger 
+Bolsa eger atîñ Tatar
+Batîrsîñ sen, ğúregíñ bar
+Bílegíñe şoñgîr konar
+Omîzîña da melekler
+Atîñ Tatar bolsa eger.
+
+Bolsa eger atîñ Tatar
+Kózíñ temír, kolîñ iğbar
+Nazarîñdan kurşun kaytar
+Ólím saga tiymiy geşer
+Atîñ Tatar bolsa eger.
+
+Bolsa eger atîñ Tatar
+Baskan taşîñ yerden oynar
+Sîkkan taşîñ suwî şîgar
+Karşî tursun saga kímler
+Atîñ Tatar bolsa eger?
+
+Bolsa eger atîñ Tatar
+Altîn sózíñ şuwa atar
+Fikirleríñ awur tartar
+Seníñ gibílerí ender
+Atîñ Tatar bolsa eger.
+
+Bolsa eger atîñ Tatar
+Mayday hakkîñ ústke şîgar
+Óz tílíñdedír anaktar
+Mañlayîñda yazar zafer
+Atîñ Tatar bolsa eger.
+
+Bolsa eger atîñ Tatar
+Ğaralarîñ şifa tabar
+Tañrî saga kîsmet saklar
+Kókyúzúnde de Ulka-Yer
+Atîñ Tatar bolsa eger.
+
+Bolsa eger atîñ Tatar
+Emelíñní gúller basar
+Túşúñ şeşek-şeşek aşar
+Yuwalanîrlar búlbúller
+Atîñ Tatar bolsa eger. 
+         (Kóstenğe, 16 temmuz 2010) 
+
+Ne
+
+Ne tuwup nurlarga aşar edím kóz,
+Ne şúrúp toprakta bolîr edím toz.
+Ne ósíp baladan şîgar edím er,
+Ne ğemaát íşínde tabar edím ğer.
+Ne ilham, ne nefes, ne solîş, ne es,
+Ne awuz fikirge, ne eda, ne ses.
+
+Ne dogan uşurtup ğîgar edím kuş,
+Ne kírpík ğumganda yaşar edím túş.
+Ne ğuyruk kamîşlap boylar edím kîr,
+Ne kagîp penğíre ğîrlar edím ğîr.
+Ne tuygî, ne sewda, ne bízler, ne óz,
+Ne şiir-manzúme, ne lugat, ne sóz.
+
+Ne keríp ğayîmnî sogar edím aw,
+Ne keskín baltam man kerter edím taw.
+Ne zúlfiy şáşímde oynar edí ğel,
+Ne maga arkadaş baylar edí bel.
+Ne kuwat, ne kudret, ne ateş, ne kúl,
+Ne dostlîk, letafet, ne şeşek, ne gúl.
+
+Ne şumnî atlatîp kórer edím tañ,
+Ne bardan kaberlí kurar edím añ.
+Ne ğónden sapmadan ğúrer edím túz,
+Ne ílím, felsefe, añlar edím uz.
+Ne bílím, ne irfan, ne zaman, ne an,
+Ne edep, din-iman, ne namus, ne dan.
+
+Ne ólí ataga ğayar edím kol
+Ne tírí balaga aşar edím ğol.
+Ne karap pazardan alîr edím ğan
+Ne etím-tamîrîm suwlar edí kan.
+Ne zihin, ne zekáa, ne akîl, ne oy
+Ne kîsîm-akraba, ne tuwgan, ne soy.
+
+Ne bír boş şanakka mení karattîñ,
+Ne akîl bermeden masal añlattîñ.
+Ne korktîñ túşmege ateşke-suwga,
+Ne hergún ğem yettí balalî kazga.
+Ne raátlík, ne yukî, ne kúlúw, ne haz,
+Ne sefañ boldî kóp, ne kaygîñ da az.
+
+Kábege arkamda taşîsam gene,
+Men saga ódemem borjîmnî, nene!
+(10 aralîk 2010)
+
+Ádet túşúm
+
+Kele bere ótken, kuğurday túşúme,
+Bír eğnebiy katun, şegermíz bíz sewda,
+Mení ğandan súye, mení añlay-ala,
+Tabiyatî sabit, deñíşmiy túrlene.
+
+Ke o mení añlar, mením íşím, saydam
+Onîñ úşún tek, ay! heş bolmay mesele
+Onîñ úşún sáde, mañlayîmnî bíle
+Ğîlap suwutmaga ateşlensem-kîzsam.
+
+Esmer, sarî, kîzîl? Şáşín rengín bílmem
+Lákin atî ela, tatlî, ğîmşak, mahrem,
+Eskí dostlar atî, kayîplarga sîrdaş.
+
+Ekí kózí algan hewkellerden nazar,
+Sesí mesafelí, taşîr hilmiy, ğuwaş,
+Ólílerden kalgan, aziz awaz-ğîrlar.
+(Taner Murat'îñ kaytarmasînda, 2011)
+
+Síftí akşam
+
+- Kalgan edí bek şîpalak,
+Keñ terekler merak, kurnaz,
+Atîp terezege yaprak,
+Kelír edí yakîn, az-az.
+
+Mol koltîkta tutup mesken
+Yarî-ğalañ, kol tutuşa,
+Ğerde úrkeler hewesten
+Wak ayaklar, ğuka-ğuka. 
+
+- Bír kóz atsam, mum rengínde
+Kíşke bír nur, oynak, zerlek
+Dalgalana tebessúmde,
+Kókírekte – gúlde bóğek.
+
+- Inğe topîk man bílekler
+Óptím, kúldí ğîmşak, azgîn,
+Kesíp ğîltîr zengúleler
+Gúzel billúr kúlúşlerín.
+
+Ufak ayak kaşîp kete
+Kólek astî: "Pítír endí!"
+- Razî bolîp elk ğúretke
+Igí kúlúş ğeza berdí.
+
+Erínímde kaltîragan
+Sábiy kózín óbíp aldîm.
+- Başîn yawaş artka tartkan:
+"Endí fazla bo yapkanîñ!"
+
+"Bay, músaade, ekí lafka…"
+- Artkan óbúw kókírekke
+Atîlganda, kúlúp ala,
+Kúlúş ibraz heweslíkke.
+
+- Kalgan edí bek şîpalak,
+Keñ terekler merak, kurnaz,
+Atîp terezege yaprak,
+Kelír edí yakîn, az-az.
+(Taner Murat'îñ kaytarmasînda, 2011)
+
+
+Sewdalîlar ólímí
+Ğataklarîmîz ğeñgíl mús kokîr
+Mezarday deren tutarmîz divan
+Hoş sema astî tek bízge aşkan
+Kuğurlî şeşek keştemíz taşîr.
+
+Soñ sîğaklarîn ozîşîp alîr 
+Ğúreklerímíz, engin meşale
+Ruhlarîmîzga, egíz piyale
+Koşak ziyalar kuyulup kalîr.
+
+Mawî-pembelí akşam sîrînda
+Tek şagîmlaşîp óz aramîzda
+Dermíz elveda tartîp kókírek.
+
+Lekelí ayna, ólí ateşler
+Aralap kapî soñra tazeler
+Kúlúmsúregen sofî bír melek.
+(Taner Murat'îñ kaytarmasînda,  18 mart 2011)
+
+Elamet 
+Sílíñíz kózíñízní
+Kók yúzí aşîlayatîr
+Selamlañîz kúneşní
+Kara kúnler ketiyatîr. 
+
+Aşîñîz maktaw Kókke
+Tílegíñíz şîgayatîr
+Kaybîmîzdan kaberní
+Elametlí beriyatîr.
+
+Óbíñíz şógíp ğerní
+Ğer kîbîrdap toktayatîr
+Bataklîktan kalkîmîz
+Şabalanîp şîgayatîr. 
+
+Ílíñíz şít terekke
+Teregímíz oñayatîr
+Tîşawlangan îrgîmîz
+Saglam tamîr atayatîr. 
+
+Alîñîz dawul tozîn
+Hawa kulak salayatîr
+Dawul sesí sagînîp
+Ğel de esíp toktayatîr.
+
+Oynañîz tebe-tebe
+Omîrga túzeliyatîr
+Ewlatlarîmîz endí
+Kambîr sílkíp atayatîr. 
+
+Şalîñîz ğalpak-ğalpak
+Kantarmamîz kobayatîr
+Buwulgan bogazîmîz
+Ses-dawuş şîgarayatîr.
+ 
+Şîgîñîz taya-toña
+Awur hawa okîyatîr
+Kanundur eskí ádet
+Uyugan kan kîzayatîr. 
+
+Gezíñíz úyden-úyge
+Ayak emín basayatîr
+Şatañlamadan endí
+Topallar kîdîrayatîr.
+ 
+Kúlúñúz şarpîldatîp
+Kolîmîz şeşíliyatîr
+Şolaklîk kúnlerímíz
+Artta kalîp pítiyatîr.
+
+Karañîz ewlatlarga
+Tílí şîgîp tuwayatîr
+Ğeñgí koşîk ezberlep
+Karîndan kóz aşayatîr.
+
+Ğayîñîz ana tílín
+Tíl súyegí íríyatîr
+Kurup kalgan erínler
+Suwlanîp kîbîrdayatîr. 
+
+Míníñíz tóbelerge
+Ana ğónler bekliyatîr
+Sîrt, kún betí, kúnbatar
+Kol sallap şakîrayatîr.
+
+Karañîz uzaklarga
+Mezarlar ğîbîrdayatîr
+Atalar súyeklerí
+Tak-tok etíp kaytayatîr.
+
+Ázírleníñíz ğolga
+Ulusumuz turayatîr
+Topragîna kuwulgan
+Atlantîlar awayatîr.
+(Kókten sesler, I- ínğí bólím, Temúçinden - kîta)
+
+Kitap hakkînda
+Konîşma asarlar, susma basarlar!
+Kitap hakkînda
+Moñgol niuğa tobğawun ya da Moñgollîktan saklî aralar ulusnamesí mením kolîma túşkende men de, herkez gibí, Moñgol man Tatarlarnîñ tewúkesíne kelgende kabersíz edím, taa dogrîsî ánawuñ-mínawuñ tewúkeğísí uydurgan masallarîna kulak asîp tura edím.
+Moñgollîktan saklî aralar Óktay Hakaannîñ zamanînda, sîğawul senesí, Juliyan yîlsayîmî 1240-ta, Delígún Boltak man Şílgínğek arasînda, Kelúren Múreníñ Kódege Aralînda toplanîp tutulgan Úyken Kurultayînda, kartlarîñ añlatkanlarîndan şîgarîlîp yazîlgandîr.
+Bo ekí kabîñ arasînda  Moñgol man Tatar kardaşlarîmîzîñ tewúkesín deren şaklarîndan alîp Temúçiníñ balalîgî man ğaşlîk şagînaşîk, Temúçin húkúmetke kelgenşík añlatîlmaktadîr. Şahîslarîñ atlarîn we tewúkiy dogrîlîknî kîbîrdatmadan, bazî Orta Asiya memleketlerínde búgúngeşík dayangan eskí şaman ádetlerín de aktarîp ve bazî yerlerín Kodeks Kumanikustan koşîp kelíştírílgendír. Arkasî kîsmetke baglî...
+
+Bayrak kúní
+Yígírím-altîsî búgún, haziran,
+Minare-minare sús taktî, Bayrak.
+Semalar ap-aydîn, mawusî berrak,
+Kîrîm'dan dúnyaga okîla ezan.
+
+Ğaş kîzlar kózínde ğîltîray felek,
+Kîrîm'îñ-Kîrîm'îñ hawasî sîğak.
+Bír bala sallanîp ğelpíldiy Bayrak,
+Sîradan kún tuwul, búgún múbarek.
+
+Kórmedím bonday tañ, bonday bír şafak,
+Tatarlar-Tatarlar dórt ğónden aga.
+Búgúnní yaşattîñ, temenna saga,
+Kartlarîñ-ğaşlarîñ kolînda, Bayrak!
+
+Biñ yaşa Bayragîm, ela zenger hakk,
+Som altîn-som altîn tamgalî mañlay!
+Káyinat rengínden ayîrgan Kuday,
+Tom, dokîz bírleşken milletke Bayrak.
+(Kóstenğe, 26 haziran 2011)
+
+Ay ğîlar
+Neday rutubet
+Kurganîñ ústí, baárde.
+Ay ğîlar, ebet.
+
+Batîrîmîz Bekmambet yúz yaşînda
+Alí Osman kartbabay, batîrîmîz Bekmambet,
+Niyaziy kayday edí? - bízge de añlat, úyret.
+Bíz de sendiy yaşlanîp yúzúmúzge kelgende
+Sóz etermíz Alí'ní keleğek nesíllerge.
+
+Bar mî sízde?
+Bastîlar ğurt, tandîr, oşak,
+Ğaktîlar úy, yuwa, ğatak,
+Bízden ístep altîn-ğuman.
+Bar mî sízge ottay dúşman?
+
+Asîp bízní azbar-azbar
+Ğîktîlar kór, kabír, mezar.
+Bízge dogrî hukuk kerek,
+Bar mî sízde onday ğúrek?
+
+Bízní toplap haywan gibí
+Súrgún attîlar perşembí.
+Bo soy kurutmasî tuwul…
+Bar mî sízde tora makul?
+
+Bízden kîrslap mutabakat
+Yazdîlar yalanğî lugat.
+Bo mî eren, insaniyet?
+Bar mî sízde medeniyet?
+(10 ewlúl 2011, Kóstenğe)
+
+Ğana-ğîlana
+Ğana-ğîlana
+Kíşkenekíy boztorgay
+Ğazda kurganda.
+
+Ağî
+Men alîştîm saga ğoldaş
+Menden kopmaz parşa
+Makulumasîñ alaşa
+Ómíríme almaş.
+
+Bíz tom bolamîz arkadaş
+Sen ğetíştíñ aşan
+Esleríme zerlí derman
+Ádetíme sayaş.
+
+Yaptîk şayir óttírmesín
+Pak Tuna'nîñ kírletmesín
+Mañlay dertíñ tağî,
+
+Geştík mektep kapalmasîn
+Elifbeníñ taptalmasîn
+Kuşaklaşîp, Ağî.
+
+Ğerge toymagan
+Ğerge toymagan,
+Soy tamîrîn kurutkan
+Óttíríp ozan.
+
+Adañ-Kúlesí ğîlanlîgî
+Eskí ğîlanlîk Adañ-Kúlesí
+Ademiyetíñ bihakk menşesí
+Kan kusturuwğî Rum felsefesí
+Medeniyetíñ kara keşesí.
+
+Suniy kanara Adañ-Kúlesí
+Asude kalkîñ muhakemesí
+Kîyîşnî dogrî dep kóstermesí
+Ak man karanîñ deñíştírmesí.
+
+Lúlelí kírde Adañ-Kúlesí
+Insaniyetíñ wahşiyleşmesí
+Súrúp kírgenní boyalap eskí
+Ğet-beğetlerge súrgúnúñ dersí.
+
+Tuwerek kafes Adañ-Kúlesí
+Úyúmní baskan toprak hewesí
+Emlak kastasîñ kírlí elesí
+Yuwa taptagan yúz ifadesí.
+
+Ólí taşkerman Adañ-Kúlesí
+Karmalap eşken kollarîñ pesí
+Altîn saklagan kurganîñ esí
+Teğawuz geşken aksúyek sesí.
+
+Kadmiy kalawlîk Adañ-Kúlesí
+Búgún Tatarîñ hakk meselesí
+Nogay-Kîrîmîñ mukabelesí
+Beşeriyetíñ muwadelesí.
+
+Tílím zorlagan Adam-Klisesí
+Yalanğî ğúmle, yalanzadesí
+Uydurmalarîñ sokîr kóşesí
+Bótenğíleríñ ğîmşak ókşesí
+Tatarğa atî Adañ-Kúlesí
+Alien Tower-dîr terğúmesí.
+(18 egím 2010)
+
+Mením góñílím
+Mením góñílím túwerek, bír kurgan,
+Batîr mezarîday, Yes-çit, Mós-í Ğet, Peçenek ya Kuman.
+Ğarîk o man tokîş-almaz,
+Sîrlî kalîr, añlaşîlmaz.
+
+Kîrda kar ğawa
+Kîrda kar ğawa.
+Kuman úýúmşúklerí
+Karda pîsuwda.
+
+Ğîlayman
+Men ozanlar úşún ğîlayman
+Kalemíne óttírílgen
+Mañlay yazîsînda şaytan man,
+Dew, alğîgan kíşílerden.
+
+Men ğaş Neğip úşún ğîlayman
+Ğertólede şektírílgen
+Ódep ğanî man, hayatî man,
+Kaytmamasîn Emelínden.
+
+Men saga ğîlayman Ahmet Gewat, saga da Çelebíğihan,
+Saga Húseyin Ğavit, saga da Aliş Gabdullağan.
+
+Saga ğîlayman Mikayil Muşfik, saga Mîrza Sultan-Galiy,
+Saga Abdulhalik Uygur, saga da Hanefiy Zeyinalliy.
+
+Men saga ğîlayman Kázim Alekberliy, saga ğîlayman Kuluflî,
+Saga Aliy Sabriy, saga Hagibaba Nazarlî.
+
+Saga ğîlayman Emiryakup Dulatulî, saga Bekir Çobanzade,
+Tomrîğa'nîñ Kawlaklar'îndan saga ğîlayman Şefkiy Bektóre.
+
+Kóz ğumup
+Yem-yeşíl otlaklar ğiyren atlarîma
+Ter-temíz hawalar pak kanatlarîma.
+Anatíl mektepler merak ballarîma
+Tíyílmez mezarlar kart atalarîma.
+
+Hoş-sefa şeşekler temíz ğúregíme
+Hakktanîr ateşler ğîltîr kózleríme.
+Abat kasabalar zekiy milletíme
+Taptalmaz sînîrlar óz memleketíme.
+
+- Kóz ğumup, dostlarîm, peşmanlîk atayîk
+Keñ aşîp dayire kol beríp yaşayîk
+Bo mením tos-pembe túşúmní her dakka.
+
+Alaymîz, kardaşlar, hep bírden kóz ğumsak
+Kaldîrmamîz engel, kaldîrmamîz yasak,
+Túşúmúz de bolîr hakkikiy, mutlakka.
+
+Antika kurgan
+Antika kurgan.
+Tatarlîk tewúkesí
+Takîlday: tak-tok.
+
+Mahkúm mezarlar
+Mahkúm mezarlar.
+Sógíp taşîn kazaklar
+Hotel salalar.
+
+Men Numan'îñ bír parşasîman
+Korkîp ğellatlar batîr Numan Çelebíğihan'îñ mewtasîndan 
+onî parşalap deñízge atkan.
+Karadeñíz kîyîp-kîrmîzî bolgan.
+Suw-Anasî kelíp bútún kanlî parşalarnî bírer karzak yapkan.
+Karzaklar deñízíñ túbúne konîp zaman man bírer dúrdane yaratkan.
+Ğîltîrawuk dúrdanelerní balaban-balaban balîklar ğutup algan. 
+Balîklarnî Tatar balîkşîlarî tutkan.
+Mením kartbabam da bír balîkşî edí, o da şonday bír balîk tutup úyúne algan. 
+Balîknî temízlep píşíreğekte íşínden balk-balk bír dúrdane şîkkan. 
+Onî, úyúnde tabîlgan altînlarî man barabar yúpek bír ğawluguñ íşíne baylagan.
+Arabaga míníp kasabaga bargan. 
+Onda usta bír kuyumğuga yakşî bír taj yasatkan.
+Tajîñ malayîna ğîltîragan dúrdanení otîrtkan. 
+Tajnî bír sandîkka saklagan. 
+Kóp geşmeden delíkanlî babam anneme, kaytîp bír ğîyîndan:
+"Neniy, men dúlber bír kîzga wuruldum, ğanîm nenem, şonî maga ayttîrtsî" dep aytkan. 
+Kartanam kîznî ayttîrîp, nenem bolgan şo kîz "Baraman!" degen soñ, toyda oga tajnî takkan.
+Ondan soñra nenem mení tuwurgan.
+Men tuwganda tajîñ dúrdanesí íríp ant suwî bolgan.
+
+Men şo suwnî íştím antî man,
+Men Numan'îñ bír parşasîman.
+
+Men Túrúk tuwulman
+Men Túrúk tuwulman, arkadaş,
+Şatma maga kóz men kaş!
+Tatarman men, sónmez oşak
+Sakayit'ten atkan pîtak
+Kîrîm, Azer, Başkurt, Kazan
+Akbaş dep aytîlgan Kuman
+Malkar, Kazah, Karakalpak
+Memleketím Deşt-í Kîpçak.
+
+Men Túrúk tuwulman, arkadaş,
+Patlatma kóz, sílkme baş!
+Tatarman men, eskí terek
+Dogrî ğónní bergen tírek
+Aydînman men, kadmiy idrak
+Keleğekke ğangan şîrak
+Batîr soydan temír-ğúrek
+Tokîz ortaklaşkan yúpek.
+
+Men Túrúk tuwulman, arkadaş,
+Karama dawa-talaş!
+Tatarman, tokîmîm Alan
+Memleketím Ílúm-Kerman
+Atalarîm tufan ewel
+Tewúkege attî temel
+Bîzgîn amel takta attan
+Şîgîp úyúmúzní baskan.
+
+Men Tatar tuwulman, arkadaş,
+Ne bo korkîñ, bo telaş?
+Túrúkmen, soyîm múbarek
+Eskí Ğet'ten, Hun, Peçenek
+Kîrgîz, Túrkmen, Uygur, Nogay
+Nenem Yes-çit, Dak'tîr babay
+Ag-atîrîşman men, Ózbek
+Atilla'dan kut aksúyek.
+
+Men Túrúk tuwulman, arkadaş,
+Añlarsîñ yawaş-yawaş!
+Tatarman men, dokîz bayrak
+Tomrî karînîndan toprak
+Bay yarattî mení Mewla
+Tom-Riyis'ten tuwgan bala
+Ak tanîdî mení Kuday
+Tomiris'ten kopkan umay.
+(23 Kasîm 2010)
+
+Şîgalar awga
+Akşam kurgandan
+Míníp Kumanlar atka
+Şîgalar awga.
+
+Ófke
+Íşíme kóme-kóme ófkemní asîradîm
+Endí bellí bolmayğak yapkanîm, oñîm-solîm.
+Búgúngeşík ğîladîm affuwlar ete-ete
+Endí mení kîzgînlîk ğetíp-tutup ğónete.
+
+Atîma bóten atîp kîrsladîñîz ğurtumnî
+Endí bírşiy tîmdîrmaz íşímdekí kurtumnî. 
+Hakkîmnî karay-karay geştí ómír-ğaşlîklar
+Endí kabaátsíz wursam menden kettí gúnalar.
+
+Ófke hálíñden taymak, ófke ademge dúşman,
+Ófke şaytanîñ íşí, ófke maw tuygî, yaman.
+Ófke kuturgan delí, seslemeden bakîrmak,
+
+Akîlnîñ oynatmasî, ófke demek alğîmak.
+Ófkelí insan ateş salîp bír kóyní ğagar
+Ğerkúresí tarlîkta ofkelí bolsa Tatar.
+
+Sen bír yaprak
+Sen bír yaprak, men bír yaprak
+Kan tamgamîz ana toprak
+Ğúregímíz bír atîla
+Soyatîmîz bír okîla.
+
+Sen bír kolga, men bír kolga
+Ğata-tura aş karînga
+Kîtlîk-targa kele-kele
+Bogazîmîz, ah, túyúle.
+
+Sen bír terek, men bír terek
+Aramîzda geñíş ewlek
+Şîgarayîk awaz-seda
+Toymaz-tuymaz dúniyada.
+
+Sen bír orman, men bír orman
+Şewremízde suniy zindan
+Yalan şîksîn soñ hesapka
+Kolîn basîp kut kitapka.
+
+Sen bír ada, men bír ada
+Tabîşayîk yarî ğolda
+Kurutayîk delí selní
+Buwutayîk kurî şólní.
+
+Sen altîn tíl, men altîn tíl
+Kókten seslí ekí bílbíl
+Atamîzîñ topragînda
+Sen kafeste, men kirada.
+
+Kím atlatsîn kanun-yasa
+Kîrsîzlîknî sorgîlasa
+Ortaklaşîp bízím dokîz
+Kósterúwğí parmagîmîz?
+
+Kím bílmem dep sílksín omîz
+Bírden ótsek bíz ekewmíz
+Tewbet betten Uygur Şînğa,
+Tuna yaktan men, Tomrîğa.
+(6 haziran 2010)
+
+Síftí akşam
+- Kalgan edí bek şîpalak,
+Keñ terekler merak, kurnaz,
+Atîp terezege yaprak,
+Kelír edí yakîn, az-az.
+
+Mol koltîkta tutup mesken
+Yarî-ğalañ, kol tutuşa,
+Ğerde úrkeler hewesten
+Wak ayaklar, ğuka-ğuka. 
+
+- Bír kóz atsam, mum rengínde
+Kíşke bír nur, oynak, zerlek
+Dalgalana tebessúmde,
+Kókírekte – gúlde bóğek.
+
+- Inğe topîk man bílekler
+Óptím, kúldí ğîmşak, azgîn,
+Kesíp ğîltîr zengúleler
+Gúzel billúr kúlúşlerín.
+
+Ufak ayak kaşîp kete
+Kólek astî: "Pítír endí!"
+- Razî bolîp elk ğúretke
+Igí kúlúş ğeza berdí.
+
+Erínímde kaltîragan
+Sábiy kózín óbíp aldîm.
+- Başîn yawaş artka tartkan:
+"Endí fazla bo yapkanîñ!"
+
+"Bay, músaade, ekí lafka…"
+- Artkan óbúw kókírekke
+Atîlganda, kúlúp ala,
+Kúlúş ibraz heweslíkke.
+
+- Kalgan edí bek şîpalak,
+Keñ terekler merak, kurnaz,
+Atîp terezege yaprak,
+Kelír edí yakîn, az-az.
+
+Sanatşîlar ólímí
+Túşúk mañlayîñnî, gamlî şîraysîzlîk,
+Taa kaş kere óbíp şaldîrayîm şañnî?
+Isabetke alîp sîrlî tabiyatnî
+Atîp kaybetiyím taa kaş ok, ey, oklîk?
+
+Ğîgîp-ğagarmîz bíz awur kîrşawlîknî,
+Şalîştîrîrmîz ruh ğuka tasarîda,
+Ğennemdiy meraktan kózler yaşlanganda
+Siyír eteğekte azim şo Barlîknî.
+
+Kara-kuğur Bólím, tek bír umut tartar,
+Bazî kíşí, tapî, Tañrî tanîmadan,
+Bír de kókírekler, mañlay takîldatkan,
+
+Ímlí, bek sógílgen, nálet hewkeltraşlar.
+Ke yerleşíp ólím, ğañî kúneş gibí,
+Şeşek-şeşek atar onîñ míyíñ túbí.
+
+Ğanağîsîñ alkimiyasî
+Bírsíñ ateşínden aşîk-aydîn hikmet 
+Başkasîndan, Tuwa, kara kíysetmesí!
+Bírsíñ mañlayînda: Mezar Kitabesí!
+Başkasînda yazar: Sawluk, Yaşaw, Şewket!
+ 
+Sîrlî Hermes, boldîñ maga yardîm, omîz,
+Ey, sensíñ ğúregím sallatîp úrkútken,
+Ey, sensíñ Midas man mení bírdiy etken,
+Altîn sîrîn aşkan karíp, eñ ogîrsîz.
+
+Men altîndan temír yaparman sayeñde
+Ğennem de ğennetten ğanîm ístegende;
+Tabarman saklangan bír súyúmlí mewta
+
+Ufuktakî biyaz bulut kefenínde,
+Semalarîñ kîyuw, kenar ğagasîna
+Kurarman koş-koğa tabut, ortasîna.
+
+Ğewaplaşmalar
+Tuwa bír tapînak, tíreklerí tírí,
+Añlaşîlmaz sózler bazda-bír kaşîrgan.
+Yakîn kózín tígíp onî abaylagan
+Ímge tawlarîndan ótíp geşer kíşí.
+
+Uzaklardan melez uzun kaytawazlar
+Bír karañgî ğîyîn, deren toplantîga,
+Geñíş keşelerge, engin ğarîklarga
+Renk, kokîlar, sesler ğewaplaşîp turar.
+
+Bala etí gibí, bazî kokî taze,
+Mera gibí yeşíl, zurna gibí tatlî,
+- Bazî kokî maylî, zengín we şalîmlî,
+
+Soñsîzlîkka 
 `;
 
 export const CRIMEAN_TATAR_RO_EXAMPLES = `
