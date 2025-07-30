@@ -127,16 +127,6 @@ General Orthographic Principles:
 - USE MOSTLY LOANWORDS OF ARABIC OR PERSIAN ORIGIN AND SELF GENERATED WORDS BY DOBRUJAN TATARS (e.g. şagîlgan (electricity), agaştaósken (xylophile), adañdúniyalîk (transcendentalism), ğismaniyet (physics), felekiyat (astronomy), uzakkaberleşme (telecommunication) etc.)
 - Avoid loanwords from European languages, use native instead
 
-Loanwords:
-- Loanwords are mostly from Romanian, for example sociologie - soçiyoloğiya
-- Romanian -cie/-cia is -çiya in DT, social - soçiyal
-- Romanian -gie/-gia is -ğiya in DT, biologie - biyoloğiya
-- Romanian ţ is s in DT, ţar - sar
-- Romanian word end -ci is -ç in DT, trenci - trenç
-- Romanian word end -ă is -a in DT, fructoză - fruktoza
-- Romanian -gi/ge is -ği/ğe in DT
-- Romanian -ci/ce is -çi/çe in DT
-
 Literary Tatar:
 Tatar spoken in Romania has two distinct facets:
 1.  Authentic Tatar ("ğalpî Tatarğa" or "ğalpak Tatarğa"): The common spoken form.
