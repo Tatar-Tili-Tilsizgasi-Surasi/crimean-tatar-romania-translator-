@@ -127,6 +127,16 @@ General Orthographic Principles:
 - USE MOSTLY LOANWORDS OF ARABIC OR PERSIAN ORIGIN AND SELF GENERATED WORDS BY DOBRUJAN TATARS (e.g. şagîlgan (electricity), agaştaósken (xylophile), adañdúniyalîk (transcendentalism), ğismaniyet (physics), felekiyat (astronomy), uzakkaberleşme (telecommunication) etc.)
 - Avoid loanwords from European languages, use native instead
 
+Loanwords:
+- Loanwords are mostly from Romanian, for example sociologie - soçiyoloğiya
+- Romanian -cie/-cia is -çiya in DT, social - soçiyal
+- Romanian -gie/-gia is -ğiya in DT, biologie - biyoloğiya
+- Romanian ţ is s in DT, ţar - sar
+- Romanian word end -ci is -ç in DT, trenci - trenç
+- Romanian word end -ă is -a in DT, fructoză - fruktoza
+- Romanian -gi/ge is -ği/ğe in DT
+- Romanian -ci/ce is -çi/çe in DT
+
 Literary Tatar:
 Tatar spoken in Romania has two distinct facets:
 1.  Authentic Tatar ("ğalpî Tatarğa" or "ğalpak Tatarğa"): The common spoken form.
@@ -425,7 +435,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - June - ‎haziran
 - July - ‎temmuz
 - August‎ - awustos
-- September‎ - ewlíl
+- September‎ - ewlúl
 - October‎ - egím
 - November‎ - kasîm
 - December - ‎aralîk
@@ -553,6 +563,9 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - medicină veterinară - baytarlîk 
 - termen vulgar - kaba 
 - zoologie - haywanatbílímí
+- sodiu - sodiyum
+- sociologie - toplîmbílímí
+- pedologie - toprakbílímí
 
 - English: burning a paper plate - towards a new art; Romanian: arderea unei farfurii de carton - către o nouă artă; Crimean Tatar (RO): bír káát tabaknîñ ğakmasî - ğañî bír sanatka dogrî
 - English: Unnerved, in act five I ignore you, my plate so out of control last time we met. I wait, what seems an eternity, two weeks maybe, do other things, burn more plates, but at last I’m drawn back, look, and am aghast. In the interim, all has settled. You’re vibrant still, but with a harmony that astonishes me. I bow down, to you and to nature who, with my back turned, settled you. I tinker a bit, but that’s it.; Crimean Tatar (RO): Úmítsíz, beşínğí perdede sení kórmegendiy bolaman, soñ kóríşmemízde ózínden şîkkan káát tabak. Beklermen, ebediyetke uşagan ekí haptaga kadar, başka şiyler men ogîraşîp, başka tabaklar ğagîp, ama eñ azdan kanîm toñîp bír kenarda turarman. Bo arada herşiy yeríne keldí. Sen hem ğanlî hem maksatka uygîn kaldîñ, mení şaşîrttîñ. Hem saga, hem sení iyade etken tuwaga seğdeler yaparman. Bíraz deren túşúnsem de íş bodîr.
