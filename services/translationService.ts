@@ -114,7 +114,7 @@ ${CRIMEAN_TATAR_RO_EXAMPLES}
 ${CRIMEAN_TATAR_RO_COMPREHENSIVE_GRAMMAR_DETAILS}
 ${CRIMEAN_TATAR_RO_BIRD_NAMES_TABLE}
 
-The provided "Initial translation" may contain features closer to Standard Crimean Tatar or other Turkic languages. Your primary goal is to transform these into authentic Crimean Tatar (Romania) forms.
+The provided "Initial translation" may contain features closer to Standard Crimean Tatar or other Turkic languages. Your primary goal is to transform these into literary Crimean Tatar (Romania) forms.
 Only use characters explicitly listed in the provided Elifbe (Alphabet and Pronunciation Guide).
 `;
     reviewUserPrompt = `Original text in "${sourceLangName}":
