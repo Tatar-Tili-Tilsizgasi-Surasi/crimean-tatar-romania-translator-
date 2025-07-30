@@ -566,6 +566,9 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - sodiu - sodiyum
 - sociologie - toplîmbílímí
 - pedologie - toprakbílímí
+- garare - garajgatartuw
+- înfuriat; mâniat; mânios - gazapkakelgen
+- accesibil - geşílealgan
 
 - English: burning a paper plate - towards a new art; Romanian: arderea unei farfurii de carton - către o nouă artă; Crimean Tatar (RO): bír káát tabaknîñ ğakmasî - ğañî bír sanatka dogrî
 - English: Unnerved, in act five I ignore you, my plate so out of control last time we met. I wait, what seems an eternity, two weeks maybe, do other things, burn more plates, but at last I’m drawn back, look, and am aghast. In the interim, all has settled. You’re vibrant still, but with a harmony that astonishes me. I bow down, to you and to nature who, with my back turned, settled you. I tinker a bit, but that’s it.; Crimean Tatar (RO): Úmítsíz, beşínğí perdede sení kórmegendiy bolaman, soñ kóríşmemízde ózínden şîkkan káát tabak. Beklermen, ebediyetke uşagan ekí haptaga kadar, başka şiyler men ogîraşîp, başka tabaklar ğagîp, ama eñ azdan kanîm toñîp bír kenarda turarman. Bo arada herşiy yeríne keldí. Sen hem ğanlî hem maksatka uygîn kaldîñ, mení şaşîrttîñ. Hem saga, hem sení iyade etken tuwaga seğdeler yaparman. Bíraz deren túşúnsem de íş bodîr.
