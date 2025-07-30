@@ -584,7 +584,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - cameleon - bukalemun
 - turbogenerator - buwlîúretkeş
 - oceanic; imens; ocean; imensitate - dalay
-- birou - defterkana
+- office - defterkana
 - bike - biçikleta
 - California - Kaliforniye
 - pahar - kade
