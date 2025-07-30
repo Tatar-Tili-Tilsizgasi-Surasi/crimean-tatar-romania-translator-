@@ -1,5 +1,6 @@
 import { GoogleGenAI, GenerateContentResponse } from "@google/genai";
 import { GEMINI_MODEL_NAME } from '../constants';
+import { PARSED_DICTIONARY_ENTRIES } from '../dictionaryData';
 import {
   CRIMEAN_TATAR_RO_ALPHABET_PRONUNCIATION_GUIDE,
   CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO,
