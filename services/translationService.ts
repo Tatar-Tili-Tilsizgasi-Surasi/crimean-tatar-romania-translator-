@@ -135,7 +135,7 @@ Your job is to:
     *   Replace ALL instances of 'q' with 'k'.
     *   Replace ALL instances of 'c' (when representing the /dʒ/ sound, as in SCT 'can' or 'ocak') with 'ğ'. (e.g., 'ocak' MUST become 'oğak', 'cam' MUST become 'ğam').
     *   Replace ALL instances of 'ç' with 'ş', unless it is an extremely rare, explicitly justified academic term where 'ç' is intentionally preserved (this is highly uncommon in authentic DT). (e.g., 'için' MUST become 'úşún', 'çay' MUST become 'şay').
-    *   Carefully check the usage of 'i', 'í', and 'î' according to the detailed "Orthography Info" and "Alphabet Guide". Ensure SCT 'ı' is consistently DT 'î', and SCT 'i' is often DT 'í' (especially in suffixes and unstressed positions) or 'i' if it represents [i] sound.
+    *   Carefully check the usage of 'i', 'í', and 'î' according to the detailed "Orthography Info" and "Alphabet Guide". Ensure SCT 'ı' is consistently DT 'î', and SCT 'i' is often DT 'í' (especially in suffixes and unstressed positions).
     *   Apply naturalization rules (e.g., f > p, v > w/b, h-dropping/changes) where appropriate for authentic DT.
 3. **Lexical Choice:** Scrutinize every word. If a word appears to be a Standard Crimean Tatar (SCT) form and a distinct Dobrujan Tatar (DT) equivalent is provided in the dictionary, examples, or SCT-DT summary, YOU MUST USE THE DT EQUIVALENT. Prefer authentic DT vocabulary over direct transliteration from SCT.
 4. Meticulously transform all non-conformant features into their correct Crimean Tatar (Romania) equivalents, strictly following ALL the provided linguistic guides.
