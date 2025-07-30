@@ -588,7 +588,11 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - Palau - Palaw
 - telegramă - uzaksîzga
 - convex - tompak
+- turcologie - túrúkiyat
+- a se pensiona - tekaút bolmak
 - clasicii tătari crimeeni - kîrîm tatar elalarî
+- la miezul nopţii a sunat telefonul - keşeortasînda uzakses şaldî
+- pot să las asta aici? - şonî bo yerge taşlay alîrman mî?
 - pronunţaţi foarte corect tătăreşte - tatarğa kayet tora telaffuz etesíñíz
 - cum se spune asta în tătăreşte? - boga tatarşa ka-típ aytîla?
 
