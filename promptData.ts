@@ -578,7 +578,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - turbogenerator - buwlîúretkeş
 - oceanic; imens; ocean; imensitate - dalay
 - birou - defterkana
-- bicicletă - biçikleta
+- bike - biçikleta
 - paşaport - paşaport
 
 - English: burning a paper plate - towards a new art; Romanian: arderea unei farfurii de carton - către o nouă artă; Crimean Tatar (RO): bír káát tabaknîñ ğakmasî - ğañî bír sanatka dogrî
