@@ -249,6 +249,44 @@ IV. General Tendencies:
 - Naturalization of Loans: Strong tendency to adapt loans phonetically (F->P, V->W) and sometimes replace them with established Turkic/regional words.
 --- End of Summary of Key Differences ---
 Examples:
+Sózbaşî
+Kolîñîzdakî sózlíkníñ múrsellerí kîrîm tatarlarnîñ tewúke, tíl men edebiyat aktaruwğîlarî, terğúmanlar, tílmaşlar, darúlfúnun úyrenğílerí, mektep talebelerí, kîrîm tatarşanî úyreneğek bolganlar man tíl bílíp tílín geñíşletmesín hewesínde tabîlganlardîr.
+25.832 başlîksózden ibaret kazakşa kesímíne, kazakşada sîk kullanîlgan bírtakîm látinğe sóz, aytîm man meseller de koştîm.
+Ózím kulagîm nogayğaga alîşîk bolmasa da, kîrîm tatarşa kesímíne, teşkergen kitaplarîmda tapkan nogayğa sózlerní de ayîrî tutmadan, onlarnî da koştîm.
+Ğalpak kîrîm tatarşanîñ tellafuzunda f, h, men v awazlarî tabîlmaganî úşún, kîrîm tatarşaga borîşka alîngan eğnebiy sózlerníñ yazîlmasîna kelgende, dewamdakîlarnî kózím aldînda tutup íş kórdím:
+Arapşa man ağemğeden tartîlîp f, h bír de h awazlarnî íşíndelegen sózlerní, kitapnîñ geñíşlígín sîradan şîgarmamaga, kóbísín sáde muwallímatşa yazîlmasî man geşírdím. Kitapnî aktarganlar, bo sózlerníñ hem bír muwallímatşa tellafuzî, hem ayîrî bír ya bírden fazla ğalpak tatarşa tellafuzî barîn unutmamalîdîr.
+Hep arapşa man ağemğeden tartîlîp tílímízde adamkîllî sáde ğalpak tatarşa tellafuzî man yerleşken sózlerní, ğalpak tatarşa yazîlmasî man geşírdím, mesela hazîr sózínden tartîlgan ázír sózní.
+Kúnbatar tíllerínden kelmeşík sózlerní sáde muwallîmatşasî man yazdîm.
+Sózlíkníñ geñíşlígí músaade etkení kadar, íşíne túrlí-túrlí alanlardan kelamlarnî geşírmege şalîştîm, uzabílímínden de, tîptan da, ómírbílímínden de, tílsîzgasîndan da, riyaziyetten de, felekiyattan da, we sayire. Karîştîrmalar man yañgîş terğúmelerní atlatmak úşún ósímlíkbílímíne, haywanatbílímíne, kuşbílímíne, balîkbílímíne bír de bóğekbílímíne ayîrî bír kóz men karap, bo dallardan sózlerge látinğe atamasîn da tírkeledím. 
+Sózlíktekí aytîmlarnî ayîrganda, hem hergún kerekken aytîmlarnî íşíndelemege karadîm, hem uzmanlîk dallardan aytîmlar da koşmaga karadîm. Kerek bolganda, sóz terğúmesí soñîna añlamlî úyrenekler de ekledím.
+Kitapnî aktarganda, íşíñízní kolaylaştîrmaga, bo íşlemníñ maksus işaretlerín bílmeñíz kerek:
+- bo kitapta dórt túrlí hárf bardîr, aşada aşîklanganday:
+            1. - kalîn hárfler bolay-típ kullanîldî:
+- kazakşa başlîksózler úşún.
+- kazakşa sózníñ tílsîzgasî ğergelerín ayîrgan, roman rakamlarî úşún (I., II. we sayire).
+- kazakşa sózníñ tílsîzgasî astğergelerín ayîrgan, balaban hárfler úşún (A., B. we sayire).
+- kópmanalî kazakşa sózníñ añlamlarîn ayîrgan, arap rakamlarî úşún (1., 2. we sayire).
+            2. - seğdelí kalîn hárfler şolay-típ şalîştîrîldî:
+- kazakşa bírleşken figeller men takîm figellerí úşún.
+- kazakşa múrekkep sózler, takîm sîfatlarî, takîm rewúşlerí, aytîmlar man úyreneklerní úşún.
+            3. - seğdelí hárfler şay-típ íşletíldí:
+- tílsîzgasî aşîklamalarî úşún.
+- umumiy aşîklamalar úşún.
+- ósímlíklerníñ látinğe atamasî úşún, haywanlarnîñ látinğe atamasî úşún, we sayire.
+            4. - sózlíkníñ tatarğasî bútúnliy sîradan hárfler men yazîldî.
+- bo sózlíkte, Búkreşt Darúlfúnununda, Eğnebiy Tíller we Edebiyatlar İhtiyariyesínde tóretílgen tatar elifbesínden paydalandîm. Bazî aydînlar bo elifbení kámil kórmeseler de, sozîkawazlarnîñ sesperdesín ela hálde ifade etkeníne, maga kóre bo elifbe kîrîm tatarşasîna kullanîlgan başka elifbelerden sózsíz-suwalsîz ústúndúr ("Kîrîm tatarğanîñ elifbesí" sayîpasîn da bír kózden geşíríñíz).
+- bo kitapta, kazakşa başlîksózler elifbe sîralamasî man kayîtka alînîp, her kazakşa başlîksózníñ artîndan tílsîzgasî ğergesí aşîklanîp, ondan soñra da kîrîm tatarğasî geşíríldí.
+- tílsîzgasî aşîklamalar man kullanîm alanlarî kîskartîlîp yazîlgandîr ("Kîskartmalar" sayîpasîn da bír kózden geşíríñíz).
+- eşañlamlî terğúmelerníñ arasîna noktalî otîr kondîrîldî (;).
+- bútún kîrîm tatar koşîmğalarnîñ aldîna bírer sîzîkşîk sîzîldî (-).
+- kitapnîñ kîrîm tatarğasînda, ihtiyariy koşîmğalar tîrnaklarnîñ ( ) arasîna alîndî. Sóz mesela: katîrkulak(lî) hem katîrkulak şekílínde íşler, hem katîrkulaklî şekílínde íşler.
+- eşañlamlî atamalarnîñ arasîna kaşay sîzîk (/) kullanîldî. Kaşay sîzîk hem kazakşada, hem kîrîm tatarşada faaliyettedír.  Sóz mesela:  a cădea/intra în păcat hem a cădea în păcat dep okîlîr, hem de a intra în păcat dep okîlîr. Tot astfel: yîllîk/ğîllîk/senelík tasawur hem yîllîk tasawur dep okîlîr, hem ğîllîk tasawur dep okîlîr, hem de senelík tasawur dep okîlîr. Şoga uşap ta, koşîmğa takîmî: -îp/-íp/-up/-úp hem -îp, hem -íp, hem -up, hem de -úp okîlîp dogrî şekílníñ ayîrmasî, sozîkawaz ses uyumuna kóre, tírkeleme wakîtîna kalîr.
+- kazakşada, bútún bírleşken figeller men bútún takîm figellerníñ aldîna balaban orta nokta salîndî (●);  bo bírleşken figeller men takîm figellerí bír araga ketíríp bír bólík kuruldî, bólíkníñ aldî da koşak kaşay sîzîk man (//) wurgulandî.
+- kazakşada, bútún múrekkep sózler, bútún takîm sîfatlarî, bútún takîm rewúşlerí, bútún aytîmlar man bútún úyreneklerníñ aldîna balaban orta nokta salîndî (●);  bonlarnî da bír araga ketíríp bír bólík kuruldî, bólíkníñ aldî da koşak kaşay sîzîk man (//) wurgulandî.
+- sózlíkte kóp sayîda kazakşanîñ uzun mastarlarî man sîfat figellerníñ terğúmesí de geşíríldí.
+- kópmanalî sózlerníñ añlamîn karîştîrmamaga, kerek yerlerde sózníñ dogrî manasî añlamdaş sózler men, kullanma alanî man ya da túrlí kerek aşîklamalar man añlaştîrîldî.
+- az sayîda kîskartîlgan başlîksózlerníñ tîşînda, sózden-sózge yollamalar kullanîlmadî.
+Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşlarîm tíl men tellafuzunda faydalanağaklarîndan umutlanaman.
 
 Bo kitapnî Látinğeden Kîrîm Tatarğasîna ya da Kîrîm Tatarğasîndan Látinğege ósímlíkler álemínden yapîlgan terğúmelerní kolaylaştîrmak maksatî man yazdîm.  Geşen sene bastîrgan álem-í tayyarat kitabîñ hem bír tekmíllemesí, hem bír dewamîdîr.
 
