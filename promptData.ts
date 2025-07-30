@@ -312,7 +312,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - (Menim->Mením; adım->adîm (SCT ı->RO î); qardaşımnıñ: SCT q->RO k, all SCT ı->RO î; adı->adî (SCT ı->RO î); Veli: SCT V->RO W, SCT i->RO í)
 
 - SCT: Ğayet lezetli bir aş pişirdiñiz. (You cooked a very delicious meal.)
-  - Crimean Tatar (RO): Gayet lezetlí bír aş píşírdíñíz. (Using "Gayet" as potentially academic loan for Ğayet, where SCT Ğ corresponds to DT G)
+  - Crimean Tatar (RO): Kayet lezetlí bír aş píşírdíñíz.
   - (lezetli->lezetlí (SCT i->RO í); bir->bír; pişirdiñiz: all SCT i->RO í)
 
 - SCT: Üç balıq suvda yüze edi. (Three fish were swimming in the water.)
@@ -585,6 +585,12 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - etnologie - kalkbílímí
 - paşaport - paşaport
 - spaghete - spagetiy
+- Palau - Palaw
+- telegramă - uzaksîzga
+- convex - tompak
+- clasicii tătari crimeeni - kîrîm tatar elalarî
+- pronunţaţi foarte corect tătăreşte - tatarğa kayet tora telaffuz etesíñíz
+- cum se spune asta în tătăreşte? - boga tatarşa ka-típ aytîla?
 
 - English: burning a paper plate - towards a new art; Romanian: arderea unei farfurii de carton - către o nouă artă; Crimean Tatar (RO): bír káát tabaknîñ ğakmasî - ğañî bír sanatka dogrî
 - English: Unnerved, in act five I ignore you, my plate so out of control last time we met. I wait, what seems an eternity, two weeks maybe, do other things, burn more plates, but at last I’m drawn back, look, and am aghast. In the interim, all has settled. You’re vibrant still, but with a harmony that astonishes me. I bow down, to you and to nature who, with my back turned, settled you. I tinker a bit, but that’s it.; Crimean Tatar (RO): Úmítsíz, beşínğí perdede sení kórmegendiy bolaman, soñ kóríşmemízde ózínden şîkkan káát tabak. Beklermen, ebediyetke uşagan ekí haptaga kadar, başka şiyler men ogîraşîp, başka tabaklar ğagîp, ama eñ azdan kanîm toñîp bír kenarda turarman. Bo arada herşiy yeríne keldí. Sen hem ğanlî hem maksatka uygîn kaldîñ, mení şaşîrttîñ. Hem saga, hem sení iyade etken tuwaga seğdeler yaparman. Bíraz deren túşúnsem de íş bodîr.
