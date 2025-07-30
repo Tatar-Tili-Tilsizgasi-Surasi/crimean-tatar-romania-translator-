@@ -308,7 +308,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - (Türkiye'den: SCT ü->RO ú, SCT i->RO í; bir->bír; müsafir: SCT ü->RO ú, SCT i->RO í)
 
 - SCT: Menim adım Ayşe, qardaşımnıñ adı Veli. (My name is Ayşe, my brother's name is Veli.)
-  - Crimean Tatar (RO): Mením adîm Ayşe, kardaşîmnîñ adî Welí.
+  - Crimean Tatar (RO): Mením adîm Ayşe, kardaşîmîñ adî Welí.
   - (Menim->Mením; adım->adîm (SCT ı->RO î); qardaşımnıñ: SCT q->RO k, all SCT ı->RO î; adı->adî (SCT ı->RO î); Veli: SCT V->RO W, SCT i->RO í)
 
 - SCT: Ğayet lezetli bir aş pişirdiñiz. (You cooked a very delicious meal.)
@@ -340,7 +340,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
   - (bizge -> bízge; yardım -> ğardîm (SCT y->RO ğ, SCT ı->RO î); etti->ettí (SCT i->RO í))
 
 - SCT: Qomşumıznıñ balası biznen oynıy. (Our neighbor's child plays with us.)
-  - Crimean Tatar (RO): Komşumîznîñ balasî bíz men oynîy.
+  - Crimean Tatar (RO): Komşumîzîñ balasî bíz men oynîy.
   - (Qomşumıznıñ -> Komşumîznîñ (SCT Q->K, SCT ı->RO î); biznen -> bíz men; oynıy (SCT ı->RO î))
 
 - SCT: Bu işni kiminle yapacaqsıñ? (With whom will you do this work?)
@@ -846,14 +846,14 @@ Aşîp ğol yîldîzlîkka
 - Romanian: crimeea; English: Crimea; Crimean Tatar (RO): Kîrîm
 - Romanian: școală; English: school; Crimean Tatar (RO): mektep
 - Romanian: universitate; English: university; Crimean Tatar (RO): darúlfúnun
-- Romanian: magazin; English: shop / store; Crimean Tatar (RO): dúkân
+- Romanian: magazin; English: shop / store; Crimean Tatar (RO): túkán
 - Romanian: piață; English: market; Crimean Tatar (RO): pazar
-- Romanian: spital; English: hospital; Crimean Tatar (RO): kastahane
+- Romanian: spital; English: hospital; Crimean Tatar (RO): kastane
 - Romanian: geamie; English: mosque; Crimean Tatar (RO): ğamí
 - Romanian: moschee; English: mosque; Crimean Tatar (RO): ğamí
-- Romanian: drum; English: road / way; Crimean Tatar (RO): yol
+- Romanian: drum; English: road / way; Crimean Tatar (RO): ğol
 - Romanian: stradă; English: street; Crimean Tatar (RO): sokak
-- Romanian: loc; English: place; Crimean Tatar (RO): yer
+- Romanian: loc; English: place; Crimean Tatar (RO): ğer
 - Romanian: timp; English: time; Crimean Tatar (RO): wakît
 - Romanian: oră; English: hour; Crimean Tatar (RO): sáát
 - Romanian: minut; English: minute; Crimean Tatar (RO): dakka
@@ -862,19 +862,19 @@ Aşîp ğol yîldîzlîkka
 - Romanian: zile; English: days; Crimean Tatar (RO): kúnler
 - Romanian: săptămână; English: week; Crimean Tatar (RO): afta/apta/hafta/hapta
 - Romanian: lună (calendaristică); English: month; Crimean Tatar (RO): ay
-- Romanian: an; English: year; Crimean Tatar (RO): yîl
+- Romanian: an; English: year; Crimean Tatar (RO): sene
 - Romanian: azi; English: today; Crimean Tatar (RO): búgún
 - Romanian: ieri; English: yesterday; Crimean Tatar (RO): túnewín
 - Romanian: mâine; English: tomorrow; Crimean Tatar (RO): yarîn
 - Romanian: acum; English: now; Crimean Tatar (RO): şúndí
 - Romanian: devreme; English: early; Crimean Tatar (RO): erken
 - Romanian: târziu; English: late; Crimean Tatar (RO): keş
-- Romanian: niciodată; English: never; Crimean Tatar (RO): íşbír wakît
-- Romanian: întotdeauna; English: always; Crimean Tatar (RO): er wakît
+- Romanian: niciodată; English: never; Crimean Tatar (RO): heşbír wakît
+- Romanian: întotdeauna; English: always; Crimean Tatar (RO): her wakît
 - Romanian: uneori; English: sometimes; Crimean Tatar (RO): bazî wakît
-- Romanian: anul acesta; English: this year; Crimean Tatar (RO): bu yîl
-- Romanian: anul trecut; English: last year; Crimean Tatar (RO): geşken yîl
-- Romanian: anul viitor; English: next year; Crimean Tatar (RO): keleğek yîl
+- Romanian: anul acesta; English: this year; Crimean Tatar (RO): bu sene
+- Romanian: anul trecut; English: last year; Crimean Tatar (RO): geşken sene
+- Romanian: anul viitor; English: next year; Crimean Tatar (RO): keleğek sene
 - Romanian: apă; English: water; Crimean Tatar (RO): suw
 - Romanian: apei; English: to water (dative); Crimean Tatar (RO): suwga
 - Romanian: a apei; English: of water (genitive); Crimean Tatar (RO): suwnîñ
@@ -898,8 +898,8 @@ Aşîp ğol yîldîzlîkka
 - Romanian: scaun; English: chair; Crimean Tatar (RO): ískembe
 - Romanian: ușă; English: door; Crimean Tatar (RO): kapî
 - Romanian: fereastră; English: window; Crimean Tatar (RO): tereze
-- Romanian: copac; English: tree; Crimean Tatar (RO): terek
-- Romanian: floare; English: flower; Crimean Tatar (RO): gúl
+- Romanian: copac; English: tree; Crimean Tatar (RO): agaş
+- Romanian: floare; English: flower; Crimean Tatar (RO): şeşek
 - Romanian: animal; English: animal; Crimean Tatar (RO): haywan
 - Romanian: câine; English: dog; Crimean Tatar (RO): kópek
 - Romanian: pisică; English: cat; Crimean Tatar (RO): mîşîk
@@ -913,7 +913,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: mare (subst.); English: sea; Crimean Tatar (RO): deñíz
 - Romanian: râu; English: river; Crimean Tatar (RO): ózen
 - Romanian: foc; English: fire; Crimean Tatar (RO): ateş
-- Romanian: vânt; English: wind; Crimean Tatar (RO): yel/ğel
+- Romanian: vânt; English: wind; Crimean Tatar (RO): ğel
 - Romanian: ploaie; English: rain; Crimean Tatar (RO): ğawun
 - Romanian: zăpadă; English: snow; Crimean Tatar (RO): kar
 - Romanian: bun; English: good; Crimean Tatar (RO): árúw
