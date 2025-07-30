@@ -38,6 +38,7 @@ Provide ONLY the translated text as your response, without any additional commen
 `;
 
   if (sourceLangName === 'Crimean Tatar (Romania)' || targetLangName === 'Crimean Tatar (Romania)') {
+    initialSystemInstruction += PARSED_DICTIONARY_ENTRIES;
     initialSystemInstruction += CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO;
     initialSystemInstruction += CRIMEAN_TATAR_RO_ALPHABET_PRONUNCIATION_GUIDE;
     initialSystemInstruction += CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO;
