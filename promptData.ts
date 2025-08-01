@@ -596,6 +596,14 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - convex - tompak
 - turcologie - túrúkiyat
 - telefon - uzakses
+- calendar - kúnsayîm
+- comicărie - kúldúrúwğúlúk
+- dinamometru - kuwetólşer
+- reexaminat - ğañîdansînawlangan
+- prescripţie; invalidare - geşerlíktenşîgaruw
+- neconsolat - góñílíokşalanmaz
+- reorganizat - kayidegekaytarîlgan
+- până la infinit; până la nesfârşit; ad infinitum - kayriymútenahiyetkeşík
 - a se pensiona - tekaút bolmak
 - clasicii tătari crimeeni - kîrîm tatar elalarî
 - la miezul nopţii a sunat telefonul - keşeortasînda uzakses şaldî
