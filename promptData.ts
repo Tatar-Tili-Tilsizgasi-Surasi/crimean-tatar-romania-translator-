@@ -389,6 +389,9 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - SCT: keçken afta yolğa çıqtıq
  - Crimean Tatar (RO): geşen hapta ğolga şîktîk
 
+- SCT: qardaşı bir qutu bonbon ketire
+ - Crimean Tatar (RO): kardaşî bír kutuk bombon ketíre
+
 --- End of SCT -> Crimean Tatar (RO) Transformation Examples and Rules ---
 
 - The Western Front - Kúnbatar ğephesí
@@ -614,9 +617,11 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - urmăritor; detectiv - ízğí
 - tigroaică - îrgaşîğolparîs
 - polisemantic - kópañlamlî
+- hârtie de calc - geşírme káátí
 - încă; deocamdată; până acum - şúndúgeşík
 - taxi - taksiy
 - melodic; melodios; muzical; muzică - muzikiy
+- cafea măcinată - tartuwlî kawe
 - reorganizat - kayidegekaytarîlgan
 - până la infinit; până la nesfârşit; ad infinitum - kayriymútenahiyetkeşík
 - a se pensiona - tekaút bolmak
