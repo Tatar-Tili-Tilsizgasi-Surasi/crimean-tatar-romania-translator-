@@ -1190,6 +1190,18 @@ Aşîp ğol yîldîzlîkka
 - Crimean Tatar (RO): Abdul-Kasîm; Romanian: Abdulcasim (astăzi Casimcea, prin unirea cu Caracasim) (jud. Tulcea)
 - Crimean Tatar (RO): Kara-Murat; Romanian: ("Murat cel Negru") Mihail Kogălniceanu (jud. Constanţa) / Zlatiya (Dobrich, Bulgaria)
 - Crimean Tatar (RO): Alí-Fakih/Alí-Bakî; Romanian: ("Ali Evlaviosul") Alifaca (azi Războieni, prin unire cu satul Ciauşchioi) (jud. Tulcea)
+- Crimean Tatar (RO): Pakîstan; Romanian: Pakistan
+- Crimean Tatar (RO): Thaylant; Romanian: Thailanda
+- Crimean Tatar (RO): Uman; Romanian: Oman
+- Crimean Tatar (RO): Holant; Romania: Olanda
+- Crimean Tatar (RO): Ğezayir; Romanian: Algeria
+- Crimean Tatar (RO): Gúyne-Bissaw; Romanian: Guineea-Bissau
+- Crimean Tatar (RO): Túnisiye; Romanian: Tunisia
+- Crimean Tatar (RO): Tanzaniye; Romania: Tanzania
+- Crimean Tatar (RO): Şarkiy-Timor/Kúntuwarbetí-Timor; Romanian: Timorul de Est
+- Crimean Tatar (RO): Trinidat man Tobago; Romanian: Trinidad şi Tobago
+- Crimean Tatar (RO): Tuvaluw; Romanian; Tuvalu
+
 --- End of Toponym Examples ---
 
 --- Start of Declension and Conjugation Examples ---
