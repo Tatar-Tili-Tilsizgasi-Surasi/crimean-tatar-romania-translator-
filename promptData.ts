@@ -381,7 +381,13 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
  - Crimean Tatar (RO): Uzakses men kara mení
 
 - SCT: Çıqarmaq ve keçmek
- - Crimean Tatar (RO): Şîgarmak we keşmek
+ - Crimean Tatar (RO): Şîgarmak we geşmek
+
+- SCT: olar keçken bazar keldiler
+ - Crimean Tatar (RO): ğenábílerí geşen pazar keldíler
+
+- SCT: keçken afta yolğa çıqtıq
+ - Crimean Tatar (RO): geşen hapta ğolga şîktîk
 
 --- End of SCT -> Crimean Tatar (RO) Transformation Examples and Rules ---
 
