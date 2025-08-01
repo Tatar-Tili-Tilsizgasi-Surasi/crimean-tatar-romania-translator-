@@ -602,6 +602,10 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - reexaminat - ğañîdansînawlangan
 - prescripţie; invalidare - geşerlíktenşîgaruw
 - neconsolat - góñílíokşalanmaz
+- interzicere; prohibiţie - ízínsízlík
+- urmăritor; detectiv - ízğí
+- tigroaică - îrgaşîğolparîs
+- polisemantic - kópañlamlî
 - reorganizat - kayidegekaytarîlgan
 - până la infinit; până la nesfârşit; ad infinitum - kayriymútenahiyetkeşík
 - a se pensiona - tekaút bolmak
