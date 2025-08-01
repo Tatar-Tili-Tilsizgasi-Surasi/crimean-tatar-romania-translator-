@@ -587,6 +587,8 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - office - defterkana
 - bike - biçikleta
 - California - Kaliforniye
+- Uyguristan - Uygurustan
+- Xinjiang - Şînğa
 - pahar - kade
 - etnologie - kalkbílímí
 - paşaport - paşaport
@@ -606,6 +608,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - urmăritor; detectiv - ízğí
 - tigroaică - îrgaşîğolparîs
 - polisemantic - kópañlamlî
+- încă; deocamdată; până acum - şúndúgeşík
 - reorganizat - kayidegekaytarîlgan
 - până la infinit; până la nesfârşit; ad infinitum - kayriymútenahiyetkeşík
 - a se pensiona - tekaút bolmak
