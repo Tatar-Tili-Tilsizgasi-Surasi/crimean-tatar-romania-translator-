@@ -615,6 +615,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - neconsolat - góñílíokşalanmaz
 - interzicere; prohibiţie - ízínsízlík
 - urmăritor; detectiv - ízğí
+- emoţie - heyyúş
 - tigroaică - îrgaşîğolparîs
 - polisemantic - kópañlamlî
 - hârtie de calc - geşírme káátí
@@ -1200,7 +1201,9 @@ Aşîp ğol yîldîzlîkka
 - Crimean Tatar (RO): Tanzaniye; Romania: Tanzania
 - Crimean Tatar (RO): Şarkiy-Timor/Kúntuwarbetí-Timor; Romanian: Timorul de Est
 - Crimean Tatar (RO): Trinidat man Tobago; Romanian: Trinidad şi Tobago
-- Crimean Tatar (RO): Tuvaluw; Romanian; Tuvalu
+- Crimean Tatar (RO): Tuvaluw; Romanian: Tuvalu
+- Crimean Tatar (RO): Sriy-Lanka; Romanian: Sri Lanka
+- Crimean Tatar (RO): Hayitiy; Romanian: Haiti
 
 --- End of Toponym Examples ---
 
