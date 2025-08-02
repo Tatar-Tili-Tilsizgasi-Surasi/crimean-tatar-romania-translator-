@@ -632,6 +632,7 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - practică - teğrúbedengeşírúw
 - republică - ğumhuriyet
 - spiritualitate - ruhaniyet
+- grup - takîm
 - hârtie de calc - geşírme káátí
 - încă; deocamdată; până acum - şúndúgeşík
 - taxi - taksiy
