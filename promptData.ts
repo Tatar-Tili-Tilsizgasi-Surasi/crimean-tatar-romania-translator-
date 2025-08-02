@@ -630,6 +630,8 @@ Crimean Tatar (RO) uses the postposition "men" after the noun or pronoun.
 - ecologie - tabiyatayamasîbílímí
 - practicant - teğrúbealgan
 - practică - teğrúbedengeşírúw
+- republică - ğumhuriyet
+- spiritualitate - ruhaniyet
 - hârtie de calc - geşírme káátí
 - încă; deocamdată; până acum - şúndúgeşík
 - taxi - taksiy
@@ -1217,7 +1219,8 @@ Aşîp ğol yîldîzlîkka
 - Crimean Tatar (RO): Sriy-Lanka; Romanian: Sri Lanka
 - Crimean Tatar (RO): Hayitiy; Romanian: Haiti
 - Crimean Tatar (RO): Portekíz; Romanian: Portugalia
-- Crimean Tatar (RO): Portorika; Romanian; Puerto Rico
+- Crimean Tatar (RO): Portorika; Romanian: Puerto Rico
+- Crimean Tatar (RO): Yeşíl-Murun; Romanian: Republica Capului Verde
 
 --- End of Toponym Examples ---
 
