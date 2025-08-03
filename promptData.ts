@@ -1373,60 +1373,6 @@ In Crimean Tatar (Romania) the word "and" can be expressed using "man" or "men",
 
 --- Start of Additional Example Texts ---
 - Aldsóz
-
-a
-aba
-abadan
-abadanlîk
-abağî
-abajur
-abakay
-abalamak
-abalaw
-abanoz
-abat
-abat bolmak
-abat etmek
-abat kasaba
-abatlaşkan
-abatlaşmak
-abatlaştîrîlgan
-abatlaştîrîlmak
-abatlaştîrmak
-abatlaştîruw
-abatlaştîruwğî
-abatlîk
-abatlîk íşlerí
-abay
-abay maraz
-abaylama
-abaylamak
-abaylanaalgan
-abaylanaalmaz
-abaylanatan
-abaylangan
-abaylanîr
-abaylanmadan
-abaylanmadan barmak
-abaylanmadanbargan
-abaylanmadanbaruw
-abaylanmagan
-abaylanmak
-abaylanmaykalîr
-abaylanmaytan
-abaylanmaz
-abaylaw
-abaylawğî
-abaylîk
-abayşîk
-abbas
-Abbas
-abçes
-abdal
-abdallaşkan
-abdallaşmak
-abdallaşuw
-abdallîk
 abdest
 abdest almak
 abdestbergen
@@ -1435,13 +1381,7 @@ abdestíberílgen
 abdestín bermek
 abdestín bîzmak
 abdestkana
-Abdim'níñ-legelegí
-abdîragan
-abdîrama
-abdîramadan
-abdîramak
-abdîratmak
-abdîraw
+Abbas
 Abdiy
 Abdul
 Abdul-Kasîm
