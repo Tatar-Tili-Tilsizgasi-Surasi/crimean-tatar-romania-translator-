@@ -1373,14 +1373,6 @@ In Crimean Tatar (Romania) the word "and" can be expressed using "man" or "men",
 
 --- Start of Additional Example Texts ---
 - Aldsóz
-abdest
-abdest almak
-abdestbergen
-abdestberúw
-abdestíberílgen
-abdestín bermek
-abdestín bîzmak
-abdestkana
 Abbas
 Abdiy
 Abdul
