@@ -862,7 +862,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: cât? (preț); English: how much? (price); Crimean Tatar (RO): kaş para?
 - Romanian: câți?; English: how many?; Crimean Tatar (RO): kaş tane?
 - Romanian: câte?; English: how many?; Crimean Tatar (RO): kaş tane?
-- Romanian: al cui?; English: whose?; Crimean Tatar (RO): kímníñ?
+- Romanian: al cui?; English: whose?; Crimean Tatar (RO): kímíñ?
 - Romanian: cum te cheamă?; English: what is your name? (polite/plural); Crimean Tatar (RO): adîñîz ne?
 - Romanian: cum îl cheamă?; English: what is his/her name?; Crimean Tatar (RO): onîñ adî ne?
 - Romanian: de unde ești?; English: where are you from? (polite/plural); Crimean Tatar (RO): kaydan kelesíñíz?
@@ -940,7 +940,7 @@ Aşîp ğol yîldîzlîkka
 - Romanian: niciodată; English: never; Crimean Tatar (RO): heşbír wakît
 - Romanian: întotdeauna; English: always; Crimean Tatar (RO): her wakît
 - Romanian: uneori; English: sometimes; Crimean Tatar (RO): bazî wakît
-- Romanian: anul acesta; English: this year; Crimean Tatar (RO): bu sene
+- Romanian: anul acesta; English: this year; Crimean Tatar (RO): bo sene
 - Romanian: anul trecut; English: last year; Crimean Tatar (RO): geşken sene
 - Romanian: anul viitor; English: next year; Crimean Tatar (RO): keleğek sene
 - Romanian: apă; English: water; Crimean Tatar (RO): suw
