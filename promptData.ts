@@ -1374,6 +1374,166 @@ In Crimean Tatar (Romania) the word "and" can be expressed using "man" or "men",
 --- Start of Additional Example Texts ---
 - Aldsóz
 
+a
+aba
+abadan
+abadanlîk
+abağî
+abajur
+abakay
+abalamak
+abalaw
+abanoz
+abat
+abat bolmak
+abat etmek
+abat kasaba
+abatlaşkan
+abatlaşmak
+abatlaştîrîlgan
+abatlaştîrîlmak
+abatlaştîrmak
+abatlaştîruw
+abatlaştîruwğî
+abatlîk
+abatlîk íşlerí
+abay
+abay maraz
+abaylama
+abaylamak
+abaylanaalgan
+abaylanaalmaz
+abaylanatan
+abaylangan
+abaylanîr
+abaylanmadan
+abaylanmadan barmak
+abaylanmadanbargan
+abaylanmadanbaruw
+abaylanmagan
+abaylanmak
+abaylanmaykalîr
+abaylanmaytan
+abaylanmaz
+abaylaw
+abaylawğî
+abaylîk
+abayşîk
+abbas
+Abbas
+abçes
+abdal
+abdallaşkan
+abdallaşmak
+abdallaşuw
+abdallîk
+abdest
+abdest almak
+abdestbergen
+abdestberúw
+abdestíberílgen
+abdestín bermek
+abdestín bîzmak
+abdestkana
+Abdim'níñ-legelegí
+abdîragan
+abdîrama
+abdîramadan
+abdîramak
+abdîratmak
+abdîraw
+Abdiy
+Abdul
+Abdul-Kasîm
+Abduladil
+Abdulafuw
+Abdulalim
+Abdulaliy
+Abdulazim
+Abdulaziz
+Abdulbakiy
+Abdulbariy
+Abdulbasir
+Abdulbasit
+Abdulbatin
+Abdulbayis
+Abdulbediy
+Abdulberr
+Abdulehat
+Abdulevvel
+Abdulfettah
+Abdulgaffar
+Abdulgafur
+Abdulganiy
+Abdulğebbar
+Abdulğelil
+Abdulğewat
+Abdulhadiy
+Abdulhafiz
+Abdulhakem
+Abdulhakim
+Abdulhakk
+Abdulhalik/Abdulkalik
+Abdulhalim
+Abdulhamit
+Abdulhasip
+Abdulhayiy
+Abdulkabir
+Abdulkadir
+Abdulkahhar
+Abdulkawuy
+Abdulkayyum
+Abdulkebir
+Abdulkerim
+Abdulkuddus
+Abdullah/Abdulla
+Abdullátif
+Abdulmağit/Abdulmajit
+Abdulmalik
+Abdulmaniy
+Abdulmeğit/Abdulmejit
+Abdulmetin
+Abdulmubdiy
+Abdulmuğip
+Abdulmugniy
+Abdulmúheymin
+Abdulmuhsiy
+Abdulmukaddim
+Abdulmukit
+Abdulmuksit
+Abdulmuktedir
+Abdulmúmin
+Abdulmuntakim
+Abdulmusavvir
+Abdulmuyit
+Abdulmuyiz
+Abdulnafiy
+Abdulnasîr/Abdulnesir
+Abdulnebiy
+Abdulnur
+Abdulşafiy
+Abdulşahit
+Abdulsamet
+Abdulşekúr
+Abdulselam
+Abdultewap
+Abdulvağit
+Abdulvahit
+Abdulvaliy
+Abdulvaris
+Abdulvasiy
+Abdulvedút
+Abdulvehhap
+Abdulvekil
+Abdulzahir
+Abdurrahim
+Abdurrahman
+Abdurrakip
+Abdurrazaak
+Abdurrefiy
+Abdurreşit
+Abdurrewúf
+
 Bo kitapnî Látinğeden Kîrîm Tatarğasîna ya da Kîrîm Tatarğasîndan Látinğege ósímlíkler álemínden yapîlgan terğúmelerní kolaylaştîrmak maksatî man yazdîm.  Geşen sene bastîrgan álem-í tayyarat kitabîñ hem bír tekmíllemesí, hem bír dewamîdîr.
 
 Şalîşmanîñ ekí bólímí bardîr. Bírínğí bólím Látinğe-Kîrîm Tatarğa sózlígí, 1080 başlîksózden ibarettír. Kîrîm Tatarğa-Látinğe sózlígí ekínğí bólímíne kelgende, bo kesím bíraz taa geñíş, íşínde 1433 başlîksóz tabîlîr.
